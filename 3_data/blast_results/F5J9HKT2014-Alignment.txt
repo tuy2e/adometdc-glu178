@@ -1,0 +1,59 @@
+TBLASTN 2.17.0+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro
+A. Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and
+David J. Lipman (1997), "Gapped BLAST and PSI-BLAST: a new
+generation of protein database search programs", Nucleic
+Acids Res. 25:3389-3402.
+
+
+RID: F5J9HKT2014
+
+
+Database: Transcriptome Shotgun Assembly (TSA) sequences
+           16,442,721 sequences; 13,791,549,941 total letters
+
+Query= human_AdoMetDC
+
+Length=334
+
+
+No significant similarity found. For reasons why, click here.
+  Database: Transcriptome Shotgun Assembly (TSA) sequences
+    Posted date:  Oct 3, 2026  3:08 PM
+  Number of letters in database: 6,749,455
+  Number of sequences in database:  13,410
+
+Lambda      K        H
+   0.320    0.134    0.403
+Gapped
+Lambda      K        H
+   0.267   0.0410    0.140
+Matrix: BLOSUM62
+Gap Penalties: Existence: 11, Extension: 1
+Number of Sequences: 13410
+Number of Hits to DB: 0
+Number of extensions: 0
+Number of successful extensions: 0
+Number of sequences better than 1e-19: 0
+Number of HSP's better than 1e-19 without gapping: 0
+Number of HSP's gapped: 0
+Number of HSP's successfully gapped: 0
+Length of query: 334
+Length of database: 6749455
+Length adjustment: 85
+Effective length of query: 249
+Effective length of database: 1109968
+Effective search space: 276382032
+Effective search space used: 276382032
+T: 20
+A: 40
+X1: 16 (7.4 bits)
+X2: 38 (14.6 bits)
+X3: 64 (24.7 bits)
+S1: 41 (20.4 bits)
+S2: 225 (91.3 bits)
+ka-blk-alpha gapped: 1.9
+ka-blk-alpha ungapped: 0.7916
+ka-blk-alpha_v gapped: 42.6028
+ka-blk-alpha_v ungapped: 4.96466
+ka-blk-sigma gapped: 43.6362
