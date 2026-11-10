@@ -1,0 +1,1570 @@
+{
+"A0A024G1H4": {
+"grp": "ST",
+"sub": "Oomycota",
+"sub2": "Peronosporomycetes",
+"org": "Albugo candida",
+"src": "UniProt"
+},
+"A0A024TLN2": {
+"grp": "ST",
+"sub": "Oomycota",
+"sub2": "Saprolegniomycetes",
+"org": "Aphanomyces invadans",
+"src": "UniProt"
+},
+"A0A060RUG0": {
+"grp": "ALV",
+"sub": "Apicomplexa",
+"sub2": "Aconoidasida",
+"org": "Plasmodium reichenowi",
+"src": "UniProt"
+},
+"A0A061J8D5": {
+"grp": "DISC",
+"sub": "Kinetoplastea",
+"sub2": "Metakinetoplastina",
+"org": "Trypanosoma rangeli SC58",
+"src": "UniProt"
+},
+"A0A067CIH9": {
+"grp": "ST",
+"sub": "Oomycota",
+"sub2": "Saprolegniomycetes",
+"org": "Saprolegnia parasitica",
+"src": "UniProt"
+},
+"A0A077XEZ0": {
+"grp": "ALV",
+"sub": "Apicomplexa",
+"sub2": "Aconoidasida",
+"org": "Plasmodium chabaudi chabaudi",
+"src": "UniProt"
+},
+"A0A088RJM8": {
+"grp": "DISC",
+"sub": "Kinetoplastea",
+"sub2": "Metakinetoplastina",
+"org": "Leishmania panamensis",
+"src": "UniProt"
+},
+"A0A0D3J4H7": {
+"grp": "HAP",
+"sub": "Prymnesiophyceae",
+"sub2": "Isochrysidales",
+"org": "Emiliania huxleyi",
+"src": "UniProt"
+},
+"A0A0D9QSZ7": {
+"grp": "ALV",
+"sub": "Apicomplexa",
+"sub2": "Aconoidasida",
+"org": "Plasmodium fragile",
+"src": "UniProt"
+},
+"A0A0G4F525": {
+"grp": "ALV",
+"sub": "Colpodellida",
+"sub2": "Vitrellaceae",
+"org": "Vitrella brassicaformis",
+"src": "UniProt"
+},
+"A0A0G4IWH7": {
+"grp": "RHI",
+"sub": "Endomyxa",
+"sub2": "Phytomyxea",
+"org": "Plasmodiophora brassicae",
+"src": "UniProt"
+},
+"A0A0M0K1N5": {
+"grp": "HAP",
+"sub": "Prymnesiophyceae",
+"sub2": "Prymnesiales",
+"org": "Chrysochromulina tobinii",
+"src": "UniProt"
+},
+"A0A0N1IHF0": {
+"grp": "DISC",
+"sub": "Kinetoplastea",
+"sub2": "Metakinetoplastina",
+"org": "Leptomonas seymouri",
+"src": "UniProt"
+},
+"A0A0P1ACQ1": {
+"grp": "ST",
+"sub": "Oomycota",
+"sub2": "Peronosporomycetes",
+"org": "Plasmopara halstedii",
+"src": "UniProt"
+},
+"A0A0S4J4V7": {
+"grp": "DISC",
+"sub": "Kinetoplastea",
+"sub2": "Metakinetoplastina",
+"org": "Bodo saltans",
+"src": "UniProt"
+},
+"A0A151LIX2": {
+"grp": "ALV",
+"sub": "Apicomplexa",
+"sub2": "Aconoidasida",
+"org": "Plasmodium gaboni",
+"src": "UniProt"
+},
+"A0A151ZGC1": {
+"grp": "AMO",
+"sub": "Eumycetozoa",
+"sub2": "Dictyostelia",
+"org": "Tieghemostelium lacteum",
+"src": "UniProt"
+},
+"A0A196SJ54": {
+"grp": "ST",
+"sub": "Bigyra",
+"sub2": "Opalozoa",
+"org": "Blastocystis sp. subtype 1",
+"src": "UniProt"
+},
+"A0A1A8W1Y8": {
+"grp": "ALV",
+"sub": "Apicomplexa",
+"sub2": "Aconoidasida",
+"org": "Plasmodium malariae",
+"src": "UniProt"
+},
+"A0A1A8YVE6": {
+"grp": "ALV",
+"sub": "Apicomplexa",
+"sub2": "Aconoidasida",
+"org": "Plasmodium ovale wallikeri",
+"src": "UniProt"
+},
+"A0A1B1DZQ1": {
+"grp": "ALV",
+"sub": "Apicomplexa",
+"sub2": "Aconoidasida",
+"org": "Plasmodium coatneyi",
+"src": "UniProt"
+},
+"A0A1D3TI41": {
+"grp": "ALV",
+"sub": "Apicomplexa",
+"sub2": "Aconoidasida",
+"org": "Plasmodium ovale",
+"src": "UniProt"
+},
+"A0A1E7F338": {
+"grp": "ST",
+"sub": "Bacillariophyta",
+"sub2": "Bacillariophyta",
+"org": "Fragilariopsis cylindrus CCMP1102",
+"src": "UniProt"
+},
+"A0A1E7FGR8": {
+"grp": "ST",
+"sub": "Bacillariophyta",
+"sub2": "Bacillariophyta",
+"org": "Fragilariopsis cylindrus CCMP1102",
+"src": "UniProt"
+},
+"A0A1G4IEG8": {
+"grp": "DISC",
+"sub": "Kinetoplastea",
+"sub2": "Metakinetoplastina",
+"org": "Trypanosoma equiperdum",
+"src": "UniProt"
+},
+"A0A1J1GVK1": {
+"grp": "ALV",
+"sub": "Apicomplexa",
+"sub2": "Aconoidasida",
+"org": "Plasmodium gallinaceum",
+"src": "UniProt"
+},
+"A0A1J1H657": {
+"grp": "ALV",
+"sub": "Apicomplexa",
+"sub2": "Aconoidasida",
+"org": "Plasmodium relictum",
+"src": "UniProt"
+},
+"A0A1Q9EHW8": {
+"grp": "ALV",
+"sub": "Dinophyceae",
+"sub2": "Suessiales",
+"org": "Symbiodinium microadriaticum",
+"src": "UniProt"
+},
+"A0A1V9YMQ9": {
+"grp": "ST",
+"sub": "Oomycota",
+"sub2": "Saprolegniomycetes",
+"org": "Achlya hypogyna",
+"src": "UniProt"
+},
+"A0A1W0A798": {
+"grp": "ST",
+"sub": "Oomycota",
+"sub2": "Saprolegniomycetes",
+"org": "Thraustotheca clavata",
+"src": "UniProt"
+},
+"A0A1X0NLA3": {
+"grp": "DISC",
+"sub": "Kinetoplastea",
+"sub2": "Metakinetoplastina",
+"org": "Trypanosoma theileri",
+"src": "UniProt"
+},
+"A0A1X6P4C5": {
+"grp": "RHO",
+"sub": "Bangiales",
+"sub2": "Bangiaceae",
+"org": "Porphyra umbilicalis",
+"src": "UniProt"
+},
+"A0A1Y1JEV3": {
+"grp": "ALV",
+"sub": "Apicomplexa",
+"sub2": "Aconoidasida",
+"org": "Plasmodium gonderi",
+"src": "UniProt"
+},
+"A0A1Z5JZZ1": {
+"grp": "ST",
+"sub": "Bacillariophyta",
+"sub2": "Bacillariophyta",
+"org": "Fistulifera solaris",
+"src": "UniProt"
+},
+"A0A1Z5KQ28": {
+"grp": "ST",
+"sub": "Bacillariophyta",
+"sub2": "Bacillariophyta",
+"org": "Fistulifera solaris",
+"src": "UniProt"
+},
+"A0A225VS69": {
+"grp": "ST",
+"sub": "Oomycota",
+"sub2": "Peronosporomycetes",
+"org": "Phytophthora megakarya",
+"src": "UniProt"
+},
+"A0A2P4Y162": {
+"grp": "ST",
+"sub": "Oomycota",
+"sub2": "Peronosporomycetes",
+"org": "Phytophthora palmivora",
+"src": "UniProt"
+},
+"A0A2P6NZM5": {
+"grp": "AMO",
+"sub": "Variosea",
+"sub2": "Cavosteliida",
+"org": "Planoprotostelium fungivorum",
+"src": "UniProt"
+},
+"A0A2V3J322": {
+"grp": "RHO",
+"sub": "Rhodymeniophycidae",
+"sub2": "Gracilariales",
+"org": "Gracilariopsis chorda",
+"src": "UniProt"
+},
+"A0A329S2Y4": {
+"grp": "ST",
+"sub": "Oomycota",
+"sub2": "Peronosporomycetes",
+"org": "Phytophthora cactorum",
+"src": "UniProt"
+},
+"A0A3M6VRP9": {
+"grp": "ST",
+"sub": "Oomycota",
+"sub2": "Peronosporomycetes",
+"org": "Peronospora effusa",
+"src": "UniProt"
+},
+"A0A3R7RGB1": {
+"grp": "DISC",
+"sub": "Kinetoplastea",
+"sub2": "Metakinetoplastina",
+"org": "Trypanosoma rangeli",
+"src": "UniProt"
+},
+"A0A422PY93": {
+"grp": "DISC",
+"sub": "Kinetoplastea",
+"sub2": "Metakinetoplastina",
+"org": "Trypanosoma conorhini",
+"src": "UniProt"
+},
+"A0A448ZFS0": {
+"grp": "ST",
+"sub": "Bacillariophyta",
+"sub2": "Bacillariophyta",
+"org": "Pseudo-nitzschia multistriata",
+"src": "UniProt"
+},
+"A0A448ZKS6": {
+"grp": "ST",
+"sub": "Bacillariophyta",
+"sub2": "Bacillariophyta",
+"org": "Pseudo-nitzschia multistriata",
+"src": "UniProt"
+},
+"A0A485L226": {
+"grp": "ST",
+"sub": "Oomycota",
+"sub2": "Saprolegniomycetes",
+"org": "Aphanomyces stellatus",
+"src": "UniProt"
+},
+"A0A4D9CZE3": {
+"grp": "ST",
+"sub": "Ochrophyta",
+"sub2": "Eustigmatophyceae",
+"org": "Nannochloropsis salina CCMP1776",
+"src": "UniProt"
+},
+"A0A509AM11": {
+"grp": "ALV",
+"sub": "Apicomplexa",
+"sub2": "Aconoidasida",
+"org": "Plasmodium berghei",
+"src": "UniProt"
+},
+"A0A5A8DZ77": {
+"grp": "ST",
+"sub": "Bigyra",
+"sub2": "Opalozoa",
+"org": "Cafeteria roenbergensis",
+"src": "UniProt"
+},
+"A0A5J4Z939": {
+"grp": "RHO",
+"sub": "Porphyridiales",
+"sub2": "Porphyridiaceae",
+"org": "Porphyridium purpureum",
+"src": "UniProt"
+},
+"A0A640K9K4": {
+"grp": "DISC",
+"sub": "Kinetoplastea",
+"sub2": "Metakinetoplastina",
+"org": "Leishmania tarentolae",
+"src": "UniProt"
+},
+"A0A6A3N1F6": {
+"grp": "ST",
+"sub": "Oomycota",
+"sub2": "Peronosporomycetes",
+"org": "Phytophthora rubi",
+"src": "UniProt"
+},
+"A0A6A3SY86": {
+"grp": "ST",
+"sub": "Oomycota",
+"sub2": "Peronosporomycetes",
+"org": "Phytophthora fragariae",
+"src": "UniProt"
+},
+"A0A6A5CAS6": {
+"grp": "DISC",
+"sub": "Heterolobosea",
+"sub2": "Eutetramitea",
+"org": "Naegleria fowleri",
+"src": "UniProt"
+},
+"A0A6A5CET6": {
+"grp": "DISC",
+"sub": "Heterolobosea",
+"sub2": "Eutetramitea",
+"org": "Naegleria fowleri",
+"src": "UniProt"
+},
+"A0A6G0WM94": {
+"grp": "ST",
+"sub": "Oomycota",
+"sub2": "Saprolegniomycetes",
+"org": "Aphanomyces euteiches",
+"src": "UniProt"
+},
+"A0A7J6MKR5": {
+"grp": "ALV",
+"sub": "Perkinsozoa",
+"sub2": "Perkinsea",
+"org": "Perkinsus chesapeaki",
+"src": "UniProt"
+},
+"A0A7J7IR76": {
+"grp": "RHO",
+"sub": "Cyanidiales",
+"sub2": "Cyanidiaceae",
+"org": "Cyanidiococcus yangmingshanensis",
+"src": "UniProt"
+},
+"A0A7S4A7K5": {
+"grp": "ST",
+"sub": "Ochrophyta",
+"sub2": "Pelagophyceae",
+"org": "Pelagomonas calceolata",
+"src": "UniProt"
+},
+"A0A833WTP0": {
+"grp": "ST",
+"sub": "Oomycota",
+"sub2": "Peronosporomycetes",
+"org": "Phytophthora infestans",
+"src": "UniProt"
+},
+"A0A835ZDK7": {
+"grp": "ST",
+"sub": "Ochrophyta",
+"sub2": "PX clade",
+"org": "Tribonema minus",
+"src": "UniProt"
+},
+"A0A836HS55": {
+"grp": "DISC",
+"sub": "Kinetoplastea",
+"sub2": "Metakinetoplastina",
+"org": "Leishmania enriettii",
+"src": "UniProt"
+},
+"A0A836KUT9": {
+"grp": "DISC",
+"sub": "Kinetoplastea",
+"sub2": "Metakinetoplastina",
+"org": "Leishmania orientalis",
+"src": "UniProt"
+},
+"A0A836KVQ3": {
+"grp": "DISC",
+"sub": "Kinetoplastea",
+"sub2": "Metakinetoplastina",
+"org": "Leishmania martiniquensis",
+"src": "UniProt"
+},
+"A0A837AXR1": {
+"grp": "DISC",
+"sub": "Kinetoplastea",
+"sub2": "Metakinetoplastina",
+"org": "Porcisia hertigi",
+"src": "UniProt"
+},
+"A0A8J4PUP8": {
+"grp": "AMO",
+"sub": "Eumycetozoa",
+"sub2": "Dictyostelia",
+"org": "Polysphondylium violaceum",
+"src": "UniProt"
+},
+"A0A8J5J1Q1": {
+"grp": "ST",
+"sub": "Oomycota",
+"sub2": "Peronosporomycetes",
+"org": "Phytophthora aleatoria",
+"src": "UniProt"
+},
+"A0A8J5XTZ0": {
+"grp": "HAP",
+"sub": "Pavlovophyceae",
+"sub2": "Pavlovales",
+"org": "Diacronema lutheri",
+"src": "UniProt"
+},
+"A0A8K1FNW5": {
+"grp": "ST",
+"sub": "Oomycota",
+"sub2": "Peronosporomycetes",
+"org": "Pythium oligandrum",
+"src": "UniProt"
+},
+"A0A8T1VLB6": {
+"grp": "ST",
+"sub": "Oomycota",
+"sub2": "Peronosporomycetes",
+"org": "Phytophthora pseudosyringae",
+"src": "UniProt"
+},
+"A0A976FKC3": {
+"grp": "ST",
+"sub": "Oomycota",
+"sub2": "Peronosporomycetes",
+"org": "Bremia lactucae",
+"src": "UniProt"
+},
+"A0A9C7PR58": {
+"grp": "RHO",
+"sub": "Galdieriales",
+"sub2": "Galdieriaceae",
+"org": "Galdieria partita",
+"src": "UniProt"
+},
+"A0A9C7USD8": {
+"grp": "RHO",
+"sub": "Galdieriales",
+"sub2": "Galdieriaceae",
+"org": "Galdieria partita",
+"src": "UniProt"
+},
+"A0A9K3K9I7": {
+"grp": "ST",
+"sub": "Bacillariophyta",
+"sub2": "Bacillariophyta",
+"org": "Nitzschia inconspicua",
+"src": "UniProt"
+},
+"A0A9K3PHF9": {
+"grp": "ST",
+"sub": "Bacillariophyta",
+"sub2": "Bacillariophyta",
+"org": "Nitzschia inconspicua",
+"src": "UniProt"
+},
+"A0A9K3Q4W3": {
+"grp": "ST",
+"sub": "Bacillariophyta",
+"sub2": "Bacillariophyta",
+"org": "Nitzschia inconspicua",
+"src": "UniProt"
+},
+"A0A9K3Q6T3": {
+"grp": "ST",
+"sub": "Bacillariophyta",
+"sub2": "Bacillariophyta",
+"org": "Nitzschia inconspicua",
+"src": "UniProt"
+},
+"A0A9N8D9Y5": {
+"grp": "ST",
+"sub": "Bacillariophyta",
+"sub2": "Bacillariophyta",
+"org": "Seminavis robusta",
+"src": "UniProt"
+},
+"A0A9N8H8N1": {
+"grp": "ST",
+"sub": "Bacillariophyta",
+"sub2": "Bacillariophyta",
+"org": "Seminavis robusta",
+"src": "UniProt"
+},
+"A0A9P1C105": {
+"grp": "ALV",
+"sub": "Dinophyceae",
+"sub2": "Suessiales",
+"org": "Cladocopium goreaui",
+"src": "UniProt"
+},
+"A0A9P1C2W6": {
+"grp": "ALV",
+"sub": "Dinophyceae",
+"sub2": "Suessiales",
+"org": "Cladocopium goreaui",
+"src": "UniProt"
+},
+"A0A9P1FQU0": {
+"grp": "ALV",
+"sub": "Dinophyceae",
+"sub2": "Suessiales",
+"org": "Cladocopium goreaui",
+"src": "UniProt"
+},
+"A0A9W6U292": {
+"grp": "ST",
+"sub": "Oomycota",
+"sub2": "Peronosporomycetes",
+"org": "Phytophthora lilii",
+"src": "UniProt"
+},
+"A0A9W6YP50": {
+"grp": "ST",
+"sub": "Oomycota",
+"sub2": "Peronosporomycetes",
+"org": "Phytophthora fragariaefolia",
+"src": "UniProt"
+},
+"A0A9W6ZXY4": {
+"grp": "ST",
+"sub": "Ochrophyta",
+"sub2": "Bolidophyceae",
+"org": "Triparma retinervis",
+"src": "UniProt"
+},
+"A0A9W7ABU8": {
+"grp": "ST",
+"sub": "Ochrophyta",
+"sub2": "Bolidophyceae",
+"org": "Triparma retinervis",
+"src": "UniProt"
+},
+"A0A9W7AQW4": {
+"grp": "ST",
+"sub": "Ochrophyta",
+"sub2": "Bolidophyceae",
+"org": "Triparma strigata",
+"src": "UniProt"
+},
+"A0A9W7BTJ2": {
+"grp": "ST",
+"sub": "Ochrophyta",
+"sub2": "Bolidophyceae",
+"org": "Triparma strigata",
+"src": "UniProt"
+},
+"A0A9W7DMK4": {
+"grp": "ST",
+"sub": "Ochrophyta",
+"sub2": "Bolidophyceae",
+"org": "Triparma verrucosa",
+"src": "UniProt"
+},
+"A0A9W7FFJ3": {
+"grp": "ST",
+"sub": "Ochrophyta",
+"sub2": "Bolidophyceae",
+"org": "Triparma verrucosa",
+"src": "UniProt"
+},
+"A0A9W7FHY9": {
+"grp": "ST",
+"sub": "Ochrophyta",
+"sub2": "Bolidophyceae",
+"org": "Triparma laevis f. longispina",
+"src": "UniProt"
+},
+"A0A9W7GBP9": {
+"grp": "ST",
+"sub": "Ochrophyta",
+"sub2": "Bolidophyceae",
+"org": "Triparma columacea",
+"src": "UniProt"
+},
+"A0A9W7KZV8": {
+"grp": "ST",
+"sub": "Ochrophyta",
+"sub2": "Bolidophyceae",
+"org": "Triparma laevis f. longispina",
+"src": "UniProt"
+},
+"A0A9W7LBF7": {
+"grp": "ST",
+"sub": "Ochrophyta",
+"sub2": "Bolidophyceae",
+"org": "Triparma columacea",
+"src": "UniProt"
+},
+"A0AA88GED3": {
+"grp": "DISC",
+"sub": "Heterolobosea",
+"sub2": "Eutetramitea",
+"org": "Naegleria lovaniensis",
+"src": "UniProt"
+},
+"A0AA88GNX9": {
+"grp": "DISC",
+"sub": "Heterolobosea",
+"sub2": "Eutetramitea",
+"org": "Naegleria lovaniensis",
+"src": "UniProt"
+},
+"A0AAD2G902": {
+"grp": "ST",
+"sub": "Bacillariophyta",
+"sub2": "Bacillariophyta",
+"org": "Cylindrotheca closterium",
+"src": "UniProt"
+},
+"A0AAD2JPB2": {
+"grp": "ST",
+"sub": "Bacillariophyta",
+"sub2": "Bacillariophyta",
+"org": "Cylindrotheca closterium",
+"src": "UniProt"
+},
+"A0AAD3D729": {
+"grp": "ST",
+"sub": "Bacillariophyta",
+"sub2": "Bacillariophyta",
+"org": "Chaetoceros tenuissimus",
+"src": "UniProt"
+},
+"A0AAD3DDL8": {
+"grp": "ST",
+"sub": "Bacillariophyta",
+"sub2": "Bacillariophyta",
+"org": "Chaetoceros tenuissimus",
+"src": "UniProt"
+},
+"A0AAD5M6B9": {
+"grp": "ST",
+"sub": "Oomycota",
+"sub2": "Peronosporomycetes",
+"org": "Pythium insidiosum",
+"src": "UniProt"
+},
+"A0AAD7XL06": {
+"grp": "ST",
+"sub": "Ochrophyta",
+"sub2": "Pelagophyceae",
+"org": "Chrysophaeum taylorii",
+"src": "UniProt"
+},
+"A0AAD8XWR5": {
+"grp": "ST",
+"sub": "Bacillariophyta",
+"sub2": "Bacillariophyta",
+"org": "Skeletonema marinoi",
+"src": "UniProt"
+},
+"A0AAD9LUU2": {
+"grp": "ST",
+"sub": "Oomycota",
+"sub2": "Peronosporomycetes",
+"org": "Phytophthora citrophthora",
+"src": "UniProt"
+},
+"A0AAN7TNF4": {
+"grp": "AMO",
+"sub": "Eumycetozoa",
+"sub2": "Dictyostelia",
+"org": "Dictyostelium firmibasis",
+"src": "UniProt"
+},
+"A0AAU9KNF6": {
+"grp": "ST",
+"sub": "Oomycota",
+"sub2": "Peronosporomycetes",
+"org": "Peronospora belbahrii",
+"src": "UniProt"
+},
+"A0AAV0SSI1": {
+"grp": "ST",
+"sub": "Oomycota",
+"sub2": "Peronosporomycetes",
+"org": "Peronospora farinosa",
+"src": "UniProt"
+},
+"A0AAV0THL4": {
+"grp": "ST",
+"sub": "Oomycota",
+"sub2": "Peronosporomycetes",
+"org": "Hyaloperonospora brassicae",
+"src": "UniProt"
+},
+"A0AAV0UAB6": {
+"grp": "ST",
+"sub": "Oomycota",
+"sub2": "Peronosporomycetes",
+"org": "Peronospora destructor",
+"src": "UniProt"
+},
+"A0AAV2YWM5": {
+"grp": "ST",
+"sub": "Oomycota",
+"sub2": "Peronosporomycetes",
+"org": "Lagenidium giganteum",
+"src": "UniProt"
+},
+"A0AAV8UL88": {
+"grp": "RHO",
+"sub": "Stylonematales",
+"sub2": "Stylonemataceae",
+"org": "Rhodosorus marinus",
+"src": "UniProt"
+},
+"A0AAV9I4J3": {
+"grp": "RHO",
+"sub": "Galdieriales",
+"sub2": "Galdieriaceae",
+"org": "Galdieria yellowstonensis",
+"src": "UniProt"
+},
+"A0AAV9IBD9": {
+"grp": "RHO",
+"sub": "Galdieriales",
+"sub2": "Galdieriaceae",
+"org": "Galdieria yellowstonensis",
+"src": "UniProt"
+},
+"A0AAV9ITK8": {
+"grp": "RHO",
+"sub": "Cyanidiales",
+"sub2": "Cyanidiaceae",
+"org": "Cyanidium caldarium",
+"src": "UniProt"
+},
+"A0AAW0F644": {
+"grp": "DISC",
+"sub": "Kinetoplastea",
+"sub2": "Metakinetoplastina",
+"org": "Novymonas esmeraldas",
+"src": "UniProt"
+},
+"A0AAW2YIN7": {
+"grp": "DISC",
+"sub": "Heterolobosea",
+"sub2": "Eutetramitea",
+"org": "Acrasis kona",
+"src": "UniProt"
+},
+"A0AAW3AXS7": {
+"grp": "DISC",
+"sub": "Kinetoplastea",
+"sub2": "Metakinetoplastina",
+"org": "Leishmania lindenbergi",
+"src": "UniProt"
+},
+"A0AAW3B198": {
+"grp": "DISC",
+"sub": "Kinetoplastea",
+"sub2": "Metakinetoplastina",
+"org": "Leishmania utingensis",
+"src": "UniProt"
+},
+"A0AAW3C7P9": {
+"grp": "DISC",
+"sub": "Kinetoplastea",
+"sub2": "Metakinetoplastina",
+"org": "Leishmania naiffi",
+"src": "UniProt"
+},
+"A0AAW3C8T6": {
+"grp": "DISC",
+"sub": "Kinetoplastea",
+"sub2": "Metakinetoplastina",
+"org": "Leishmania shawi",
+"src": "UniProt"
+},
+"A0AB34IJR8": {
+"grp": "HAP",
+"sub": "Prymnesiophyceae",
+"sub2": "Prymnesiales",
+"org": "Prymnesium parvum",
+"src": "UniProt"
+},
+"A0ABD3ESY2": {
+"grp": "ST",
+"sub": "Oomycota",
+"sub2": "Peronosporomycetes",
+"org": "Phytophthora oleae",
+"src": "UniProt"
+},
+"A0ABD3M6Z7": {
+"grp": "ST",
+"sub": "Bacillariophyta",
+"sub2": "Bacillariophyta",
+"org": "Discostella pseudostelligera",
+"src": "UniProt"
+},
+"A0ABD3NFZ9": {
+"grp": "ST",
+"sub": "Bacillariophyta",
+"sub2": "Bacillariophyta",
+"org": "Cyclotella atomus",
+"src": "UniProt"
+},
+"A0ABD3NWK3": {
+"grp": "ST",
+"sub": "Bacillariophyta",
+"sub2": "Bacillariophyta",
+"org": "Cyclotella cryptica",
+"src": "UniProt"
+},
+"A0ABD3PFT9": {
+"grp": "ST",
+"sub": "Bacillariophyta",
+"sub2": "Bacillariophyta",
+"org": "Stephanodiscus triporus",
+"src": "UniProt"
+},
+"A0ABP0L684": {
+"grp": "ALV",
+"sub": "Dinophyceae",
+"sub2": "Suessiales",
+"org": "Durusdinium trenchii",
+"src": "UniProt"
+},
+"A0ABQ6N9S4": {
+"grp": "ST",
+"sub": "Ochrophyta",
+"sub2": "Bolidophyceae",
+"org": "Tetraparma gracilis",
+"src": "UniProt"
+},
+"A0ABQ7JBP6": {
+"grp": "ALV",
+"sub": "Apicomplexa",
+"sub2": "Aconoidasida",
+"org": "Cardiosporidium cionae",
+"src": "UniProt"
+},
+"A0ABR2HTX1": {
+"grp": "MET",
+"sub": "Tritrichomonadida",
+"sub2": "Tritrichomonadidae",
+"org": "Tritrichomonas musculus",
+"src": "UniProt"
+},
+"A0ABR2IE63": {
+"grp": "MET",
+"sub": "Tritrichomonadida",
+"sub2": "Tritrichomonadidae",
+"org": "Tritrichomonas musculus",
+"src": "UniProt"
+},
+"A0ACB9Y9H1": {
+"grp": "ALV",
+"sub": "Apicomplexa",
+"sub2": "Aconoidasida",
+"org": "Plasmodium brasilianum",
+"src": "UniProt"
+},
+"A0ACC0VZU6": {
+"grp": "ST",
+"sub": "Oomycota",
+"sub2": "Peronosporomycetes",
+"org": "Peronosclerospora sorghi",
+"src": "UniProt"
+},
+"A0ACC3BUT7": {
+"grp": "RHO",
+"sub": "Bangiales",
+"sub2": "Bangiaceae",
+"org": "Pyropia yezoensis",
+"src": "UniProt"
+},
+"A4H3X8": {
+"grp": "DISC",
+"sub": "Kinetoplastea",
+"sub2": "Metakinetoplastina",
+"org": "Leishmania braziliensis",
+"src": "UniProt"
+},
+"A4HS53": {
+"grp": "DISC",
+"sub": "Kinetoplastea",
+"sub2": "Metakinetoplastina",
+"org": "Leishmania infantum",
+"src": "UniProt"
+},
+"A5K4V1": {
+"grp": "ALV",
+"sub": "Apicomplexa",
+"sub2": "Aconoidasida",
+"org": "Plasmodium vivax",
+"src": "UniProt"
+},
+"B3L598": {
+"grp": "ALV",
+"sub": "Apicomplexa",
+"sub2": "Aconoidasida",
+"org": "Plasmodium knowlesi",
+"src": "UniProt"
+},
+"B5Y3X6": {
+"grp": "ST",
+"sub": "Bacillariophyta",
+"sub2": "Bacillariophyta",
+"org": "Phaeodactylum tricornutum",
+"src": "UniProt"
+},
+"B7GDS3": {
+"grp": "ST",
+"sub": "Bacillariophyta",
+"sub2": "Bacillariophyta",
+"org": "Phaeodactylum tricornutum",
+"src": "UniProt"
+},
+"B8CFQ2": {
+"grp": "ST",
+"sub": "Bacillariophyta",
+"sub2": "Bacillariophyta",
+"org": "Thalassiosira pseudonana",
+"src": "UniProt"
+},
+"C5KK90": {
+"grp": "ALV",
+"sub": "Perkinsozoa",
+"sub2": "Perkinsea",
+"org": "Perkinsus marinus",
+"src": "UniProt"
+},
+"C5LX06": {
+"grp": "ALV",
+"sub": "Perkinsozoa",
+"sub2": "Perkinsea",
+"org": "Perkinsus marinus",
+"src": "UniProt"
+},
+"D0NH98": {
+"grp": "ST",
+"sub": "Oomycota",
+"sub2": "Peronosporomycetes",
+"org": "Phytophthora infestans",
+"src": "UniProt"
+},
+"D2UYF4": {
+"grp": "DISC",
+"sub": "Heterolobosea",
+"sub2": "Eutetramitea",
+"org": "Naegleria gruberi",
+"src": "UniProt"
+},
+"D2UZX3": {
+"grp": "DISC",
+"sub": "Heterolobosea",
+"sub2": "Eutetramitea",
+"org": "Naegleria gruberi",
+"src": "UniProt"
+},
+"D3BHT0": {
+"grp": "AMO",
+"sub": "Eumycetozoa",
+"sub2": "Dictyostelia",
+"org": "Heterostelium pallidum",
+"src": "UniProt"
+},
+"D7FKW3": {
+"grp": "ST",
+"sub": "Ochrophyta",
+"sub2": "PX clade",
+"org": "Ectocarpus siliculosus",
+"src": "UniProt"
+},
+"D8M107": {
+"grp": "ST",
+"sub": "Bigyra",
+"sub2": "Opalozoa",
+"org": "Blastocystis hominis",
+"src": "UniProt"
+},
+"E9AK40": {
+"grp": "DISC",
+"sub": "Kinetoplastea",
+"sub2": "Metakinetoplastina",
+"org": "Leishmania mexicana",
+"src": "UniProt"
+},
+"E9B822": {
+"grp": "DISC",
+"sub": "Kinetoplastea",
+"sub2": "Metakinetoplastina",
+"org": "Leishmania donovani",
+"src": "UniProt"
+},
+"EFC50237.1": {
+"grp": "DISC",
+"sub": "Heterolobosea",
+"sub2": "",
+"org": "Naegleria gruberi",
+"src": "NCBI"
+},
+"EOD18412.1": {
+"grp": "HAP",
+"sub": "Haptophyta",
+"sub2": "",
+"org": "Emiliania huxleyi CCMP1516",
+"src": "NCBI"
+},
+"F0YCA3": {
+"grp": "ST",
+"sub": "Ochrophyta",
+"sub2": "Pelagophyceae",
+"org": "Aureococcus anophagefferens",
+"src": "UniProt"
+},
+"F0ZZZ0": {
+"grp": "AMO",
+"sub": "Eumycetozoa",
+"sub2": "Dictyostelia",
+"org": "Dictyostelium purpureum",
+"src": "UniProt"
+},
+"F4Q8K9": {
+"grp": "AMO",
+"sub": "Eumycetozoa",
+"sub2": "Dictyostelia",
+"org": "Cavenderia fasciculata",
+"src": "UniProt"
+},
+"G4YJ69": {
+"grp": "ST",
+"sub": "Oomycota",
+"sub2": "Peronosporomycetes",
+"org": "Phytophthora sojae",
+"src": "UniProt"
+},
+"H3GAD3": {
+"grp": "ST",
+"sub": "Oomycota",
+"sub2": "Peronosporomycetes",
+"org": "Phytophthora ramorum",
+"src": "UniProt"
+},
+"K0SBS7": {
+"grp": "ST",
+"sub": "Bacillariophyta",
+"sub2": "Bacillariophyta",
+"org": "Thalassiosira oceanica",
+"src": "UniProt"
+},
+"K2N2W0": {
+"grp": "DISC",
+"sub": "Kinetoplastea",
+"sub2": "Metakinetoplastina",
+"org": "Trypanosoma cruzi marinkellei",
+"src": "UniProt"
+},
+"K2N6K9": {
+"grp": "DISC",
+"sub": "Kinetoplastea",
+"sub2": "Metakinetoplastina",
+"org": "Trypanosoma cruzi marinkellei",
+"src": "UniProt"
+},
+"K3WTM8": {
+"grp": "ST",
+"sub": "Oomycota",
+"sub2": "Peronosporomycetes",
+"org": "Globisporangium ultimum",
+"src": "UniProt"
+},
+"K6VBL2": {
+"grp": "ALV",
+"sub": "Apicomplexa",
+"sub2": "Aconoidasida",
+"org": "Plasmodium cynomolgi",
+"src": "UniProt"
+},
+"KAJ1471809.1": {
+"grp": "CRY",
+"sub": "Cryptophyceae",
+"sub2": "",
+"org": "Baffinella frigidus",
+"src": "NCBI"
+},
+"KAJ9436001.1": {
+"grp": "DISC",
+"sub": "Diplonemea",
+"sub2": "",
+"org": "Diplonema papillatum",
+"src": "NCBI"
+},
+"KAL0476833.1": {
+"grp": "DISC",
+"sub": "Heterolobosea",
+"sub2": "",
+"org": "Acrasis kona",
+"src": "NCBI"
+},
+"L1IR35": {
+"grp": "CRY",
+"sub": "Geminigeraceae",
+"sub2": "Guillardia",
+"org": "Guillardia theta",
+"src": "UniProt"
+},
+"L8GVA0": {
+"grp": "AMO",
+"sub": "Longamoebia",
+"sub2": "Centramoebida",
+"org": "Acanthamoeba castellanii",
+"src": "UniProt"
+},
+"M1VFW7": {
+"grp": "RHO",
+"sub": "Cyanidiales",
+"sub2": "Cyanidiaceae",
+"org": "Cyanidioschyzon merolae",
+"src": "UniProt"
+},
+"M2WRF9": {
+"grp": "RHO",
+"sub": "Galdieriales",
+"sub2": "Galdieriaceae",
+"org": "Galdieria sulphuraria",
+"src": "UniProt"
+},
+"M4C138": {
+"grp": "ST",
+"sub": "Oomycota",
+"sub2": "Peronosporomycetes",
+"org": "Hyaloperonospora arabidopsidis",
+"src": "UniProt"
+},
+"O48658": {
+"grp": "VIR",
+"sub": "Embryophyta",
+"sub2": "Tracheophyta",
+"org": "Hyoscyamus niger",
+"src": "UniProt"
+},
+"O48659": {
+"grp": "VIR",
+"sub": "Embryophyta",
+"sub2": "Tracheophyta",
+"org": "Hyoscyamus niger",
+"src": "UniProt"
+},
+"O48660": {
+"grp": "VIR",
+"sub": "Embryophyta",
+"sub2": "Tracheophyta",
+"org": "Nicotiana sylvestris",
+"src": "UniProt"
+},
+"O48661": {
+"grp": "VIR",
+"sub": "Embryophyta",
+"sub2": "Tracheophyta",
+"org": "Arabidopsis thaliana",
+"src": "UniProt"
+},
+"O82147": {
+"grp": "VIR",
+"sub": "Embryophyta",
+"sub2": "Tracheophyta",
+"org": "Coffea arabica",
+"src": "UniProt"
+},
+"P19623": {
+"grp": "OPI",
+"sub": "Craniata",
+"sub2": "Vertebrata",
+"org": "Homo sapiens",
+"src": "UniProt"
+},
+"Q09741": {
+"grp": "OPI",
+"sub": "Ascomycota",
+"sub2": "Taphrinomycotina",
+"org": "Schizosaccharomyces pombe",
+"src": "UniProt"
+},
+"Q12074": {
+"grp": "OPI",
+"sub": "Ascomycota",
+"sub2": "Saccharomycotina",
+"org": "Saccharomyces cerevisiae",
+"src": "UniProt"
+},
+"Q12455": {
+"grp": "OPI",
+"sub": "Ascomycota",
+"sub2": "Saccharomycotina",
+"org": "Saccharomyces cerevisiae",
+"src": "UniProt"
+},
+"Q38EH6": {
+"grp": "DISC",
+"sub": "Kinetoplastea",
+"sub2": "Metakinetoplastina",
+"org": "Trypanosoma brucei brucei",
+"src": "UniProt"
+},
+"Q4CXJ6": {
+"grp": "DISC",
+"sub": "Kinetoplastea",
+"sub2": "Metakinetoplastina",
+"org": "Trypanosoma cruzi",
+"src": "UniProt"
+},
+"Q4DBH6": {
+"grp": "DISC",
+"sub": "Kinetoplastea",
+"sub2": "Metakinetoplastina",
+"org": "Trypanosoma cruzi",
+"src": "UniProt"
+},
+"Q4DR69": {
+"grp": "DISC",
+"sub": "Kinetoplastea",
+"sub2": "Metakinetoplastina",
+"org": "Trypanosoma cruzi",
+"src": "UniProt"
+},
+"Q64674": {
+"grp": "OPI",
+"sub": "Craniata",
+"sub2": "Vertebrata",
+"org": "Mus musculus",
+"src": "UniProt"
+},
+"Q94BN2": {
+"grp": "VIR",
+"sub": "Embryophyta",
+"sub2": "Tracheophyta",
+"org": "Arabidopsis thaliana",
+"src": "UniProt"
+},
+"Q95Z84": {
+"grp": "DISC",
+"sub": "Kinetoplastea",
+"sub2": "Metakinetoplastina",
+"org": "Leishmania major",
+"src": "UniProt"
+},
+"Q96556": {
+"grp": "VIR",
+"sub": "Embryophyta",
+"sub2": "Tracheophyta",
+"org": "Datura stramonium",
+"src": "UniProt"
+},
+"Q96557": {
+"grp": "VIR",
+"sub": "Embryophyta",
+"sub2": "Tracheophyta",
+"org": "Datura stramonium",
+"src": "UniProt"
+},
+"Q9GSR3": {
+"grp": "DISC",
+"sub": "Kinetoplastea",
+"sub2": "Metakinetoplastina",
+"org": "Leishmania donovani",
+"src": "UniProt"
+},
+"Q9NFS5": {
+"grp": "ALV",
+"sub": "Apicomplexa",
+"sub2": "Aconoidasida",
+"org": "Plasmodium falciparum",
+"src": "UniProt"
+},
+"Q9SMB1": {
+"grp": "VIR",
+"sub": "Embryophyta",
+"sub2": "Tracheophyta",
+"org": "Oryza sativa subsp. japonica",
+"src": "UniProt"
+},
+"Q9XY92": {
+"grp": "AMO",
+"sub": "Eumycetozoa",
+"sub2": "Dictyostelia",
+"org": "Dictyostelium discoideum",
+"src": "UniProt"
+},
+"Q9Y8H7": {
+"grp": "OPI",
+"sub": "Ascomycota",
+"sub2": "Pezizomycotina",
+"org": "Neurospora crassa",
+"src": "UniProt"
+},
+"Q9ZS45": {
+"grp": "VIR",
+"sub": "Embryophyta",
+"sub2": "Tracheophyta",
+"org": "Solanum lycopersicum",
+"src": "UniProt"
+},
+"Q9ZTR0": {
+"grp": "VIR",
+"sub": "Embryophyta",
+"sub2": "Tracheophyta",
+"org": "Pisum sativum",
+"src": "UniProt"
+},
+"Q9ZTR1": {
+"grp": "VIR",
+"sub": "Embryophyta",
+"sub2": "Tracheophyta",
+"org": "Pisum sativum",
+"src": "UniProt"
+},
+"Q9ZUB3": {
+"grp": "VIR",
+"sub": "Embryophyta",
+"sub2": "Tracheophyta",
+"org": "Arabidopsis thaliana",
+"src": "UniProt"
+},
+"R7QF86": {
+"grp": "RHO",
+"sub": "Rhodymeniophycidae",
+"sub2": "Gigartinales",
+"org": "Chondrus crispus",
+"src": "UniProt"
+},
+"S9VKV0": {
+"grp": "DISC",
+"sub": "Kinetoplastea",
+"sub2": "Metakinetoplastina",
+"org": "Strigomonas culicis",
+"src": "UniProt"
+},
+"S9WI95": {
+"grp": "DISC",
+"sub": "Kinetoplastea",
+"sub2": "Metakinetoplastina",
+"org": "Strigomonas culicis",
+"src": "UniProt"
+},
+"T0QI28": {
+"grp": "ST",
+"sub": "Oomycota",
+"sub2": "Saprolegniomycetes",
+"org": "Saprolegnia diclina",
+"src": "UniProt"
+},
+"V7PDQ3": {
+"grp": "ALV",
+"sub": "Apicomplexa",
+"sub2": "Aconoidasida",
+"org": "Plasmodium yoelii 17X",
+"src": "UniProt"
+},
+"V9E6Y8": {
+"grp": "ST",
+"sub": "Oomycota",
+"sub2": "Peronosporomycetes",
+"org": "Phytophthora nicotianae P1569",
+"src": "UniProt"
+},
+"W4G430": {
+"grp": "ST",
+"sub": "Oomycota",
+"sub2": "Saprolegniomycetes",
+"org": "Aphanomyces astaci",
+"src": "UniProt"
+},
+"W7ADL0": {
+"grp": "ALV",
+"sub": "Apicomplexa",
+"sub2": "Aconoidasida",
+"org": "Plasmodium inui San Antonio 1",
+"src": "UniProt"
+},
+"W7AWB8": {
+"grp": "ALV",
+"sub": "Apicomplexa",
+"sub2": "Aconoidasida",
+"org": "Plasmodium vinckei petteri",
+"src": "UniProt"
+},
+"W7UA05": {
+"grp": "ST",
+"sub": "Ochrophyta",
+"sub2": "Eustigmatophyceae",
+"org": "Nannochloropsis gaditana",
+"src": "UniProt"
+},
+"X2C503": {
+"grp": "DISC",
+"sub": "Kinetoplastea",
+"sub2": "Metakinetoplastina",
+"org": "Leptomonas pyrrhocoris",
+"src": "UniProt"
+},
+"XP_002682981.1": {
+"grp": "DISC",
+"sub": "Heterolobosea",
+"sub2": "",
+"org": "Naegleria gruberi",
+"src": "NCBI"
+},
+"XP_005770841.1": {
+"grp": "HAP",
+"sub": "Haptophyta",
+"sub2": "",
+"org": "Emiliania huxleyi CCMP1516",
+"src": "NCBI"
+},
+"XXQ34702.1": {
+"grp": "RHI",
+"sub": "Rhizaria",
+"sub2": "",
+"org": "Plasmodiophora brassicae",
+"src": "NCBI"
+},
+"P09158": {
+"grp": "PROK",
+"sub": "Pseudomonadati",
+"sub2": "",
+"org": "Escherichia coli",
+"src": "UniProt"
+},
+"A2BIX4": {
+"grp": "PROK",
+"sub": "Thermoproteota",
+"sub2": "",
+"org": "Hyperthermus butylicus",
+"src": "UniProt"
+},
+"Q5SK28": {
+"grp": "PROK",
+"sub": "Thermotogati",
+"sub2": "",
+"org": "Thermus thermophilus",
+"src": "UniProt"
+},
+"Q8U4G1": {
+"grp": "PROK",
+"sub": "Methanobacteriati",
+"sub2": "",
+"org": "Pyrococcus furiosus",
+"src": "UniProt"
+},
+"O25503": {
+"grp": "PROK",
+"sub": "Pseudomonadati",
+"sub2": "",
+"org": "Helicobacter pylori",
+"src": "UniProt"
+},
+"Q9WZC2": {
+"grp": "PROK",
+"sub": "Thermotogati",
+"sub2": "",
+"org": "Thermotoga maritima",
+"src": "UniProt"
+},
+"Q31QK9": {
+"grp": "PROK",
+"sub": "Bacillati",
+"sub2": "",
+"org": "Synechococcus elongatus",
+"src": "UniProt"
+},
+"P70998": {
+"grp": "PROK",
+"sub": "Bacillati",
+"sub2": "",
+"org": "Bacillus subtilis",
+"src": "UniProt"
+},
+"B0STV8": {
+"grp": "PROK",
+"sub": "Pseudomonadati",
+"sub2": "",
+"org": "Leptospira biflexa serovar Patoc",
+"src": "UniProt"
+},
+"Q9HL75": {
+"grp": "PROK",
+"sub": "Methanobacteriati",
+"sub2": "",
+"org": "Thermoplasma acidophilum",
+"src": "UniProt"
+},
+"B1L5H2": {
+"grp": "PROK",
+"sub": "Thermoproteota",
+"sub2": "",
+"org": "Korarchaeum cryptofilum",
+"src": "UniProt"
+},
+"O66473": {
+"grp": "PROK",
+"sub": "Pseudomonadati",
+"sub2": "",
+"org": "Aquifex aeolicus",
+"src": "UniProt"
+}
+}

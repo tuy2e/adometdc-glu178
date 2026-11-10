@@ -1,0 +1,1227 @@
+{
+ "rooted": "human tip (Amorphea/Opisthokonta not monophyletic)",
+ "site": 109,
+ "groups": {
+  "Stramenopiles": {
+   "n": 45,
+   "mono": true,
+   "n_clade": 45,
+   "intruders": {},
+   "sh": null,
+   "ufb": null,
+   "mrca": "W(0.958)",
+   "parent": "W(0.956)",
+   "tips": {
+    "W": 36,
+    "Y": 2,
+    "F": 2,
+    "K": 5
+   }
+  },
+  "Ochrophyta": {
+   "n": 22,
+   "mono": false,
+   "n_clade": 36,
+   "intruders": {
+    "Oomycota": 12,
+    "Bigyra": 2
+   },
+   "sh": null,
+   "ufb": null,
+   "mrca": "W(1.000)",
+   "parent": "W(1.000)",
+   "tips": {
+    "W": 22
+   }
+  },
+  "Oomycota": {
+   "n": 12,
+   "mono": true,
+   "n_clade": 12,
+   "intruders": {},
+   "sh": null,
+   "ufb": null,
+   "mrca": "W(0.999)",
+   "parent": "W(1.000)",
+   "tips": {
+    "W": 7,
+    "K": 5
+   }
+  },
+  "Bigyra/other": {
+   "n": 11,
+   "mono": false,
+   "n_clade": 45,
+   "intruders": {
+    "Ochrophyta": 22,
+    "Oomycota": 12
+   },
+   "sh": null,
+   "ufb": null,
+   "mrca": "W(0.958)",
+   "parent": "W(0.956)",
+   "tips": {
+    "W": 7,
+    "Y": 2,
+    "F": 2
+   }
+  },
+  "Cryptophyceae": {
+   "n": 7,
+   "mono": true,
+   "n_clade": 7,
+   "intruders": {},
+   "sh": null,
+   "ufb": null,
+   "mrca": "W(0.735)",
+   "parent": "W(0.730)",
+   "tips": {
+    "W": 5,
+    "Y": 2
+   }
+  },
+  "Kinetoplastea": {
+   "n": 6,
+   "mono": true,
+   "n_clade": 6,
+   "intruders": {},
+   "sh": null,
+   "ufb": null,
+   "mrca": "W(0.997)",
+   "parent": "W(0.740)",
+   "tips": {
+    "W": 6
+   }
+  },
+  "Euglenozoa": {
+   "n": 8,
+   "mono": false,
+   "n_clade": 133,
+   "intruders": {
+    "Oomycota": 12,
+    "Amoebozoa": 1,
+    "Haptophyta": 12,
+    "Ochrophyta": 22,
+    "Metamonada": 1,
+    "Rhodophyta": 12,
+    "Bigyra": 11,
+    "Chlorophyta": 10,
+    "Dinophyceae": 12,
+    "land plants": 9,
+    "Heterolobosea": 6,
+    "Dinophyceae (ODC fusion)": 3,
+    "Perkinsozoa": 3,
+    "other green": 1,
+    "Rhizaria": 1,
+    "Cryptophyceae": 7,
+    "Colpodellida": 1,
+    "Glaucophyta": 1
+   },
+   "sh": null,
+   "ufb": null,
+   "mrca": "Y(0.576)",
+   "parent": "Y(0.518)",
+   "tips": {
+    "Y": 2,
+    "W": 6
+   }
+  },
+  "Dinophyceae (standalone)": {
+   "n": 16,
+   "mono": false,
+   "n_clade": 153,
+   "intruders": {
+    "Apicomplexa": 2,
+    "Kinetoplastea": 6,
+    "Oomycota": 12,
+    "Amoebozoa": 1,
+    "Haptophyta": 12,
+    "Ochrophyta": 22,
+    "Metamonada": 4,
+    "Rhodophyta": 12,
+    "Bigyra": 11,
+    "Chlorophyta": 10,
+    "Parabasalia": 1,
+    "Dinophyceae (ODC fusion)": 8,
+    "land plants": 9,
+    "Heterolobosea": 6,
+    "Euglenida": 1,
+    "Perkinsozoa": 3,
+    "other green": 1,
+    "Rhizaria": 3,
+    "Diplonemea": 1,
+    "Colpodellida": 3,
+    "Cryptophyceae": 7,
+    "Apusozoa": 1,
+    "Glaucophyta": 1
+   },
+   "sh": null,
+   "ufb": null,
+   "mrca": "Y(0.518)",
+   "parent": "D(0.856)",
+   "tips": {
+    "W": 12,
+    "Y": 4
+   }
+  },
+  "Dino+Perkinsus": {
+   "n": 19,
+   "mono": false,
+   "n_clade": 153,
+   "intruders": {
+    "Apicomplexa": 2,
+    "Kinetoplastea": 6,
+    "Oomycota": 12,
+    "Amoebozoa": 1,
+    "Haptophyta": 12,
+    "Ochrophyta": 22,
+    "Metamonada": 4,
+    "Rhodophyta": 12,
+    "Bigyra": 11,
+    "Chlorophyta": 10,
+    "Parabasalia": 1,
+    "Dinophyceae (ODC fusion)": 8,
+    "land plants": 9,
+    "Heterolobosea": 6,
+    "Euglenida": 1,
+    "other green": 1,
+    "Rhizaria": 3,
+    "Diplonemea": 1,
+    "Colpodellida": 3,
+    "Cryptophyceae": 7,
+    "Apusozoa": 1,
+    "Glaucophyta": 1
+   },
+   "sh": null,
+   "ufb": null,
+   "mrca": "Y(0.518)",
+   "parent": "D(0.856)",
+   "tips": {
+    "W": 15,
+    "Y": 4
+   }
+  },
+  "Dinophyceae (ODC fusion)": {
+   "n": 8,
+   "mono": false,
+   "n_clade": 153,
+   "intruders": {
+    "Apicomplexa": 2,
+    "Kinetoplastea": 6,
+    "Oomycota": 12,
+    "Amoebozoa": 1,
+    "Haptophyta": 12,
+    "Dinophyceae": 16,
+    "Ochrophyta": 22,
+    "Metamonada": 4,
+    "Rhodophyta": 12,
+    "Bigyra": 11,
+    "Chlorophyta": 10,
+    "Parabasalia": 1,
+    "land plants": 9,
+    "Heterolobosea": 6,
+    "Euglenida": 1,
+    "Perkinsozoa": 3,
+    "other green": 1,
+    "Rhizaria": 3,
+    "Diplonemea": 1,
+    "Colpodellida": 3,
+    "Cryptophyceae": 7,
+    "Apusozoa": 1,
+    "Glaucophyta": 1
+   },
+   "sh": null,
+   "ufb": null,
+   "mrca": "Y(0.518)",
+   "parent": "D(0.856)",
+   "tips": {
+    "Y": 5,
+    "W": 1,
+    "C": 1,
+    "R": 1
+   }
+  },
+  "Alveolata": {
+   "n": 32,
+   "mono": false,
+   "n_clade": 153,
+   "intruders": {
+    "Kinetoplastea": 6,
+    "Oomycota": 12,
+    "Amoebozoa": 1,
+    "Haptophyta": 12,
+    "Ochrophyta": 22,
+    "Metamonada": 4,
+    "Rhodophyta": 12,
+    "Bigyra": 11,
+    "Chlorophyta": 10,
+    "Parabasalia": 1,
+    "land plants": 9,
+    "Heterolobosea": 6,
+    "Euglenida": 1,
+    "other green": 1,
+    "Rhizaria": 3,
+    "Diplonemea": 1,
+    "Cryptophyceae": 7,
+    "Apusozoa": 1,
+    "Glaucophyta": 1
+   },
+   "sh": null,
+   "ufb": null,
+   "mrca": "Y(0.518)",
+   "parent": "D(0.856)",
+   "tips": {
+    "F": 3,
+    "W": 17,
+    "Y": 10,
+    "C": 1,
+    "R": 1
+   }
+  },
+  "Haptophyta": {
+   "n": 12,
+   "mono": true,
+   "n_clade": 12,
+   "intruders": {},
+   "sh": null,
+   "ufb": null,
+   "mrca": "H(0.313)",
+   "parent": "F(0.483)",
+   "tips": {
+    "M": 1,
+    "H": 4,
+    "L": 4,
+    "T": 2,
+    "N": 1
+   }
+  },
+  "Rhizaria": {
+   "n": 7,
+   "mono": false,
+   "n_clade": 170,
+   "intruders": {
+    "Apicomplexa": 2,
+    "Kinetoplastea": 6,
+    "Oomycota": 12,
+    "Amoebozoa": 2,
+    "Haptophyta": 12,
+    "Dinophyceae": 16,
+    "Fungi": 10,
+    "Ochrophyta": 22,
+    "Metamonada": 4,
+    "Rhodophyta": 12,
+    "Bigyra": 11,
+    "Chlorophyta": 10,
+    "Parabasalia": 1,
+    "Dinophyceae (ODC fusion)": 8,
+    "land plants": 9,
+    "Heterolobosea": 6,
+    "Euglenida": 1,
+    "Perkinsozoa": 3,
+    "other green": 1,
+    "other opisthokonts": 2,
+    "Diplonemea": 1,
+    "Colpodellida": 3,
+    "Cryptophyceae": 7,
+    "Apusozoa": 1,
+    "Glaucophyta": 1
+   },
+   "sh": null,
+   "ufb": null,
+   "mrca": "D(0.900)",
+   "parent": "D(0.900)",
+   "tips": {
+    "N": 2,
+    "D": 4,
+    "R": 1
+   }
+  }
+ },
+ "changes": [
+  {
+   "frm": "S",
+   "frm_p": 0.806,
+   "to": "D",
+   "to_p": 0.996,
+   "n": 185,
+   "ufb": null,
+   "clade": {
+    "Apicomplexa": 2,
+    "Colpodellida": 3,
+    "Dinophyceae": 16,
+    "Dinophyceae (ODC fusion)": 8,
+    "Rhizaria": 7,
+    "Apusozoa": 1,
+    "Metamonada": 4,
+    "Parabasalia": 1,
+    "Glaucophyta": 1,
+    "Amoebozoa": 2,
+    "Heterolobosea": 6,
+    "Diplonemea": 1,
+    "Perkinsozoa": 3,
+    "Bigyra": 11,
+    "Ochrophyta": 22,
+    "Oomycota": 12,
+    "Chlorophyta": 10,
+    "land plants": 9,
+    "other green": 1,
+    "Rhodophyta": 12,
+    "Haptophyta": 12,
+    "Cryptophyceae": 7,
+    "Euglenida": 1,
+    "Kinetoplastea": 6,
+    "other opisthokonts": 5,
+    "Fungi": 10,
+    "Metazoa": 12
+   },
+   "ex": [
+    "Cardiosporidium cionae",
+    "Chromera velia"
+   ]
+  },
+  {
+   "frm": "D",
+   "frm_p": 0.9,
+   "to": "E",
+   "to_p": 1.0,
+   "n": 1,
+   "ufb": "tip",
+   "clade": {
+    "other opisthokonts": 1
+   },
+   "ex": [
+    "Monosiga brevicollis (Cho"
+   ]
+  },
+  {
+   "frm": "D",
+   "frm_p": 0.856,
+   "to": "Y",
+   "to_p": 0.518,
+   "n": 153,
+   "ufb": null,
+   "clade": {
+    "Apicomplexa": 2,
+    "Colpodellida": 3,
+    "Dinophyceae": 16,
+    "Dinophyceae (ODC fusion)": 8,
+    "Rhizaria": 3,
+    "Apusozoa": 1,
+    "Metamonada": 4,
+    "Parabasalia": 1,
+    "Glaucophyta": 1,
+    "Amoebozoa": 1,
+    "Heterolobosea": 6,
+    "Diplonemea": 1,
+    "Perkinsozoa": 3,
+    "Bigyra": 11,
+    "Ochrophyta": 22,
+    "Oomycota": 12,
+    "Chlorophyta": 10,
+    "land plants": 9,
+    "other green": 1,
+    "Rhodophyta": 12,
+    "Haptophyta": 12,
+    "Cryptophyceae": 7,
+    "Euglenida": 1,
+    "Kinetoplastea": 6
+   },
+   "ex": [
+    "Cardiosporidium cionae",
+    "Chromera velia"
+   ]
+  },
+  {
+   "frm": "Y",
+   "frm_p": 0.526,
+   "to": "A",
+   "to_p": 0.292,
+   "n": 5,
+   "ufb": null,
+   "clade": {
+    "Apusozoa": 1,
+    "Metamonada": 3,
+    "Parabasalia": 1
+   },
+   "ex": [
+    "Thecamonas trahens ATCC 5",
+    "Tritrichomonas musculus"
+   ]
+  },
+  {
+   "frm": "Y",
+   "frm_p": 0.599,
+   "to": "N",
+   "to_p": 0.981,
+   "n": 2,
+   "ufb": null,
+   "clade": {
+    "Rhizaria": 2
+   },
+   "ex": [
+    "Plasmodiophora brassicae",
+    "Plasmodiophora brassicae"
+   ]
+  },
+  {
+   "frm": "Y",
+   "frm_p": 0.816,
+   "to": "W",
+   "to_p": 1.0,
+   "n": 1,
+   "ufb": "tip",
+   "clade": {
+    "Apicomplexa": 1
+   },
+   "ex": [
+    "Gregarina niphandrodes (S"
+   ]
+  },
+  {
+   "frm": "Y",
+   "frm_p": 0.737,
+   "to": "F",
+   "to_p": 1.0,
+   "n": 1,
+   "ufb": "tip",
+   "clade": {
+    "Apicomplexa": 1
+   },
+   "ex": [
+    "Cardiosporidium cionae"
+   ]
+  },
+  {
+   "frm": "Y",
+   "frm_p": 0.729,
+   "to": "F",
+   "to_p": 1.0,
+   "n": 1,
+   "ufb": "tip",
+   "clade": {
+    "Colpodellida": 1
+   },
+   "ex": [
+    "Chromera velia"
+   ]
+  },
+  {
+   "frm": "A",
+   "frm_p": 0.842,
+   "to": "V",
+   "to_p": 1.0,
+   "n": 2,
+   "ufb": null,
+   "clade": {
+    "Metamonada": 1,
+    "Parabasalia": 1
+   },
+   "ex": [
+    "Tritrichomonas foetus",
+    "Tritrichomonas foetus"
+   ]
+  },
+  {
+   "frm": "Y",
+   "frm_p": 0.576,
+   "to": "W",
+   "to_p": 0.649,
+   "n": 123,
+   "ufb": null,
+   "clade": {
+    "Dinophyceae": 12,
+    "Dinophyceae (ODC fusion)": 3,
+    "Perkinsozoa": 3,
+    "Bigyra": 11,
+    "Ochrophyta": 22,
+    "Oomycota": 12,
+    "Chlorophyta": 10,
+    "land plants": 9,
+    "other green": 1,
+    "Rhodophyta": 12,
+    "Rhizaria": 1,
+    "Haptophyta": 12,
+    "Metamonada": 1,
+    "Cryptophyceae": 7,
+    "Euglenida": 1,
+    "Kinetoplastea": 6
+   },
+   "ex": [
+    "Durusdinium trenchii",
+    "Durusdinium trenchii"
+   ]
+  },
+  {
+   "frm": "Y",
+   "frm_p": 0.537,
+   "to": "F",
+   "to_p": 1.0,
+   "n": 1,
+   "ufb": "tip",
+   "clade": {
+    "Colpodellida": 1
+   },
+   "ex": [
+    "Vitrella brassicaformis"
+   ]
+  },
+  {
+   "frm": "Y",
+   "frm_p": 0.537,
+   "to": "S",
+   "to_p": 1.0,
+   "n": 1,
+   "ufb": "tip",
+   "clade": {
+    "Glaucophyta": 1
+   },
+   "ex": [
+    "Gloeochaete wittrockiana"
+   ]
+  },
+  {
+   "frm": "Y",
+   "frm_p": 0.445,
+   "to": "M",
+   "to_p": 1.0,
+   "n": 1,
+   "ufb": "tip",
+   "clade": {
+    "Amoebozoa": 1
+   },
+   "ex": [
+    "Heterostelium pallidum (s"
+   ]
+  },
+  {
+   "frm": "Y",
+   "frm_p": 0.445,
+   "to": "R",
+   "to_p": 0.868,
+   "n": 2,
+   "ufb": null,
+   "clade": {
+    "Heterolobosea": 2
+   },
+   "ex": [
+    "Percolomonas cosmopolitus",
+    "Percolomonas cosmopolitus"
+   ]
+  },
+  {
+   "frm": "Y",
+   "frm_p": 0.57,
+   "to": "H",
+   "to_p": 1.0,
+   "n": 1,
+   "ufb": "tip",
+   "clade": {
+    "Heterolobosea": 1
+   },
+   "ex": [
+    "Acrasis kona"
+   ]
+  },
+  {
+   "frm": "Y",
+   "frm_p": 0.611,
+   "to": "L",
+   "to_p": 0.993,
+   "n": 3,
+   "ufb": null,
+   "clade": {
+    "Heterolobosea": 3
+   },
+   "ex": [
+    "Naegleria gruberi",
+    "Naegleria fowleri"
+   ]
+  },
+  {
+   "frm": "W",
+   "frm_p": 0.958,
+   "to": "Y",
+   "to_p": 0.698,
+   "n": 4,
+   "ufb": null,
+   "clade": {
+    "Bigyra": 4
+   },
+   "ex": [
+    "Blastocystis sp. BT1",
+    "Blastocystis sp. NMH"
+   ]
+  },
+  {
+   "frm": "W",
+   "frm_p": 0.999,
+   "to": "K",
+   "to_p": 0.991,
+   "n": 5,
+   "ufb": null,
+   "clade": {
+    "Oomycota": 5
+   },
+   "ex": [
+    "Saprolegnia diclina (stra",
+    "Achlya hypogyna (Oomycete"
+   ]
+  },
+  {
+   "frm": "Y",
+   "frm_p": 0.698,
+   "to": "F",
+   "to_p": 1.0,
+   "n": 1,
+   "ufb": "tip",
+   "clade": {
+    "Bigyra": 1
+   },
+   "ex": [
+    "Blastocystis hominis"
+   ]
+  },
+  {
+   "frm": "Y",
+   "frm_p": 0.805,
+   "to": "F",
+   "to_p": 1.0,
+   "n": 1,
+   "ufb": "tip",
+   "clade": {
+    "Bigyra": 1
+   },
+   "ex": [
+    "Blastocystis sp. NMH"
+   ]
+  },
+  {
+   "frm": "W",
+   "frm_p": 0.648,
+   "to": "F",
+   "to_p": 0.474,
+   "n": 48,
+   "ufb": null,
+   "clade": {
+    "Dinophyceae (ODC fusion)": 2,
+    "Chlorophyta": 10,
+    "land plants": 9,
+    "other green": 1,
+    "Rhodophyta": 12,
+    "Rhizaria": 1,
+    "Haptophyta": 12,
+    "Metamonada": 1
+   },
+   "ex": [
+    "Alexandrium tamarense",
+    "Alexandrium tamarense"
+   ]
+  },
+  {
+   "frm": "F",
+   "frm_p": 0.483,
+   "to": "H",
+   "to_p": 0.313,
+   "n": 12,
+   "ufb": null,
+   "clade": {
+    "Haptophyta": 12
+   },
+   "ex": [
+    "Diacronema lutheri",
+    "Pavlova sp. CCMP459"
+   ]
+  },
+  {
+   "frm": "F",
+   "frm_p": 0.505,
+   "to": "R",
+   "to_p": 0.578,
+   "n": 24,
+   "ufb": null,
+   "clade": {
+    "Dinophyceae (ODC fusion)": 2,
+    "Chlorophyta": 10,
+    "land plants": 9,
+    "other green": 1,
+    "Rhodophyta": 1,
+    "Rhizaria": 1
+   },
+   "ex": [
+    "Alexandrium tamarense",
+    "Alexandrium tamarense"
+   ]
+  },
+  {
+   "frm": "R",
+   "frm_p": 0.849,
+   "to": "S",
+   "to_p": 1.0,
+   "n": 1,
+   "ufb": "tip",
+   "clade": {
+    "Chlorophyta": 1
+   },
+   "ex": [
+    "Bathycoccus prasinos"
+   ]
+  },
+  {
+   "frm": "R",
+   "frm_p": 0.853,
+   "to": "C",
+   "to_p": 1.0,
+   "n": 1,
+   "ufb": "tip",
+   "clade": {
+    "Dinophyceae (ODC fusion)": 1
+   },
+   "ex": [
+    "Alexandrium tamarense"
+   ]
+  },
+  {
+   "frm": "R",
+   "frm_p": 0.991,
+   "to": "A",
+   "to_p": 1.0,
+   "n": 1,
+   "ufb": "tip",
+   "clade": {
+    "Chlorophyta": 1
+   },
+   "ex": [
+    "Auxenochlorella protothec"
+   ]
+  },
+  {
+   "frm": "R",
+   "frm_p": 0.762,
+   "to": "G",
+   "to_p": 1.0,
+   "n": 1,
+   "ufb": "tip",
+   "clade": {
+    "other green": 1
+   },
+   "ex": [
+    "Chara braunii (Braun's st"
+   ]
+  },
+  {
+   "frm": "R",
+   "frm_p": 0.75,
+   "to": "C",
+   "to_p": 0.963,
+   "n": 7,
+   "ufb": null,
+   "clade": {
+    "land plants": 7
+   },
+   "ex": [
+    "Solanum tuberosum (Potato",
+    "Dillenia turbinata"
+   ]
+  },
+  {
+   "frm": "C",
+   "frm_p": 0.964,
+   "to": "S",
+   "to_p": 0.816,
+   "n": 5,
+   "ufb": null,
+   "clade": {
+    "land plants": 5
+   },
+   "ex": [
+    "Solanum tuberosum (Potato",
+    "Dillenia turbinata"
+   ]
+  },
+  {
+   "frm": "S",
+   "frm_p": 0.816,
+   "to": "N",
+   "to_p": 1.0,
+   "n": 1,
+   "ufb": "tip",
+   "clade": {
+    "land plants": 1
+   },
+   "ex": [
+    "Taxus chinensis (Chinese "
+   ]
+  },
+  {
+   "frm": "S",
+   "frm_p": 0.99,
+   "to": "D",
+   "to_p": 1.0,
+   "n": 1,
+   "ufb": "tip",
+   "clade": {
+    "land plants": 1
+   },
+   "ex": [
+    "Solanum tuberosum (Potato"
+   ]
+  },
+  {
+   "frm": "R",
+   "frm_p": 0.587,
+   "to": "S",
+   "to_p": 1.0,
+   "n": 1,
+   "ufb": "tip",
+   "clade": {
+    "Rhodophyta": 1
+   },
+   "ex": [
+    "Compsopogon caeruleus"
+   ]
+  },
+  {
+   "frm": "F",
+   "frm_p": 0.669,
+   "to": "Y",
+   "to_p": 0.54,
+   "n": 4,
+   "ufb": null,
+   "clade": {
+    "Rhodophyta": 4
+   },
+   "ex": [
+    "Agarophyton chilense",
+    "Gracilariopsis chorda"
+   ]
+  },
+  {
+   "frm": "F",
+   "frm_p": 0.838,
+   "to": "A",
+   "to_p": 1.0,
+   "n": 1,
+   "ufb": "tip",
+   "clade": {
+    "Rhodophyta": 1
+   },
+   "ex": [
+    "Pyropia yezoensis"
+   ]
+  },
+  {
+   "frm": "F",
+   "frm_p": 0.831,
+   "to": "Y",
+   "to_p": 1.0,
+   "n": 1,
+   "ufb": "tip",
+   "clade": {
+    "Rhodophyta": 1
+   },
+   "ex": [
+    "Rhodosorus marinus"
+   ]
+  },
+  {
+   "frm": "Y",
+   "frm_p": 0.54,
+   "to": "S",
+   "to_p": 0.901,
+   "n": 2,
+   "ufb": null,
+   "clade": {
+    "Rhodophyta": 2
+   },
+   "ex": [
+    "Agarophyton chilense",
+    "Gracilariopsis chorda"
+   ]
+  },
+  {
+   "frm": "Y",
+   "frm_p": 0.583,
+   "to": "Q",
+   "to_p": 1.0,
+   "n": 1,
+   "ufb": "tip",
+   "clade": {
+    "Rhodophyta": 1
+   },
+   "ex": [
+    "Delisea pulchra"
+   ]
+  },
+  {
+   "frm": "F",
+   "frm_p": 0.694,
+   "to": "S",
+   "to_p": 1.0,
+   "n": 1,
+   "ufb": "tip",
+   "clade": {
+    "Rhodophyta": 1
+   },
+   "ex": [
+    "Cyanidium caldarium"
+   ]
+  },
+  {
+   "frm": "H",
+   "frm_p": 0.313,
+   "to": "T",
+   "to_p": 0.483,
+   "n": 3,
+   "ufb": null,
+   "clade": {
+    "Haptophyta": 3
+   },
+   "ex": [
+    "Diacronema lutheri",
+    "Pavlova sp. CCMP459"
+   ]
+  },
+  {
+   "frm": "T",
+   "frm_p": 0.483,
+   "to": "M",
+   "to_p": 1.0,
+   "n": 1,
+   "ufb": "tip",
+   "clade": {
+    "Haptophyta": 1
+   },
+   "ex": [
+    "Diacronema lutheri"
+   ]
+  },
+  {
+   "frm": "H",
+   "frm_p": 0.564,
+   "to": "L",
+   "to_p": 0.987,
+   "n": 4,
+   "ufb": null,
+   "clade": {
+    "Haptophyta": 4
+   },
+   "ex": [
+    "Isochrysis galbana",
+    "Calcidiscus leptoporus"
+   ]
+  },
+  {
+   "frm": "H",
+   "frm_p": 0.994,
+   "to": "N",
+   "to_p": 1.0,
+   "n": 1,
+   "ufb": "tip",
+   "clade": {
+    "Haptophyta": 1
+   },
+   "ex": [
+    "Haptolina ericina"
+   ]
+  },
+  {
+   "frm": "W",
+   "frm_p": 0.735,
+   "to": "Y",
+   "to_p": 1.0,
+   "n": 1,
+   "ufb": "tip",
+   "clade": {
+    "Cryptophyceae": 1
+   },
+   "ex": [
+    "Goniomonas pacifica"
+   ]
+  },
+  {
+   "frm": "W",
+   "frm_p": 0.94,
+   "to": "Y",
+   "to_p": 1.0,
+   "n": 1,
+   "ufb": "tip",
+   "clade": {
+    "Cryptophyceae": 1
+   },
+   "ex": [
+    "Hemiselmis virescens"
+   ]
+  },
+  {
+   "frm": "W",
+   "frm_p": 0.74,
+   "to": "Y",
+   "to_p": 1.0,
+   "n": 1,
+   "ufb": "tip",
+   "clade": {
+    "Euglenida": 1
+   },
+   "ex": [
+    "Eutreptiella gymnastica"
+   ]
+  },
+  {
+   "frm": "D",
+   "frm_p": 0.838,
+   "to": "S",
+   "to_p": 1.0,
+   "n": 1,
+   "ufb": "tip",
+   "clade": {
+    "other opisthokonts": 1
+   },
+   "ex": [
+    "Fonticula alba (Slime mol"
+   ]
+  },
+  {
+   "frm": "D",
+   "frm_p": 0.762,
+   "to": "R",
+   "to_p": 0.981,
+   "n": 10,
+   "ufb": null,
+   "clade": {
+    "Fungi": 10
+   },
+   "ex": [
+    "Saccharomyces cerevisiae ",
+    "Babjeviella inositovora N"
+   ]
+  },
+  {
+   "frm": "D",
+   "frm_p": 0.745,
+   "to": "N",
+   "to_p": 1.0,
+   "n": 1,
+   "ufb": "tip",
+   "clade": {
+    "Amoebozoa": 1
+   },
+   "ex": [
+    "Acanthamoeba castellanii "
+   ]
+  },
+  {
+   "frm": "R",
+   "frm_p": 0.981,
+   "to": "Y",
+   "to_p": 1.0,
+   "n": 1,
+   "ufb": "tip",
+   "clade": {
+    "Fungi": 1
+   },
+   "ex": [
+    "Testicularia cyperi"
+   ]
+  },
+  {
+   "frm": "R",
+   "frm_p": 0.94,
+   "to": "K",
+   "to_p": 0.819,
+   "n": 2,
+   "ufb": null,
+   "clade": {
+    "Fungi": 2
+   },
+   "ex": [
+    "Saccharomyces cerevisiae ",
+    "Babjeviella inositovora N"
+   ]
+  },
+  {
+   "frm": "D",
+   "frm_p": 0.997,
+   "to": "S",
+   "to_p": 1.0,
+   "n": 1,
+   "ufb": "tip",
+   "clade": {
+    "Metazoa": 1
+   },
+   "ex": [
+    "Caenorhabditis elegans"
+   ]
+  },
+  {
+   "frm": "D",
+   "frm_p": 0.666,
+   "to": "E",
+   "to_p": 1.0,
+   "n": 1,
+   "ufb": "tip",
+   "clade": {
+    "Metazoa": 1
+   },
+   "ex": [
+    "Macrostomum lignano"
+   ]
+  },
+  {
+   "frm": "D",
+   "frm_p": 0.666,
+   "to": "R",
+   "to_p": 0.231,
+   "n": 2,
+   "ufb": null,
+   "clade": {
+    "Metazoa": 2
+   },
+   "ex": [
+    "Rodentolepis nana (Dwarf ",
+    "Echinococcus canadensis"
+   ]
+  },
+  {
+   "frm": "R",
+   "frm_p": 0.231,
+   "to": "V",
+   "to_p": 1.0,
+   "n": 1,
+   "ufb": "tip",
+   "clade": {
+    "Metazoa": 1
+   },
+   "ex": [
+    "Echinococcus canadensis"
+   ]
+  },
+  {
+   "frm": "D",
+   "frm_p": 0.884,
+   "to": "Q",
+   "to_p": 1.0,
+   "n": 1,
+   "ufb": "tip",
+   "clade": {
+    "Metazoa": 1
+   },
+   "ex": [
+    "Rotaria sordida"
+   ]
+  },
+  {
+   "frm": "D",
+   "frm_p": 0.884,
+   "to": "N",
+   "to_p": 1.0,
+   "n": 1,
+   "ufb": "tip",
+   "clade": {
+    "Metazoa": 1
+   },
+   "ex": [
+    "Trichuris muris (Mouse wh"
+   ]
+  }
+ ]
+}

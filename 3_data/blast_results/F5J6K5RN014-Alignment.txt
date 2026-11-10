@@ -1,0 +1,1724 @@
+RID: F5J6K5RN014	
+Job Title:B Euglenid Diplonemid SpdSyn TSA				
+Program: TBLASTN 
+Database: tsa (17 databases) 
+Query #1: Tbrucei_spermidine_synthase Query ID: lcl|Query_2598083 Length: 298
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Sulcionema specki strain YPF1618 isolate water source...                                          0          255    255   98%   2e-80 44.52  1150       GLIH01033072.1   
+Namystynia karyoxenos strain YPF1621 isolate water source...                                      0          253    253   96%   7e-80 47.02  1127       GLIJ01038254.1   
+Hemistasia phaeocysticola strain YPF1303 Hpha_DN15506_c7_g4_i1                                    0          253    253   97%   8e-80 45.49  1173       GHOA01039491.1   
+TSA: Eutreptiella gymnastica, TRINITY-DN8459-c0-g1-i1                                             0          263    263   95%   2e-78 46.64  2820       HBJA01152862.1   
+Lacrimia lanifica strain YPF1601 isolate water source...                                          0          249    249   95%   4e-77 45.07  1387       GLIG01021529.1   
+Rhynchopus humris strain YPF1608 isolate water source...                                          0          246    246   96%   9e-77 43.60  1202       GLIF01018533.1   
+Euglena longa strain CCAP 1204-17a Contig36159                                                    0          243    243   96%   2e-76 43.21  1013       GGOE01036090.1   
+Euglena longa strain CCAP 1204-17a Contig63284                                                    0          243    243   96%   7e-76 43.21  1148       GGOE01061367.1   
+Diplonema japonicum strain YPF1604 isolate water source...                                        0          241    241   97%   2e-75 43.79  1085       GLIE01017899.1   
+TSA: Euglena gracilis EG_transcript_20956 transcribed RNA...                                      0          239    239   96%   2e-75 42.86  948        GEFR01020952.1   
+TSA: Euglena gracilis comp22495_c0_seq1 transcribed RNA sequence                                  0          238    238   96%   2e-74 42.51  1030       GDJR01022181.1   
+Rhynchopus humris strain YPF1608 isolate water source...                                          0          236    236   92%   1e-72 43.53  1260       GLIF01018315.1   
+Diplonema papillatum Dpap_TRINITY_DN44372_c0_g10525_i1                                            0          237    237   95%   2e-71 44.37  1778       GJNJ01040104.1   
+Rhynchopus humris TRINITY_DN10933_c0_g4960_i0                                                     0          236    236   92%   8e-68 43.53  3949       GJQB01003947.1   
+Sulcionema specki strain YPF1618 isolate water source...                                          0          160    263   94%   2e-61 43.75  1197       GLIH01032848.1   
+Diplonema japonicum TRINITY_DN117_c0_g86_i0                                                       0          191    191   72%   3e-52 43.26  12887      GJQA01000065.1   
+Sulcionema specki strain YPF1618 isolate water source...                                          0          135    135   64%   3e-34 37.82  1106       GLIH01032414.1   
+Euglena longa strain CCAP 1204-17a Contig13753                                                    0          134    134   93%   4e-34 32.75  1006       GGOE01013736.1   
+Sulcionema specki strain YPF1618 isolate water source...                                          0          135    135   64%   4e-34 37.82  1183       GLIH01031010.1   
+Rhabdomonas costata strain PANT2 RC_TR35697_c0_g1_i1                                              0          132    132   93%   1e-33 28.11  1029       GJGC01064731.1   
+TSA: Euglena gracilis comp22795_c0_seq2 transcribed RNA sequence                                  0          134    134   66%   3e-33 38.31  1470       GDJR01022779.1   
+TSA: Euglena gracilis comp22795_c0_seq1 transcribed RNA sequence                                  0          134    134   66%   4e-33 38.31  1504       GDJR01022778.1   
+Rhabdomonas costata strain PANT2 RC_TR18104_c0_g1_i1                                              0          129    129   97%   4e-32 30.07  1135       GJGC01033217.1   
+TSA: Eutreptiella gymnastica, TRINITY-DN39493-c13-g2-i1                                           0          129    129   64%   2e-31 33.85  1501       HBJA01120097.1   
+Rhabdomonas costata strain PANT2 RC_TR47669_c0_g1_i1                                              0          127    127   91%   3e-31 29.54  1240       GJGC01082198.1   
+TSA: Eutreptiella gymnastica, TRINITY-DN39493-c13-g2-i2                                           0          129    129   64%   3e-31 33.85  1671       HBJA01120098.1   
+Lacrimia lanifica strain YPF1601 isolate water source...                                          0          129    129   91%   8e-31 30.55  1913       GLIG01016048.1   
+Lacrimia lanifica strain YPF1601 isolate water source...                                          0          129    129   91%   9e-31 30.55  2062       GLIG01015253.1   
+Lacrimia lanifica strain YPF1601 isolate water source...                                          0          129    129   91%   1e-30 30.55  2340       GLIG01012611.1   
+Namystynia karyoxenos strain YPF1621 isolate water source...                                      0          124    124   64%   6e-30 35.90  1340       GLIJ01029140.1   
+Diplonema japonicum TRINITY_DN27641_c0_g16243_i0                                                  0          123    123   91%   7e-30 30.80  1199       GJQA01014167.1   
+Diplonema japonicum strain YPF1604 isolate water source...                                        0          123    123   91%   8e-30 30.80  1224       GLIE01017367.1   
+Rhynchopus humris strain YPF1608 isolate water source...                                          0          125    125   67%   1e-29 33.99  1677       GLIF01013359.1   
+Rhynchopus humris TRINITY_DN22882_c0_g10128_i0                                                    0          125    125   67%   2e-29 33.99  1922       GJQB01007643.1   
+Hemistasia phaeocysticola strain YPF1303 Hpha_DN3924_c0_g1_i1                                     0          120    120   64%   1e-28 35.57  1155       GHOA01006415.1   
+Lacrimia lanifica strain YPF1601 isolate water source...                                          0          122    122   95%   2e-28 28.57  2132       GLIG01013280.1   
+TSA: Eutreptiella gymnastica, TRINITY-DN39025-c12-g9-i1                                           0          120    120   96%   7e-28 32.31  3604       HBJA01103769.1   
+Sulcionema specki strain YPF1618 isolate water source...                                          0          117    117   51%   8e-28 40.52  1144       GLIH01034241.1   
+TSA: Euglena gracilis EG_transcript_14057 transcribed RNA...                                      0          114    114   54%   2e-26 38.65  1284       GEFR01014056.1   
+Diplonema japonicum strain YPF1604 isolate water source...                                        0          114    114   90%   2e-26 29.03  1269       GLIE01018345.1   
+Artemidia motanka strain YPF1610 isolate water source...                                          0          113    113   64%   4e-26 32.99  1141       GLII01027820.1   
+Artemidia motanka strain YPF1610 isolate water source...                                          0          111    111   90%   1e-24 28.47  1779       GLII01016546.1   
+Hemistasia phaeocysticola strain YPF1303 Hpha_DN29854_c0_g1_i1                                    0          110    110   90%   1e-24 28.06  1258       GHOA01001683.1   
+TSA: Euglena gracilis EG_transcript_15313 transcribed RNA...                                      0          107    107   79%   9e-24 29.88  1215       GEFR01015322.1   
+Euglena longa strain CCAP 1204-17a Contig14910                                                    0          107    107   86%   1e-23 29.15  1388       GGOE01014893.1   
+TSA: Euglena gracilis comp26403_c0_seq1 transcribed RNA sequence                                  0          107    107   79%   1e-23 29.88  1357       GDJR01032061.1   
+Sulcionema specki strain YPF1618 isolate water source...                                          0          106    106   90%   1e-23 28.62  1252       GLIH01030341.1   
+Sulcionema specki strain YPF1618 isolate water source...                                          0          106    106   90%   2e-23 28.62  1433       GLIH01024240.1   
+Diplonema papillatum Dpap_TRINITY_DN26270_c0_g9305_i3                                             0          106    106   61%   8e-23 33.15  2901       GJNJ01023324.1   
+Diplonema papillatum Dpap_TRINITY_DN24256_c0_g9305_i2                                             0          105    105   61%   1e-22 33.15  3069       GJNJ01021502.1   
+Lacrimia lanifica strain YPF1601 isolate water source...                                          0          103    103   90%   5e-22 27.56  1586       GLIG01018039.1   
+Namystynia karyoxenos strain YPF1621 isolate water source...                                      0          101    101   90%   1e-21 25.98  1303       GLIJ01030281.1   
+Rhynchopus humris strain YPF1608 isolate water source...                                          0          100    100   90%   8e-21 27.24  2210       GLIF01009991.1   
+Rhynchopus humris strain YPF1608 isolate water source...                                          0          100    100   90%   9e-21 27.24  2389       GLIF01009104.1   
+TSA: Eutreptiella gymnastica, TRINITY-DN40268-c0-g1-i1                                            0          98.2   98.2  88%   1e-20 27.84  1110       HBJA01140445.1   
+
+
+Alignments:
+
+>TSA: Sulcionema specki strain YPF1618 isolate water source rnacontig032634, transcribed RNA sequence
+Sequence ID: GLIH01033072.1 Length: 1150
+Range 1: 53 to 904
+
+Score:255 bits(651), Expect:2e-80, 
+Method:Compositional matrix adjust., 
+Identities:140/292(48%), Positives:190/292(65%), Gaps:9/292(3%)
+
+Query  1    MPGPGLLADGWFREENGQWPGQAMSFKVEEVLHDTPTKFQHLSIFETDPKGPWGTVMTLD  60
+            +P    +  GWF E +  WPGQA S +++EVL D  + FQH+ +F+   KGPWGTV  LD
+Sbjct  53   LPTMEAIGKGWFSELSPMWPGQAQSLEIDEVLWDKKSDFQHVQVFKN--KGPWGTVFALD  226
+
+Query  61   GCIQLTDFDEFVYHEMLSHTPLCAHPDPvdvliigggdggvMREVLRHGTVKRCVLVDID  120
+            G IQ+TD DEF YHEM++H PL  HP+P  VLIIGGGDGG MREVLRH +V+   L D+D
+Sbjct  227  GAIQVTDKDEFSYHEMMAHIPLFGHPEPKKVLIIGGGDGGAMREVLRHQSVESVTLCDVD  406
+
+Query  121  GDVIEASKKYFPQISSGFSDPRADVRVGDGVAFVREAASESFDVVIIDTTDPDGPAAELF  180
+              V E SK++FP++S  FSDPRA V +GDG  F+ +   E +DV+I+D++DP+GPA+ LF
+Sbjct  407  KMVPEISKQFFPKLSCSFSDPRATVHIGDGFKFLEDKKGE-YDVLIVDSSDPEGPASTLF  583
+
+Query  181  GEKFYRDVLRILKPRGICCNQGESVWLNRNLIEGMADFIKNKVGFASVKYAMIYTPTYPC  240
+            G+ FY      L+  G+   QGES W++  LI+ M  FI+ ++GF  V Y  I  PTYPC
+Sbjct  584  GKDFYERCRASLREGGVLVTQGESYWIHLELIKKMTGFIR-EIGFKHVDYCNISMPTYPC  760
+
+Query  241  GSIGSLICSKVAGVDVTQPVR-PVESMPFAGELKYYDSDVHKAAFVLPRFAR  291
+            G+IG  +CS       ++P R P E +    +L+ Y   +H+ AFVLP F +
+Sbjct  761  GNIGFFVCSDARS--FSEPCREPTEEI--QDKLQMYSPAIHRQAFVLPPFVQ  904
+
+
+
+
+>TSA: Namystynia karyoxenos strain YPF1621 isolate water source rnacontig037275, transcribed RNA sequence
+Sequence ID: GLIJ01038254.1 Length: 1127
+Range 1: 92 to 925
+
+Score:253 bits(646), Expect:7e-80, 
+Method:Compositional matrix adjust., 
+Identities:146/285(51%), Positives:185/285(64%), Gaps:7/285(2%)
+
+Query  7    LADGWFREENGQWPGQAMSFKVEEVLHDTPTKFQHLSIFETDPKGPWGTVMTLDGCIQLT  66
+            +  GWF E +  WPGQA S +V+EVL D  +++QH+ +F    KGPWGTV  LDG IQ+T
+Sbjct  92   VGKGWFSELSPMWPGQAQSLEVDEVLWDKRSEYQHVQVFRN--KGPWGTVFALDGAIQVT  265
+
+Query  67   DFDEFVYHEMLSHTPLCAHPDPvdvliigggdggvMREVLRHGTVKRCVLVDIDGDVIEA  126
+            D DEF YHEML H P+ +HP PV VLIIGGGDGGVMREVLRH +V++  LVDID  V E 
+Sbjct  266  DKDEFSYHEMLGHIPMFSHPKPVRVLIIGGGDGGVMREVLRHKSVEKVTLVDIDAMVPEI  445
+
+Query  127  SKKYFPQISSGFSDPRADVRVGDGVAFVREAASESFDVVIIDTTDPDGPAAELFGEKFYR  186
+            SKK++P++S  FSDPRA+  VGDG  F+ E  S  FDV+I D++DP+GPA+ LFG  FY 
+Sbjct  446  SKKFYPKLSCSFSDPRAEHIVGDGFKFL-EGRSGEFDVIICDSSDPEGPASTLFGRDFYE  622
+
+Query  187  DVLRILKPRGICCNQGESVWLNRNLIEGMADFIKNKVGFASVKYAMIYTPTYPCGSIGSL  246
+                 L P G+   QGES W++  LI  M +FI+  +GF   +Y  I  PTYPCG+IG  
+Sbjct  623  RCRAALAPGGLLVTQGESYWIHLKLIRDMIEFIR-AIGFKHCEYCNISMPTYPCGNIGFF  799
+
+Query  247  ICSKVAGVDVTQPVRPVESMPFAGELKYYDSDVHKAAFVLPRFAR  291
+            +CS   G    +P R  E       LK Y   +H+ AFVLP F +
+Sbjct  800  VCSD--GRSGAEPCREPEP-EMQDILKMYSPAMHRQAFVLPPFVQ  925
+
+
+
+
+>TSA: Hemistasia phaeocysticola strain YPF1303 Hpha_DN15506_c7_g4_i1, transcribed RNA sequence
+Sequence ID: GHOA01039491.1 Length: 1173
+Range 1: 245 to 1087
+
+Score:253 bits(647), Expect:8e-80, 
+Method:Compositional matrix adjust., 
+Identities:142/288(49%), Positives:186/288(64%), Gaps:7/288(2%)
+
+Query  4     PGLLADGWFREENGQWPGQAMSFKVEEVLHDTPTKFQHLSIFETDPKGPWGTVMTLDGCI  63
+             P  +  GW+ E +  WPGQA S +V+EVL D  ++FQH+ +F+   KGPWGTV  LDG I
+Sbjct  1087  PSGVGKGWWSEVSTMWPGQAQSLEVDEVLWDKKSEFQHVYVFKN--KGPWGTVFALDGAI  914
+
+Query  64    QLTDFDEFVYHEMLSHTPLCAHPDPvdvliigggdggvMREVLRHGTVKRCVLVDIDGDV  123
+             Q+TD DEF YHEM++H P  AH  P  VLIIGGGDGGVMREVLRH +V+   L DID  V
+Sbjct  913   QVTDKDEFSYHEMMAHIPCFAHEGPKKVLIIGGGDGGVMREVLRHASVESVTLCDIDAMV  734
+
+Query  124   IEASKKYFPQISSGFSDPRADVRVGDGVAFVREAASESFDVVIIDTTDPDGPAAELFGEK  183
+              E SKK++P +S  F+DPRA   VGDG  F+ + + E FDV+I D++DP+GPA+ LFG+ 
+Sbjct  733   PEISKKFYPHLSKSFADPRATHIVGDGFKFLEDKSGE-FDVIICDSSDPEGPASTLFGKD  557
+
+Query  184   FYRDVLRILKPRGICCNQGESVWLNRNLIEGMADFIKNKVGFASVKYAMIYTPTYPCGSI  243
+             FY      L+P G+   QGES W++ +LI+ M DFI++ +GF  V Y  I  PTYPCG+I
+Sbjct  556   FYNRCKGALRPGGVLVTQGESYWIHLDLIKSMTDFIRD-IGFKHVDYCNISMPTYPCGNI  380
+
+Query  244   GSLICSKVAGVDVTQPVRPVESMPFAGELKYYDSDVHKAAFVLPRFAR  291
+             G  +CS        +P R   S     +L+ Y   +H+ AFVLP F  
+Sbjct  379   GFFVCSDAR--SAKEPSRE-PSQEVQDQLQMYSPAIHRQAFVLPPFVE  245
+
+
+
+
+>TSA: Eutreptiella gymnastica, TRINITY-DN8459-c0-g1-i1, transcribed RNA sequence
+Sequence ID: HBJA01152862.1 Length: 2820
+Range 1: 51 to 875
+
+Score:263 bits(671), Expect:2e-78, 
+Method:Compositional matrix adjust., 
+Identities:142/283(50%), Positives:197/283(69%), Gaps:8/283(2%)
+
+Query  10   GWFREENGQWPGQAMSFKVEEVLHDTPTKFQHLSIFETDPKGPWGTVMTLDGCIQLTDFD  69
+            GWF E +  WPGQA+S +VEE+L +  + FQ + +F++     WGTV TLDG IQ+ D D
+Sbjct  51   GWFSEISSFWPGQAISLEVEEMLFEGRSDFQDIKVFKSKA---WGTVFTLDGAIQVCDKD  221
+
+Query  70   EFVYHEMLSHTPLCAHPDPvdvliigggdggvMREVLRHGTVKRCVLVDIDGDVIEASKK  129
+            EF YHE ++H PL +HP+P  VLIIGGGDGG MREVL+H +V++C L D+D  V E S+K
+Sbjct  222  EFSYHENIAHIPLFSHPEPKQVLIIGGGDGGAMREVLKHESVQKCTLCDVDKMVPEISRK  401
+
+Query  130  YFPQISSGFSDPRADVRVGDGVAFVREAASESFDVVIIDTTDPDGPAAELFGEKFYRDVL  189
+            YFP++S  F DPRADV +GDG   + E  ++ +DV+I+D++DPDGPA+ LFGE+F+    
+Sbjct  402  YFPKLSCAFDDPRADVIIGDGFKHL-EDKNDCYDVIIVDSSDPDGPASTLFGEEFFSRCK  578
+
+Query  190  RILKPRGICCNQGESVWLNRNLIEGMADFIKNKVGFASVKYAMIYTPTYPCGSIGSLICS  249
+            R L   GI   Q E++W++ +LI  M +FI+ K+G+ASV+YA I  P+YP G IG  +CS
+Sbjct  579  RALHADGILVTQAENMWIHLDLISEMKEFIE-KIGWASVEYANISIPSYPSGCIGFFVCS  755
+
+Query  250  KVAGVDVTQPVRPVESMPFAGELKYYDSDVHKAAFVLPRFARH  292
+            K       +PVRP+ S  +   L+YYD  +H+AAF+LPRF R+
+Sbjct  756  KKGS--CAEPVRPIPS-AWGPALRYYDDTMHRAAFMLPRFVRN  875
+
+
+
+
+>TSA: Lacrimia lanifica strain YPF1601 isolate water source transcontig021042, transcribed RNA sequence
+Sequence ID: GLIG01021529.1 Length: 1387
+Range 1: 88 to 918
+
+Score:249 bits(635), Expect:4e-77, 
+Method:Compositional matrix adjust., 
+Identities:139/284(49%), Positives:190/284(66%), Gaps:9/284(3%)
+
+Query  10   GWFREEN-GQWPGQAMSFKVE-EVLHDTPTKFQHLSIFETDPKGPWGTVMTLDGCIQLTD  67
+            GWF E N G WPGQA+S +++ E + +  +++Q + +F+   KGPWGTV  LDG IQ+TD
+Sbjct  88   GWFSEVNQGFWPGQALSLEMDGEPMWNKKSEYQDVLVFKN--KGPWGTVFCLDGAIQVTD  261
+
+Query  68   FDEFVYHEMLSHTPLCAHPDPvdvliigggdggvMREVLRHGTVKRCVLVDIDGDVIEAS  127
+             DEF YHEML++ P+C+HP+P +VLIIGGGDGGVMREVL+  +V+ C L DID  V E S
+Sbjct  262  KDEFSYHEMLANLPVCSHPEPKNVLIIGGGDGGVMREVLKTKSVETCTLCDIDAMVPEIS  441
+
+Query  128  KKYFPQISSGFSDPRADVRVGDGVAFVREAASESFDVVIIDTTDPDGPAAELFGEKFYRD  187
+            +K+FP +S  F DPRA + VGDG  F+ +   +++DV+I+D++DPDGPA+ LFG+ FY  
+Sbjct  442  RKFFPHLSCSFDDPRATLLVGDGFKFLEDKV-DAYDVIIVDSSDPDGPASTLFGKDFYSR  618
+
+Query  188  VLRILKPRGICCNQGESVWLNRNLIEGMADFIKNKVGFASVKYAMIYTPTYPCGSIGSLI  247
+              + L+P G+   QGES W++ +LI+ M  F K ++GF  V+YA I  PTYPCG IG  I
+Sbjct  619  CRKALRPGGVIATQGESYWIHLDLIKSMVKFQK-EIGFKHVEYANIAMPTYPCGGIGFFI  795
+
+Query  248  CSKVAGVDVTQPVRPVESMPFAGELKYYDSDVHKAAFVLPRFAR  291
+            CS            P E    A ELK Y  ++H  AF+LP F +
+Sbjct  796  CSDERSCATPAREHPEE---VANELKMYSKEMHTQAFILPPFVK  918
+
+
+
+
+>TSA: Rhynchopus humris strain YPF1608 isolate water source rnacontig021010, transcribed RNA sequence
+Sequence ID: GLIF01018533.1 Length: 1202
+Range 1: 290 to 1129
+
+Score:246 bits(627), Expect:9e-77, 
+Method:Compositional matrix adjust., 
+Identities:137/289(47%), Positives:194/289(67%), Gaps:13/289(4%)
+
+Query  7     LADGWFREENGQ-WPGQAMSFKVE-EVLHDTPTKFQHLSIFETDPKGPWGTVMTLDGCIQ  64
+             + DGWF E + + WPGQA+S +V+ E+L +  + FQ + +F+   KGPWGTV  LDG IQ
+Sbjct  1129  IKDGWFSEISQEMWPGQALSLEVDGELLWNKKSDFQDVLVFKN--KGPWGTVFALDGAIQ  956
+
+Query  65    LTDFDEFVYHEMLSHTPLCAHPDPvdvliigggdggvMREVLRHGTVKRCVLVDIDGDVI  124
+             +TD DEF YHEM++H PL +HPDP  VLIIGGGDGGVM +VL+H +V+   L D+D  V 
+Sbjct  955   VTDKDEFSYHEMMAHLPLFSHPDPKKVLIIGGGDGGVMGQVLKHPSVESVTLCDVDKMVP  776
+
+Query  125   EASKKYFPQISSGFSDPRADVRVGDGVAFVREAASESFDVVIIDTTDPDGPAAELFGEKF  184
+             E S+K+FP +++ + DPRA + +GDG AF+ +  +E +DV+I+D++DP+GPA+ LFG++F
+Sbjct  775   EISRKFFPHLAASYDDPRATLNIGDGFAFLEDKENE-YDVLIVDSSDPEGPASTLFGQEF  599
+
+Query  185   YRDVLRILKPRGICCNQGESVWLNRNLIEGMADFIKNKVGFASVKYAMIYTPTYPCGSIG  244
+             Y    + LKP G+   QGES W++  LI+ M  FI+ ++GF  V+YA I  PTYPCG IG
+Sbjct  598   YARCRKALKPDGVLVTQGESYWIHLPLIKKMTGFIR-EIGFQHVEYAQISIPTYPCGGIG  422
+
+Query  245   SLICS--KVAGVDVTQPVRPVESMPFAGELKYYDSDVHKAAFVLPRFAR  291
+               +CS  K     V +P   V+      +LK Y  ++H  AF LP F +
+Sbjct  421   FFVCSDAKSTATPVREPTPEVQE-----QLKMYSPEMHVQAFTLPPFVK  290
+
+
+
+
+>TSA: Euglena longa strain CCAP 1204-17a Contig36159, transcribed RNA sequence
+Sequence ID: GGOE01036090.1 Length: 1013
+Range 1: 30 to 860
+
+Score:243 bits(620), Expect:2e-76, 
+Method:Compositional matrix adjust., 
+Identities:135/287(47%), Positives:191/287(66%), Gaps:12/287(4%)
+
+Query  7    LADGWFREENGQWPGQAMSFKVEEVLHDTPTKFQHLSIFETDPKGPWGTVMTLDGCIQLT  66
+            L  GW+ E +  WPGQA S +VEE+L +  + FQ + +F++     WGTV TLDG IQ+T
+Sbjct  30   LIPGWYSEISNFWPGQAQSLEVEEMLFEGKSDFQEVKVFKSKA---WGTVFTLDGAIQVT  200
+
+Query  67   DFDEFVYHEMLSHTPLCAHPDPvdvliigggdggvMREVLRHGTVKRCVLVDIDGDVIEA  126
+            D DEF YHE L+H  L +HP+P +VLIIGGGDGGVMREVL+H +V++C L D+D  V E 
+Sbjct  201  DKDEFSYHENLAHISLFSHPNPKNVLIIGGGDGGVMREVLKHESVEKCTLCDVDKMVPEI  380
+
+Query  127  SKKYFPQISSGFSDPRADVRVGDGVAFVREAASESFDVVIIDTTDPDGPAAELFGEKFYR  186
+            ++KYFP++S  F DPRA+V +GDG AF+ E     +DV+I+D++DP+GPA+ LFG++F+ 
+Sbjct  381  AEKYFPKLSCSFKDPRAEVHIGDGFAFL-EDKKNCYDVIIVDSSDPEGPASTLFGKEFFT  557
+
+Query  187  DVLRILKPRGICCNQGESVWLNRNLIEGMADFIKNKVGFASVKYAMIYTPTYPCGSIGSL  246
+                 L+  G    Q E +W++ +LI  M  FI+  +G+ +V+Y+ I  P+YP G IG  
+Sbjct  558  RCKEALRDDGNLLTQAECMWIHLDLIAKMKTFIET-IGWKTVEYSYISIPSYPSGCIGFF  734
+
+Query  247  ICSKVAGVDVTQPVRPVESMPFA--GELKYYDSDVHKAAFVLPRFAR  291
+            +CSK           P+ S+P A    L+YYD  +H+AAF+LPRF R
+Sbjct  735  VCSKRGSCK-----EPLRSVPPAMLDTLQYYDETMHRAAFMLPRFLR  860
+
+
+
+
+>TSA: Euglena longa strain CCAP 1204-17a Contig63284, transcribed RNA sequence
+Sequence ID: GGOE01061367.1 Length: 1148
+Range 1: 29 to 859
+
+Score:243 bits(620), Expect:7e-76, 
+Method:Compositional matrix adjust., 
+Identities:135/287(47%), Positives:191/287(66%), Gaps:12/287(4%)
+
+Query  7    LADGWFREENGQWPGQAMSFKVEEVLHDTPTKFQHLSIFETDPKGPWGTVMTLDGCIQLT  66
+            L  GW+ E +  WPGQA S +VEE+L +  + FQ + +F++     WGTV TLDG IQ+T
+Sbjct  29   LIPGWYSEISNFWPGQAQSLEVEEMLFEGKSDFQEVKVFKSKA---WGTVFTLDGAIQVT  199
+
+Query  67   DFDEFVYHEMLSHTPLCAHPDPvdvliigggdggvMREVLRHGTVKRCVLVDIDGDVIEA  126
+            D DEF YHE L+H  L +HP+P +VLIIGGGDGGVMREVL+H +V++C L D+D  V E 
+Sbjct  200  DKDEFSYHENLAHISLFSHPNPKNVLIIGGGDGGVMREVLKHESVEKCTLCDVDKMVPEI  379
+
+Query  127  SKKYFPQISSGFSDPRADVRVGDGVAFVREAASESFDVVIIDTTDPDGPAAELFGEKFYR  186
+            ++KYFP++S  F DPRA+V +GDG AF+ E     +DV+I+D++DP+GPA+ LFG++F+ 
+Sbjct  380  AEKYFPKLSCSFKDPRAEVHIGDGFAFL-EDKKNCYDVIIVDSSDPEGPASTLFGKEFFT  556
+
+Query  187  DVLRILKPRGICCNQGESVWLNRNLIEGMADFIKNKVGFASVKYAMIYTPTYPCGSIGSL  246
+                 L+  G    Q E +W++ +LI  M  FI+  +G+ +V+Y+ I  P+YP G IG  
+Sbjct  557  RCKEALRDDGNLLTQAECMWIHLDLIAKMKTFIET-IGWKTVEYSYISIPSYPSGCIGFF  733
+
+Query  247  ICSKVAGVDVTQPVRPVESMPFA--GELKYYDSDVHKAAFVLPRFAR  291
+            +CSK           P+ S+P A    L+YYD  +H+AAF+LPRF R
+Sbjct  734  VCSKRGSCK-----EPLRSVPPAMLDTLQYYDETMHRAAFMLPRFLR  859
+
+
+
+
+>TSA: Diplonema japonicum strain YPF1604 isolate water source transcontig019020, transcribed RNA sequence
+Sequence ID: GLIE01017899.1 Length: 1085
+Range 1: 55 to 900
+
+Score:241 bits(616), Expect:2e-75, 
+Method:Compositional matrix adjust., 
+Identities:138/290(48%), Positives:194/290(66%), Gaps:9/290(3%)
+
+Query  7    LADGWFREENGQWPGQAMSFKVEEVLHDTPTKFQHLSIFETDPKGPWGTVMTLDGCIQLT  66
+            +  GWF E +  WPGQA S +V+EVL +  ++FQ + +F+   KGPWGT   LDG IQ+T
+Sbjct  55   IGKGWFSEVSPFWPGQAQSLEVDEVLWNKKSEFQDVLVFKN--KGPWGTCFALDGAIQVT  228
+
+Query  67   DFDEFVYHEMLSHTPLCAHPDPvdvliigggdggvMREVLRHGTVKRCVLVDIDGDVIEA  126
+            D DEF YHEM++H P+ +HP+P +VLIIGGGDGGVM +VL+H +V+   L D+D  V E 
+Sbjct  229  DKDEFSYHEMMAHIPMFSHPNPKNVLIIGGGDGGVMGQVLKHPSVETVTLCDVDKMVPEI  408
+
+Query  127  SKKYFPQISSGFSDPRADVRVGDGVAFVREAASESFDVVIIDTTDPDGPAAELFGEKFYR  186
+            SK +FP++S  F DPRA V +GDG  F+++     +DV+I+D++DP+GPA+ LFG++FY 
+Sbjct  409  SKMFFPKLSCSFDDPRATVHIGDGFEFLKDKEG-MYDVMIVDSSDPEGPASTLFGKEFYE  585
+
+Query  187  DVLRILKPRGICCNQGESVWLNRNLIEGMADFIKNKVGFASVKYAMIYTPTYPCGSIGSL  246
+               + LK  G    QGES W++ +LI+ M  F ++ +GF +V+YA I  PTYPCG+IG  
+Sbjct  586  RCRKSLKKGGRVVTQGESFWIHLDLIKSMTKFQRD-IGFENVEYANITIPTYPCGNIGFF  762
+
+Query  247  ICSKVAGVDVTQPVR-PVESMPFAGELKYYDSDVHKAAFVLPRFARHLNQ  295
+            IC    G   + PVR P E +  AG L+ Y  ++HK +FVLP F +   Q
+Sbjct  763  ICGD--GESCSAPVREPTEEIQ-AG-LQMYSPEMHKQSFVLPPFVKRALQ  900
+
+
+
+
+>TSA: Euglena gracilis EG_transcript_20956 transcribed RNA sequence
+Sequence ID: GEFR01020952.1 Length: 948
+Range 1: 84 to 914
+
+Score:239 bits(611), Expect:2e-75, 
+Method:Compositional matrix adjust., 
+Identities:134/287(47%), Positives:188/287(65%), Gaps:12/287(4%)
+
+Query  7    LADGWFREENGQWPGQAMSFKVEEVLHDTPTKFQHLSIFETDPKGPWGTVMTLDGCIQLT  66
+            L  GW+ E +  WPGQA S +VEE+L +  + FQ + +F+T     WGTV TLDG IQ+T
+Sbjct  914  LIPGWYSEISSFWPGQAQSLEVEEILFEGKSDFQDVKVFKTKA---WGTVFTLDGAIQVT  744
+
+Query  67   DFDEFVYHEMLSHTPLCAHPDPvdvliigggdggvMREVLRHGTVKRCVLVDIDGDVIEA  126
+            D DEF YHE L+H  L +HP+P  VLIIGGGDGGVMREVL+H +V++C L D+D  V E 
+Sbjct  743  DKDEFSYHENLAHIALFSHPNPKQVLIIGGGDGGVMREVLKHESVEKCTLCDVDKMVPEI  564
+
+Query  127  SKKYFPQISSGFSDPRADVRVGDGVAFVREAASESFDVVIIDTTDPDGPAAELFGEKFYR  186
+            ++KYFP+ +    DPRA+V +GDG AF+ E     +DV+I+D++DP+GPA+ LFG++F+ 
+Sbjct  563  AEKYFPKCAVSLKDPRAEVHIGDGFAFL-EDKKNCYDVIIVDSSDPEGPASTLFGKEFFT  387
+
+Query  187  DVLRILKPRGICCNQGESVWLNRNLIEGMADFIKNKVGFASVKYAMIYTPTYPCGSIGSL  246
+                 L+  G    Q E +W++ +LI  M  FI+  +G+ +V+Y+ I  P+YP G IG  
+Sbjct  386  RCKDALREDGNLLTQAECMWIHLDLIAKMKTFIET-IGWKTVEYSYISIPSYPSGCIGFF  210
+
+Query  247  ICSKVAGVDVTQPVRPVESMPFA--GELKYYDSDVHKAAFVLPRFAR  291
+            +CSK           P+ S+P A    L+YYD  +H+AAF+LPRF R
+Sbjct  209  VCSKRGSCK-----EPLRSVPPAMLDTLQYYDETMHRAAFLLPRFVR  84
+
+
+
+
+>TSA: Euglena gracilis comp22495_c0_seq1 transcribed RNA sequence
+Sequence ID: GDJR01022181.1 Length: 1030
+Range 1: 40 to 870
+
+Score:238 bits(608), Expect:2e-74, 
+Method:Compositional matrix adjust., 
+Identities:133/287(46%), Positives:188/287(65%), Gaps:12/287(4%)
+
+Query  7    LADGWFREENGQWPGQAMSFKVEEVLHDTPTKFQHLSIFETDPKGPWGTVMTLDGCIQLT  66
+            L  GW+ E +  WPGQA S +VEE+L +  + FQ + +F+T     WGTV TLDG IQ+T
+Sbjct  40   LIPGWYSEISSFWPGQAQSLEVEEILFEGKSDFQDVKVFKTKA---WGTVFTLDGAIQVT  210
+
+Query  67   DFDEFVYHEMLSHTPLCAHPDPvdvliigggdggvMREVLRHGTVKRCVLVDIDGDVIEA  126
+            D DEF YHE L+H  L +HP+P  VLIIGGGDGGVMREVL+H +V++C L D+D  V E 
+Sbjct  211  DKDEFSYHENLAHIALFSHPNPKQVLIIGGGDGGVMREVLKHESVEKCTLCDVDKMVPEI  390
+
+Query  127  SKKYFPQISSGFSDPRADVRVGDGVAFVREAASESFDVVIIDTTDPDGPAAELFGEKFYR  186
+            ++KYFP+ +    +PRA+V +GDG AF+ E     +DV+I+D++DP+GPA+ LFG++F+ 
+Sbjct  391  AEKYFPKCAVSLKNPRAEVHIGDGFAFL-EDKKNCYDVIIVDSSDPEGPASTLFGKEFFT  567
+
+Query  187  DVLRILKPRGICCNQGESVWLNRNLIEGMADFIKNKVGFASVKYAMIYTPTYPCGSIGSL  246
+                 L+  G    Q E +W++ +LI  M  FI+  +G+ +V+Y+ I  P+YP G IG  
+Sbjct  568  RCKDALREDGNLLTQAECMWIHLDLIAKMKTFIET-IGWKTVEYSYISIPSYPSGCIGFF  744
+
+Query  247  ICSKVAGVDVTQPVRPVESMPFA--GELKYYDSDVHKAAFVLPRFAR  291
+            +CSK           P+ S+P A    L+YYD  +H+AAF+LPRF R
+Sbjct  745  VCSKRGSCK-----EPLRSVPPAMLDTLQYYDETMHRAAFLLPRFVR  870
+
+
+
+
+>TSA: Rhynchopus humris strain YPF1608 isolate water source rnacontig020390, transcribed RNA sequence
+Sequence ID: GLIF01018315.1 Length: 1260
+Range 1: 74 to 880
+
+Score:236 bits(602), Expect:1e-72, 
+Method:Compositional matrix adjust., 
+Identities:132/278(47%), Positives:188/278(67%), Gaps:13/278(4%)
+
+Query  7    LADGWFREENGQ-WPGQAMSFKVE-EVLHDTPTKFQHLSIFETDPKGPWGTVMTLDGCIQ  64
+            + DGWF E + + WPGQA+S +V+ E+L +  + FQ + +F+   KGPWGTV  LDG IQ
+Sbjct  74   IKDGWFSEISQEMWPGQALSLEVDGELLWNKKSDFQDVLVFKN--KGPWGTVFALDGAIQ  247
+
+Query  65   LTDFDEFVYHEMLSHTPLCAHPDPvdvliigggdggvMREVLRHGTVKRCVLVDIDGDVI  124
+            +TD DEF YHEM++H PL +HPDP  VLIIGGGDGGVM +VL+H +V+   L D+D  V 
+Sbjct  248  VTDKDEFSYHEMMAHLPLFSHPDPKKVLIIGGGDGGVMGQVLKHPSVESVTLCDVDKMVP  427
+
+Query  125  EASKKYFPQISSGFSDPRADVRVGDGVAFVREAASESFDVVIIDTTDPDGPAAELFGEKF  184
+            E S+K+FP +++ + DPRA + +GDG AF+ +  +E +DV+I+D++DP+GPA+ LFG++F
+Sbjct  428  EISRKFFPHLAASYDDPRATLNIGDGFAFLEDKENE-YDVLIVDSSDPEGPASTLFGQEF  604
+
+Query  185  YRDVLRILKPRGICCNQGESVWLNRNLIEGMADFIKNKVGFASVKYAMIYTPTYPCGSIG  244
+            Y    + LKP G+   QGES W++  LI+ M  FI+ ++GF  V+YA I  PTYPCG IG
+Sbjct  605  YARCRKALKPDGVLVTQGESYWIHLPLIKKMTGFIR-EIGFQHVEYAQISIPTYPCGGIG  781
+
+Query  245  SLICS--KVAGVDVTQPVRPVESMPFAGELKYYDSDVH  280
+              +CS  K     V +P   V+      +LK Y  ++H
+Sbjct  782  FFVCSDAKSTATPVREPTPEVQE-----QLKMYSPEMH  880
+
+
+
+
+>TSA: Diplonema papillatum Dpap_TRINITY_DN44372_c0_g10525_i1, transcribed RNA sequence
+Sequence ID: GJNJ01040104.1 Length: 1778
+Range 1: 9 to 836
+
+Score:237 bits(605), Expect:2e-71, 
+Method:Compositional matrix adjust., 
+Identities:137/284(48%), Positives:183/284(64%), Gaps:10/284(3%)
+
+Query  10   GWFREENGQWPGQAMSFKVEEVLHDTPTKFQHLSIFETDPKGPWGTVMTLDGCIQLTDFD  69
+            GWF E +  WPGQA S  V+EVL    ++FQ + +F+   KGPWGTV  LDG IQ+TD D
+Sbjct  9    GWFSELSTMWPGQAQSLAVDEVLFHEKSEFQDVLVFKN--KGPWGTVFALDGAIQVTDKD  182
+
+Query  70   EFVYHEMLSHTPLCAHPD-PvdvliigggdggvMREVLRHGTVKRCVLVDIDGDVIEASK  128
+            EF YHEM++H P  +H   P  VLIIGGGDGGVMREVL+H TV+   L D+D  V + SK
+Sbjct  183  EFSYHEMMAHIPCFSHETGPKTVLIIGGGDGGVMREVLKHKTVESVTLCDVDKMVPQISK  362
+
+Query  129  KYFPQISSGFSDPRADVRVGDGVAFVREAASESFDVVIIDTTDPDGPAAELFGEKFYRDV  188
+            K++P++S  F+DPRA V +GDG  F+ +  +  +DV+I D++DP+GPA+ LFG+ FY   
+Sbjct  363  KFYPKLSCSFNDPRATVHIGDGFKFLEDKKA-MYDVIICDSSDPEGPASTLFGKDFYDRC  539
+
+Query  189  LRILKPRGICCNQGESVWLNRNLIEGMADFIKNKVGFASVKYAMIYTPTYPCGSIGSLIC  248
+               LK  G    QGES W++ NLI+ M  FI++ VGF  V+Y  I  PTYPCG+IG  +C
+Sbjct  540  KAALKDDGFLITQGESYWIHLNLIKDMTKFIRD-VGFKFVEYTNIAMPTYPCGNIGFFVC  716
+
+Query  249  SKVAGVDVTQPVR-PVESMPFAGELKYYDSDVHKAAFVLPRFAR  291
+            S  +      P R P E M     L+ Y  ++H+ +FVLP F +
+Sbjct  717  SNTSSAKT--PAREPNEEMQTG--LQMYSPEIHRQSFVLPPFVQ  836
+
+
+
+
+>TSA: Rhynchopus humris TRINITY_DN10933_c0_g4960_i0, transcribed RNA sequence
+Sequence ID: GJQB01003947.1 Length: 3949
+Range 1: 3049 to 3855
+
+Score:236 bits(602), Expect:8e-68, 
+Method:Compositional matrix adjust., 
+Identities:132/278(47%), Positives:188/278(67%), Gaps:13/278(4%)
+
+Query  7     LADGWFREENGQ-WPGQAMSFKVE-EVLHDTPTKFQHLSIFETDPKGPWGTVMTLDGCIQ  64
+             + DGWF E + + WPGQA+S +V+ E+L +  + FQ + +F+   KGPWGTV  LDG IQ
+Sbjct  3855  IKDGWFSEISQEMWPGQALSLEVDGELLWNKKSDFQDVLVFKN--KGPWGTVFALDGAIQ  3682
+
+Query  65    LTDFDEFVYHEMLSHTPLCAHPDPvdvliigggdggvMREVLRHGTVKRCVLVDIDGDVI  124
+             +TD DEF YHEM++H PL +HPDP  VLIIGGGDGGVM +VL+H +V+   L D+D  V 
+Sbjct  3681  VTDKDEFSYHEMMAHLPLFSHPDPKKVLIIGGGDGGVMGQVLKHPSVESVTLCDVDKMVP  3502
+
+Query  125   EASKKYFPQISSGFSDPRADVRVGDGVAFVREAASESFDVVIIDTTDPDGPAAELFGEKF  184
+             E S+K+FP +++ + DPRA + +GDG AF+ +  +E +DV+I+D++DP+GPA+ LFG++F
+Sbjct  3501  EISRKFFPHLAASYDDPRATLNIGDGFAFLEDKENE-YDVLIVDSSDPEGPASTLFGQEF  3325
+
+Query  185   YRDVLRILKPRGICCNQGESVWLNRNLIEGMADFIKNKVGFASVKYAMIYTPTYPCGSIG  244
+             Y    + LKP G+   QGES W++  LI+ M  FI+ ++GF  V+YA I  PTYPCG IG
+Sbjct  3324  YARCRKALKPDGVLVTQGESYWIHLPLIKKMTGFIR-EIGFQHVEYAQISIPTYPCGGIG  3148
+
+Query  245   SLICS--KVAGVDVTQPVRPVESMPFAGELKYYDSDVH  280
+               +CS  K     V +P   V+      +LK Y  ++H
+Sbjct  3147  FFVCSDAKSTATPVREPTPEVQE-----QLKMYSPEMH  3049
+
+
+
+
+>TSA: Sulcionema specki strain YPF1618 isolate water source rnacontig031408, transcribed RNA sequence
+Sequence ID: GLIH01032848.1 Length: 1197
+Range 1: 244 to 801
+
+Score:160 bits(405), Expect:2e-61, 
+Method:Compositional matrix adjust., 
+Identities:84/192(44%), Positives:120/192(62%), Gaps:7/192(3%)
+
+Query  102  MREVLRHGTVKRCVLVDIDGDVIEASKKYFPQISSGFSDPRADVRVGDGVAFVREAASES  161
+            MREVLRH +V+   L D+D  V E SK++FP++S  FSDPRA V +GDG  F+ +   E 
+Sbjct  801  MREVLRHQSVESVTLCDVDKMVPEISKQFFPKLSCSFSDPRATVHIGDGFKFLEDKKGE-  625
+
+Query  162  FDVVIIDTTDPDGPAAELFGEKFYRDVLRILKPRGICCNQGESVWLNRNLIEGMADFIKN  221
+            +DV+I+D++DP+GPA+ LFG+ FY      L+  G+   QGES W++  LI+ M  FI+ 
+Sbjct  624  YDVLIVDSSDPEGPASTLFGKDFYERCRASLREGGVLVTQGESYWIHLELIKKMTGFIR-  448
+
+Query  222  KVGFASVKYAMIYTPTYPCGSIGSLICSKVAGVDVTQPVR-PVESMPFAGELKYYDSDVH  280
+            ++GF  V Y  I  PTYPCG+IG  +CS       ++P R P E +    +L+ Y   +H
+Sbjct  447  EIGFKHVDYCNISMPTYPCGNIGFFVCSDAR--SFSEPCREPTEEI--QDKLQMYSPAIH  280
+
+Query  281  KAAFVLPRFARH  292
+            + AFVLP F + 
+Sbjct  279  RQAFVLPPFVQR  244
+
+
+
+
+Range 2: 888 to 1145
+
+Score:102 bits(254), Expect:2e-61, 
+Method:Compositional matrix adjust., 
+Identities:46/88(52%), Positives:60/88(68%), Gaps:2/88(2%)
+
+Query  1     MPGPGLLADGWFREENGQWPGQAMSFKVEEVLHDTPTKFQHLSIFETDPKGPWGTVMTLD  60
+             +P    +  GWF E +  WPGQA S +++EVL D  + FQH+ +F+   KGPWGTV  LD
+Sbjct  1145  LPTMEAIGKGWFSELSPMWPGQAQSLEIDEVLWDKKSDFQHVQVFKN--KGPWGTVFALD  972
+
+Query  61    GCIQLTDFDEFVYHEMLSHTPLCAHPDP  88
+             G IQ+TD DEF YHEM++H PL  HP+P
+Sbjct  971   GAIQVTDKDEFSYHEMMAHIPLFGHPEP  888
+
+
+
+
+>TSA: Diplonema japonicum TRINITY_DN117_c0_g86_i0, transcribed RNA sequence
+Sequence ID: GJQA01000065.1 Length: 12887
+Range 1: 6 to 641
+
+Score:191 bits(486), Expect:3e-52, 
+Method:Compositional matrix adjust., 
+Identities:104/215(48%), Positives:149/215(69%), Gaps:3/215(1%)
+
+Query  7    LADGWFREENGQWPGQAMSFKVEEVLHDTPTKFQHLSIFETDPKGPWGTVMTLDGCIQLT  66
+            +  GWF E +  WPGQA S +V+EVL +  ++FQ + +F+   KGPWGT   LDG IQ+T
+Sbjct  641  IGKGWFSEVSPFWPGQAQSLEVDEVLWNKKSEFQDVLVFKN--KGPWGTCFALDGAIQVT  468
+
+Query  67   DFDEFVYHEMLSHTPLCAHPDPvdvliigggdggvMREVLRHGTVKRCVLVDIDGDVIEA  126
+            D DEF YHEM++H P+ +HP+P +VLIIGGGDGGVM +VL+H +V+   L D+D  V E 
+Sbjct  467  DKDEFSYHEMMAHIPMFSHPNPKNVLIIGGGDGGVMGQVLKHPSVETVTLCDVDKMVPEI  288
+
+Query  127  SKKYFPQISSGFSDPRADVRVGDGVAFVREAASESFDVVIIDTTDPDGPAAELFGEKFYR  186
+            SK +FP++S  F DPRA V +GDG  F+++     +DV+I+D++DP+GPA+ LFG++FY 
+Sbjct  287  SKMFFPKLSCSFDDPRATVHIGDGFEFLKDKEG-MYDVMIVDSSDPEGPASTLFGKEFYE  111
+
+Query  187  DVLRILKPRGICCNQGESVWLNRNLIEGMADFIKN  221
+               + LK  G    QGES W++ +LI+ M  F ++
+Sbjct  110  RCRKSLKKGGRVVTQGESFWIHLDLIKSMTKFQRD  6
+
+
+
+
+>TSA: Sulcionema specki strain YPF1618 isolate water source rnacontig033774, transcribed RNA sequence
+Sequence ID: GLIH01032414.1 Length: 1106
+Range 1: 90 to 656
+
+Score:135 bits(339), Expect:3e-34, 
+Method:Compositional matrix adjust., 
+Identities:79/193(41%), Positives:113/193(58%), Gaps:6/193(3%)
+
+Query  20   PGQAMSFKVEEVLHDTPTKFQHLSIFETDPKGPWGTVMTLDGCIQLTDFDEFVYHEMLSH  79
+            PG   S+K+  +L  T +KFQ + + +T+    +G V+ +DG IQ    DE+VYHE L H
+Sbjct  90   PGLRFSYKLNHILASTQSKFQQVDVCDTES---FGRVLIIDGLIQSAQLDEYVYHECLVH  260
+
+Query  80   TPLCAHPDPvdvliigggdggvMREVLRHGTVKRCVLVDIDGDVIEASKKYFPQISSGFS  139
+              L AHP+P  V I GGG+G   REVLRH TV++CV+VDIDGDV++  K++ P+    F+
+Sbjct  261  PALLAHPNPKRVFIGGGGEGSTAREVLRHKTVEKCVMVDIDGDVVKFCKEHLPENKEAFA  440
+
+Query  140  DPRADVRVGDGVAFVREAASESFDVVIIDTTDP--DGPAAELFGEKFYRDVLRILKPRGI  197
+            DPR ++ + D      E A E FDV+I+D  DP   GP   L+ ++FY      L P GI
+Sbjct  441  DPRLELII-DDCKVQLEKAEEKFDVIIMDLDDPLEGGPCYWLYCKEFYEMCKSKLNPGGI  617
+
+Query  198  CCNQGESVWLNRN  210
+               Q     + ++
+Sbjct  618  MVTQASGAGVKQH  656
+
+
+
+
+>TSA: Euglena longa strain CCAP 1204-17a Contig13753, transcribed RNA sequence
+Sequence ID: GGOE01013736.1 Length: 1006
+Range 1: 128 to 958
+
+Score:134 bits(336), Expect:4e-34, 
+Method:Compositional matrix adjust., 
+Identities:99/287(34%), Positives:142/287(49%), Gaps:19/287(6%)
+
+Query  15   ENGQWPGQAMSFKVEEVLHDTPTKFQHLSIFETDPKGPWGTVMTLDGCIQLTDFDEFVYH  74
+            E    PG    ++VEEVLH T T FQ +++  T     +G  + +DG +Q  D DE +YH
+Sbjct  958  EETLEPGLRFMYEVEEVLHSTKTPFQTVAVVRTKA---FGKALVIDGLMQSADCDERIYH  788
+
+Query  75   EMLSHTPLCAHPDPvdvliigggdggvMREVLRHGTVKRCVLVDIDGDVIEASKKYFPQI  134
+            E L H  +  HP P +V I G G+G   REVL+H TV+ C++VDIDGDV++  K+  PQ 
+Sbjct  787  ECLVHPAMLLHPHPRNVFIGGAGEGSTAREVLKHNTVESCMMVDIDGDVVDFCKEVLPQN  608
+
+Query  135  SSGFSDPRADVRVGDGVAFVREAASESFDVVIIDTTDP--DGPAAELFGEKFYRDVLRIL  192
+            S  F+DPR  V + D +  + EA ++ FDV+I+D  DP   GP  +L+ ++FY      L
+Sbjct  607  SCAFADPRLTVIIDDAMKQLAEATTK-FDVIIMDLDDPLEGGPCYQLYTQEFYTMCREKL  431
+
+Query  193  KPRGICCNQGESVWL-NRNLIEGMADFIKNKV-----GFASVKYAMIYTPTYPCGSIG-S  245
+             P GI   Q  S  + N  L+         +V     G++   Y       +   SI   
+Sbjct  430  APNGILVTQCSSAGVKNYPLVFSPVHCTLKQVFPKVFGYSQHVYCFADAWGFNLASITPD  251
+
+Query  246  LICSKVAGVDVTQPVRPVESMPFAGELKYYDSDVHKAAFVLPRFARH  292
+            L     A VD     R V+      +L + D     A F LP++ R 
+Sbjct  250  LALPSAAEVDARIAARGVD------DLFFLDGISFGAIFALPKYLRQ  128
+
+
+
+
+>TSA: Sulcionema specki strain YPF1618 isolate water source rnacontig031742, transcribed RNA sequence
+Sequence ID: GLIH01031010.1 Length: 1183
+Range 1: 90 to 656
+
+Score:135 bits(339), Expect:4e-34, 
+Method:Compositional matrix adjust., 
+Identities:79/193(41%), Positives:113/193(58%), Gaps:6/193(3%)
+
+Query  20   PGQAMSFKVEEVLHDTPTKFQHLSIFETDPKGPWGTVMTLDGCIQLTDFDEFVYHEMLSH  79
+            PG   S+K+  +L  T +KFQ + + +T+    +G V+ +DG IQ    DE+VYHE L H
+Sbjct  90   PGLRFSYKLNHILASTQSKFQQVDVCDTES---FGRVLIIDGLIQSAQLDEYVYHECLVH  260
+
+Query  80   TPLCAHPDPvdvliigggdggvMREVLRHGTVKRCVLVDIDGDVIEASKKYFPQISSGFS  139
+              L AHP+P  V I GGG+G   REVLRH TV++CV+VDIDGDV++  K++ P+    F+
+Sbjct  261  PALLAHPNPKRVFIGGGGEGSTAREVLRHKTVEKCVMVDIDGDVVKFCKEHLPENKEAFA  440
+
+Query  140  DPRADVRVGDGVAFVREAASESFDVVIIDTTDP--DGPAAELFGEKFYRDVLRILKPRGI  197
+            DPR ++ + D      E A E FDV+I+D  DP   GP   L+ ++FY      L P GI
+Sbjct  441  DPRLELII-DDCKVQLEKAEEKFDVIIMDLDDPLEGGPCYWLYCKEFYEMCKSKLNPGGI  617
+
+Query  198  CCNQGESVWLNRN  210
+               Q     + ++
+Sbjct  618  MVTQASGAGVKQH  656
+
+
+
+
+>TSA: Rhabdomonas costata strain PANT2 RC_TR35697_c0_g1_i1, transcribed RNA sequence
+Sequence ID: GJGC01064731.1 Length: 1029
+Range 1: 212 to 1027
+
+Score:132 bits(332), Expect:1e-33, 
+Method:Compositional matrix adjust., 
+Identities:88/281(31%), Positives:149/281(53%), Gaps:14/281(4%)
+
+Query  20    PGQAMSFKVEEVLHDTPTKFQHLSIFETDPKGPWGTVMTLDGCIQLTDFDEFVYHEMLSH  79
+             P     F+  EVL D  +++QH+ + ET     +G V  LDG +  ++ DE+ YHE L+H
+Sbjct  212   PDVGFVFRAGEVLDDFSSEYQHIEVMET---AAFGRVFRLDGYLMTSEADEWFYHENLNH  382
+
+Query  80    TPLCAHPDPvdvliigggdggvMREVLRHGTVKRCVLVDIDGDVIEASKKYFPQISSG-F  138
+              P   HPDP   LIIGGGDGG  R++L++  +++ V+ ++D  V+  +++YF ++  G F
+Sbjct  383   IPAITHPDPRTALIIGGGDGGSARQLLKYPGIEKVVVCELDAGVVAIAEEYFGKVHQGAF  562
+
+Query  139   SDPRADVRVGDGVAFVREAASESFDVVIIDTTDPDGPAAELFGEKFYRDVLRILKPRGIC  198
+              DPR ++ + DG+ +V E   ++FD++++D TDP G A  L+  +F+ D  R++   G+ 
+Sbjct  563   HDPRLELVIADGLKYVAE-CQQAFDLIVLDLTDPQGYAEPLYSREFFTDCARLIGEHGLL  739
+
+Query  199   CNQGESVWLNRNLIEGMADFIKNKVGFASVKYAMIYTPTYPCGSIGSLICSKV----AGV  254
+                  S   +R     +  F + +  F  V+  +I  P    G    + C+        +
+Sbjct  740   SLHVGSPQFHRQRFSHL--FAELRAVFRVVRPILI--PITLYGGFWGMACASQLRDPKRL  907
+
+Query  255   DVTQPVRPVESMPFAGELKYYDSDVHKAAFVLPRFARHLNQ  295
+             D     + ++    +G L YY+ D H+AA  +P F R L Q
+Sbjct  908   DADAVEQRLQQRGISG-LHYYNGDTHQAALAVPNFVRQLLQ  1027
+
+
+
+
+>TSA: Euglena gracilis comp22795_c0_seq2 transcribed RNA sequence
+Sequence ID: GDJR01022779.1 Length: 1470
+Range 1: 55 to 645
+
+Score:134 bits(337), Expect:3e-33, 
+Method:Compositional matrix adjust., 
+Identities:82/201(41%), Positives:114/201(56%), Gaps:7/201(3%)
+
+Query  15   ENGQWPGQAMSFKVEEVLHDTPTKFQHLSIFETDPKGPWGTVMTLDGCIQLTDFDEFVYH  74
+            E    PG    ++VEEVLH T T FQ +++  T     +G  + +DG +Q  D DE +YH
+Sbjct  55   EETLEPGLRFLYEVEEVLHSTKTPFQTVAVVRTKA---FGNALVIDGLMQSADCDERIYH  225
+
+Query  75   EMLSHTPLCAHPDPvdvliigggdggvMREVLRHGTVKRCVLVDIDGDVIEASKKYFPQI  134
+            E L H  +  HP P +V I G G+G   REVL+H TV+ CV+VDIDGDV++  K+  PQ 
+Sbjct  226  ECLVHPAMLLHPHPRNVFIGGAGEGSTAREVLKHNTVESCVMVDIDGDVVDFCKEVLPQN  405
+
+Query  135  SSGFSDPRADVRVGDGVAFVREAASESFDVVIIDTTDP--DGPAAELFGEKFYRDVLRIL  192
+            +  F DPR  + + D +  + EA +  FDV+I+D  DP   GP   L+ E+FY    + L
+Sbjct  406  TQAFKDPRLTLIIDDAMKQLEEATT-LFDVIIMDLDDPLEGGPCYLLYTEEFYTMCRQKL  582
+
+Query  193  KPRGICCNQGESVWL-NRNLI  212
+             P GI   Q  S  + N NL+
+Sbjct  583  APNGILVTQCSSAGVKNYNLV  645
+
+
+
+
+>TSA: Euglena gracilis comp22795_c0_seq1 transcribed RNA sequence
+Sequence ID: GDJR01022778.1 Length: 1504
+Range 1: 55 to 645
+
+Score:134 bits(337), Expect:4e-33, 
+Method:Compositional matrix adjust., 
+Identities:82/201(41%), Positives:114/201(56%), Gaps:7/201(3%)
+
+Query  15   ENGQWPGQAMSFKVEEVLHDTPTKFQHLSIFETDPKGPWGTVMTLDGCIQLTDFDEFVYH  74
+            E    PG    ++VEEVLH T T FQ +++  T     +G  + +DG +Q  D DE +YH
+Sbjct  55   EETLEPGLRFLYEVEEVLHSTKTPFQTVAVVRTKA---FGNALVIDGLMQSADCDERIYH  225
+
+Query  75   EMLSHTPLCAHPDPvdvliigggdggvMREVLRHGTVKRCVLVDIDGDVIEASKKYFPQI  134
+            E L H  +  HP P +V I G G+G   REVL+H TV+ CV+VDIDGDV++  K+  PQ 
+Sbjct  226  ECLVHPAMLLHPHPRNVFIGGAGEGSTAREVLKHNTVESCVMVDIDGDVVDFCKEVLPQN  405
+
+Query  135  SSGFSDPRADVRVGDGVAFVREAASESFDVVIIDTTDP--DGPAAELFGEKFYRDVLRIL  192
+            +  F DPR  + + D +  + EA +  FDV+I+D  DP   GP   L+ E+FY    + L
+Sbjct  406  TQAFKDPRLTLIIDDAMKQLEEATT-LFDVIIMDLDDPLEGGPCYLLYTEEFYTMCRQKL  582
+
+Query  193  KPRGICCNQGESVWL-NRNLI  212
+             P GI   Q  S  + N NL+
+Sbjct  583  APNGILVTQCSSAGVKNYNLV  645
+
+
+
+
+>TSA: Rhabdomonas costata strain PANT2 RC_TR18104_c0_g1_i1, transcribed RNA sequence
+Sequence ID: GJGC01033217.1 Length: 1135
+Range 1: 41 to 943
+
+Score:129 bits(324), Expect:4e-32, 
+Method:Compositional matrix adjust., 
+Identities:99/306(32%), Positives:154/306(50%), Gaps:22/306(7%)
+
+Query  8    ADGWFREENGQWPGQAM------SFKVEEVLHDTPTKFQHLSIFETDPKGPWGTVMTLDG  61
+            A+  F+E  G W  + +      S KV+EV +D  +KFQ L + +     P+   +  DG
+Sbjct  41   AEETFKE--GSWYHEKLEEVLVYSHKVKEVNYDGSSKFQRLQVLDL---VPFSRALFSDG  205
+
+Query  62   CIQLTDFDEFVYHEMLSHTPLCAHPDPvdvliigggdggvMREVLRHGTVKRCVLVDIDG  121
+             +Q T  DE+VYHE L H PL AHP+P  V I GGG+GG +RE LRH +V++ ++VDID 
+Sbjct  206  LLQSTYADEYVYHECLVHPPLLAHPNPKVVFIGGGGEGGTLRECLRHSSVEKVIMVDIDE  385
+
+Query  122  DVIEASKKYFPQISSG-FSDPRADVRVGDGVAFVREAASESFDVVIIDTTDP--DGPAAE  178
+            ++++  K+Y P + +G FSDPRA V+  D  A + +    S DV+++D  DP   GP   
+Sbjct  386  ELVKLCKEYQPLLGAGAFSDPRAVVKFDDAKAQLEQTPDGSLDVIVLDLCDPLDGGPCYA  565
+
+Query  179  LFGEKFYRDVLRILKPRGICCNQGESVWLN---RNLIEGMADFIKN--KVGFASVKYAMI  233
+            L+  +FY    + L  +G+   Q  +  ++    N   G+   + N  K  F  V     
+Sbjct  566  LYTIEFYTMCHKKLSEKGVIVTQTGNASVHEVVENGAYGVFSPVYNTLKKAFPKVFGYTA  745
+
+Query  234  YTPTYPCGSIGSLICSKVAGVDV---TQPVRPVESMPFAGELKYYDSDVHKAAFVLPRFA  290
+            + P++       + C     VD+   T     + ++     LKYYD   H+  F L +  
+Sbjct  746  FVPSFASEWGWVMACKDPQAVDIPSRTDVDSRLHTLGLDSTLKYYDQITHRRMFQLSKPV  925
+
+Query  291  RHLNQN  296
+            R +  N
+Sbjct  926  RQVLAN  943
+
+
+
+
+>TSA: Eutreptiella gymnastica, TRINITY-DN39493-c13-g2-i1, transcribed RNA sequence
+Sequence ID: HBJA01120097.1 Length: 1501
+Range 1: 92 to 655
+
+Score:129 bits(324), Expect:2e-31, 
+Method:Compositional matrix adjust., 
+Identities:70/192(36%), Positives:117/192(60%), Gaps:6/192(3%)
+
+Query  21   GQAMSFKVEEVLHDTPTKFQHLSIFETDPKGPWGTVMTLDGCIQLTDFDEFVYHEMLSHT  80
+            G ++++ V+ VLH+T ++FQ +S+ +T    P+G  + +DG +Q +D DE +YHE L H 
+Sbjct  92   GLSLTYGVKRVLHETTSEFQTVSVLDT---VPFGKCLIIDGLMQSSDVDERIYHECLVHP  262
+
+Query  81   PLCAHPDPvdvliigggdggvMREVLRHGTVKRCVLVDIDGDVIEASKKYFPQISSGFSD  140
+             +  HP+P  V I G G+G  +REVL+H TV++CV+VDIDGDV+   +   PQ +  F+D
+Sbjct  263  AMLVHPNPKSVYIGGAGEGSTVREVLKHNTVEKCVMVDIDGDVVRFCRDVLPQNAQAFND  442
+
+Query  141  PRADVRVGDGVAFVREAASESFDVVIIDTTDP--DGPAAELFGEKFYRDVLRILKPRGIC  198
+             R ++ +      + +A ++ FD++I+D  DP   GP  +L+ ++FY + +  L P GI 
+Sbjct  443  SRLELIIDCAKKQLLQAETK-FDIIIMDLDDPLEGGPCYQLYTKEFYTECMNKLNPGGIL  619
+
+Query  199  CNQGESVWLNRN  210
+              Q  S  +  +
+Sbjct  620  VTQCSSAGVKNH  655
+
+
+
+
+>TSA: Rhabdomonas costata strain PANT2 RC_TR47669_c0_g1_i1, transcribed RNA sequence
+Sequence ID: GJGC01082198.1 Length: 1240
+Range 1: 113 to 943
+
+Score:127 bits(320), Expect:3e-31, 
+Method:Compositional matrix adjust., 
+Identities:89/281(32%), Positives:145/281(51%), Gaps:14/281(4%)
+
+Query  21   GQAMSFKVEEVLHDTPTKFQHLSIFETDPKGPWGTVMTLDGCIQLTDFDEFVYHEMLSHT  80
+            G A S+KV++++ +  TKFQ +++  T    P+   +  DG +Q ++ DE+VYHE L H 
+Sbjct  113  GLAYSYKVDKLIFEGKTKFQKIAVIST---APFQRALITDGIMQSSEADEYVYHECLVHP  283
+
+Query  81   PLCAHPDPvdvliigggdggvMREVLRHGTVKRCVLVDIDGDVIEASKKYFPQISSG-FS  139
+             + AHP+P  V I GGG+G  +REVLRH  V++  +VDIDG+++E  K++ P  S G ++
+Sbjct  284  VMLAHPNPKRVFIGGGGEGATLREVLRHSGVEQVTMVDIDGEIVEMCKEHLPNHSKGAYN  463
+
+Query  140  DPRADVRVGDGVAFVREAASESFDVVIIDTTDP--DGPAAELFGEKFYRDVLRILKPRGI  197
+            DPRA + + D + ++ ++   SFDV+I+D  DP    P   L+ E+FY    + L   G+
+Sbjct  464  DPRAKLVIADALEYLNKSPDMSFDVIILDLCDPLEGTPCCMLYTEEFYTMCKKKLTDTGV  643
+
+Query  198  CCNQGESVWLNRNLIEGM----ADFIKNKVGFASVKYAMIYTPTYPCGSIGSLICSKVAG  253
+               Q     ++      +    A +   K  F  + +   + P++     G  +  K +G
+Sbjct  644  LITQSGCASVHEADSSSVGVFSAVYCTLKKVFPQLCFYTAFIPSFG-AEWGWTVAHKNSG  820
+
+Query  254  ---VDVTQPVRPVESMPFAGELKYYDSDVHKAAFVLPRFAR  291
+               V V   V    +      L+YYD   H   F LP+  R
+Sbjct  821  AADVSVASDVDQRLASRGLTSLRYYDQGSHTRMFSLPKPVR  943
+
+
+
+
+>TSA: Eutreptiella gymnastica, TRINITY-DN39493-c13-g2-i2, transcribed RNA sequence
+Sequence ID: HBJA01120098.1 Length: 1671
+Range 1: 92 to 655
+
+Score:129 bits(324), Expect:3e-31, 
+Method:Compositional matrix adjust., 
+Identities:70/192(36%), Positives:117/192(60%), Gaps:6/192(3%)
+
+Query  21   GQAMSFKVEEVLHDTPTKFQHLSIFETDPKGPWGTVMTLDGCIQLTDFDEFVYHEMLSHT  80
+            G ++++ V+ VLH+T ++FQ +S+ +T    P+G  + +DG +Q +D DE +YHE L H 
+Sbjct  92   GLSLTYGVKRVLHETTSEFQTVSVLDT---VPFGKCLIIDGLMQSSDVDERIYHECLVHP  262
+
+Query  81   PLCAHPDPvdvliigggdggvMREVLRHGTVKRCVLVDIDGDVIEASKKYFPQISSGFSD  140
+             +  HP+P  V I G G+G  +REVL+H TV++CV+VDIDGDV+   +   PQ +  F+D
+Sbjct  263  AMLVHPNPKSVYIGGAGEGSTVREVLKHNTVEKCVMVDIDGDVVRFCRDVLPQNAQAFND  442
+
+Query  141  PRADVRVGDGVAFVREAASESFDVVIIDTTDP--DGPAAELFGEKFYRDVLRILKPRGIC  198
+             R ++ +      + +A ++ FD++I+D  DP   GP  +L+ ++FY + +  L P GI 
+Sbjct  443  SRLELIIDCAKKQLLQAETK-FDIIIMDLDDPLEGGPCYQLYTKEFYTECMNKLNPGGIL  619
+
+Query  199  CNQGESVWLNRN  210
+              Q  S  +  +
+Sbjct  620  VTQCSSAGVKNH  655
+
+
+
+
+>TSA: Lacrimia lanifica strain YPF1601 isolate water source transcontig014919, transcribed RNA sequence
+Sequence ID: GLIG01016048.1 Length: 1913
+Range 1: 105 to 914
+
+Score:129 bits(323), Expect:8e-31, 
+Method:Compositional matrix adjust., 
+Identities:90/275(33%), Positives:141/275(51%), Gaps:9/275(3%)
+
+Query  21   GQAMSFKVEEVLHDTPTKFQHLSIFETDPKGPWGTVMTLDGCIQLTDFDEFVYHEMLSHT  80
+            G   S+K+ +VL  T +KFQ + + +T+P   +G V+ +DG +Q +  DE++YHE L H 
+Sbjct  105  GLRFSYKLNQVLASTQSKFQKVDVADTEP---FGRVLIIDGLMQSSQLDEYIYHESLVHP  275
+
+Query  81   PLCAHPDPvdvliigggdggvMREVLRHGTVKRCVLVDIDGDVIEASKKYFPQISSGFSD  140
+             L AHP+P  V I GGG+G   REVLRH +V++C++VDIDGDV++  K + P+    F+D
+Sbjct  276  ALLAHPNPKRVFIGGGGEGSTAREVLRHKSVEKCMMVDIDGDVVDFCKAHLPENKEAFAD  455
+
+Query  141  PRADVRVGDGVAFVREAASESFDVVIIDTTDP--DGPAAELFGEKFYRDVLRILKPRGIC  198
+             R ++ + D        A E FDV+I+D  DP   GP   L+ ++FY      L P GI 
+Sbjct  456  SRLELVI-DCCKAQLTQAKEKFDVIIMDLDDPLEGGPCFFLYCKEFYEFCKTKLNPGGIL  632
+
+Query  199  CNQ--GESVWLNRNLIEGMADFIKNKVGFASVKYAMIYTPTYPCGSIGSLICSKVAGVDV  256
+              Q  G  V  +  +   + + +K            IY+     G +      K A +  
+Sbjct  633  VTQSSGSGVKFHTTVFSPVYNTMKQVFPAVKAYNQAIYSFADEWGFVIGYADPKTADISP  812
+
+Query  257  TQPVRPVESMPFAGELKYYDSDVHKAAFVLPRFAR  291
+             +  + + +    GELK+ D + +   F L +  R
+Sbjct  813  AEVDKRI-AERINGELKFLDGESYTGLFSLNKAVR  914
+
+
+
+
+>TSA: Lacrimia lanifica strain YPF1601 isolate water source transcontig013526, transcribed RNA sequence
+Sequence ID: GLIG01015253.1 Length: 2062
+Range 1: 105 to 914
+
+Score:129 bits(323), Expect:9e-31, 
+Method:Compositional matrix adjust., 
+Identities:90/275(33%), Positives:141/275(51%), Gaps:9/275(3%)
+
+Query  21   GQAMSFKVEEVLHDTPTKFQHLSIFETDPKGPWGTVMTLDGCIQLTDFDEFVYHEMLSHT  80
+            G   S+K+ +VL  T +KFQ + + +T+P   +G V+ +DG +Q +  DE++YHE L H 
+Sbjct  105  GLRFSYKLNQVLASTQSKFQKVDVADTEP---FGRVLIIDGLMQSSQLDEYIYHESLVHP  275
+
+Query  81   PLCAHPDPvdvliigggdggvMREVLRHGTVKRCVLVDIDGDVIEASKKYFPQISSGFSD  140
+             L AHP+P  V I GGG+G   REVLRH +V++C++VDIDGDV++  K + P+    F+D
+Sbjct  276  ALLAHPNPKRVFIGGGGEGSTAREVLRHKSVEKCMMVDIDGDVVDFCKAHLPENKEAFAD  455
+
+Query  141  PRADVRVGDGVAFVREAASESFDVVIIDTTDP--DGPAAELFGEKFYRDVLRILKPRGIC  198
+             R ++ + D        A E FDV+I+D  DP   GP   L+ ++FY      L P GI 
+Sbjct  456  SRLELVI-DCCKAQLTQAKEKFDVIIMDLDDPLEGGPCFFLYCKEFYEFCKTKLNPGGIL  632
+
+Query  199  CNQ--GESVWLNRNLIEGMADFIKNKVGFASVKYAMIYTPTYPCGSIGSLICSKVAGVDV  256
+              Q  G  V  +  +   + + +K            IY+     G +      K A +  
+Sbjct  633  VTQSSGSGVKFHTTVFSPVYNTMKQVFPAVKAYNQAIYSFADEWGFVIGYADPKTADISP  812
+
+Query  257  TQPVRPVESMPFAGELKYYDSDVHKAAFVLPRFAR  291
+             +  + + +    GELK+ D + +   F L +  R
+Sbjct  813  AEVDKRI-AERINGELKFLDGESYTGLFSLNKAVR  914
+
+
+
+
+>TSA: Lacrimia lanifica strain YPF1601 isolate water source transcontig011201, transcribed RNA sequence
+Sequence ID: GLIG01012611.1 Length: 2340
+Range 1: 105 to 914
+
+Score:129 bits(323), Expect:1e-30, 
+Method:Compositional matrix adjust., 
+Identities:90/275(33%), Positives:141/275(51%), Gaps:9/275(3%)
+
+Query  21   GQAMSFKVEEVLHDTPTKFQHLSIFETDPKGPWGTVMTLDGCIQLTDFDEFVYHEMLSHT  80
+            G   S+K+ +VL  T +KFQ + + +T+P   +G V+ +DG +Q +  DE++YHE L H 
+Sbjct  105  GLRFSYKLNQVLASTQSKFQKVDVADTEP---FGRVLIIDGLMQSSQLDEYIYHESLVHP  275
+
+Query  81   PLCAHPDPvdvliigggdggvMREVLRHGTVKRCVLVDIDGDVIEASKKYFPQISSGFSD  140
+             L AHP+P  V I GGG+G   REVLRH +V++C++VDIDGDV++  K + P+    F+D
+Sbjct  276  ALLAHPNPKRVFIGGGGEGSTAREVLRHKSVEKCMMVDIDGDVVDFCKAHLPENKEAFAD  455
+
+Query  141  PRADVRVGDGVAFVREAASESFDVVIIDTTDP--DGPAAELFGEKFYRDVLRILKPRGIC  198
+             R ++ + D        A E FDV+I+D  DP   GP   L+ ++FY      L P GI 
+Sbjct  456  SRLELVI-DCCKAQLTQAKEKFDVIIMDLDDPLEGGPCFFLYCKEFYEFCKTKLNPGGIL  632
+
+Query  199  CNQ--GESVWLNRNLIEGMADFIKNKVGFASVKYAMIYTPTYPCGSIGSLICSKVAGVDV  256
+              Q  G  V  +  +   + + +K            IY+     G +      K A +  
+Sbjct  633  VTQSSGSGVKFHTTVFSPVYNTMKQVFPAVKAYNQAIYSFADEWGFVIGYADPKTADISP  812
+
+Query  257  TQPVRPVESMPFAGELKYYDSDVHKAAFVLPRFAR  291
+             +  + + +    GELK+ D + +   F L +  R
+Sbjct  813  AEVDKRI-AERINGELKFLDGESYTGLFSLNKAVR  914
+
+
+
+
+>TSA: Namystynia karyoxenos strain YPF1621 isolate water source rnacontig031911, transcribed RNA sequence
+Sequence ID: GLIJ01029140.1 Length: 1340
+Range 1: 106 to 678
+
+Score:124 bits(312), Expect:6e-30, 
+Method:Compositional matrix adjust., 
+Identities:76/195(39%), Positives:115/195(58%), Gaps:7/195(3%)
+
+Query  20   PGQAMSFKVEEVLHDTPTKFQHLSIFETDPKGPWGTVMTLDGCIQLTDFDEFVYHEMLSH  79
+            PG   S+K+ ++L  T T+FQ + + +T+P   +G V+ +DG IQ +  DEF YHE L H
+Sbjct  106  PGLRFSYKLSKILATTQTEFQQVDVCDTEP---FGRVLIIDGLIQSSQLDEFQYHECLVH  276
+
+Query  80   TPLCAHPD-PvdvliigggdggvMREVLRHGTVKRCVLVDIDGDVIEASKKYFPQISSGF  138
+              + +HP     V I GGG+G   REVLRH TV++CV+VDIDG V++  K++ P+ +  F
+Sbjct  277  PAMISHPTGAKRVFIGGGGEGSTAREVLRHKTVEKCVMVDIDGAVVDFCKEHLPENNEAF  456
+
+Query  139  SDPRADVRVGDGVAFVREAASESFDVVIIDTTDP--DGPAAELFGEKFYRDVLRILKPRG  196
+            +DPR ++ + D      E A+E FDV+I+D  DP   GP   L+ ++FY      L P G
+Sbjct  457  ADPRLELII-DDCKVQLERATEKFDVIIMDLDDPLEGGPCYWLYCKEFYEMCKSKLNPGG  633
+
+Query  197  ICCNQGESVWLNRNL  211
+            I   Q     + +++
+Sbjct  634  ILVTQASGAGIKQHV  678
+
+
+
+
+>TSA: Diplonema japonicum TRINITY_DN27641_c0_g16243_i0, transcribed RNA sequence
+Sequence ID: GJQA01014167.1 Length: 1199
+Range 1: 272 to 1084
+
+Score:123 bits(309), Expect:7e-30, 
+Method:Compositional matrix adjust., 
+Identities:91/276(33%), Positives:140/276(50%), Gaps:10/276(3%)
+
+Query  21    GQAMSFKVEEVLHDTPTKFQHLSIFETDPKGPWGTVMTLDGCIQLTDFDEFVYHEMLSHT  80
+             G   S+K+ ++L  T ++FQ + + ET    P+G V+ +DG IQ +  DE+VYHE L H 
+Sbjct  1084  GLRFSYKLNKILSSTQSEFQQVDVCET---APFGRVLIIDGLIQSSQLDEYVYHESLVHP  914
+
+Query  81    PLCAHPD-PvdvliigggdggvMREVLRHGTVKRCVLVDIDGDVIEASKKYFPQISSGFS  139
+              + AH   P  V I GGG+G   REVLRH +V++CV+VDIDG V++  K++ P+ +  F 
+Sbjct  913   AMLAHATGPKRVFIGGGGEGSTAREVLRHKSVEKCVMVDIDGAVVDFCKEHLPENAEAFK  734
+
+Query  140   DPRADVRVGDGVAFVREAASESFDVVIIDTTDP--DGPAAELFGEKFYRDVLRILKPRGI  197
+             D R ++ + D      E A E FDV+I+D  DP  DGP   L+ ++FY      L P GI
+Sbjct  733   DSRLELII-DDCKIQLEKAEEKFDVIIMDLDDPLEDGPCYWLYCKEFYEMCKSKLNPGGI  557
+
+Query  198   CCNQGESVWLNRNLIEGMADFIKNKVGFASVK--YAMIYTPTYPCGSIGSLICSKVAGVD  255
+                Q     + ++       +   K  F +VK     +Y+     G +        A VD
+Sbjct  556   LVTQASGAGVKQHHQVFAPVYNTLKQVFPAVKGYNQAVYSFADEWGFVIGYSDEACAKVD  377
+
+Query  256   VTQPVRPVESMPFAGELKYYDSDVHKAAFVLPRFAR  291
+               + +    +    GEL++ D + +   F L +  R
+Sbjct  376   -EETINKRIAERITGELEFLDGESYTGLFSLSKKVR  272
+
+
+
+
+>TSA: Diplonema japonicum strain YPF1604 isolate water source transcontig016887, transcribed RNA sequence
+Sequence ID: GLIE01017367.1 Length: 1224
+Range 1: 82 to 894
+
+Score:123 bits(309), Expect:8e-30, 
+Method:Compositional matrix adjust., 
+Identities:91/276(33%), Positives:140/276(50%), Gaps:10/276(3%)
+
+Query  21   GQAMSFKVEEVLHDTPTKFQHLSIFETDPKGPWGTVMTLDGCIQLTDFDEFVYHEMLSHT  80
+            G   S+K+ ++L  T ++FQ + + ET    P+G V+ +DG IQ +  DE+VYHE L H 
+Sbjct  82   GLRFSYKLNKILSSTQSEFQQVDVCET---APFGRVLIIDGLIQSSQLDEYVYHESLVHP  252
+
+Query  81   PLCAHPD-PvdvliigggdggvMREVLRHGTVKRCVLVDIDGDVIEASKKYFPQISSGFS  139
+             + AH   P  V I GGG+G   REVLRH +V++CV+VDIDG V++  K++ P+ +  F 
+Sbjct  253  AMLAHATGPKRVFIGGGGEGSTAREVLRHKSVEKCVMVDIDGAVVDFCKEHLPENAEAFK  432
+
+Query  140  DPRADVRVGDGVAFVREAASESFDVVIIDTTDP--DGPAAELFGEKFYRDVLRILKPRGI  197
+            D R ++ + D      E A E FDV+I+D  DP  DGP   L+ ++FY      L P GI
+Sbjct  433  DSRLELII-DDCKIQLEKAEEKFDVIIMDLDDPLEDGPCYWLYCKEFYEMCKSKLNPGGI  609
+
+Query  198  CCNQGESVWLNRNLIEGMADFIKNKVGFASVK--YAMIYTPTYPCGSIGSLICSKVAGVD  255
+               Q     + ++       +   K  F +VK     +Y+     G +        A VD
+Sbjct  610  LVTQASGAGVKQHHQVFAPVYNTLKQVFPAVKGYNQAVYSFADEWGFVIGYSDEACAKVD  789
+
+Query  256  VTQPVRPVESMPFAGELKYYDSDVHKAAFVLPRFAR  291
+              + +    +    GEL++ D + +   F L +  R
+Sbjct  790  -EETINKRIAERITGELEFLDGESYTGLFSLSKKVR  894
+
+
+
+
+>TSA: Rhynchopus humris strain YPF1608 isolate water source rnacontig015949, transcribed RNA sequence
+Sequence ID: GLIF01013359.1 Length: 1677
+Range 1: 1037 to 1627
+
+Score:125 bits(314), Expect:1e-29, 
+Method:Compositional matrix adjust., 
+Identities:75/203(37%), Positives:118/203(58%), Gaps:8/203(3%)
+
+Query  2     PGPGLLADGWFREENGQWPGQAMSFKVEEVLHDTPTKFQHLSIFETDPKGPWGTVMTLDG  61
+             P    +++ W  E+  Q  G   S++++E+L  T +KFQ + + +T    P+G ++ +DG
+Sbjct  1627  PPTSTMSNIWVVEDLEQ--GLRFSYRIDEMLKSTQSKFQKVDVCDT---TPFGKILIIDG  1463
+
+Query  62    CIQLTDFDEFVYHEMLSHTPLCAHPDPvdvliigggdggvMREVLRHGTVKRCVLVDIDG  121
+              IQ +  DE++YHE L H  L AHP+P +V I GGG+G   REVLRH TV++CV+VDID 
+Sbjct  1462  LIQSSQLDEYIYHESLVHPALLAHPNPKNVFIGGGGEGSTAREVLRHKTVEKCVMVDIDE  1283
+
+Query  122   DVIEASKKYFPQISSGFSDPRADVRVGDGVAFVREAASESFDVVIIDTTDP--DGPAAEL  179
+              V+E  +++  + ++ F DPR ++ + D      E +   +DV+I+D  DP   GP   L
+Sbjct  1282  KVVEFCREHLEENNAAFKDPRLEL-IYDDCKIQLENSKIKYDVIIMDLDDPLEGGPCYWL  1106
+
+Query  180   FGEKFYRDVLRILKPRGICCNQG  202
+             + ++FY      L P GI   Q 
+Sbjct  1105  YCQEFYEMCKSKLNPGGILVTQA  1037
+
+
+
+
+>TSA: Rhynchopus humris TRINITY_DN22882_c0_g10128_i0, transcribed RNA sequence
+Sequence ID: GJQB01007643.1 Length: 1922
+Range 1: 183 to 773
+
+Score:125 bits(313), Expect:2e-29, 
+Method:Compositional matrix adjust., 
+Identities:75/203(37%), Positives:118/203(58%), Gaps:8/203(3%)
+
+Query  2    PGPGLLADGWFREENGQWPGQAMSFKVEEVLHDTPTKFQHLSIFETDPKGPWGTVMTLDG  61
+            P    +++ W  E+  Q  G   S++++E+L  T +KFQ + + +T    P+G ++ +DG
+Sbjct  183  PPTSTMSNIWVVEDLEQ--GLRFSYRIDEMLKSTQSKFQKVDVCDT---TPFGKILIIDG  347
+
+Query  62   CIQLTDFDEFVYHEMLSHTPLCAHPDPvdvliigggdggvMREVLRHGTVKRCVLVDIDG  121
+             IQ +  DE++YHE L H  L AHP+P +V I GGG+G   REVLRH TV++CV+VDID 
+Sbjct  348  LIQSSQLDEYIYHESLVHPALLAHPNPKNVFIGGGGEGSTAREVLRHKTVEKCVMVDIDE  527
+
+Query  122  DVIEASKKYFPQISSGFSDPRADVRVGDGVAFVREAASESFDVVIIDTTDP--DGPAAEL  179
+             V+E  +++  + ++ F DPR ++ + D      E +   +DV+I+D  DP   GP   L
+Sbjct  528  KVVEFCREHLEENNAAFKDPRLEL-IYDDCKIQLENSKIKYDVIIMDLDDPLEGGPCYWL  704
+
+Query  180  FGEKFYRDVLRILKPRGICCNQG  202
+            + ++FY      L P GI   Q 
+Sbjct  705  YCQEFYEMCKSKLNPGGILVTQA  773
+
+
+
+
+>TSA: Hemistasia phaeocysticola strain YPF1303 Hpha_DN3924_c0_g1_i1, transcribed RNA sequence
+Sequence ID: GHOA01006415.1 Length: 1155
+Range 1: 93 to 662
+
+Score:120 bits(300), Expect:1e-28, 
+Method:Compositional matrix adjust., 
+Identities:75/194(39%), Positives:112/194(57%), Gaps:7/194(3%)
+
+Query  20   PGQAMSFKVEEVLHDTPTKFQHLSIFETDPKGPWGTVMTLDGCIQLTDFDEFVYHEMLSH  79
+            PG   S+K+ ++L  T ++FQ + + +T+P   +G V+ +DG IQ    DE +YHE L H
+Sbjct  93   PGLRFSYKLTKMLASTQSEFQQVDVCDTEP---FGRVLIIDGLIQSAQLDEHMYHECLVH  263
+
+Query  80   TPLCAHPD-PvdvliigggdggvMREVLRHGTVKRCVLVDIDGDVIEASKKYFPQISSGF  138
+              + +H   P  V I GGG+G   REVLRH TV++CV+VDIDG V++  K++ P+    F
+Sbjct  264  PAMLSHATGPKRVFIGGGGEGSTAREVLRHKTVEKCVMVDIDGAVVDFCKEHLPENKEAF  443
+
+Query  139  SDPRADVRVGDGVAFVREAASESFDVVIIDTTDP--DGPAAELFGEKFYRDVLRILKPRG  196
+            +DPR ++ V D      E A+E FDV+I+D  DP   GP   L+ ++FY      L P G
+Sbjct  444  ADPRLELIV-DDCKVQLEKATEKFDVIIMDLDDPLEGGPCYWLYCQEFYEMCKTKLNPGG  620
+
+Query  197  ICCNQGESVWLNRN  210
+            I   Q     + ++
+Sbjct  621  ILVTQSSGAGVKQH  662
+
+
+
+
+>TSA: Lacrimia lanifica strain YPF1601 isolate water source transcontig012936, transcribed RNA sequence
+Sequence ID: GLIG01013280.1 Length: 2132
+Range 1: 972 to 1820
+
+Score:122 bits(305), Expect:2e-28, 
+Method:Compositional matrix adjust., 
+Identities:93/294(32%), Positives:149/294(50%), Gaps:21/294(7%)
+
+Query  8     ADGWFREENGQWPGQAMSFKVEEVLHDTPTKFQHLSIFETDPKGPWGTVMTLDGCIQLTD  67
+             +D + R +    P     F +E +LH+  T +QHL ++       +G V+ +D  +Q+T+
+Sbjct  1820  SDHYSRFQTADAPDIGYVFGMENLLHELQTPYQHLKVYA---HRFFGHVLVIDDSLQITE  1650
+
+Query  68    FDEFVYHEMLSHTPLCAHPDPvdvliigggdggvMREVLRHGTVKRCVLVDID-GDVIEA  126
+              DE  YHE+ +H P+   PD    L+IGGGDGGV+  +L+H  +    LVDID G +   
+Sbjct  1649  MDEGNYHEVAAHVPMAYLPDARRALVIGGGDGGVLLRLLQHRNLVSAELVDIDMGSLRGV  1470
+
+Query  127   SKKYFPQISSGFSDPRADVRVGDGVAFVREAASES-----FDVVIIDTTDPDGPAAELFG  181
+              + YFPQ+ + ++DPRA     DG  +V +  ++      +DVV++D+TD  G A  LF 
+Sbjct  1469  VEVYFPQLMAAYNDPRATAYEADGSTWVDDKLADPGNHGLYDVVVLDSTD-YGAAKSLFT  1293
+
+Query  182   EKFYRDVLRILKPRGICCNQGESVWLNRNLIEGMADFIKNKVGFASVKYAMIYTPTYPCG  241
+             E FY  + +++ P  +     ES   +   + G+   +     F  V     + PT+  G
+Sbjct  1292  ESFYLRLKKLMAPNSVFVANVESPSWDLATVVGVHAQLSQI--FRHVYVMHSFQPTFLSG  1119
+
+Query  242   SIGSLICSKVAGVDVTQPV-RPVESMPFAGE---LKYYDSDVHKAAFVLPRFAR  291
+                 L CS     D   P+  P++   FA +    +YY+ DVH A+F+LP   R
+Sbjct  1118  HFSFLFCS-----DAIHPMATPIDWAAFAAKNISTQYYNEDVHIASFILPNAIR  972
+
+
+
+
+>TSA: Eutreptiella gymnastica, TRINITY-DN39025-c12-g9-i1, transcribed RNA sequence
+Sequence ID: HBJA01103769.1 Length: 3604
+Range 1: 41 to 889
+
+Score:120 bits(302), Expect:7e-28, 
+Method:Compositional matrix adjust., 
+Identities:105/294(36%), Positives:146/294(49%), Gaps:18/294(6%)
+
+Query  7    LADG-WFREENGQWPGQAMSFKVEEVLHDTPTKFQHLSIFETDPKGPWGTVMTLDGCIQL  65
+            LA G W  EE    PG      V+EV+ +      H ++F+       G V+ ++  IQL
+Sbjct  41   LAKGDWVTEEIV--PGWRQQMLVDEVMVEERNDLGHRAVFKNQA---LGDVLLIEDRIQL  205
+
+Query  66   TDFDEFVYHEMLSHTPLCAHPDPvdvliigggdggvMREVLRHGTVKRCVLVDIDGDVIE  125
+            T  DE  YHEM +H P+  H    DVLIIGGGDG  +REVL+H T+ R  LVDID  +I 
+Sbjct  206  TSRDEHAYHEMFTHVPIVGHGKVKDVLIIGGGDGASLREVLKHRTL-RVTLVDIDPGIIA  382
+
+Query  126  ASKKYFPQI-SSGFSDPRADVRVGDGVAFVREAASESFDVVIIDTTD--PDGPAAELFGE  182
+             SKK+ P +    + D RA V + DG AFV     + FDV+I+D+TD  PDGP+A L+ E
+Sbjct  383  FSKKFLPTLHREAWDDARATVVIADGSAFVVN-TQDKFDVIIVDSTDPVPDGPSAVLYQE  559
+
+Query  183  KFYRDVLRILKPRGICCNQGESVWLNRNLIEGMADFIKNKVGFASVKYAMIYTPTYPCGS  242
+            +FYRD    L+P GI   Q             + +  K    F +        PTY  G 
+Sbjct  560  QFYRDCKGCLRPGGIIVTQNGHPNFEEYPAVALGNLAKV---FTNTTLYQFCVPTY-MGG  727
+
+Query  243  IGSLICSKVAGVDVTQPVRPVESMPFA---GELKYYDSDVHKAAFVLPRFARHL  293
+            + S   +      +   V+ +E    A    + + Y     KA+FVLPR+ + +
+Sbjct  728  LQSFGWASDDASILDVAVKTLEERWAATGITDCRVYTPAYGKASFVLPRWMQEI  889
+
+
+
+
+>TSA: Sulcionema specki strain YPF1618 isolate water source rnacontig032809, transcribed RNA sequence
+Sequence ID: GLIH01034241.1 Length: 1144
+Range 1: 90 to 536
+
+Score:117 bits(294), Expect:8e-28, 
+Method:Compositional matrix adjust., 
+Identities:68/153(44%), Positives:96/153(62%), Gaps:4/153(2%)
+
+Query  20   PGQAMSFKVEEVLHDTPTKFQHLSIFETDPKGPWGTVMTLDGCIQLTDFDEFVYHEMLSH  79
+            PG   S+K+  +L  T +KFQ +++ +T+    +G V+ +DG IQ    DE VYHE L H
+Sbjct  90   PGLRFSYKLNHILASTQSKFQQVAVCDTES---FGRVLIIDGLIQSAQLDEDVYHECLVH  260
+
+Query  80   TPLCAHPDPvdvliigggdggvMREVLRHGTVKRCVLVDIDGDVIEASKKYFPQISSGFS  139
+                AHP+P  V I GGG+G   REVLRH TV++CV+VDIDGDV++  K++ P+    F+
+Sbjct  261  PAPLAHPNPKRVFIGGGGEGSTAREVLRHKTVEKCVMVDIDGDVVKFCKEHLPENKEAFA  440
+
+Query  140  DPRADVRVGDGVAFVREAASESFDVVIIDTTDP  172
+            DPR ++ + D      E A E FDV+I+D  DP
+Sbjct  441  DPRLELII-DDCKVQLEKAEEKFDVIIMDLDDP  536
+
+
+
+
+>TSA: Euglena gracilis EG_transcript_14057 transcribed RNA sequence
+Sequence ID: GEFR01014056.1 Length: 1284
+Range 1: 26 to 511
+
+Score:114 bits(286), Expect:2e-26, 
+Method:Compositional matrix adjust., 
+Identities:68/163(42%), Positives:96/163(58%), Gaps:4/163(2%)
+
+Query  53   WGTVMTLDGCIQLTDFDEFVYHEMLSHTPLCAHPDPvdvliigggdggvMREVLRHGTVK  112
+            +G  + +DG +Q  D DE +YHE L H  +  HP P +V I G G+G   REVL+H TV+
+Sbjct  26   FGNALVIDGLMQSADCDERIYHECLVHPAMLLHPHPRNVFIGGAGEGSTAREVLKHNTVE  205
+
+Query  113  RCVLVDIDGDVIEASKKYFPQISSGFSDPRADVRVGDGVAFVREAASESFDVVIIDTTDP  172
+             CV+VDIDGDV++  K+  PQ +  F DPR  + + D +  ++EA +  FDV+I+D  DP
+Sbjct  206  SCVMVDIDGDVVDFCKEVLPQNTQAFKDPRLTLIIDDAMKQLQEATT-LFDVIIMDLDDP  382
+
+Query  173  --DGPAAELFGEKFYRDVLRILKPRGICCNQGESVWL-NRNLI  212
+               GP   L+ E+FY    + L P GI   Q  S  + N NL+
+Sbjct  383  LEGGPCYLLYTEEFYTMCRQKLAPNGILVTQCSSAGVKNYNLV  511
+
+
+
+
+>TSA: Diplonema japonicum strain YPF1604 isolate water source transcontig016266, transcribed RNA sequence
+Sequence ID: GLIE01018345.1 Length: 1269
+Range 1: 230 to 1033
+
+Score:114 bits(286), Expect:2e-26, 
+Method:Compositional matrix adjust., 
+Identities:89/279(32%), Positives:141/279(50%), Gaps:21/279(7%)
+
+Query  23    AMSFKVEEVLHDTPTKFQHLSIFETDPKGPWGTVMTLDGCIQLTDFDEFVYHEMLSHTPL  82
+             A  F +  +L +  T +QH+ ++       +G V+ +DG +Q+T+ DE  YHEM +H P+
+Sbjct  1033  AYLFGMNRMLFEVETNYQHIQVY---AHRYFGHVLVIDGSLQITERDEVNYHEMTAHVPM  863
+
+Query  83    CAHPDPvdvliigggdggvMREVLRHGTVKRCVLVDIDGDVI-EASKKYFPQISSGFSDP  141
+                PD   VL+IGGGD G +  +L H  V+   LVDID   + +    YFP + + + DP
+Sbjct  862   NYIPDAKKVLVIGGGDAGALLRLLEHKNVEAAHLVDIDMFAMRDMVASYFPYLHAAYMDP  683
+
+Query  142   RADVRVGDGVAFVRE-----AASESFDVVIIDTTDPDGPAAELFGEKFYRDVLRILKPRG  196
+             R      DG  +V E     +   S++VV++D+TD  G A  LF E FY  + R++  R 
+Sbjct  682   RTRAFAYDGRQWVDEQLEVASNRNSYEVVVLDSTDY-GAAESLFTEAFYEQLKRLMAKRS  506
+
+Query  197   ICCNQGESVWLNRNLIEGMADFIKNKVGFASVKYAMIYTPTYPCGSIGSLICSKVAGVDV  256
+             I     +S   N+  +  +A  ++  + F  V       PT+  G    + CS     D 
+Sbjct  505   ILIANVDSPSWNQETV--IAVQLQLSLIFKYVFILHSNQPTFLSGHYSYVFCS-----DE  347
+
+Query  257   TQPVR-PVESMPFAGE---LKYYDSDVHKAAFVLPRFAR  291
+               P++ P++   +  +     YY+SDVH A+F+LP F R
+Sbjct  346   IHPMKTPIDWAKWEEKNINTFYYNSDVHHASFILPEFVR  230
+
+
+
+
+>TSA: Artemidia motanka strain YPF1610 isolate water source NODE_28390_length_1141_cov_543.989927_g23655_i0, transcribed RNA sequence
+Sequence ID: GLII01027820.1 Length: 1141
+Range 1: 477 to 1046
+
+Score:113 bits(282), Expect:4e-26, 
+Method:Compositional matrix adjust., 
+Identities:70/194(36%), Positives:110/194(56%), Gaps:7/194(3%)
+
+Query  20    PGQAMSFKVEEVLHDTPTKFQHLSIFETDPKGPWGTVMTLDGCIQLTDFDEFVYHEMLSH  79
+             PG   S+ +  +L  T ++ Q + + +T+P   +G V+ +DG IQ    DEF+YHE L H
+Sbjct  1046  PGLRFSYTLHTILSSTQSECQQVDVCDTEP---FGRVLIIDGLIQSAQLDEFMYHECLVH  876
+
+Query  80    TPLCAHPD-PvdvliigggdggvMREVLRHGTVKRCVLVDIDGDVIEASKKYFPQISSGF  138
+               L +HP     V I GGG+G   REVLRH  V++CV+VDIDG V++  +++ P+    F
+Sbjct  875   PALLSHPTGAKRVFIGGGGEGSTAREVLRHKGVEKCVMVDIDGAVVDFCRQHLPENKEAF  696
+
+Query  139   SDPRADVRVGDGVAFVREAASESFDVVIIDTTDP--DGPAAELFGEKFYRDVLRILKPRG  196
+             +DPR ++ + D    + + A+E FDV+I++  DP   GP   L+ ++FY      L P G
+Sbjct  695   ADPRLELVIDDCKVQLAQ-ATEKFDVIIMELDDPLEGGPCYWLYCQEFYEMCKSKLNPGG  519
+
+Query  197   ICCNQGESVWLNRN  210
+             I   Q     + ++
+Sbjct  518   ILVTQASGAGIKQH  477
+
+
+
+
+>TSA: Artemidia motanka strain YPF1610 isolate water source NODE_16776_length_1779_cov_18.688439_g14166_i0, transcribed RNA sequence
+Sequence ID: GLII01016546.1 Length: 1779
+Range 1: 277 to 1080
+
+Score:111 bits(277), Expect:1e-24, 
+Method:Compositional matrix adjust., 
+Identities:89/281(32%), Positives:147/281(52%), Gaps:25/281(8%)
+
+Query  23    AMSFKVEEVLHDTPTKFQHLSIFETDPKGPWGTVMTLDGCIQLTDFDEFVYHEMLSHTPL  82
+             A  F ++  L +  T++QH+ ++       +G V+ +DG +Q+++ DE  YHEM +H P+
+Sbjct  277   AYVFGMDVKLAERETQYQHIEVY---AHRYFGHVLVIDGSLQISEKDEVNYHEMTAHVPM  447
+
+Query  83    CAHPDPvdvliigggdggvMREVLRHGTVKRCVLVDIDGDVI-EASKKYFPQISSGFSDP  141
+                PD   VL+IGGGDGG +  +L H  V++  LVDID   + +    YFP +   +++P
+Sbjct  448   AYIPDAKKVLVIGGGDGGALLRLLEHTGVEQAHLVDIDMYAMRDVVSSYFPYLYQAYTNP  627
+
+Query  142   RADVRVGDGVAFV-----REAASESFDVVIIDTTDPDGPAAELFGEKFYRDVLRILKPRG  196
+             R+     DG  +V      EA   S+ VV++D+TD  G A  LF ++FYR + R++ P+ 
+Sbjct  628   RSKSFAYDGRLWVDEQLETEANHGSYQVVVLDSTDY-GAAESLFTDEFYRQLKRLMGPKS  804
+
+Query  197   ICCNQGESVWLNRNLIEGMADFIKNKVG--FASVKYAMIYTPTYPCGSIGSLICSKVAGV  254
+             I     +S   N   +      ++N++   F  V     + PT+  G    + CS     
+Sbjct  805   ILVANVDSPSWNLETVVA----VQNQMTRLFNHVHIFQSHQPTFLSGHYSYVFCS-----  957
+
+Query  255   DVTQPVR-PVE-SMPFAGELK--YYDSDVHKAAFVLPRFAR  291
+             D   P++ P++ S  +A  +   YY+ DVH A+F+LP   R
+Sbjct  958   DSVHPMKSPIDWSQWYAKNITTYYYNPDVHYASFILPESIR  1080
+
+
+
+
+>TSA: Hemistasia phaeocysticola strain YPF1303 Hpha_DN29854_c0_g1_i1, transcribed RNA sequence
+Sequence ID: GHOA01001683.1 Length: 1258
+Range 1: 234 to 1034
+
+Score:110 bits(274), Expect:1e-24, 
+Method:Compositional matrix adjust., 
+Identities:87/278(31%), Positives:143/278(51%), Gaps:20/278(7%)
+
+Query  23    AMSFKVEEVLHDTPTKFQHLSIFETDPKGPWGTVMTLDGCIQLTDFDEFVYHEMLSHTPL  82
+             A  F ++  L +  T +Q + ++       +G V+ +DG +Q+T+ DE  YHEM +H PL
+Sbjct  234   AYVFGMDTRLTERETAYQTIEVY---AHRYFGHVLVIDGSLQITERDEANYHEMSAHVPL  404
+
+Query  83    CAHPDPvdvliigggdggvMREVLRHGTVKRCVLVDIDGDVI-EASKKYFPQISSGFSDP  141
+                PD   VL+IGGGDGG +  +L H  V++  LVDID   + +    YFP +   ++DP
+Sbjct  405   AYIPDAKKVLVIGGGDGGALLRMLEHKNVQQAHLVDIDMYAMRDVVSDYFPYLYQAYTDP  584
+
+Query  142   RADVRVGDGVAFV---REAASE-SFDVVIIDTTDPDGPAAELFGEKFYRDVLRILKPRGI  197
+             R      DG  +V    EA+ E ++ VV++D+TD  G A  LF ++FY  + R++ P+ I
+Sbjct  585   RTKAFAYDGRLWVDEQLEASQEGTYQVVVLDSTDY-GAAESLFTDEFYTRLKRLMAPKSI  761
+
+Query  198   CCNQGESVWLNRNLIEGMADFIKNKVGFASVKYAMIYTPTYPCGSIGSLICSKVAGVDVT  257
+                  +S   N   +  + + +  +  F  V     + PT+  G    + CS     D  
+Sbjct  762   LIANVDSPSWNLETVVAVQNQMTRQ--FKHVHIFQSHQPTFLSGHYSYVFCS-----DAV  920
+
+Query  258   QPVR-PVESMPFAGE---LKYYDSDVHKAAFVLPRFAR  291
+              P++ P++   +  +     YY+ D+H A+F+LP F R
+Sbjct  921   HPMKTPIDWDTWKAKNISTFYYNPDIHYASFILPEFVR  1034
+
+
+
+
+>TSA: Euglena gracilis EG_transcript_15313 transcribed RNA sequence
+Sequence ID: GEFR01015322.1 Length: 1215
+Range 1: 290 to 1003
+
+Score:107 bits(266), Expect:9e-24, 
+Method:Compositional matrix adjust., 
+Identities:82/251(33%), Positives:134/251(53%), Gaps:29/251(11%)
+
+Query  53    WGTVMTLDGCIQLTDFDEFVYHEMLSHTPLCAHPDPvdvliigggdggvMREVLRHGTVK  112
+             +G ++ +DG +Q+T+ DE  YHEM++H PL   P+    L++GGGDGG +  VL +  ++
+Sbjct  290   FGHILVIDGSLQITERDEMNYHEMMAHVPLVYMPNAAKALMVGGGDGGALARVLEYPQIR  469
+
+Query  113   RCVLVDIDGDVI-EASKKYFPQISSGFSDPRADVRVGDGVAFVREAASE-----SFDVVI  166
+             + VLVDID   + E S+KYFP +   ++DPR      DG A++RE  SE     S+D+V+
+Sbjct  470   QAVLVDIDMVAMRELSRKYFPSLYQAYADPRTTPYNRDGDAWLREQLSEESEVGSYDLVL  649
+
+Query  167   IDTTDPDGPAAELFGEKFYRDVLRILKPRG--ICCNQGESVWLNRNLIEGMADFIKNKVG  224
+             +D+TD  G A  LF + FY++  R+++     +  N     W N +++      ++ +  
+Sbjct  650   VDSTDY-GAAETLFTDHFYKNTKRLMRTEASVLIVNVDSPSW-NLDIV------VQVQRQ  805
+
+Query  225   FASV-KYAMIY---TPTYPCGSIGSLICSKVAGVDVTQPVRPVESMPFAGELK----YYD  276
+              A + ++A +Y    P++  G    L  S     D   P++     P   +L     YY 
+Sbjct  806   LAGLFRHAYLYQCHQPSFLSGHYSFLFAS-----DTIHPMKHPVDWPTWRQLDIPTYYYT  970
+
+Query  277   SDVHKAAFVLP  287
+              D+H AAF LP
+Sbjct  971   PDLHYAAFQLP  1003
+
+
+
+
+>TSA: Euglena longa strain CCAP 1204-17a Contig14910, transcribed RNA sequence
+Sequence ID: GGOE01014893.1 Length: 1388
+Range 1: 357 to 1121
+
+Score:107 bits(268), Expect:1e-23, 
+Method:Compositional matrix adjust., 
+Identities:87/271(32%), Positives:144/271(53%), Gaps:32/271(11%)
+
+Query  37    TKFQHLSIFETDPKGPWGTVMTLDGCIQLTDFDEFVYHEMLSHTPLCAHPDPvdvliigg  96
+             T +Q + +++      +G ++ +DG +Q+T+ DE  YHEM++H P+   PD    L+IGG
+Sbjct  1121  TPYQRVEVYQ---HPYFGNILVIDGSLQITERDEMNYHEMMAHVPMAYMPDAAKALMIGG  951
+
+Query  97    gdggvMREVLRHGTVKRCVLVDIDGDVI-EASKKYFPQISSGFSDPRADVRVGDGVAFVR  155
+             GDGG +  VL++  ++   LVDID  V+ E S+KYFP +   ++D R      DG A++R
+Sbjct  950   GDGGALARVLQYPKIQEVALVDIDMLVMREMSRKYFPSLYRVYTDARTAAYNHDGDAWLR  771
+
+Query  156   EAASE-----SFDVVIIDTTDPDGPAAELFGEKFYRDVLRILKPRG--ICCNQGESVWLN  208
+             E   E     ++D+V++D+TD  G A  LF + FYR+V R+++     +  N     W N
+Sbjct  770   EQLEEESEVGTYDLVLVDSTDY-GSAEPLFTDSFYRNVKRLMREEHSVLIINVDSPSW-N  597
+
+Query  209   RNLIEGMADFIKNKVGFASV-KYAMIY---TPTYPCGSIGSLICSKVAGVDVTQPVR-PV  263
+              +++      I+ +   A + +YA IY    P++  G    L  S     D+  P++ P+
+Sbjct  596   MDIV------IQVQRQLARLFRYAYIYQCHQPSFLSGHYSFLFAS-----DIIHPMKHPI  450
+
+Query  264   ESMPFAGE---LKYYDSDVHKAAFVLPRFAR  291
+             +   +        YY  DVH AAF+LP   +
+Sbjct  449   DWDAWHRHDIPTYYYTPDVHYAAFLLPALLK  357
+
+
+
+
+>TSA: Euglena gracilis comp26403_c0_seq1 transcribed RNA sequence
+Sequence ID: GDJR01032061.1 Length: 1357
+Range 1: 345 to 1058
+
+Score:107 bits(266), Expect:1e-23, 
+Method:Compositional matrix adjust., 
+Identities:82/251(33%), Positives:134/251(53%), Gaps:29/251(11%)
+
+Query  53    WGTVMTLDGCIQLTDFDEFVYHEMLSHTPLCAHPDPvdvliigggdggvMREVLRHGTVK  112
+             +G ++ +DG +Q+T+ DE  YHEM++H PL   P+    L++GGGDGG +  VL +  ++
+Sbjct  1058  FGHILVIDGSLQITERDEMNYHEMMAHVPLVYMPNAAKALMVGGGDGGALARVLEYPQIR  879
+
+Query  113   RCVLVDIDGDVI-EASKKYFPQISSGFSDPRADVRVGDGVAFVREAASE-----SFDVVI  166
+             + VLVDID   + E S+KYFP +   ++DPR      DG A++RE  SE     S+D+V+
+Sbjct  878   QAVLVDIDMVAMRELSRKYFPSLYQAYADPRTTPYNRDGDAWLREQLSEESEVGSYDLVL  699
+
+Query  167   IDTTDPDGPAAELFGEKFYRDVLRILKPRG--ICCNQGESVWLNRNLIEGMADFIKNKVG  224
+             +D+TD  G A  LF + FY++  R+++     +  N     W N +++      ++ +  
+Sbjct  698   VDSTDY-GAAETLFTDHFYKNTKRLMRTEASVLIVNVDSPSW-NLDIV------VQVQRQ  543
+
+Query  225   FASV-KYAMIY---TPTYPCGSIGSLICSKVAGVDVTQPVRPVESMPFAGELK----YYD  276
+              A + ++A +Y    P++  G    L  S     D   P++     P   +L     YY 
+Sbjct  542   LAGLFRHAYLYQCHQPSFLSGHYSFLFAS-----DTIHPMKHPVDWPTWRQLDIPTYYYT  378
+
+Query  277   SDVHKAAFVLP  287
+              D+H AAF LP
+Sbjct  377   PDLHYAAFQLP  345
+
+
+
+
+>TSA: Sulcionema specki strain YPF1618 isolate water source rnacontig030070, transcribed RNA sequence
+Sequence ID: GLIH01030341.1 Length: 1252
+Range 1: 277 to 1080
+
+Score:106 bits(265), Expect:1e-23, 
+Method:Compositional matrix adjust., 
+Identities:89/283(31%), Positives:140/283(49%), Gaps:29/283(10%)
+
+Query  23    AMSFKVEEVLHDTPTKFQHLSIFETDPKGPWGTVMTLDGCIQLTDFDEFVYHEMLSHTPL  82
+             A  F +   L D  T +QH+ ++       +G V+ +DG +Q+T+ DE  YHEM  H P+
+Sbjct  277   AYLFGMTSELVDKETAYQHIQVYS---HRYFGNVLVIDGSLQITEKDEVNYHEMTVHVPM  447
+
+Query  83    CAHPDPvdvliigggdggvMREVLRHGTVKRCVLVDIDGDVI-EASKKYFPQISSGFSDP  141
+                P+   VL++GGGDGG +R +L H  V+   LVDID   + E    +FP + + ++D 
+Sbjct  448   AYLPEAKRVLVVGGGDGGALRRLLDHPNVQEAHLVDIDMYAMREIVATHFPYLHTAYTDH  627
+
+Query  142   RADVRVGDGVAFVREAASE-----SFDVVIIDTTDPDGPAAELFGEKFYRDV-LRILKPR  195
+             R      DG  +V E         +++VV++D+TD  G A  LF E+FY+++ L + K  
+Sbjct  628   RTKAFAYDGRKWVDEQLENEVNKGTYEVVVLDSTDY-GAAETLFTEEFYKNLKLLMAKNS  804
+
+Query  196   GICCNQGESVWLNRNLI---EGMADFIKNKVGFASVKYAMIYTPTYPCGSIGSLICSKVA  252
+              +  N     W    +I     ++   KN   F S +      PT+  G    + CS   
+Sbjct  805   ILVANVDSPSWNLETVIAVQHQLSQLFKNVYIFHSNQ------PTFLSGHYSYVFCS---  957
+
+Query  253   GVDVTQPVR-PVESMPFAGE---LKYYDSDVHKAAFVLPRFAR  291
+               D   P++ P++   +  +     YY+ DVH A+FVLP F R
+Sbjct  958   --DNIHPMKTPIDWEKWEKKGISTYYYNPDVHLASFVLPEFIR  1080
+
+
+
+
+>TSA: Sulcionema specki strain YPF1618 isolate water source rnacontig025945, transcribed RNA sequence
+Sequence ID: GLIH01024240.1 Length: 1433
+Range 1: 318 to 1121
+
+Score:106 bits(265), Expect:2e-23, 
+Method:Compositional matrix adjust., 
+Identities:89/283(31%), Positives:140/283(49%), Gaps:29/283(10%)
+
+Query  23    AMSFKVEEVLHDTPTKFQHLSIFETDPKGPWGTVMTLDGCIQLTDFDEFVYHEMLSHTPL  82
+             A  F +   L D  T +QH+ ++       +G V+ +DG +Q+T+ DE  YHEM  H P+
+Sbjct  318   AYLFGMTSELVDKETAYQHIQVYS---HRYFGNVLVIDGSLQITEKDEVNYHEMTVHVPM  488
+
+Query  83    CAHPDPvdvliigggdggvMREVLRHGTVKRCVLVDIDGDVI-EASKKYFPQISSGFSDP  141
+                P+   VL++GGGDGG +R +L H  V+   LVDID   + E    +FP + + ++D 
+Sbjct  489   AYLPEAKRVLVVGGGDGGALRRLLDHPNVQEAHLVDIDMYAMREIVATHFPYLHTAYTDH  668
+
+Query  142   RADVRVGDGVAFVREAASE-----SFDVVIIDTTDPDGPAAELFGEKFYRDV-LRILKPR  195
+             R      DG  +V E         +++VV++D+TD  G A  LF E+FY+++ L + K  
+Sbjct  669   RTKAFAYDGRKWVDEQLENEVNKGTYEVVVLDSTDY-GAAETLFTEEFYKNLKLLMAKNS  845
+
+Query  196   GICCNQGESVWLNRNLI---EGMADFIKNKVGFASVKYAMIYTPTYPCGSIGSLICSKVA  252
+              +  N     W    +I     ++   KN   F S +      PT+  G    + CS   
+Sbjct  846   ILVANVDSPSWNLETVIAVQHQLSQLFKNVYIFHSNQ------PTFLSGHYSYVFCS---  998
+
+Query  253   GVDVTQPVR-PVESMPFAGE---LKYYDSDVHKAAFVLPRFAR  291
+               D   P++ P++   +  +     YY+ DVH A+FVLP F R
+Sbjct  999   --DNIHPMKTPIDWEKWEKKGISTYYYNPDVHLASFVLPEFIR  1121
+
+
+
+
+>TSA: Diplonema papillatum Dpap_TRINITY_DN26270_c0_g9305_i3, transcribed RNA sequence
+Sequence ID: GJNJ01023324.1 Length: 2901
+Range 1: 2175 to 2714
+
+Score:106 bits(264), Expect:8e-23, 
+Method:Compositional matrix adjust., 
+Identities:67/184(36%), Positives:103/184(55%), Gaps:7/184(3%)
+
+Query  21    GQAMSFKVEEVLHDTPTKFQHLSIFETDPKGPWGTVMTLDGCIQLTDFDEFVYHEMLSHT  80
+             G    +K++ +L    +KFQ + + +T     +G ++ +DG IQ +  DEFVYHE L   
+Sbjct  2714  GLRFQYKLDTILASKQSKFQQVDVCDTQA---FGRILIIDGLIQSSQLDEFVYHESLVFP  2544
+
+Query  81    PLCAHPD-PvdvliigggdggvMREVLRHGTVKRCVLVDIDGDVIEASKKYFPQISSGFS  139
+              + AH   P  V I GGG+G   REVLR   V++CV+VDIDGDV++  K++ P+    F+
+Sbjct  2543  AMLAHKTGPKTVFIGGGGEGSTAREVLRFKCVEKCVMVDIDGDVVDFCKEHLPENKEAFA  2364
+
+Query  140   DPRADVRVGDGVAFVREAASESFDVVIIDTTDP--DGPAAELFGEKFYRDVLRILKPRGI  197
+             DPR ++ + D      E +   +DV+I+D  DP   GP   L+ ++FY   +  L P G+
+Sbjct  2363  DPRLELII-DDCKVQLEKSEIKYDVIIMDLDDPLEGGPCYWLYCKEFYEMCVSKLNPGGV  2187
+
+Query  198   CCNQ  201
+                Q
+Sbjct  2186  LVTQ  2175
+
+
+
+
+>TSA: Diplonema papillatum Dpap_TRINITY_DN24256_c0_g9305_i2, transcribed RNA sequence
+Sequence ID: GJNJ01021502.1 Length: 3069
+Range 1: 2175 to 2714
+
+Score:105 bits(263), Expect:1e-22, 
+Method:Compositional matrix adjust., 
+Identities:67/184(36%), Positives:103/184(55%), Gaps:7/184(3%)
+
+Query  21    GQAMSFKVEEVLHDTPTKFQHLSIFETDPKGPWGTVMTLDGCIQLTDFDEFVYHEMLSHT  80
+             G    +K++ +L    +KFQ + + +T     +G ++ +DG IQ +  DEFVYHE L   
+Sbjct  2714  GLRFQYKLDTILASKQSKFQQVDVCDTQA---FGRILIIDGLIQSSQLDEFVYHESLVFP  2544
+
+Query  81    PLCAHPD-PvdvliigggdggvMREVLRHGTVKRCVLVDIDGDVIEASKKYFPQISSGFS  139
+              + AH   P  V I GGG+G   REVLR   V++CV+VDIDGDV++  K++ P+    F+
+Sbjct  2543  AMLAHKTGPKTVFIGGGGEGSTAREVLRFKCVEKCVMVDIDGDVVDFCKEHLPENKEAFA  2364
+
+Query  140   DPRADVRVGDGVAFVREAASESFDVVIIDTTDP--DGPAAELFGEKFYRDVLRILKPRGI  197
+             DPR ++ + D      E +   +DV+I+D  DP   GP   L+ ++FY   +  L P G+
+Sbjct  2363  DPRLELII-DDCKVQLEKSEIKYDVIIMDLDDPLEGGPCYWLYCKEFYEMCVSKLNPGGV  2187
+
+Query  198   CCNQ  201
+                Q
+Sbjct  2186  LVTQ  2175
+
+
+
+
+>TSA: Lacrimia lanifica strain YPF1601 isolate water source transcontig018522, transcribed RNA sequence
+Sequence ID: GLIG01018039.1 Length: 1586
+Range 1: 243 to 1046
+
+Score:103 bits(256), Expect:5e-22, 
+Method:Compositional matrix adjust., 
+Identities:86/283(30%), Positives:142/283(50%), Gaps:29/283(10%)
+
+Query  23    AMSFKVEEVLHDTPTKFQHLSIFETDPKGPWGTVMTLDGCIQLTDFDEFVYHEMLSHTPL  82
+             A  F + ++L++T T++Q + ++       +G V+ +DG +Q+T+ DE  YHEM +H P+
+Sbjct  243   AYIFGMHDLLYETTTQYQEIEVY---AHRYFGHVLVIDGSLQITERDEVNYHEMTAHVPM  413
+
+Query  83    CAHPDPvdvliigggdggvMREVLRHGTVKRCVLVDIDGDVI-EASKKYFPQISSGFSDP  141
+                PD   VL++GGGDGG +  +L+H  V+   LVDID   +      YFP + S ++D 
+Sbjct  414   AYLPDAKKVLVVGGGDGGALLRLLQHPNVETAHLVDIDMYAMRNIVASYFPFLYSAYTDK  593
+
+Query  142   RADVRVGDGVAFVR-----EAASESFDVVIIDTTDPDGPAAELFGEKFYRDVLRILKPRG  196
+             R      DG  +V      E+   S++VV++D+TD  G +  LF E FYR + +++    
+Sbjct  594   RTKAFAYDGSKWVDEQLEVESNRGSYEVVVLDSTDY-GASESLFTESFYRRLKQLMAKDS  770
+
+Query  197   ICCNQGESVWLNRNLIEG----MADFIKNKVGFASVKYAMIYTPTYPCGSIGSLICSKVA  252
+             I     +S   N + +      +A   K+ V   S      + PT+  G    + CS   
+Sbjct  771   ILVANLDSPSWNLDTVTAVQLHLAGIFKHAVVMQS------HQPTFLSGHYSFIFCS---  923
+
+Query  253   GVDVTQPVR-PVESMPFAG---ELKYYDSDVHKAAFVLPRFAR  291
+               D   P++ P++   F     +  YY+ D+H A+F LP   R
+Sbjct  924   --DEIHPMKAPIDWDKFIAKNIDTYYYNEDIHYASFALPEGVR  1046
+
+
+
+
+>TSA: Namystynia karyoxenos strain YPF1621 isolate water source rnacontig032858, transcribed RNA sequence
+Sequence ID: GLIJ01030281.1 Length: 1303
+Range 1: 209 to 1012
+
+Score:101 bits(251), Expect:1e-21, 
+Method:Compositional matrix adjust., 
+Identities:82/281(29%), Positives:139/281(49%), Gaps:25/281(8%)
+
+Query  23    AMSFKVEEVLHDTPTKFQHLSIFETDPKGPWGTVMTLDGCIQLTDFDEFVYHEMLSHTPL  82
+             A  F ++  L +  T +QH+ ++       +G  + +DG +Q+ + DE  YHEM +H PL
+Sbjct  1012  AYIFGMDAKLTEVATAYQHIEVY---AHRYFGHTLVIDGSLQICEKDEVNYHEMTAHVPL  842
+
+Query  83    CAHPDPvdvliigggdggvMREVLRHGTVKRCVLVDIDGDVI-EASKKYFPQISSGFSDP  141
+                     VL+IGGGDGG +  +L H  V+   LVDID   + +    YFP + + ++D 
+Sbjct  841   AYLKKAKKVLVIGGGDGGALLRLLEHSNVQEAHLVDIDMYAMRDIVANYFPYLYTAYTDA  662
+
+Query  142   RADVRVGDGVAFVRE-----AASESFDVVIIDTTDPDGPAAELFGEKFYRDVLRILKPRG  196
+             R      DG  +V E     A   ++DV+++D+TD  G A  LF ++F+ ++ +++ P  
+Sbjct  661   RTKSYAYDGKLWVDEQLETAANRGTYDVIVLDSTDY-GAAESLFTDEFFSNLKKLMSPES  485
+
+Query  197   ICCNQGESVWLNRNLIEGMADFIKNKVG--FASVKYAMIYTPTYPCGSIGSLICSKVAGV  254
+             +     +S   N   +      ++N++   F +      + PT+  G    + CS     
+Sbjct  484   VLVANVDSPSWNLETVVA----VQNQMSRLFTNTHIFQSHQPTFLSGHYSYVFCS-----  332
+
+Query  255   DVTQPVR-PVESMPFAGE---LKYYDSDVHKAAFVLPRFAR  291
+             D   P+R P++   +  +     YY+ DVH A+FVLP F R
+Sbjct  331   DKIHPMRSPIDWDDWWAKNITTYYYNPDVHYASFVLPEFVR  209
+
+
+
+
+>TSA: Rhynchopus humris strain YPF1608 isolate water source rnacontig011620, transcribed RNA sequence
+Sequence ID: GLIF01009991.1 Length: 2210
+Range 1: 588 to 1391
+
+Score:100 bits(248), Expect:8e-21, 
+Method:Compositional matrix adjust., 
+Identities:85/279(30%), Positives:134/279(48%), Gaps:21/279(7%)
+
+Query  23    AMSFKVEEVLHDTPTKFQHLSIFETDPKGPWGTVMTLDGCIQLTDFDEFVYHEMLSHTPL  82
+             A  F +E++L +  T++Q + ++       +G ++ +DG +Q+T+ DE  YHEM +H P+
+Sbjct  588   AYIFGMEQLLFELDTRYQRIEVYN---HRYFGHILVIDGSLQITERDEVNYHEMTAHVPM  758
+
+Query  83    CAHPDPvdvliigggdggvMREVLRHGTVKRCVLVDIDGDVIE-ASKKYFPQISSGFSDP  141
+                PD   VL+IGGGDGG +  +L+H  V +  LVDID   +      YFP + + ++D 
+Sbjct  759   AYLPDADKVLVIGGGDGGALLRLLQHKQVTQAHLVDIDMFAMRNMVATYFPYLYTAYTDE  938
+
+Query  142   RADVRVGDGVAFVREAAS-----ESFDVVIIDTTDPDGPAAELFGEKFYRDVLRILKPRG  196
+             R      DG  +V E         S+ VV++D+TD  G A  LF E FY+ + R++    
+Sbjct  939   RTRAYAYDGRLWVDEQLEIEENHGSYSVVVLDSTDY-GAAESLFTEAFYQQLKRLMAKDS  1115
+
+Query  197   ICCNQGESVWLNRNLIEG----MADFIKNKVGFASVKYAMIYTPTYPCGSIGSLICSKVA  252
+             I     +S   N + +      +    K+   F S      + PT+  G    + CS   
+Sbjct  1116  ILVANVDSPSWNLDTVVSVQLQLQRLFKHCFMFQS------HQPTFLSGHYAYVFCSDTI  1277
+
+Query  253   GVDVTQPVRPVESMPFAGELKYYDSDVHKAAFVLPRFAR  291
+                +T P+             YY+ DVH A+FVLP   R
+Sbjct  1278  H-PMTTPIDWEAWRQKKINTYYYNEDVHYASFVLPEKIR  1391
+
+
+
+
+>TSA: Rhynchopus humris strain YPF1608 isolate water source rnacontig010458, transcribed RNA sequence
+Sequence ID: GLIF01009104.1 Length: 2389
+Range 1: 988 to 1791
+
+Score:100 bits(248), Expect:9e-21, 
+Method:Compositional matrix adjust., 
+Identities:85/279(30%), Positives:134/279(48%), Gaps:21/279(7%)
+
+Query  23    AMSFKVEEVLHDTPTKFQHLSIFETDPKGPWGTVMTLDGCIQLTDFDEFVYHEMLSHTPL  82
+             A  F +E++L +  T++Q + ++       +G ++ +DG +Q+T+ DE  YHEM +H P+
+Sbjct  988   AYIFGMEQLLFELDTRYQRIEVYN---HRYFGHILVIDGSLQITERDEVNYHEMTAHVPM  1158
+
+Query  83    CAHPDPvdvliigggdggvMREVLRHGTVKRCVLVDIDGDVIE-ASKKYFPQISSGFSDP  141
+                PD   VL+IGGGDGG +  +L+H  V +  LVDID   +      YFP + + ++D 
+Sbjct  1159  AYLPDADKVLVIGGGDGGALLRLLQHKQVTQAHLVDIDMFAMRNMVATYFPYLYTAYTDE  1338
+
+Query  142   RADVRVGDGVAFVREAAS-----ESFDVVIIDTTDPDGPAAELFGEKFYRDVLRILKPRG  196
+             R      DG  +V E         S+ VV++D+TD  G A  LF E FY+ + R++    
+Sbjct  1339  RTRAYAYDGRLWVDEQLEIEENHGSYSVVVLDSTDY-GAAESLFTEAFYQQLKRLMAKDS  1515
+
+Query  197   ICCNQGESVWLNRNLIEG----MADFIKNKVGFASVKYAMIYTPTYPCGSIGSLICSKVA  252
+             I     +S   N + +      +    K+   F S      + PT+  G    + CS   
+Sbjct  1516  ILVANVDSPSWNLDTVVSVQLQLQRLFKHCFMFQS------HQPTFLSGHYAYVFCSDTI  1677
+
+Query  253   GVDVTQPVRPVESMPFAGELKYYDSDVHKAAFVLPRFAR  291
+                +T P+             YY+ DVH A+FVLP   R
+Sbjct  1678  H-PMTTPIDWEAWRQKKINTYYYNEDVHYASFVLPEKIR  1791
+
+
+
+
+>TSA: Eutreptiella gymnastica, TRINITY-DN40268-c0-g1-i1, transcribed RNA sequence
+Sequence ID: HBJA01140445.1 Length: 1110
+Range 1: 208 to 993
+
+Score:98.2 bits(243), Expect:1e-20, 
+Method:Compositional matrix adjust., 
+Identities:84/273(31%), Positives:136/273(49%), Gaps:22/273(8%)
+
+Query  26   FKVEEVLHDTPTKFQHLSIFETDPKGPWGTVMTLDGCIQLTDFDEFVYHEMLSHTPLCAH  85
+            F V   L    TK+Q + +F   P   +G ++ +D  +Q+T+ DE  YHEM++H PL   
+Sbjct  208  FSVTGRLEKITTKYQIVEVF-CHPY--FGNILVIDQSLQITERDEANYHEMMAHVPLVYM  378
+
+Query  86   PDPvdvliigggdggvMREVLRHGTVKRCVLVDIDGDVI-EASKKYFPQISSGFSDPRAD  144
+            PD    L+IGGGDGG +  +L+H  ++   LVDID   + E S+KYF  +   ++DPR  
+Sbjct  379  PDAKKALVIGGGDGGALLRILQHSNIEHAALVDIDMPTMREISRKYFSFLHQAYTDPRTK  558
+
+Query  145  VRVGDGVAFVREAASE-----SFDVVIIDTTDPDGPAAELFGEKFYRDV-LRILKPRGIC  198
+                DG  ++ E   +     S+++ I+D+TD  G A  LF ++FY D+ L + K   + 
+Sbjct  559  AYSYDGSKWLMEQLEDEENMGSYNLAIVDSTDY-GAAEPLFTDQFYADLKLLMHKEHSVL  735
+
+Query  199  CNQGESVWLNRNLIEGMADFIKNKVGFASVKYAMIYTPTYPCGSIGSLICSKVAGVDVTQ  258
+                +S   N + +  +   +     +  V ++  + PT+  G    L  S     D   
+Sbjct  736  VLNVDSPSWNADTVIQVQRQLSQMFKYCYVYHS--HQPTFLSGHYAFLFAS-----DNIH  894
+
+Query  259  PVR-PVESMPFAGE---LKYYDSDVHKAAFVLP  287
+            P+R P++   +        YY  DVH A+F+LP
+Sbjct  895  PMRSPIDWEAWHRSEIPTYYYSPDVHHASFMLP  993
+
+
+
+
+
+
+
+		
+
+

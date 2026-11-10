@@ -1,0 +1,119 @@
+RID: F5HNB4Z6014	
+Job Title:E Katablepharid Centrohelid AdoMetDC TSA				
+Program: TBLASTN 
+Database: tsa (3 databases) 
+Query #1: human_AdoMetDC Query ID: lcl|Query_1441091 Length: 334
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+TSA: Raphidocystis contractilis mRNA, TRINITY_DN423_c1_g4_i2                                      0          174    174   87%   4e-46 34.59  2335       ICRI01053829.1   
+TSA: Raphidocystis contractilis mRNA, TRINITY_DN423_c1_g4_i1                                      0          174    174   87%   5e-46 34.59  2360       ICRI01053828.1   
+TSA: Choanocystis sp. FB-2015 c13908_g1_i1 transcribed RNA...                                     0          140    140   84%   3e-35 31.25  1454       GDKX01017247.1   
+
+
+Alignments:
+
+>TSA: Raphidocystis contractilis mRNA, TRINITY_DN423_c1_g4_i2, mRNA sequence
+Sequence ID: ICRI01053829.1 Length: 2335
+Range 1: 907 to 1773
+
+Score:174 bits(440), Expect:4e-46, 
+Method:Compositional matrix adjust., 
+Identities:104/292(36%), Positives:152/292(52%), Gaps:6/292(2%)
+
+Query  7     FEGTEKLLEVWFSRQQPDANQGSGDLRTIPRSEWDILLKDVQCSIISVTKTDKQEAYVLS  66
+             FEG EK L +  +     +  G G L  +P+  W+ +L+D +C IIS     +  A+VLS
+Sbjct  1773  FEGAEKTLVIDLALTGRISGDGRG-LLDVPQQTWEAMLEDCKCQIISSMHNPEVTAFVLS  1597
+
+Query  67    ESSMFVSKRRFILKTCGTTlllkalvpllklaRDYSGFDSIQSFFYSRKNFMKPSHQGYP  126
+             ESS+FV   + ILKTCGTT  L+A+  + ++A +      I+   Y   +F+ P  Q +P
+Sbjct  1596  ESSLFVMAHKVILKTCGTTQTLQAIPHIQRIAAEMQS--DIEFVHYYHTDFIAPVSQPFP  1423
+
+Query  127   HRNFQEEIEFLNAIFPNGAAYCMGRMNSDC---WYLYTLDFPESRVISQPDQTLEILMSE  183
+             H  FQ+E+ FL+  FP G  Y  G  +      W+++  D+ + +   +P+ T EI M  
+Sbjct  1422  HSTFQDEVMFLSRHFPQGKWYSFGPSHGTIGSKWHVFVADYTKPQAPQRPELTFEIHMCG  1243
+
+Query  184   LDPAVMDQFYMKDGVTAKDVTRESGIRDLIPGSVIDATMFNPCGYSMNGMKSDGTYWTIH  243
+             L    M  F        K++ R + +  L+P   +D   F PCGYSMN +     Y TIH
+Sbjct  1242  LSRESMQLFSDNLNKDKKELARAADVSSLLPQFKLDECFFEPCGYSMNALDGQKFYATIH  1063
+
+Query  244   ITPEPEFSYVSFETNLSQTSYDDLIRKVVEVFKPGKFVTTLFVNQSSKCRTV  295
+             ITPEPE SYVSFETN S   +  L   V++ F+P      LF + +    TV
+Sbjct  1062  ITPEPECSYVSFETNASNVDFRALTTAVLQKFQPQNASIVLFADDALVHSTV  907
+
+
+
+
+>TSA: Raphidocystis contractilis mRNA, TRINITY_DN423_c1_g4_i1, mRNA sequence
+Sequence ID: ICRI01053828.1 Length: 2360
+Range 1: 932 to 1798
+
+Score:174 bits(440), Expect:5e-46, 
+Method:Compositional matrix adjust., 
+Identities:104/292(36%), Positives:152/292(52%), Gaps:6/292(2%)
+
+Query  7     FEGTEKLLEVWFSRQQPDANQGSGDLRTIPRSEWDILLKDVQCSIISVTKTDKQEAYVLS  66
+             FEG EK L +  +     +  G G L  +P+  W+ +L+D +C IIS     +  A+VLS
+Sbjct  1798  FEGAEKTLVIDLALTGRISGDGRG-LLDVPQQTWEAMLEDCKCQIISSMHNPEVTAFVLS  1622
+
+Query  67    ESSMFVSKRRFILKTCGTTlllkalvpllklaRDYSGFDSIQSFFYSRKNFMKPSHQGYP  126
+             ESS+FV   + ILKTCGTT  L+A+  + ++A +      I+   Y   +F+ P  Q +P
+Sbjct  1621  ESSLFVMAHKVILKTCGTTQTLQAIPHIQRIAAEMQS--DIEFVHYYHTDFIAPVSQPFP  1448
+
+Query  127   HRNFQEEIEFLNAIFPNGAAYCMGRMNSDC---WYLYTLDFPESRVISQPDQTLEILMSE  183
+             H  FQ+E+ FL+  FP G  Y  G  +      W+++  D+ + +   +P+ T EI M  
+Sbjct  1447  HSTFQDEVMFLSRHFPQGKWYSFGPSHGTIGSKWHVFVADYTKPQAPQRPELTFEIHMCG  1268
+
+Query  184   LDPAVMDQFYMKDGVTAKDVTRESGIRDLIPGSVIDATMFNPCGYSMNGMKSDGTYWTIH  243
+             L    M  F        K++ R + +  L+P   +D   F PCGYSMN +     Y TIH
+Sbjct  1267  LSRESMQLFSDNLNKDKKELARAADVSSLLPQFKLDECFFEPCGYSMNALDGQKFYATIH  1088
+
+Query  244   ITPEPEFSYVSFETNLSQTSYDDLIRKVVEVFKPGKFVTTLFVNQSSKCRTV  295
+             ITPEPE SYVSFETN S   +  L   V++ F+P      LF + +    TV
+Sbjct  1087  ITPEPECSYVSFETNASNVDFRALTTAVLQKFQPQNASIVLFADDALVHSTV  932
+
+
+
+
+>TSA: Choanocystis sp. FB-2015 c13908_g1_i1 transcribed RNA sequence
+Sequence ID: GDKX01017247.1 Length: 1454
+Range 1: 52 to 936
+
+Score:140 bits(354), Expect:3e-35, 
+Method:Compositional matrix adjust., 
+Identities:99/304(33%), Positives:157/304(51%), Gaps:32/304(10%)
+
+Query  6    FFEGTEKLLEVWFSRQQPDANQGSGDLRTIPRSEWDILLKDVQCSIISVTKTDKQEAYVL  65
+             FEG EK L V FS    D  +   +LR++ +  W  +L +  C+I+    +DK +AY+L
+Sbjct  52   LFEGVEKTLVVGFSLPH-DHTKTPNNLRSLSKETWVTILAECGCTILGEIHSDKMDAYLL  228
+
+Query  66   SESSMFVSKRRFILKTCGTTlllkalvpllklaRDYSGF-DSIQSFF-YSRKNFMKPSHQ  123
+            SESS+FV + + I KTCG T LL A+  L    +D + F D+  SF  + R +FM PS Q
+Sbjct  229  SESSLFVFETKCIFKTCGRTKLLTAVGML----QDLALFLDARVSFVNFCRSSFMYPSLQ  396
+
+Query  124  GYPHRNFQEEIEFLN----------AIFPNGAAYCMGRMNSDCWYLYTLDFPESRVISQ-  172
+              PH +F +EI+FL            +F + + +  G  +   WY+   D P S++ S  
+Sbjct  397  PSPHTSFADEIDFLACQLNTSRESLGVFESSSKHHTGESS---WYMCIFD-PMSKIPSSS  564
+
+Query  173  -------PDQT-LEILMSELDPAVMDQFYMKDGVTAKDVTRESGIRDLIPGSVIDATMFN  224
+                   P +T +E+ M +L   + + F   +  + +  +  + +  L+P   ID   F 
+Sbjct  565  ALHRSWWPRETVIELRMHDLPSHITNCFIYSNRFSPESQSLRTQMLSLLPEFQIDEYDFQ  744
+
+Query  225  PCGYSMNGMKSDGTYWTIHITPEPEFSYVSFETNLSQTSY--DDLIRKVVEVFKPGKFVT  282
+            PCGYS N +K  G Y T+H+TPE   SY+SFETN   + +     + +++++ +P   V 
+Sbjct  745  PCGYSFNALKQGGYYATVHVTPETSGSYISFETNFGGSLFAAKKTVARLLQLLEPSTAVV  924
+
+Query  283  TLFV  286
+             LF 
+Sbjct  925  VLFA  936
+
+
+
+
+
+
+
+		
+
+

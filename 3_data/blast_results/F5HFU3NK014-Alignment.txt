@@ -1,0 +1,2941 @@
+RID: F5HFU3NK014	
+Job Title:C Dino Perkinsus SpdSyn				
+Program: BLASTP 
+Database: tsa_nr Transcriptome Shotgun Assembly (TSA) sequences
+Query #1: human_spermidine_synthase Query ID: lcl|Query_7228511 Length: 302
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E    Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value  Ident  Len        Accession        
+unnamed protein product, partial [Durinskia baltica]              Durinskia ba... NA              59809      360    360   95%   2e-123 59.03  311        CAE5369737.1     
+unnamed protein product [Karenia brevis]                          Karenia brevis  NA              156230     308    308   94%   5e-103 52.10  312        CAF5588632.1     
+unnamed protein product [Azadinium spinosum]                      Azadinium sp... NA              632150     303    303   95%   4e-101 51.01  322        CAF6953754.1     
+unnamed protein product [Pelagodinium bei]                        Pelagodinium... NA              43686      301    301   97%   3e-100 50.00  314        CAE9639740.1     
+unnamed protein product, partial [Prorocentrum minimum]           Prorocentrum... NA              39449      293    293   95%   3e-97  52.40  311        CAE1445581.1     
+unnamed protein product [Gymnoxanthella radiolariae]              Gymnoxanthel... NA              1798043    292    292   94%   5e-97  49.83  313        CAF0067242.1     
+unnamed protein product, partial [Prorocentrum minimum]           Prorocentrum... NA              39449      293    293   95%   1e-96  52.40  354        CAE1068684.1     
+unnamed protein product [Amphidinium massartii]                   Amphidinium ... NA              160604     289    289   95%   8e-96  49.48  301        CAE3108857.1     
+unnamed protein product, partial [uncultured Symbiodinium]        uncultured S... NA              482330     286    286   93%   8e-95  51.06  296        CAH9568932.1     
+unnamed protein product [Lingulaulax polyedra]                    Lingulaulax ... NA              160621     280    280   95%   4e-92  48.28  316        CAG0536368.1     
+unnamed protein product [Symbiodinium sp. CCMP2430]               Symbiodinium... NA              631057     278    278   95%   1e-91  50.87  311        CAF9824930.1     
+unnamed protein product, partial [Gymnodinium catenatum]          Gymnodinium ... NA              39447      278    278   94%   1e-90  48.42  349        CAE3344621.1     
+unnamed protein product [Lingulaulax polyedra]                    Lingulaulax ... NA              160621     276    276   94%   2e-90  47.59  313        CAG0496965.1     
+unnamed protein product [uncultured Symbiodinium]                 uncultured S... NA              482330     275    275   91%   3e-90  50.91  304        CAH9725526.1     
+unnamed protein product [Togula jolla]                            Togula jolla    NA              285029     275    275   91%   4e-90  49.29  317        CAE2608401.1     
+unnamed protein product, partial [Zooxanthella nutricula]         Zooxanthella... NA              1333877    275    275   91%   2e-89  48.94  345        CAD9620391.1     
+unnamed protein product [Amphidinium carterae]                    Amphidinium ... NA              2961       271    271   95%   8e-89  49.83  312        CAE4503280.1     
+unnamed protein product, partial [Tripos fusus]                   Tripos fusus    NA              2916       271    271   94%   2e-87  45.03  390        CAE4745194.1     
+unnamed protein product, partial [Oxyrrhis marina]                Oxyrrhis marina NA              2969       262    262   93%   2e-85  48.40  291        CAF5682657.1     
+unnamed protein product [Gambierdiscus australes]                 Gambierdiscu... NA              439317     258    258   97%   2e-83  50.85  315        CAE3210443.1     
+unnamed protein product, partial [Kryptoperidinium foliaceum]     Kryptoperidi... NA              160619     254    254   71%   3e-83  55.35  229        CAF5899039.1     
+unnamed protein product, partial [Lingulaulax polyedra]           Lingulaulax ... NA              160621     231    231   66%   1e-74  54.90  204        CAG0366533.1     
+TPA: unnamed protein product, partial [uncultured Symbiodinium]   uncultured S... NA              482330     212    212   57%   3e-67  57.56  180        CAI0083593.1     
+TPA: unnamed protein product, partial [Symbiodinium sp. clade D]  Symbiodinium... NA              298137     209    209   75%   2e-65  50.66  244        CAG1117312.1     
+unnamed protein product, partial [Azadinium spinosum]             Azadinium sp... NA              632150     207    207   76%   2e-64  46.12  232        CAF6952060.1     
+unnamed protein product, partial [Pelagodinium bei]               Pelagodinium... NA              43686      203    203   62%   1e-63  56.68  192        CAE4085042.1     
+unnamed protein product, partial [Lingulaulax polyedra]           Lingulaulax ... NA              160621     194    194   50%   3e-60  63.16  168        CAG0346815.1     
+unnamed protein product, partial [Tripos fusus]                   Tripos fusus    NA              2916       175    175   60%   5e-52  50.53  230        CAE4845830.1     
+unnamed protein product, partial [Polarella glacialis]            Polarella gl... NA              89957      171    171   66%   2e-50  44.83  224        CAE4436690.1     
+TPA: unnamed protein product, partial [Symbiodinium sp. clade D]  Symbiodinium... NA              298137     148    148   38%   8e-43  56.52  135        CAG1290077.1     
+unnamed protein product, partial [Alexandrium fundyense]          Alexandrium ... NA              2932       148    148   70%   1e-41  39.73  249        CAE4360707.1     
+unnamed protein product, partial [Alexandrium minutum]            Alexandrium ... NA              39455      140    140   37%   4e-40  59.82  111        CAE2826636.1     
+unnamed protein product, partial [uncultured Symbiodinium]        uncultured S... NA              482330     138    138   80%   1e-36  32.79  351        CAH9537300.1     
+unnamed protein product, partial [Perkinsus chesapeaki]           Perkinsus ch... NA              330153     130    130   45%   1e-35  52.55  144        CAE6010593.1     
+unnamed protein product, partial [Symbiodinium sp. CCMP2430]      Symbiodinium... NA              631057     132    132   85%   2e-34  32.71  349        CAF9820879.1     
+unnamed protein product, partial [Scrippsiella hangoei]           Scrippsiella... NA              268821     125    125   62%   2e-33  35.79  201        CAE9438535.1     
+unnamed protein product [Gymnoxanthella radiolariae]              Gymnoxanthel... NA              1798043    128    128   92%   4e-33  28.87  321        CAE9973849.1     
+unnamed protein product [Polarella glacialis]                     Polarella gl... NA              89957      127    127   92%   7e-33  29.37  322        CAE4390009.1     
+unnamed protein product, partial [Scrippsiella hangoei]           Scrippsiella... NA              268821     127    127   87%   7e-33  30.00  292        CAE8473490.1     
+unnamed protein product, partial [Kryptoperidinium foliaceum]     Kryptoperidi... NA              160619     128    128   88%   8e-33  28.41  343        CAF6018833.1     
+unnamed protein product, partial [Crypthecodinium cohnii]         Crypthecodin... NA              2866       127    127   57%   9e-33  34.48  310        CAE5124395.1     
+unnamed protein product [Scrippsiella hangoei]                    Scrippsiella... NA              268821     127    127   87%   1e-32  30.00  317        CAE8473489.1     
+unnamed protein product [Scrippsiella hangoei]                    Scrippsiella... NA              268821     127    127   87%   1e-32  30.00  317        CAE8473488.1     
+unnamed protein product, partial [Crypthecodinium cohnii]         Crypthecodin... NA              2866       126    126   57%   2e-32  34.48  310        CAE5124396.1     
+unnamed protein product [Kryptoperidinium foliaceum]              Kryptoperidi... NA              160619     126    126   88%   2e-32  28.41  314        CAF6018829.1     
+unnamed protein product, partial [Alexandrium monilatum]          Alexandrium ... NA              311494     127    127   96%   3e-32  28.43  351        CAE4678432.1     
+TPA: unnamed protein product, partial [uncultured Symbiodinium]   uncultured S... NA              482330     125    125   93%   5e-32  29.51  336        CAI0197573.1     
+unnamed protein product, partial [Pelagodinium bei]               Pelagodinium... NA              43686      125    125   62%   7e-32  33.86  339        CAE9667917.1     
+unnamed protein product [Lingulaulax polyedra]                    Lingulaulax ... NA              160621     124    124   88%   1e-31  29.04  310        CAG0468211.1     
+unnamed protein product, partial [Kryptoperidinium foliaceum]     Kryptoperidi... NA              160619     125    125   88%   1e-31  29.04  339        CAF6018831.1     
+unnamed protein product, partial [Scrippsiella hangoei]           Scrippsiella... NA              268821     126    126   84%   2e-31  31.14  435        CAE9288931.1     
+unnamed protein product, partial [Lingulaulax polyedra]           Lingulaulax ... NA              160621     124    124   97%   2e-31  28.81  325        CAG0468213.1     
+unnamed protein product, partial [Alexandrium fundyense]          Alexandrium ... NA              2932       118    118   37%   2e-31  50.00  123        CAE4381683.1     
+unnamed protein product, partial [Zooxanthella nutricula]         Zooxanthella... NA              1333877    124    124   98%   3e-31  28.05  365        CAE1882160.1     
+unnamed protein product [Kryptoperidinium foliaceum]              Kryptoperidi... NA              160619     123    123   88%   3e-31  29.04  310        CAF6018828.1     
+unnamed protein product, partial [Alexandrium monilatum]          Alexandrium ... NA              311494     120    120   58%   4e-31  35.16  230        CAE4680851.1     
+unnamed protein product [Alexandrium monilatum]                   Alexandrium ... NA              311494     122    122   92%   6e-31  28.22  322        CAE4678430.1     
+unnamed protein product [Alexandrium monilatum]                   Alexandrium ... NA              311494     122    122   92%   1e-30  28.22  322        CAE4678431.1     
+unnamed protein product [Lingulaulax polyedra]                    Lingulaulax ... NA              160621     121    121   88%   1e-30  28.31  306        CAG0468212.1     
+unnamed protein product [Lingulaulax polyedra]                    Lingulaulax ... NA              160621     120    120   88%   3e-30  28.31  302        CAG0468214.1     
+unnamed protein product, partial [Alexandrium catenella]          Alexandrium ... NA              2925       118    118   59%   3e-30  33.33  240        CAD9191185.1     
+unnamed protein product [Noctiluca scintillans]                   Noctiluca sc... NA              2966       120    120   90%   3e-30  29.08  318        CAD8860413.1     
+TPA: unnamed protein product, partial [Symbiodinium sp. clade D]  Symbiodinium... NA              298137     119    119   67%   5e-30  31.37  260        CAG1167454.1     
+unnamed protein product [Lingulaulax polyedra]                    Lingulaulax ... NA              160621     119    119   88%   7e-30  27.68  314        CAG0468210.1     
+unnamed protein product, partial [Oxyrrhis marina]                Oxyrrhis marina NA              2969       122    122   91%   2e-29  29.72  644        CAE0844343.1     
+unnamed protein product, partial [Symbiodinium kawagutii]         Symbiodinium... NA              104179     115    115   59%   2e-29  33.33  219        CAE8141456.1     
+unnamed protein product [Togula jolla]                            Togula jolla    NA              285029     117    117   71%   7e-29  34.25  321        CAE2592239.1     
+TPA: unnamed protein product, partial [Symbiodinium sp. clade D]  Symbiodinium... NA              298137     115    115   79%   9e-29  29.08  275        CAG1346854.1     
+TPA: unnamed protein product [uncultured Symbiodinium]            uncultured S... NA              482330     112    112   49%   1e-28  39.60  175        CAI0216515.1     
+unnamed protein product, partial [Alexandrium tamarense]          Alexandrium ... NA              2926       110    110   32%   1e-28  49.04  110        CAE5057262.1     
+TPA: unnamed protein product, partial [Symbiodinium sp. clade D]  Symbiodinium... NA              298137     112    112   48%   2e-28  38.26  164        CAG1316353.1     
+unnamed protein product [Karenia brevis]                          Karenia brevis  NA              156230     115    115   70%   2e-28  29.77  328        CAF8040493.1     
+unnamed protein product [Karenia brevis]                          Karenia brevis  NA              156230     115    115   70%   2e-28  29.77  328        CAE6563447.1     
+unnamed protein product [Karenia brevis]                          Karenia brevis  NA              156230     115    115   70%   2e-28  29.77  328        CAF5852137.1     
+unnamed protein product [Tripos fusus]                            Tripos fusus    NA              2916       115    115   68%   5e-28  31.43  318        CAE4804344.1     
+unnamed protein product [Karlodinium veneficum]                   Karlodinium ... NA              407301     115    115   70%   5e-28  29.17  324        CAF6417543.1     
+unnamed protein product, partial [Symbiodinium sp. Mp]            Symbiodinium... NA              230996     113    113   60%   7e-28  35.87  286        CAF9465090.1     
+unnamed protein product [Alexandrium monilatum]                   Alexandrium ... NA              311494     117    117   83%   1e-27  27.96  654        CAE4628186.1     
+unnamed protein product [Alexandrium monilatum]                   Alexandrium ... NA              311494     117    117   83%   2e-27  27.96  734        CAE4628190.1     
+unnamed protein product [Lingulaulax polyedra]                    Lingulaulax ... NA              160621     116    116   76%   4e-27  32.91  1007       CAG0388653.1     
+unnamed protein product, partial [Perkinsus chesapeaki]           Perkinsus ch... NA              330153     105    105   37%   9e-27  51.35  111        CAE6010737.1     
+unnamed protein product, partial [Perkinsus chesapeaki]           Perkinsus ch... NA              330153     105    105   37%   9e-27  50.45  111        CAE6010695.1     
+TPA: unnamed protein product, partial [Symbiodinium sp. clade A]  Symbiodinium... NA              311979     111    111   92%   1e-26  25.61  319        CAG1255946.1     
+unnamed protein product, partial [Prorocentrum minimum]           Prorocentrum... NA              39449      111    111   67%   1e-26  31.07  364        CAE1342947.1     
+unnamed protein product [Zooxanthella nutricula]                  Zooxanthella... NA              1333877    110    110   88%   2e-26  28.04  328        CAD9516917.1     
+unnamed protein product, partial [Zooxanthella nutricula]         Zooxanthella... NA              1333877    110    110   88%   3e-26  28.04  360        CAE1882159.1     
+unnamed protein product, partial [Lingulaulax polyedra]           Lingulaulax ... NA              160621     110    110   83%   3e-26  31.41  322        CAF5567409.1     
+TPA: unnamed protein product, partial [Symbiodinium sp. clade D]  Symbiodinium... NA              298137     103    103   32%   6e-26  47.42  99         CAG1290274.1     
+unnamed protein product, partial [Dinophysis acuminata]           Dinophysis a... NA              47934      102    102   31%   1e-25  51.06  111        CAE1607805.1     
+unnamed protein product [Kryptoperidinium triquetrum]             Kryptoperidi... NA              66468      108    108   62%   2e-25  31.05  323        CAE2912637.1     
+unnamed protein product, partial [Zooxanthella nutricula]         Zooxanthella... NA              1333877    102    102   45%   3e-25  38.52  135        CAE1922193.1     
+unnamed protein product [Amphidinium carterae]                    Amphidinium ... NA              2961       107    107   70%   3e-25  29.63  316        CAE4501954.1     
+unnamed protein product [Amphidinium massartii]                   Amphidinium ... NA              160604     107    107   62%   4e-25  31.22  315        CAE3123401.1     
+unnamed protein product, partial [Alexandrium tamarense]          Alexandrium ... NA              2926       108    108   87%   2e-24  26.97  597        CAE4939338.1     
+unnamed protein product, partial [Kryptoperidinium foliaceum]     Kryptoperidi... NA              160619     105    105   64%   2e-24  30.46  339        CAF6018836.1     
+unnamed protein product, partial [Perkinsus marinus]              Perkinsus ma... NA              31276      99.8   99.8  38%   3e-24  38.60  119        CAF5654268.1     
+unnamed protein product, partial [Heterocapsa rotundata]          Heterocapsa ... NA              89963      105    105   72%   3e-24  30.32  351        CAE3064227.1     
+unnamed protein product, partial [Gymnodinium catenatum]          Gymnodinium ... NA              39447      107    107   73%   4e-24  30.86  811        CAE3285670.1     
+unnamed protein product, partial [Lingulaulax polyedra]           Lingulaulax ... NA              160621     103    103   55%   6e-23  36.63  618        CAG0525504.1     
+unnamed protein product, partial [Perkinsus chesapeaki]           Perkinsus ch... NA              330153     94.0   94.0  33%   7e-22  52.00  142        CAE6010622.1     
+
+
+Alignments:
+
+>unnamed protein product, partial [Durinskia baltica]
+Sequence ID: CAE5369737.1 Length: 311
+Range 1: 26 to 310
+
+Score:360 bits(923), Expect:2e-123, 
+Method:Compositional matrix adjust., 
+Identities:170/288(59%), Positives:221/288(76%), Gaps:3/288(1%)
+
+Query  11   SGPAAIREGWFRETCSLWPGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQ  70
+            +G   I +GWF E   LWPGQA+SL+V+ +L H RS +QDILVF S+++GNVLVLDGVIQ
+Sbjct  26   TGKDLIIDGWFHERGELWPGQAMSLKVKNVLDHHRSDFQDILVFESESHGNVLVLDGVIQ  85
+
+Query  71   CTERDEFSYQEMIANLPLCSHPNPRKVLIIGGGDGGVLREVVKHPSVESVVQCEIDEDVI  130
+             TERDEFSYQEMIA++PL +HPNP+KVL+IGGGDGGVLREV KH  VE +V+CEIDE VI
+Sbjct  86   VTERDEFSYQEMIAHIPLFAHPNPKKVLVIGGGDGGVLREVAKHKGVEEIVECEIDEGVI  145
+
+Query  131  QVSKKFLPGMAIGYSSSKLTLHVGDGFEFMKQNQDAFDVIITDSSDPMGPAESLFKESYY  190
+            +VSKK+LP +A GY   ++T+ + DG +F+++NQDAFDVIITDSSDP+GPA  LF+  +Y
+Sbjct  146  KVSKKYLPNLAKGYDDPRVTVKIMDGAKFLEENQDAFDVIITDSSDPIGPASVLFETPFY  205
+
+Query  191  QLMKTALKEDGVLCCQGECQWLHLDLIKEMRQFCQSLFPVVAYAYCTIPTYPSGQIGFML  250
+              M  +LKE G++C QGEC WLHLDLIK +     + +  V YAY TIPTYPSGQIGF++
+Sbjct  206  DAMYKSLKEGGIVCTQGECMWLHLDLIKPLVDSIGTKYTSVEYAYTTIPTYPSGQIGFIV  265
+
+Query  251  CSKNPSTNFQEPVQPLTQQQVAQMQLKYYNSDVHRAAFVLPEFARKAL  298
+             SK  ST  + P +  T++ ++   LKYY  ++H A+FVLP FA++A+
+Sbjct  266  ASKGRST-CKIPQRAATEELLS--DLKYYTPELHSASFVLPAFAQRAI  310
+
+
+
+
+>unnamed protein product [Karenia brevis]
+Sequence ID: CAF5588632.1 Length: 312
+>unnamed protein product [Karenia brevis]
+Sequence ID: CAH9406708.1 Length: 312 
+Range 1: 11 to 296
+
+Score:308 bits(788), Expect:5e-103, 
+Method:Compositional matrix adjust., 
+Identities:149/286(52%), Positives:198/286(69%), Gaps:2/286(0%)
+
+Query  16   IREGWFRETCSLWPGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQCTERD  75
+            I  GWF E  S WPGQA +LQV++++ H+++++QD+LVF S  +G VLVLDGVIQ TERD
+Sbjct  11   IENGWFMEKNSQWPGQANALQVKEVILHKKTKFQDLLVFESTDWGKVLVLDGVIQLTERD  70
+
+Query  76   EFSYQEMIANLPLCSHPNPRKVLIIGGGDGGVLREVVKHPSVESVVQCEIDEDVIQVSKK  135
+            E SYQEM+A+LPL SH NP  VLIIGGGDGGVLREV KH  VE +  CEID+ V++ SK 
+Sbjct  71   EMSYQEMMAHLPLFSHANPIDVLIIGGGDGGVLREVAKHACVERITHCEIDDGVVEASKA  130
+
+Query  136  FLPGMAIGYSSSKLTLHVGDGFEFMKQNQD-AFDVIITDSSDPMGPAESLFKESYYQLMK  194
+            + P +A  +S+ K+ L +GDG  F +  +D ++DVII DSSDP+GPAE LF + +Y    
+Sbjct  131  YFPSLACAFSNPKVNLMIGDGVAFAEGAKDSSWDVIIIDSSDPVGPAEKLFSKEFYVNAH  190
+
+Query  195  TALKEDGVLCCQGECQWLHLDLIKEMRQFCQSLFPVVAYAYCTIPTYPSGQIGFMLCSKN  254
+              LK DGVLC QGEC W+H +LI+ M +   ++F    YA   +PTYPSGQIG  L  K 
+Sbjct  191  RILKPDGVLCSQGECLWVHTELIEAMLKENGAVFASAEYASIQVPTYPSGQIGAFLARKA  250
+
+Query  255  PSTNFQEPVQPLTQQQVAQ-MQLKYYNSDVHRAAFVLPEFARKALN  299
+             +T  +E    + ++ V + MQLKYY+ ++HRAAF LP F ++ L 
+Sbjct  251  SATPGEEASCRVARRPVPEDMQLKYYSEEMHRAAFALPAFLQRKLR  296
+
+
+
+
+>unnamed protein product [Azadinium spinosum]
+Sequence ID: CAF6953754.1 Length: 322
+Range 1: 10 to 301
+
+Score:303 bits(776), Expect:4e-101, 
+Method:Compositional matrix adjust., 
+Identities:151/296(51%), Positives:196/296(66%), Gaps:12/296(4%)
+
+Query  11   SGP----AAIREGWFRETCSLWPGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVLVLD  66
+            SGP    + I  GWF E  S WPGQA SL+V+++L H +++YQD++VF+S T+GNVLVLD
+Sbjct  10   SGPLDCASLIEGGWFMEKNSQWPGQANSLEVKEVLLHEKTKYQDLMVFKSATWGNVLVLD  69
+
+Query  67   GVIQCTERDEFSYQEMIANLPLCSHPNPRKVLIIGGGDGGVLREVVKHPSVESVVQCEID  126
+            GVIQ TERDE SYQEM+A+LP+ +H  P +VLIIGGGDGGVLREVVKH  VE V  CEID
+Sbjct  70   GVIQLTERDESSYQEMMAHLPMFAHERPSRVLIIGGGDGGVLREVVKHECVEKVTMCEID  129
+
+Query  127  EDVIQVSKKFLPGMAIGYSSSKLTLHVGDGFEFMKQNQD-AFDVIITDSSDPMGPAESLF  185
+              V+  SKK+ P ++ G+  +K  L +GDG  F +  +D  FDVII DSSDP+GPAE LF
+Sbjct  130  GGVVAASKKYFPSVSTGFGHAKAELIIGDGVGFAEAAKDNTFDVIIVDSSDPVGPAEKLF  189
+
+Query  186  KESYYQLMKTALKEDGVLCCQGECQWLHLDLIKEMRQFCQSLFPVVAYAYCTIPTYPSGQ  245
+             + +Y+     L   G++C QGEC W+H DLI+ M +   + F    YA   +PTYPSGQ
+Sbjct  190  SKEFYENAHRILTPGGIMCTQGECLWVHADLIEAMLKENGAPFASAEYASIQVPTYPSGQ  249
+
+Query  246  IGFMLCSKNP---STNFQEPVQPLTQQQVAQMQLKYYNSDVHRAAFVLPEFARKAL  298
+            IG  L  K     S + + P +P+ +     M L+YY  D+H AAF LP F R+ L
+Sbjct  250  IGAFLARKAATVGSASCRSPARPVPE----AMDLRYYTEDMHTAAFALPAFIRRKL  301
+
+
+
+
+>unnamed protein product [Pelagodinium bei]
+Sequence ID: CAE9639740.1 Length: 314
+Range 1: 10 to 302
+
+Score:301 bits(770), Expect:3e-100, 
+Method:Compositional matrix adjust., 
+Identities:149/298(50%), Positives:199/298(66%), Gaps:9/298(3%)
+
+Query  6    DGPAASGPAAIREGWFRETCSLWPGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVLVL  65
+            DGP     + I  GW+ E    WPGQA SL+V+++L H+++ +QD++VF+S  +G VLVL
+Sbjct  10   DGPLNCA-SLIENGWYMEKNKQWPGQANSLRVKEVLLHKKTDFQDLMVFQSTDWGKVLVL  68
+
+Query  66   DGVIQCTERDEFSYQEMIANLPLCSHPNPRKVLIIGGGDGGVLREVVKHPSVESVVQCEI  125
+            DGVIQ TERDE SYQEM+A+LPL +H +P +VLIIGGGDGGVLREVVKH  V  V  CEI
+Sbjct  69   DGVIQLTERDEMSYQEMMAHLPLFAHEHPAEVLIIGGGDGGVLREVVKHECVAKVTHCEI  128
+
+Query  126  DEDVIQVSKKFLPGMAIGYSSSKLTLHVGDGFEFMKQNQD-AFDVIITDSSDPMGPAESL  184
+            D  VI+ +K+F P ++  +++ K T+ VGDG  F +  +D  +DVII DSSDP+GPAE L
+Sbjct  129  DAGVIEAAKQFFPSVSCAFNNPKATVMVGDGVGFAENAKDNTYDVIIVDSSDPVGPAEKL  188
+
+Query  185  FKESYYQLMKTALKEDGVLCCQGECQWLHLDLIKEMRQFCQSLFPVVAYAYCTIPTYPSG  244
+            F + +Y+     LK DG++C QGEC W+H DLIK M     + F    YA   +PTYPSG
+Sbjct  189  FSKEFYENAHRILKPDGIICSQGECLWVHADLIKNMLSEHGAPFASAEYANIQVPTYPSG  248
+
+Query  245  QIGFMLCSK---NPSTNFQEPVQPLTQQQVAQMQLKYYNSDVHRAAFVLPEFARKALN  299
+            QIG  L  K   + +     P +P+ +     M+L+YYN ++HRAAF LP F R+ LN
+Sbjct  249  QIGAFLARKAKPSKTATCSSPQRPVPE----DMELRYYNKEMHRAAFALPTFLREKLN  302
+
+
+
+
+>unnamed protein product, partial [Prorocentrum minimum]
+Sequence ID: CAE1445581.1 Length: 311
+Range 1: 18 to 307
+
+Score:293 bits(750), Expect:3e-97, 
+Method:Compositional matrix adjust., 
+Identities:153/292(52%), Positives:191/292(65%), Gaps:6/292(2%)
+
+Query  12   GPAAIREGWFRETCSLWPGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQC  71
+            G   I++GWF E  S WPGQA SLQV+Q+L H+++ +QD+LVF S  +G VLVLDGVIQ 
+Sbjct  18   GSTLIKDGWFMEKNSQWPGQANSLQVKQVLLHKKTDFQDLLVFESTDWGKVLVLDGVIQL  77
+
+Query  72   TERDEFSYQEMIANLPLCSHPNPRKVLIIGGGDGGVLREVVKHPSVESVVQCEIDEDVIQ  131
+            TERDE SYQEM+A+LPL SH  P++VLIIGGGDGGVLRE VKH  VE V   EID  VI+
+Sbjct  78   TERDEMSYQEMMAHLPLFSHKCPKQVLIIGGGDGGVLREAVKHDCVEKVTMREIDAGVIE  137
+
+Query  132  VSKKFLPGMAIGYSSSKLTLHVGDGFEFMKQNQDA-FDVIITDSSDPMGPAESLFKESYY  190
+             +K+F P ++  +   K+ L V DG  F ++  DA +DVII DSSDP+GPAE LF   +Y
+Sbjct  138  AAKEFFPSVSTAFGHPKVDLQVADGVGFCEKAADATYDVIIIDSSDPVGPAEKLFSPEFY  197
+
+Query  191  QLMKTALKEDGVLCCQGECQWLHLDLIKEMRQFCQSLFPVVAYAYCTIPTYPSGQIGFML  250
+                  L+  GVLC QGEC W+H DLI EM     + F    YA   +PTYPSGQIG  L
+Sbjct  198  ANAHRILRPGGVLCSQGECLWVHADLISEMVSTHGAPFASAEYASIQMPTYPSGQIGAFL  257
+
+Query  251  CSKNPSTNFQEPV---QPLTQQQVAQMQLKYYNSDVHRAAFVLPEFARKALN  299
+              K  +    EP     PL +   A M L+YY++++H AAF LP F R+ LN
+Sbjct  258  ARKA-AAGGPEPASCRSPL-RAPPADMPLRYYSAEMHTAAFALPAFLRQRLN  307
+
+
+
+
+>unnamed protein product [Gymnoxanthella radiolariae]
+Sequence ID: CAF0067242.1 Length: 313
+Range 1: 12 to 298
+
+Score:292 bits(748), Expect:5e-97, 
+Method:Compositional matrix adjust., 
+Identities:145/291(50%), Positives:198/291(68%), Gaps:12/291(4%)
+
+Query  16   IREGWFRETCSLWPGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQCTERD  75
+            I +GWF E    W GQA SLQV+++L H+R+++QD++VF+S  +G VLVLDGVIQ TERD
+Sbjct  12   IVDGWFMEKNPQWAGQANSLQVKEVLLHKRTKFQDLMVFQSTDWGKVLVLDGVIQLTERD  71
+
+Query  76   EFSYQEMIANLPLCSHPNPRKVLIIGGGDGGVLREVVKHPSVESVVQCEIDEDVIQVSKK  135
+            E SYQEM+++LPL +HP+P+KVLI+GGGDGGVLRE VKH  VE V  CEID  VI+ +K+
+Sbjct  72   ESSYQEMMSHLPLFAHPSPKKVLIVGGGDGGVLREAVKHSCVEQVTHCEIDAGVIEAAKE  131
+
+Query  136  FLPGMAIGYSSSKLTLHVGDGFEFMKQN-QDAFDVIITDSSDPMGPAESLFKESYYQLMK  194
+            F P ++  +S+ K  + VGDG  F+ +   +++DV+I DSSDP+GPAE LF   +Y+ + 
+Sbjct  132  FFPSLSKAFSNPKAKVIVGDGVAFVAEAPSESYDVVIVDSSDPVGPAEGLFSPKFYESVL  191
+
+Query  195  TALKEDGVLCCQGECQWLHLDLIKEMRQFCQSLFPVVAYAYCTIPTYPSGQIGFMLCSK-  253
+              LK  GVLC QGEC W+H DLI+EM +     F    YA   +PTYPSGQIG  L  K 
+Sbjct  192  KVLKPGGVLCAQGECLWVHADLIEEMIRTHGKPFASAEYASIQVPTYPSGQIGAFLVRKA  251
+
+Query  254  ------NPSTNFQEPVQPLTQQQVAQMQLKYYNSDVHRAAFVLPEFARKAL  298
+                    + + +EP + + +     M+L YY+S++HRAAF LP F ++ L
+Sbjct  252  WPGAPAGWTPSCREPRRDVPE----GMELNYYSSEMHRAAFALPAFLKRRL  298
+
+
+
+
+>unnamed protein product, partial [Prorocentrum minimum]
+Sequence ID: CAE1068684.1 Length: 354
+Range 1: 52 to 341
+
+Score:293 bits(750), Expect:1e-96, 
+Method:Compositional matrix adjust., 
+Identities:153/292(52%), Positives:191/292(65%), Gaps:6/292(2%)
+
+Query  12   GPAAIREGWFRETCSLWPGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQC  71
+            G   I++GWF E  S WPGQA SLQV+Q+L H+++ +QD+LVF S  +G VLVLDGVIQ 
+Sbjct  52   GSTLIKDGWFMEKNSQWPGQANSLQVKQVLLHKKTDFQDLLVFESTDWGKVLVLDGVIQL  111
+
+Query  72   TERDEFSYQEMIANLPLCSHPNPRKVLIIGGGDGGVLREVVKHPSVESVVQCEIDEDVIQ  131
+            TERDE SYQEM+A+LPL SH  P++VLIIGGGDGGVLRE VKH  VE V   EID  VI+
+Sbjct  112  TERDEMSYQEMMAHLPLFSHKCPKQVLIIGGGDGGVLREAVKHDCVEKVTMREIDAGVIE  171
+
+Query  132  VSKKFLPGMAIGYSSSKLTLHVGDGFEFMKQNQDA-FDVIITDSSDPMGPAESLFKESYY  190
+             +K+F P ++  +   K+ L V DG  F ++  DA +DVII DSSDP+GPAE LF   +Y
+Sbjct  172  AAKEFFPSVSTAFGHPKVDLQVADGVGFCEKAADATYDVIIIDSSDPVGPAEKLFSPEFY  231
+
+Query  191  QLMKTALKEDGVLCCQGECQWLHLDLIKEMRQFCQSLFPVVAYAYCTIPTYPSGQIGFML  250
+                  L+  GVLC QGEC W+H DLI EM     + F    YA   +PTYPSGQIG  L
+Sbjct  232  ANAHRILRPGGVLCSQGECLWVHADLISEMVSTHGAPFASAEYASIQMPTYPSGQIGAFL  291
+
+Query  251  CSKNPSTNFQEPV---QPLTQQQVAQMQLKYYNSDVHRAAFVLPEFARKALN  299
+              K  +    EP     PL +   A M L+YY++++H AAF LP F R+ LN
+Sbjct  292  ARKA-AAGGPEPASCRSPL-RAPPADMPLRYYSAEMHTAAFALPAFLRQRLN  341
+
+
+
+
+>unnamed protein product [Amphidinium massartii]
+Sequence ID: CAE3108857.1 Length: 301
+Range 1: 10 to 298
+
+Score:289 bits(739), Expect:8e-96, 
+Method:Compositional matrix adjust., 
+Identities:143/289(49%), Positives:189/289(65%), Gaps:2/289(0%)
+
+Query  12   GPAAIREGWFRETCSLWPGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQC  71
+            G   I  GWF E    WPGQA SLQV+++L H ++++QD+LVF S  +G VL+LDGVIQ 
+Sbjct  10   GSTLIENGWFMEKNQQWPGQANSLQVKEVLLHEKTKFQDLLVFESTDWGRVLILDGVIQI  69
+
+Query  72   TERDEFSYQEMIANLPLCSHPNPRKVLIIGGGDGGVLREVVKHPSVESVVQCEIDEDVIQ  131
+            T RDE SYQEM+A+LP+ +H NP++VLIIGGGDGGVLREV KH  +E    CEIDE V+ 
+Sbjct  70   TSRDEMSYQEMMAHLPMFAHENPKQVLIIGGGDGGVLREVCKHDCIEKATMCEIDEGVVN  129
+
+Query  132  VSKKFLPGMAIGYSSSKLTLHVGDGFEF-MKQNQDAFDVIITDSSDPMGPAESLFKESYY  190
+             SKKF P ++ G+S  K  L +GDG  F +   ++ +DVII DSSDP+GPAE LF E +Y
+Sbjct  130  ASKKFFPEISCGFSHPKANLIIGDGVGFAVDAAENTYDVIIVDSSDPVGPAEKLFSEEFY  189
+
+Query  191  QLMKTALKEDGVLCCQGECQWLHLDLIKEMRQFCQSLFPVVAYAYCTIPTYPSGQIGFML  250
+                  LK  GV+C QGEC W+H +LI+ + +     F    YA   +PTYPSGQIG  L
+Sbjct  190  INAARILKPGGVMCTQGECLWVHSELIESLLKDNGKHFASAEYASIQVPTYPSGQIGAFL  249
+
+Query  251  CSKNPSTNFQEPVQPLTQQQVAQ-MQLKYYNSDVHRAAFVLPEFARKAL  298
+              K  +    +    + ++ V + M L+YY++++H AAF LP F RK L
+Sbjct  250  ARKAFTDTSLDASCRVPRRSVPEGMPLRYYSAEMHSAAFALPAFLRKRL  298
+
+
+
+
+>unnamed protein product, partial [uncultured Symbiodinium]
+Sequence ID: CAH9568932.1 Length: 296
+Range 1: 18 to 296
+
+Score:286 bits(732), Expect:8e-95, 
+Method:Compositional matrix adjust., 
+Identities:144/282(51%), Positives:193/282(68%), Gaps:4/282(1%)
+
+Query  11   SGPAAIREGWFRETCSLWPGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQ  70
+            +G   I  GWF E  S WPGQA +LQV+++L H++++YQD+LVF S  +GNV+VLDGVIQ
+Sbjct  18   NGANLIENGWFLEKNSQWPGQANALQVKEVLLHKKTKYQDLLVFASTNHGNVIVLDGVIQ  77
+
+Query  71   CTERDEFSYQEMIANLPLCSHPNPRKVLIIGGGDGGVLREVVKHPSVESVVQCEIDEDVI  130
+             TERDE SYQEM+A+LP+ S  +P++VLI+GGGDGGVLREVVKH  VE V  CEID DV+
+Sbjct  78   ITERDEMSYQEMLAHLPMFSC-DPKQVLIVGGGDGGVLREVVKHSGVEKVTWCEIDGDVV  136
+
+Query  131  QVSKKFLPGMAIGYSSSKLTLHVGDGFEFMKQNQD-AFDVIITDSSDPMGPAESLFKESY  189
+            + +K+FLP +A      K+ L VGDG  F ++++D ++DVII DSSDP+GPAE LF + +
+Sbjct  137  EAAKRFLPSVAKAVGDPKVELLVGDGVAFAEKSKDNSYDVIIVDSSDPVGPAEKLFSKEF  196
+
+Query  190  YQLMKTALKEDGVLCCQGECQWLHLDLIKEMRQFCQSLFPVVAYAYCTIPTYPSGQIGFM  249
+            Y   +  LK  GV+C QGEC WL+ +LI  M Q   + F    YA   +PTYPSGQIG  
+Sbjct  197  YVNAERILKPGGVICSQGECLWLNEELISTMVQDYGACFACAEYASIQVPTYPSGQIGAF  256
+
+Query  250  LCSKNPSTNFQEPVQPLTQQQVAQMQLKYYNSDVHRAAFVLP  291
+            +  K+          P  Q++  +M+L+YY  ++H AAF LP
+Sbjct  257  MARKSGGKGEISCRWP--QREPTEMELRYYTPEMHAAAFALP  296
+
+
+
+
+>unnamed protein product [Lingulaulax polyedra]
+Sequence ID: CAG0536368.1 Length: 316
+Range 1: 13 to 302
+
+Score:280 bits(717), Expect:4e-92, 
+Method:Compositional matrix adjust., 
+Identities:140/290(48%), Positives:191/290(65%), Gaps:3/290(1%)
+
+Query  16   IREGWFRETCSLWPGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQCTERD  75
+            +++GWF E  + WPGQA SLQV ++L H+R+++QD++VF S T+GNVLVLDGVIQ TE+D
+Sbjct  13   LQDGWFMEKNNQWPGQATSLQVSKVLLHQRTKFQDLMVFESTTWGNVLVLDGVIQLTEKD  72
+
+Query  76   EFSYQEMIANLPLCSHPNPRKVLIIGGGDGGVLREVVKHPSVESVVQCEIDEDVIQVSKK  135
+            E SYQEM+A+LP+ SH NP+ VLIIGGGDGGVLREV +H  VES    EID  V + SK+
+Sbjct  73   ECSYQEMMAHLPMFSHKNPKNVLIIGGGDGGVLREVCRHECVESATMVEIDVGVTEASKQ  132
+
+Query  136  FLPGMAIGYSSSKLTLHVGDGFEFMKQNQD-AFDVIITDSSDPMGPAESLFKESYYQLMK  194
+            F P +A G+   K  L +GDG +F     D ++DVI+ DSSDP+GPAE LF + +Y+   
+Sbjct  133  FFPKVACGFQHPKANLIIGDGVKFASDAADSSYDVIVVDSSDPVGPAEKLFSKEFYENAH  192
+
+Query  195  TALKEDGVLCCQGECQWLHLDLIKEMRQFCQSLFPVVAYAYCTIPTYPSGQIGFMLCSK-  253
+              L+  GV+C Q EC WL+ +LI+++ +   + F    YA   +PTYP GQIG  L  K 
+Sbjct  193  RILRPGGVMCTQSECSWLNAELIQDIVKTFGAPFASAEYASMQVPTYPCGQIGAFLGRKA  252
+
+Query  254  NPSTNFQEPVQPLTQQQV-AQMQLKYYNSDVHRAAFVLPEFARKALNDVS  302
+            +P+T   +       + V + M L+YY  D+H AAF LP   ++ L   S
+Sbjct  253  DPATEGADASCRRPMRSVPSDMDLQYYTEDMHSAAFALPRHVQEKLGGRS  302
+
+
+
+
+>unnamed protein product [Symbiodinium sp. CCMP2430]
+Sequence ID: CAF9824930.1 Length: 311
+Range 1: 9 to 296
+
+Score:278 bits(712), Expect:1e-91, 
+Method:Compositional matrix adjust., 
+Identities:147/289(51%), Positives:194/289(67%), Gaps:2/289(0%)
+
+Query  12   GPAAIREGWFRETCSLWPGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQC  71
+            G + I  GWF E  + WPGQA +L+V+++L H+++++QD+LVF S  +GNV+VLDGVIQ 
+Sbjct  9    GVSLIENGWFIEKNAQWPGQANALEVKEVLLHKKTKFQDLLVFASAKHGNVIVLDGVIQI  68
+
+Query  72   TERDEFSYQEMIANLPLCSHPNPRKVLIIGGGDGGVLREVVKHPSVESVVQCEIDEDVIQ  131
+            TERDE SYQEM+A+LP+ S   P  VLIIGGGDGGVLREVVKH +VE V  CEID DV++
+Sbjct  69   TERDEMSYQEMLAHLPMFSAEKPTHVLIIGGGDGGVLREVVKHDTVEKVTWCEIDGDVVE  128
+
+Query  132  VSKKFLPGMAIGYSSSKLTLHVGDGFEFMKQN-QDAFDVIITDSSDPMGPAESLFKESYY  190
+             +KK++P +AI  S+ K  L VGDG  F + + +++FDVII DSSDP+GPAE LF + +Y
+Sbjct  129  AAKKYMPNVAIAVSNPKTELLVGDGVAFAESSKENSFDVIIVDSSDPVGPAEKLFSKEFY  188
+
+Query  191  QLMKTALKEDGVLCCQGECQWLHLDLIKEMRQFCQSLFPVVAYAYCTIPTYPSGQIGFML  250
+              +   LK  GV+C QGEC WL+ DLI  M     + F    YA   +PTYPSGQIG  +
+Sbjct  189  VNVHRILKPGGVVCSQGECLWLNEDLIDAMVTDYGACFASAEYASIQVPTYPSGQIGAFI  248
+
+Query  251  CSKNPSTNFQEPVQPLTQQQVAQMQLKYYNSDVHRAAFVLPEFARKALN  299
+              K  +        P  ++  A M L+YY +++H AAF LP F RK L 
+Sbjct  249  ARKAGTAGPASCRSP-RREPPAGMPLRYYTAEMHAAAFALPAFLRKRLK  296
+
+
+
+
+>unnamed protein product, partial [Gymnodinium catenatum]
+Sequence ID: CAE3344621.1 Length: 349
+Range 1: 50 to 334
+
+Score:278 bits(710), Expect:1e-90, 
+Method:Compositional matrix adjust., 
+Identities:138/285(48%), Positives:187/285(65%), Gaps:2/285(0%)
+
+Query  16   IREGWFRETCSLWPGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQCTERD  75
+            I +GWF E  S WPG A S+QV+++L H ++ +QD++VF S  +G VL+LDGVIQ TERD
+Sbjct  50   ISDGWFMEKNSQWPGLANSIQVKRVLRHTKTEFQDLMVFESTDWGKVLILDGVIQLTERD  109
+
+Query  76   EFSYQEMIANLPLCSHPNPRKVLIIGGGDGGVLREVVKHPSVESVVQCEIDEDVIQVSKK  135
+            E SYQEM+A+LPL +H +P++VLIIGGGDGGVLREV KH  VE V  C+ID+ VI+ SK+
+Sbjct  110  EMSYQEMLAHLPLFAHESPKQVLIIGGGDGGVLREVCKHKCVEKVTMCDIDKGVIEASKE  169
+
+Query  136  FLPGMAIGYSSSKLTLHVGDGFEFMKQNQD-AFDVIITDSSDPMGPAESLFKESYYQLMK  194
+            + P ++  +S  K  + VGDG  F K+  D A+DV+I DSSDP+GPAE LF + +Y    
+Sbjct  170  YFPTVSCAFSDPKAEVIVGDGVAFAKKAADNAYDVLIVDSSDPVGPAEKLFSKEFYANAH  229
+
+Query  195  TALKEDGVLCCQGECQWLHLDLIKEMRQFCQSLFPVVAYAYCTIPTYPSGQIGFMLCSKN  254
+              L+  G+LC QGE  W H DLI  M +   + F    YA   +PTYP+GQIG  L  K 
+Sbjct  230  RLLRPGGILCTQGESLWCHADLIDAMIKENGAPFASAEYATMQVPTYPAGQIGAFLGRKA  289
+
+Query  255  PSTNFQEPVQPLTQQQV-AQMQLKYYNSDVHRAAFVLPEFARKAL  298
+                 ++    +  + V + M L+YY+ D+H AAF LP F ++ L
+Sbjct  290  FEDAAKDASCRVPARSVPSDMALRYYSEDMHCAAFALPAFLQRKL  334
+
+
+
+
+>unnamed protein product [Lingulaulax polyedra]
+Sequence ID: CAG0496965.1 Length: 313
+Range 1: 13 to 298
+
+Score:276 bits(705), Expect:2e-90, 
+Method:Compositional matrix adjust., 
+Identities:138/290(48%), Positives:186/290(64%), Gaps:10/290(3%)
+
+Query  16   IREGWFRETCSLWPGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQCTERD  75
+            I+ GWF E    WPGQA SLQV ++L H+R+++QD++VF S  +GNVLVLDGVIQ TE+D
+Sbjct  13   IQHGWFMEKNDQWPGQATSLQVSKVLLHKRTKFQDLMVFESSNWGNVLVLDGVIQLTEKD  72
+
+Query  76   EFSYQEMIANLPLCSHPNPRKVLIIGGGDGGVLREVVKHPSVESVVQCEIDEDVIQVSKK  135
+            E SYQEM+A+LPL +H NP++VLIIGGGDGGVLRE  KHP V+     EIDE V   SK+
+Sbjct  73   ECSYQEMMAHLPLFAHKNPKQVLIIGGGDGGVLREACKHPCVDKATMVEIDEGVPDASKQ  132
+
+Query  136  FLPGMAIGYSSSKLTLHVGDGFEFM-KQNQDAFDVIITDSSDPMGPAESLFKESYYQLMK  194
+            F P ++ G+S  K  L +GDG +F     ++++DV+I DSSDP+GPAE LF + +Y+   
+Sbjct  133  FFPRVSCGFSHPKAELIIGDGVKFACDAPENSYDVMIVDSSDPVGPAEKLFSKEFYENAH  192
+
+Query  195  TALKEDGVLCCQGECQWLHLDLIKEMRQFCQSLFPVVAYAYCTIPTYPSGQIGFMLCSK-  253
+              L+  GVLC Q EC WL+ +LI ++ +     F    YA   +PTYP GQIG  L  K 
+Sbjct  193  RILRPGGVLCTQSECAWLNAELIHDIVKNFGEPFASAEYASIQVPTYPCGQIGAFLGRKA  252
+
+Query  254  ----NPSTNFQEPVQPLTQQQVAQMQLKYYNSDVHRAAFVLPEFARKALN  299
+                    + + P +P+     A M L YY  D+H A+F LP+  R+  +
+Sbjct  253  DPQGEADVSCRRPRRPVP----ADMDLSYYTEDMHTASFALPKTVREKFS  298
+
+
+
+
+>unnamed protein product [uncultured Symbiodinium]
+Sequence ID: CAH9725526.1 Length: 304
+Range 1: 6 to 277
+
+Score:275 bits(703), Expect:3e-90, 
+Method:Compositional matrix adjust., 
+Identities:140/275(51%), Positives:187/275(68%), Gaps:4/275(1%)
+
+Query  11   SGPAAIREGWFRETCSLWPGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQ  70
+            +G   I  GWF E  S WPGQA +LQV+++L H++++YQD+LVF S  +GNV+VLDGVIQ
+Sbjct  6    NGAPLIENGWFLEKNSQWPGQANALQVKEVLLHKKTKYQDLLVFASTNHGNVIVLDGVIQ  65
+
+Query  71   CTERDEFSYQEMIANLPLCSHPNPRKVLIIGGGDGGVLREVVKHPSVESVVQCEIDEDVI  130
+             TERDE SYQEM+A+LP+ S  +P++VLIIGGGDGGVLREVVKH  VE V  CEID DV+
+Sbjct  66   ITERDEMSYQEMLAHLPMFSC-DPKQVLIIGGGDGGVLREVVKHSCVEKVTWCEIDGDVV  124
+
+Query  131  QVSKKFLPGMAIGYSSSKLTLHVGDGFEFMKQN-QDAFDVIITDSSDPMGPAESLFKESY  189
+            + +K+FLP +A      K+ L VGDG  F + + ++ +DVII DSSDP+GPAE LF +++
+Sbjct  125  EAAKRFLPSVAKAVGDPKVELLVGDGVAFAENSKENCYDVIIVDSSDPVGPAEKLFSKAF  184
+
+Query  190  YQLMKTALKEDGVLCCQGECQWLHLDLIKEMRQFCQSLFPVVAYAYCTIPTYPSGQIGFM  249
+            Y   +  LK  GV+C QGEC WL+ +LI  M Q   + F    YA   +PTYPSGQIG  
+Sbjct  185  YVNAERILKPGGVICSQGECLWLNEELISTMVQDYGACFACAEYASIQVPTYPSGQIGAF  244
+
+Query  250  LCSKNPSTNFQEPVQPLTQQQVAQMQLKYYNSDVH  284
+            +  K+          P  + Q  +M+L+YY S++H
+Sbjct  245  MARKSGGKGEISCRWPRREPQ--EMELRYYTSEMH  277
+
+
+
+
+>unnamed protein product [Togula jolla]
+Sequence ID: CAE2608401.1 Length: 317
+Range 1: 7 to 285
+
+Score:275 bits(703), Expect:4e-90, 
+Method:Compositional matrix adjust., 
+Identities:138/280(49%), Positives:186/280(66%), Gaps:5/280(1%)
+
+Query  9    AASGPAAIREGWFRETCSLWPGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGV  68
+            A  G      GWF E  S WPGQA SL+V+++L  +R++YQD++VF S  +G VLVLDGV
+Sbjct  7    AVGGSELFENGWFMEKNSQWPGQANSLKVKEILLQKRTKYQDLIVFESTDWGKVLVLDGV  66
+
+Query  69   IQCTERDEFSYQEMIANLPLCSHPNPRKVLIIGGGDGGVLREVVKHPSVESVVQCEIDED  128
+            IQ TE+DE SYQEM+A+LP+ SH  P++VLIIGGGDGGVLREV KH  VE +  CEID  
+Sbjct  67   IQLTEKDEMSYQEMMAHLPMFSHKEPKQVLIIGGGDGGVLREVCKHSCVEQITMCEIDGG  126
+
+Query  129  VIQVSKKFLPGMAIGYSSSKLTLHVGDGFEFM-KQNQDAFDVIITDSSDPMGPAESLFKE  187
+            V++ SK + P ++  + + K+ L + DG  F  K  +++FDV+I DSSDP+GPAE LF +
+Sbjct  127  VVEASKTYFPSVSCAFDNPKVNLIIDDGVGFAEKSAENSFDVVIVDSSDPVGPAEKLFSK  186
+
+Query  188  SYYQLMKTALKEDGVLCCQGECQWLHLDLIKEMRQFCQSLFPVVAYAYCTIPTYPSGQIG  247
+             +Y  +   L+  GV+C QGEC W+H DLI+EM +   + F    YA   +PTYPSGQIG
+Sbjct  187  EFYTCVHRILRPGGVICSQGECLWIHADLIEEMIREHGAPFASAEYASMQMPTYPSGQIG  246
+
+Query  248  FMLCSK--NPSTNFQEPVQPLTQQQV-AQMQLKYYNSDVH  284
+              L  K   PST  Q P   + ++ V A + L+YY+ D+H
+Sbjct  247  AFLARKADEPSTT-QAPSCRVPRRSVPADLPLRYYSEDMH  285
+
+
+
+
+>unnamed protein product, partial [Zooxanthella nutricula]
+Sequence ID: CAD9620391.1 Length: 345
+Range 1: 25 to 306
+
+Score:275 bits(702), Expect:2e-89, 
+Method:Compositional matrix adjust., 
+Identities:138/282(49%), Positives:183/282(64%), Gaps:8/282(2%)
+
+Query  11   SGP----AAIREGWFRETCSLWPGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVLVLD  66
+            SGP    + I++GWF E    WPGQA SL+V+++L H+++++QD++VF S  +G VL+LD
+Sbjct  25   SGPLDAASLIKDGWFMEKNQQWPGQANSLEVKEVLLHKKTKFQDLMVFDSTQWGKVLILD  84
+
+Query  67   GVIQCTERDEFSYQEMIANLPLCSHPNPRKVLIIGGGDGGVLREVVKHPSVESVVQCEID  126
+            GVIQ TERDE SYQEM+ +LP+ +HPNP+ VLIIGGGDGGVLREV KH  VE    CEID
+Sbjct  85   GVIQLTERDEMSYQEMLTHLPMFAHPNPQHVLIIGGGDGGVLREVCKHTCVEKATMCEID  144
+
+Query  127  EDVIQVSKKFLPGMAIGYSSSKLTLHVGDGFEFMKQNQDA-FDVIITDSSDPMGPAESLF  185
+              V++ SK + P ++ G+   K  L + DG  F +  +DA FDVII DSSDP+GPAE LF
+Sbjct  145  GGVVEASKAYFPSVSTGFGHPKANLIIDDGVAFAENAKDASFDVIIVDSSDPVGPAEKLF  204
+
+Query  186  KESYYQLMKTALKEDGVLCCQGECQWLHLDLIKEMRQFCQSLFPVVAYAYCTIPTYPSGQ  245
+             + +Y      L+  GVLC QGEC W+H DLI++M Q   + F    YA   +PTYPSGQ
+Sbjct  205  SKEFYANAHRILRPGGVLCTQGECLWVHADLIQQMLQENGAPFASAEYATMQVPTYPSGQ  264
+
+Query  246  IGFMLCSKNPSTNFQEPVQPLTQQQVA---QMQLKYYNSDVH  284
+            IG  L  K  +   +E      Q + A    M L+YY  ++H
+Sbjct  265  IGAFLGRKAFADASKERDTSCRQPRRAVPPGMALRYYTEEMH  306
+
+
+
+
+>unnamed protein product [Amphidinium carterae]
+Sequence ID: CAE4503280.1 Length: 312
+Range 1: 9 to 297
+
+Score:271 bits(694), Expect:8e-89, 
+Method:Compositional matrix adjust., 
+Identities:144/289(50%), Positives:188/289(65%), Gaps:2/289(0%)
+
+Query  12   GPAAIREGWFRETCSLWPGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQC  71
+            G   I  GWF E    WPGQA SLQV+++L H ++++QD++VF S  +G VLVLDGVIQ 
+Sbjct  9    GSKLIENGWFMEKNQQWPGQANSLQVKEVLLHEKTKFQDLVVFESTDWGRVLVLDGVIQI  68
+
+Query  72   TERDEFSYQEMIANLPLCSHPNPRKVLIIGGGDGGVLREVVKHPSVESVVQCEIDEDVIQ  131
+            T RDE SYQEM+A+LP+ +H NP++VLIIGGGDGGVLREV KH  V     CEIDE V+ 
+Sbjct  69   TGRDEMSYQEMMAHLPMFAHDNPQQVLIIGGGDGGVLREVCKHDCVVKATMCEIDEGVVN  128
+
+Query  132  VSKKFLPGMAIGYSSSKLTLHVGDGFEFMKQ-NQDAFDVIITDSSDPMGPAESLFKESYY  190
+             SKKF P ++ G+S +K  L +GDG +F     +++FDVII DSSDP+GPAE LF E +Y
+Sbjct  129  ASKKFFPEISCGFSHAKANLIIGDGVQFATDAAENSFDVIIVDSSDPVGPAEKLFSEEFY  188
+
+Query  191  QLMKTALKEDGVLCCQGECQWLHLDLIKEMRQFCQSLFPVVAYAYCTIPTYPSGQIGFML  250
+                  LK  GV+C QGEC W+H DLI+ + +     F    YA   +PTYPSGQIG  L
+Sbjct  189  INACRILKPGGVMCTQGECLWVHSDLIQSLLKDNGKHFASAEYASIQVPTYPSGQIGAFL  248
+
+Query  251  CSKN-PSTNFQEPVQPLTQQQVAQMQLKYYNSDVHRAAFVLPEFARKAL  298
+              K     +     + + +     M L+YY++++H AAF LP F +KAL
+Sbjct  249  ARKAYKDASLDASCRTVRRPVPEGMPLRYYSAEMHAAAFALPAFLQKAL  297
+
+
+
+
+>unnamed protein product, partial [Tripos fusus]
+Sequence ID: CAE4745194.1 Length: 390
+Range 1: 72 to 373
+
+Score:271 bits(692), Expect:2e-87, 
+Method:Compositional matrix adjust., 
+Identities:136/302(45%), Positives:183/302(60%), Gaps:19/302(6%)
+
+Query  16   IREGWFRETCSLWPGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQCTERD  75
+            I  GWF E    WPG A SLQV+++L H R+++QD++VF S  +G VL+LDGVIQ TE D
+Sbjct  72   IENGWFMEKNQQWPGHATSLQVQKVLLHERTQFQDLMVFESTNHGRVLILDGVIQLTEHD  131
+
+Query  76   EFSYQEMIANLPLCSHPNPRKVLIIGGGDGGVLREVVKHPSVESVVQCEIDEDVIQVSKK  135
+            E SYQEM+A+LPL +H  P  VL+IGGGDGGVLREV KH   E +  CEID  V++ +K+
+Sbjct  132  EMSYQEMMAHLPLFAHERPTDVLVIGGGDGGVLREVCKHKCAERITMCEIDGGVVEAAKQ  191
+
+Query  136  FLPGMAIGYSSSKLTLHVGDGFEFMKQNQDA-FDVIITDSSDPMGPAESLFKESYYQLMK  194
+            F P ++  +   ++TL VGDG  F ++ QDA +DVII DSSDP+GPA  LF + +Y    
+Sbjct  192  FFPSVSCAFGDPRVTLIVGDGVAFAERAQDASYDVIIIDSSDPVGPAAKLFSKEFYVNAH  251
+
+Query  195  TALKEDGVLCCQGECQWLHLDLIKEMRQFCQSLFPVVAYAYCTIPTYPSGQIGFMLCSK-  253
+              L+  GV+C QGEC W+H DLI+EM +     F    YA   +PTYP GQIG  L  K 
+Sbjct  252  RILRPGGVICSQGECLWVHADLIEEMLKENGQPFATAEYASIQMPTYPHGQIGAFLARKA  311
+
+Query  254  ------------NPSTNFQEPVQPLT-----QQQVAQMQLKYYNSDVHRAAFVLPEFARK  296
+                                   P++     +   A M+L+YY +++H AAF LP F ++
+Sbjct  312  MAAAEPGGGGDAGAGGGQACVAAPMSCRFPRRSPPADMELRYYTTEMHAAAFALPAFVQR  371
+
+Query  297  AL  298
+             +
+Sbjct  372  RI  373
+
+
+
+
+>unnamed protein product, partial [Oxyrrhis marina]
+Sequence ID: CAF5682657.1 Length: 291
+Range 1: 12 to 290
+
+Score:262 bits(670), Expect:2e-85, 
+Method:Compositional matrix adjust., 
+Identities:136/281(48%), Positives:196/281(69%), Gaps:3/281(1%)
+
+Query  1    MEPGPDGPAASGPAAIREGWFRE-TCSLWPGQALSLQVEQLLHHRRSRYQDILVFRSKTY  59
+            ++P     A +    + E WF E +  +WPGQA+SL+VE++L   +S++QDI+VF+SKT+
+Sbjct  12   LDPKEKQAAIAALPRVGETWFSEISAEMWPGQAMSLEVEEVLFSGKSKFQDIVVFQSKTW  71
+
+Query  60   GNVLVLDGVIQCTERDEFSYQEMIANLPLCSHPNPRKVLIIGGGDGGVLREVVKHPSVES  119
+            G VLVLDGVIQCTERDE +YQEM+A++PL SHPNP+ VL++GGGDGGVLRE+ KHP VE 
+Sbjct  72   GKVLVLDGVIQCTERDECAYQEMMAHVPLFSHPNPKTVLVVGGGDGGVLREIAKHPGVEE  131
+
+Query  120  VVQCEIDEDVIQVSKKFLPGMAIGYSSSKLTLHVGDGFEFMKQNQDAFDVIITDSSDPMG  179
+            +  CE+DE VI+ ++KFLP +  G+   ++ +HV DG EF+K + + FD+II D SDP+G
+Sbjct  132  IHICELDEMVIETARKFLPQLGCGFDDPRVKIHVKDGAEFIKNSTNRFDIIICDLSDPVG  191
+
+Query  180  PAESLFKESYYQLMKTALKEDGVLCCQGECQWLHLDLIKEMRQFCQSLFPVVAYAYCTIP  239
+            PA+ L++  +Y+ +  AL EDGV   QGEC WLH +LI ++ +  + +F  V YA  +IP
+Sbjct  192  PAQDLYEAPFYRNICNALTEDGVAAAQGECFWLHKELIAKLVRNGREVFSAVGYATMSIP  251
+
+Query  240  TYPSGQIGFMLCSKNPSTNFQEPVQPLTQQQVAQMQLKYYN  280
+            TYPSGQIG + C+K+         +P+  +   Q +L Y+ 
+Sbjct  252  TYPSGQIGVLHCAKSARVPVGSVARPVPAE--LQKKLNYWT  290
+
+
+
+
+>unnamed protein product [Gambierdiscus australes]
+Sequence ID: CAE3210443.1 Length: 315
+Range 1: 19 to 312
+
+Score:258 bits(660), Expect:2e-83, 
+Method:Compositional matrix adjust., 
+Identities:150/295(51%), Positives:196/295(66%), Gaps:3/295(1%)
+
+Query  6    DGPAASGPAAIREGWFRETCSLWPGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVLVL  65
+            DGP     + I  GWF E    WPGQA SLQV+++L HR++ +QD++VF S  +G VLVL
+Sbjct  19   DGPIDCA-SLIENGWFMEKNPQWPGQANSLQVKEVLLHRKTDFQDLMVFESTHWGRVLVL  77
+
+Query  66   DGVIQCTERDEFSYQEMIANLPLCSHPNPRKVLIIGGGDGGVLREVVKHPSVESVVQCEI  125
+            DGVIQ TERDE SYQEM+A+LPL SH NP  VL+IGGGDGGV+REVVK   V+ V  CEI
+Sbjct  78   DGVIQLTERDEMSYQEMMAHLPLFSHANPVDVLVIGGGDGGVVREVVKDSCVQRVTHCEI  137
+
+Query  126  DEDVIQVSKKFLPGMAIGYSSSKLTLHVGDGFEFMKQNQDA-FDVIITDSSDPMGPAESL  184
+            D  VI+ SK+F P +A+ + + K+ L VGDG  F ++ Q+A FDVII DSSDP+GPA  L
+Sbjct  138  DAGVIEASKEFFPSVAVAFGNPKVNLMVGDGVGFAEKAQEASFDVIIVDSSDPVGPAAKL  197
+
+Query  185  FKESYYQLMKTALKEDGVLCCQGECQWLHLDLIKEMRQFCQSLFPVVAYAYCTIPTYPSG  244
+            F + +YQ     LK  G++C QGEC W+H DLI+ M +     F    YA   +PTYPSG
+Sbjct  198  FSKEFYQNAHRILKPGGIICSQGECLWVHTDLIQAMLKENGDFFASAEYASIQVPTYPSG  257
+
+Query  245  QIGFMLCSKNPSTNFQEPVQPLTQQQVAQ-MQLKYYNSDVHRAAFVLPEFARKAL  298
+            QIG  L  K  + + Q P      + V + M+L+YY++++H AAF LP F ++ L
+Sbjct  258  QIGAFLARKAHTDSDQAPSCRCPCRPVPEDMELRYYSAEMHVAAFALPAFLKRKL  312
+
+
+
+
+>unnamed protein product, partial [Kryptoperidinium foliaceum]
+Sequence ID: CAF5899039.1 Length: 229
+Range 1: 1 to 212
+
+Score:254 bits(649), Expect:3e-83, 
+Method:Compositional matrix adjust., 
+Identities:119/215(55%), Positives:160/215(74%), Gaps:3/215(1%)
+
+Query  84   ANLPLCSHPNPRKVLIIGGGDGGVLREVVKHPSVESVVQCEIDEDVIQVSKKFLPGMAIG  143
+            A++PL +HPNP+KVL+IGGGDGGVLREV KH  VE +V+CEIDE VI+ SKK+LP +A G
+Sbjct  1    AHIPLFAHPNPKKVLVIGGGDGGVLREVAKHKGVEEIVECEIDEGVIKASKKYLPSLAKG  60
+
+Query  144  YSSSKLTLHVGDGFEFMKQNQDAFDVIITDSSDPMGPAESLFKESYYQLMKTALKEDGVL  203
+            Y   ++T+ V DG +FM++NQDAFDVIITDSSDP+GPA  LF+  +Y  M  +L++ G++
+Sbjct  61   YDDPRVTVQVMDGAKFMEENQDAFDVIITDSSDPIGPASVLFETPFYNAMYKSLRQGGIV  120
+
+Query  204  CCQGECQWLHLDLIKEMRQFCQSLFPVVAYAYCTIPTYPSGQIGFMLCSKNPSTNFQEPV  263
+            C QGEC WLHL+LIK +       +  V YAY TIPTYPSGQIGF++ +K  +T  ++PV
+Sbjct  121  CTQGECMWLHLNLIKPLVDSISQTYSSVEYAYTTIPTYPSGQIGFIVATKGVTT-CKKPV  179
+
+Query  264  QPLTQQQVAQMQLKYYNSDVHRAAFVLPEFARKAL  298
+            +  + + +A   LKYY  ++H AAFVLP FA +A+
+Sbjct  180  REASDEFLA--DLKYYTPELHSAAFVLPAFANRAI  212
+
+
+
+
+>unnamed protein product, partial [Lingulaulax polyedra]
+Sequence ID: CAG0366533.1 Length: 204
+Range 1: 1 to 204
+
+Score:231 bits(590), Expect:1e-74, 
+Method:Compositional matrix adjust., 
+Identities:112/204(55%), Positives:149/204(73%), Gaps:5/204(2%)
+
+Query  16   IREGWFRETCSLWPGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQCTERD  75
+            I+ GWF ET ++WPGQ   ++V+++L + RS++QDILVF+SKTYG VLVLDGVIQ TERD
+Sbjct  1    IKNGWFSETEAMWPGQKFCIEVDEVLANGRSKFQDILVFKSKTYGTVLVLDGVIQVTERD  60
+
+Query  76   EFSYQEMIANLPLCS-HPNPRKVLIIGGGDGGVLREVVKHPSVESVVQCEIDEDVIQVSK  134
+            EFSYQEMIA+LP+ +    P+KVLI+GGGDGGVLREVVKH  +E +  CEIDE V++V K
+Sbjct  61   EFSYQEMIAHLPIFACGAAPKKVLIVGGGDGGVLREVVKHAGIEEIHMCEIDEQVVEVGK  120
+
+Query  135  K-FLPGMAIGYSSSKLTLHVGDGFEFMKQNQDA--FDVIITDSSDPMGPAESLFKESYYQ  191
+            K F   MA  +   ++ L + D   ++++      +DVII DSSDP+GPA+ LF+  ++ 
+Sbjct  121  KYFSKTMATAFDDKRVKLFIDDAARYLREEGAGQNYDVIICDSSDPVGPADVLFQPEFFL  180
+
+Query  192  LMKTALK-EDGVLCCQGECQWLHL  214
+             MK AL    GV+C QGECQWLH+
+Sbjct  181  SMKNALNPSTGVICTQGECQWLHM  204
+
+
+
+
+>TPA: unnamed protein product, partial [uncultured Symbiodinium]
+Sequence ID: CAI0083593.1 Length: 180
+Range 1: 9 to 180
+
+Score:212 bits(539), Expect:3e-67, 
+Method:Compositional matrix adjust., 
+Identities:99/172(58%), Positives:132/172(76%), Gaps:1/172(0%)
+
+Query  12   GPAAIREGWFRETCSLWPGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQC  71
+            G + I  GWF E  + WPGQA +L+V+++L H+++++QD+LVF S  +GNV+VLDGVIQ 
+Sbjct  9    GLSLIENGWFIEKNAQWPGQANALEVKEVLLHKKTKFQDLLVFASAKHGNVIVLDGVIQI  68
+
+Query  72   TERDEFSYQEMIANLPLCSHPNPRKVLIIGGGDGGVLREVVKHPSVESVVQCEIDEDVIQ  131
+            TERDE SYQEM+A+LP+ S   P  VLIIGGGDGGVLREVVKH +VE V  CEID DV++
+Sbjct  69   TERDEMSYQEMLAHLPMFSADKPTHVLIIGGGDGGVLREVVKHDTVEKVTWCEIDGDVVE  128
+
+Query  132  VSKKFLPGMAIGYSSSKLTLHVGDGFEFMKQN-QDAFDVIITDSSDPMGPAE  182
+             +KK++P +A+  S+ K  L VGDG  F + + +++FDVII DSSDP+GPAE
+Sbjct  129  AAKKYMPNVAVAVSNPKTELLVGDGVAFAESSKENSFDVIIVDSSDPVGPAE  180
+
+
+
+
+>TPA: unnamed protein product, partial [Symbiodinium sp. clade D]
+Sequence ID: CAG1117312.1 Length: 244
+Range 1: 2 to 229
+
+Score:209 bits(533), Expect:2e-65, 
+Method:Compositional matrix adjust., 
+Identities:116/229(51%), Positives:148/229(64%), Gaps:2/229(0%)
+
+Query  72   TERDEFSYQEMIANLPLCSHPNPRKVLIIGGGDGGVLREVVKHPSVESVVQCEIDEDVIQ  131
+            TERDE SYQEM+A+LP+ S   P  VLIIGGGDGGVLREVVKH +VE V  CEID DV++
+Sbjct  2    TERDEMSYQEMLAHLPMFSAEKPTHVLIIGGGDGGVLREVVKHDTVEKVTWCEIDGDVVE  61
+
+Query  132  VSKKFLPGMAIGYSSSKLTLHVGDGFEFMKQN-QDAFDVIITDSSDPMGPAESLFKESYY  190
+             +KK++P +AI  S+ K  L VGDG  F + + +++FDVII DSSDP+GPAE LF + +Y
+Sbjct  62   AAKKYMPNVAIAVSNPKTELLVGDGVAFAESSKENSFDVIIVDSSDPVGPAEKLFSKEFY  121
+
+Query  191  QLMKTALKEDGVLCCQGECQWLHLDLIKEMRQFCQSLFPVVAYAYCTIPTYPSGQIGFML  250
+              +   LK  GV+C QGEC WL+ DLI  M     + F    YA   +PTYPSGQIG  +
+Sbjct  122  VNVHRILKPGGVVCSQGECLWLNEDLIDAMVTDYGACFASAEYASIQVPTYPSGQIGAFI  181
+
+Query  251  CSKNPSTNFQEPVQPLTQQQVAQMQLKYYNSDVHRAAFVLPEFARKALN  299
+              K  +        P  ++  A M L+YY +++H AAF LP F RK L 
+Sbjct  182  ARKAGTAGPASCRSP-RREPPAGMPLRYYTAEMHAAAFALPAFLRKRLK  229
+
+
+
+
+>unnamed protein product, partial [Azadinium spinosum]
+Sequence ID: CAF6952060.1 Length: 232
+Range 1: 2 to 230
+
+Score:207 bits(526), Expect:2e-64, 
+Method:Compositional matrix adjust., 
+Identities:107/232(46%), Positives:156/232(67%), Gaps:4/232(1%)
+
+Query  11   SGPAAIREGWFRETCSLWPGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQ  70
+            S  + I++GWF E    + G A +++++++L ++++++QD+LVFRS  +G VLVLDG IQ
+Sbjct  2    SNASLIQDGWFVEK---FQGVATAIEIDEVLLYKKTQFQDLLVFRSLHWGRVLVLDGAIQ  58
+
+Query  71   CTERDEFSYQEMIANLPLCSHPNPRKVLIIGGGDGGVLREVVKHPSVESVVQCEIDEDVI  130
+             T+RDE +YQEM+A+L + SH +PR+VL+IGGGDGGV+REV KH  VE+ V CEID DV+
+Sbjct  59   FTQRDEMAYQEMLAHLAMFSHYDPRRVLVIGGGDGGVIREVCKHLCVETAVLCEIDGDVV  118
+
+Query  131  QVSKKFLPGMAIGYSSSKLTLHVGDGFEFMKQNQDA-FDVIITDSSDPMGPAESLFKESY  189
+              +K+F P MA      ++ +H+GDG  F++   D  +DVII DSSDP GP + LF   +
+Sbjct  119  DAAKRFFPDMASSLDDPRVNVHIGDGVAFLESAGDGEYDVIIIDSSDPTGPGKKLFTPKF  178
+
+Query  190  YQLMKTALKEDGVLCCQGECQWLHLDLIKEMRQFCQSLFPVVAYAYCTIPTY  241
+            Y+ +  AL+  GV+C QG   WL LDL++ M +     F    YA   +PTY
+Sbjct  179  YERVHRALRPRGVVCAQGGNMWLQLDLVRTMVKVHGKPFFSAEYASMQVPTY  230
+
+
+
+
+>unnamed protein product, partial [Pelagodinium bei]
+Sequence ID: CAE4085042.1 Length: 192
+Range 1: 3 to 189
+
+Score:203 bits(517), Expect:1e-63, 
+Method:Compositional matrix adjust., 
+Identities:106/187(57%), Positives:140/187(74%), Gaps:1/187(0%)
+
+Query  26   SLWPGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQCTERDEFSYQEMIAN  85
+            S WPGQA +LQV+++L H+++++QD+LVF S  +GNV++LDGVIQ TERDE SYQEM+++
+Sbjct  3    SQWPGQANALQVKKVLLHKKTKFQDLLVFESTDFGNVIILDGVIQITERDEMSYQEMLSH  62
+
+Query  86   LPLCSHPNPRKVLIIGGGDGGVLREVVKHPSVESVVQCEIDEDVIQVSKKFLPGMAIGYS  145
+            LPL S   P +VL+IGGGDGGV+REVVKH  V+ V  CEID DVI+ +K +LP +A   S
+Sbjct  63   LPLFSCERPSQVLVIGGGDGGVIREVVKHELVQKVHWCEIDGDVIEAAKTYLPEVASAVS  122
+
+Query  146  SSKLTLHVGDGFEFMKQNQDA-FDVIITDSSDPMGPAESLFKESYYQLMKTALKEDGVLC  204
+            + K+ L VGDG  F +  ++A FDVII DSSDP+GPAE LF + +Y+     LK  GV+C
+Sbjct  123  NPKVDLLVGDGVAFAENAKEASFDVIIVDSSDPVGPAEKLFSKEFYENAHRILKPGGVIC  182
+
+Query  205  CQGECQW  211
+             QGEC W
+Sbjct  183  SQGECLW  189
+
+
+
+
+>unnamed protein product, partial [Lingulaulax polyedra]
+Sequence ID: CAG0346815.1 Length: 168
+Range 1: 17 to 168
+
+Score:194 bits(492), Expect:3e-60, 
+Method:Compositional matrix adjust., 
+Identities:96/152(63%), Positives:123/152(80%), Gaps:0/152(0%)
+
+Query  12   GPAAIREGWFRETCSLWPGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQC  71
+            G   I +GWF E   LWPGQA+SL+V+++L H RS +QDILVF S+ +GNVLVLDGVIQ 
+Sbjct  17   GKDLIIDGWFHERGELWPGQAMSLKVKKVLDHHRSDFQDILVFESENHGNVLVLDGVIQV  76
+
+Query  72   TERDEFSYQEMIANLPLCSHPNPRKVLIIGGGDGGVLREVVKHPSVESVVQCEIDEDVIQ  131
+            TERDE SYQEMIA++PL +HP+P+KVL+IGGGDGGV+REV KH  VE +V+CEIDE VI+
+Sbjct  77   TERDEHSYQEMIAHIPLFAHPDPKKVLVIGGGDGGVIREVAKHKGVEEIVECEIDEGVIK  136
+
+Query  132  VSKKFLPGMAIGYSSSKLTLHVGDGFEFMKQN  163
+            VSKK+LP +A GY   ++T+ V DG +FM++N
+Sbjct  137  VSKKYLPSLAKGYDDPRVTVKVMDGAKFMEEN  168
+
+
+
+
+>unnamed protein product, partial [Tripos fusus]
+Sequence ID: CAE4845830.1 Length: 230
+Range 1: 42 to 229
+
+Score:175 bits(443), Expect:5e-52, 
+Method:Compositional matrix adjust., 
+Identities:95/188(51%), Positives:131/188(69%), Gaps:6/188(3%)
+
+Query  18   EGWFRETCSLWPGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQCTERDEF  77
+            +GWF E    +PGQA SL++EQ+LH  RS +QDILVF+S  +G VLVLDG IQ TE DEF
+Sbjct  42   KGWFTEQADQFPGQAFSLKIEQVLHQSRSDFQDILVFQSSAFGRVLVLDGCIQITEGDEF  101
+
+Query  78   SYQEMIANLPLCSHPNPRKVLIIGGGDGGVLREVVKHPSVESVVQCEIDEDVIQVSKKFL  137
+            SYQEMIA++PLCSHP+PR VL++GGGDG V+REV++HP VE VV CEIDE V++V ++F 
+Sbjct  102  SYQEMIAHIPLCSHPDPRSVLVVGGGDGAVVREVLRHPCVERVVLCEIDEQVVKVCREFF  161
+
+Query  138  PGMAIGYSSSKLTLHVGDGFEFM----KQNQDAFDVIITDSSDPM--GPAESLFKESYYQ  191
+            P         ++T+   DG  ++    ++    FD I+ D SDP+   PAE LF+  ++ 
+Sbjct  162  PHFTASLDDPRVTVVHMDGDSYLNAAIREGSPKFDCILADLSDPIPGSPAEKLFEAPFFS  221
+
+Query  192  LMKTALKE  199
+             +K +++E
+Sbjct  222  KLKASVEE  229
+
+
+
+
+>unnamed protein product, partial [Polarella glacialis]
+Sequence ID: CAE4436690.1 Length: 224
+Range 1: 1 to 199
+
+Score:171 bits(432), Expect:2e-50, 
+Method:Compositional matrix adjust., 
+Identities:91/203(45%), Positives:122/203(60%), Gaps:9/203(4%)
+
+Query  96   KVLIIGGGDGGVLREVVKHPSVESVVQCEIDEDVIQVSKKFLPGMAIGYSSSKLTLHVGD  155
+            +VLIIGGGDGGVLREV KH  ++ V  CEID DV++ SK FLP ++  +S  K  L +GD
+Sbjct  1    QVLIIGGGDGGVLREVCKHECIDKVTMCEIDSDVVEASKAFLPKLSCAFSHPKAELKIGD  60
+
+Query  156  GFEFMKQNQD-AFDVIITDSSDPMGPAESLFKESYYQLMKTALKEDGVLCCQGECQWLHL  214
+            G  F +   D  +DVI+ DSSDP+GPAE LF   +Y  +   LK  GV+C QGE  W++ 
+Sbjct  61   GLAFAEAAADATYDVIVVDSSDPVGPAEKLFSMEFYTNIHRILKPGGVICSQGESLWIND  120
+
+Query  215  DLIKEMRQFCQSLFPVVAYAYCTIPTYPSGQIGFMLCSK----NPSTNFQEPVQPLTQQQ  270
+            DLI  M     + F    YA   +PTYPSGQIG  +  K        + + P +P+ +  
+Sbjct  121  DLIATMVSDFGAPFESAEYASIQVPTYPSGQIGAFIARKAVGDGSDHSCRNPRRPVPE--  178
+
+Query  271  VAQMQLKYYNSDVHRAAFVLPEF  293
+               M+L+YY+ D+H AAF +P F
+Sbjct  179  --NMELRYYSPDMHAAAFAIPAF  199
+
+
+
+
+>TPA: unnamed protein product, partial [Symbiodinium sp. clade D]
+Sequence ID: CAG1290077.1 Length: 135
+Range 1: 21 to 135
+
+Score:148 bits(373), Expect:8e-43, 
+Method:Compositional matrix adjust., 
+Identities:65/115(57%), Positives:90/115(78%), Gaps:0/115(0%)
+
+Query  20   WFRETCSLWPGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQCTERDEFSY  79
+            W+ E   +WPGQA SLQVE++L  +RS YQD+LVF+SK +G V  LDG +Q  ++DEFSY
+Sbjct  21   WWSEVSPMWPGQAQSLQVEEVLWEKRSDYQDVLVFKSKAWGKVFCLDGALQLCDKDEFSY  80
+
+Query  80   QEMIANLPLCSHPNPRKVLIIGGGDGGVLREVVKHPSVESVVQCEIDEDVIQVSK  134
+             E +A++P  +HPNP+KVLIIGGGDGGV+RE+++H S+E V  C+ID+ V ++SK
+Sbjct  81   HENMAHIPAFAHPNPKKVLIIGGGDGGVMRELLRHESIERVDLCDIDKMVPEISK  135
+
+
+
+
+>unnamed protein product, partial [Alexandrium fundyense]
+Sequence ID: CAE4360707.1 Length: 249
+Range 1: 1 to 213
+
+Score:148 bits(374), Expect:1e-41, 
+Method:Compositional matrix adjust., 
+Identities:87/219(40%), Positives:129/219(58%), Gaps:14/219(6%)
+
+Query  88   LCSHPNPRKVLIIGGGDGGVLREVVKHPSVESVVQCEIDEDVIQVSKKFLPGMAIGYSSS  147
+            + SH +PR+VL++GGGDGGV+REV KH  V++   CEID +VI  ++++ P MA      
+Sbjct  1    MFSHRDPRRVLVVGGGDGGVIREVCKHGGVQAATLCEIDPEVISAARRYFPAMASALDDP  60
+
+Query  148  KLTLHVGDGFEFMKQNQD-AFDVIITDSSDPMGPAESLFKESYYQLMKTALKEDGVLCCQ  206
+            ++T++VGDG  F+    D ++D+II DSSDP+GP + LF   +Y+ +   L   G++C Q
+Sbjct  61   RVTVNVGDGVAFLAAAADSSYDIIIIDSSDPVGPGKKLFTPRFYRNVHRVLAPGGIVCSQ  120
+
+Query  207  GECQWLHLDLIKEMRQFCQSLFPVVAYAYCTIPTYPSGQIGFMLCSKNPSTNFQEPVQPL  266
+            GE  W+ LDL++ M +     F    YA   +PTY  GQIG  +  K       +P QP 
+Sbjct  121  GESMWVKLDLVRNMIKQHGEPFFSAEYASIQVPTYLGGQIGAFIARK------ADPAQPQ  174
+
+Query  267  TQQQVAQ-------MQLKYYNSDVHRAAFVLPEFARKAL  298
+             +    +       M L+YY++ +H AAF LPEF +K L
+Sbjct  175  LEASCQKPLRRPWGMDLRYYSAAMHSAAFQLPEFVQKQL  213
+
+
+
+
+>unnamed protein product, partial [Alexandrium minutum]
+Sequence ID: CAE2826636.1 Length: 111
+Range 1: 1 to 111
+
+Score:140 bits(353), Expect:4e-40, 
+Method:Compositional matrix adjust., 
+Identities:67/112(60%), Positives:86/112(76%), Gaps:1/112(0%)
+
+Query  6    DGPAASGPAAIREGWFRETCSLWPGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVLVL  65
+            DGP     + I  GW+ E    WPGQA SL+V+++L H+++ +QD++VF+S  +G VLVL
+Sbjct  1    DGPLNCA-SLIENGWYMEKNKQWPGQANSLRVKEVLLHKKTDFQDLMVFQSTDWGKVLVL  59
+
+Query  66   DGVIQCTERDEFSYQEMIANLPLCSHPNPRKVLIIGGGDGGVLREVVKHPSV  117
+            DGVIQ TERDE SYQEM+A+LPL +H +P +VLIIGGGDGGVLREVVKH  V
+Sbjct  60   DGVIQLTERDEMSYQEMMAHLPLFAHEHPAEVLIIGGGDGGVLREVVKHECV  111
+
+
+
+
+>unnamed protein product, partial [uncultured Symbiodinium]
+Sequence ID: CAH9537300.1 Length: 351
+Range 1: 27 to 270
+
+Score:138 bits(348), Expect:1e-36, 
+Method:Compositional matrix adjust., 
+Identities:81/247(33%), Positives:135/247(54%), Gaps:7/247(2%)
+
+Query  20   WFRETCSLWPGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQCTERDEFSY  79
+            W  E   L  G   S +++++    +S++Q + V  ++ +G VL++DG+IQ +E DEF Y
+Sbjct  27   WIIE--DLEEGLRFSYKLKKIFASTQSKFQQVDVCDTEPFGRVLIIDGLIQSSELDEFIY  84
+
+Query  80   QEMIANLPLCSHPNPRKVLIIGGGDGGVLREVVKHPSVESVVQCEIDEDVIQVSKKFLPG  139
+             E + +  + +HPNP++V I GGG+G   REV++H SVE  V  +ID DV+   K  LP 
+Sbjct  85   HECLVHPAMLAHPNPKRVFIGGGGEGSTAREVLRHKSVEKCVMVDIDGDVVDFCKAHLPA  144
+
+Query  140  MAIGYSSSKLTLHVGDGFEFMKQNQDAFDVIITDSSDPM--GPAESLFKESYYQLMKTAL  197
+             +  ++  +L L + D    ++Q  + FDVII D  DP+  GP   L+ + +Y++ KT L
+Sbjct  145  NSEAFADPRLDLIIDDCKVQLEQATEKFDVIIMDLDDPLEGGPCYWLYCKEFYEMCKTKL  204
+
+Query  198  KEDGVLCCQ--GECQWLHLDLIKEMRQFCQSLFPVVAYAYCTIPTYPSGQIGFMLCSKNP  255
+              DG+L  Q  G    ++  ++  +    + +FP  A AY       + + GF++   +P
+Sbjct  205  NPDGILVTQASGAGVKMYKAVLSPVLNTLKQVFP-AARAYKEAVYSFADEWGFVIAHSDP  263
+
+Query  256  STNFQEP  262
+            ST    P
+Sbjct  264  STASVTP  270
+
+
+
+
+>unnamed protein product, partial [Perkinsus chesapeaki]
+Sequence ID: CAE6010593.1 Length: 144
+Range 1: 11 to 143
+
+Score:130 bits(326), Expect:1e-35, 
+Method:Compositional matrix adjust., 
+Identities:72/137(53%), Positives:95/137(69%), Gaps:5/137(3%)
+
+Query  2    EPGPDGPAASGPAAIREGWFRETCS-LWPGQALSLQVEQLLHHRRSRYQDILVFRSKTYG  60
+            E  P  P   G    +  WF E    +WPGQA+SL++ ++++H RSRYQDI+VF S T+G
+Sbjct  11   ETIPQLPTQGG----KRKWFSEVSDEMWPGQAMSLEISKVIYHERSRYQDIMVFDSTTWG  66
+
+Query  61   NVLVLDGVIQCTERDEFSYQEMIANLPLCSHPNPRKVLIIGGGDGGVLREVVKHPSVESV  120
+             VL LDGV Q T++DEF YQE +A+ P   HPNP+K LIIGGGDGG+LRE+ KH S   +
+Sbjct  67   RVLCLDGVFQTTDKDEFCYQEAMAHTPTFLHPNPKKALIIGGGDGGILRELTKHSSFTEL  126
+
+Query  121  VQCEIDEDVIQVSKKFL  137
+              CEID  VI+VSK+++
+Sbjct  127  HICEIDGQVIEVSKEYM  143
+
+
+
+
+>unnamed protein product, partial [Symbiodinium sp. CCMP2430]
+Sequence ID: CAF9820879.1 Length: 349
+Range 1: 68 to 327
+
+Score:132 bits(333), Expect:2e-34, 
+Method:Compositional matrix adjust., 
+Identities:88/269(33%), Positives:150/269(55%), Gaps:22/269(8%)
+
+Query  45   RSRYQDILVFRSKTYGNVLVLDGVIQCTERDEFSYQEMIANLPLCSHPNPRKVLIIGGGD  104
+            +S+YQ I V +S  +G++L +DG +  TERDEF Y EMI ++P+   P   +VL++GGGD
+Sbjct  68   QSKYQKIEVLKSDFFGHILTIDGDLMLTERDEFIYHEMIVHVPMAYVPAASRVLVVGGGD  127
+
+Query  105  GGVLREVVKHPSVESVVQCEIDEDVIQVSKKFLPGMAIGYSSSKLTLHVGDGFEFM----  160
+            GG  R++++  SVESV   E+DE+V+++S++F P +A   +  ++ L +  G +++    
+Sbjct  128  GGSARQLLRRESVESVTVVELDEEVVRISREFFPRLAEALADPRVELRLESGADWVARQV  187
+
+Query  161  --KQNQDAFDVIITDSSDPMGPAESLFKESYYQLMKTALKEDGVLCCQGECQWLHLDLIK  218
+              K   + FD+ I DS+D  G +E LF+E++++ ++  L + GVL          L  ++
+Sbjct  188  AQKGADEKFDIAIVDSTD-FGASEPLFEEAFHRRLRQLLAKGGVLVINLTSLPWQLGQVQ  246
+
+Query  219  EMRQFCQSLFPVVAYAYCTIPTYPSGQIGFMLCSKNPSTNFQEPVQPLTQQQV-------  271
+                  + LF  V       PTY SG   F++CS        + + PL    V       
+Sbjct  247  ASVYRQRLLFKYVRVFQIYQPTYTSGHYCFLICS--------DEMDPLDTGSVDWQSYED  298
+
+Query  272  AQMQLKYYNSDVHRAAFVLPEFARKALND  300
+             ++++ YY+  VH AAF LP++A  A+++
+Sbjct  299  EELEMGYYSRRVHEAAFALPQYAVAAISE  327
+
+
+
+
+>unnamed protein product, partial [Scrippsiella hangoei]
+Sequence ID: CAE9438535.1 Length: 201
+>unnamed protein product, partial [Scrippsiella hangoei]
+Sequence ID: CAE9438538.1 Length: 201 
+Range 1: 4 to 191
+
+Score:125 bits(315), Expect:2e-33, 
+Method:Compositional matrix adjust., 
+Identities:68/190(36%), Positives:106/190(55%), Gaps:4/190(2%)
+
+Query  20   WFRETCSLWPGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQCTERDEFSY  79
+            W  E   L  G     +++++L   RS +Q + V   + +G  LV+DG++Q  + DEF Y
+Sbjct  4    WMEE--ELEDGLRGMYKIKEILASTRSEFQHVDVMDLEPFGRCLVIDGLLQSCQVDEFVY  61
+
+Query  80   QEMIANLPLCSHPNPRKVLIIGGGDGGVLREVVKHPSVESVVQCEIDEDVIQVSKKFLPG  139
+             E + +  +  HPNP++V I GGG+G   REV++H SVE  V  +ID DV++  K+ LP 
+Sbjct  62   HESLVHPAMLMHPNPKRVYIGGGGEGSTAREVLRHKSVEKCVMVDIDGDVVRFCKEHLPE  121
+
+Query  140  MAIGYSSSKLTLHVGDGFEFMKQNQDAFDVIITDSSDPM--GPAESLFKESYYQLMKTAL  197
+                ++  +L L + D    ++Q  + FDVII D  DP+  GP   L+ + +Y++ KT L
+Sbjct  122  NTEAFADPRLELVIEDAKVVLEQATEPFDVIIMDLDDPLEGGPCYQLYTKEFYEMCKTKL  181
+
+Query  198  KEDGVLCCQG  207
+               GVL  Q 
+Sbjct  182  GPGGVLVTQA  191
+
+
+
+
+>unnamed protein product [Gymnoxanthella radiolariae]
+Sequence ID: CAE9973849.1 Length: 321
+Range 1: 4 to 285
+
+Score:128 bits(322), Expect:4e-33, 
+Method:Compositional matrix adjust., 
+Identities:82/284(29%), Positives:138/284(48%), Gaps:7/284(2%)
+
+Query  20   WFRETCSLWPGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQCTERDEFSY  79
+            W  E   L PG  +S  ++ +L+  +S++Q + V   + +G VL++DG+IQ  + DEF Y
+Sbjct  4    WIEE--ELEPGLRVSYGLKAILNSSKSKFQTVDVVDIEPFGRVLLIDGLIQSCQVDEFVY  61
+
+Query  80   QEMIANLPLCSHPNPRKVLIIGGGDGGVLREVVKHPSVESVVQCEIDEDVIQVSKKFLPG  139
+             E + +  L SHP P+ V I GGG+G   REV++H +VE  V  +IDEDV+   ++ LP 
+Sbjct  62   HESLVHPALLSHPCPKTVYIGGGGEGSTAREVLRHKTVEKCVMVDIDEDVVNFCREQLPE  121
+
+Query  140  MAIGYSSSKLTLHVGDGFEFMKQNQDAFDVIITDSSDPM--GPAESLFKESYYQLMKTAL  197
+                ++ ++L L + D    ++++   FDVII D  DP+  GP   L+   +Y++  + L
+Sbjct  122  NTKAFADARLELIIDDAKAVLEKSPTKFDVIIMDLDDPLEGGPCYQLYTVEFYKMCMSQL  181
+
+Query  198  KEDGVLCCQGECQWL--HLDLIKEMRQFCQSLFPVV-AYAYCTIPTYPSGQIGFMLCSKN  254
+               GV   Q     L  H  +   +    + +FP V AY                   + 
+Sbjct  182  NPGGVFVTQSGQAGLTRHHLVWSPVNSTLRQVFPAVHAYNQAVYSFMDEWGWNIAFADEK  241
+
+Query  255  PSTNFQEPVQPLTQQQVAQMQLKYYNSDVHRAAFVLPEFARKAL  298
+             +      V     ++  + +LK+ + + +R  F L +  RK L
+Sbjct  242  MAALLAPEVVDARIKERIEGELKFLDGESYRGLFCLSKVHRKTL  285
+
+
+
+
+>unnamed protein product [Polarella glacialis]
+Sequence ID: CAE4390009.1 Length: 322
+Range 1: 4 to 286
+
+Score:127 bits(320), Expect:7e-33, 
+Method:Compositional matrix adjust., 
+Identities:84/286(29%), Positives:142/286(49%), Gaps:10/286(3%)
+
+Query  20   WFRETCSLWPGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQCTERDEFSY  79
+            W  E  S+ PG   S +++++L    S +Q + +   + +G  LV+DG++Q    DEF Y
+Sbjct  4    WLEE--SIEPGFRASYKLDKILASTTSEFQHVDLVDIEPFGRSLVIDGLLQSCRCDEFVY  61
+
+Query  80   QEMIANLPLCSHPNPRKVLIIGGGDGGVLREVVKHPSVESVVQCEIDEDVIQVSKKFLPG  139
+             E + +  +  HPNP+ V I GGG+G   REV++H SVE  V  +ID+DV+Q  K  L  
+Sbjct  62   HECLVHPAMLMHPNPKTVYIGGGGEGSTAREVLRHKSVEKCVMVDIDKDVVQFCKDHLDE  121
+
+Query  140  MAIGYSSSKLTLHVGDGFEFMKQNQDAFDVIITDSSDPM--GPAESLFKESYYQLMKTAL  197
+             A  ++  +L L +     +++QN   FDVII D  DP+  GP   L+   +Y  +K+ L
+Sbjct  122  NAEAFADKRLDLVISCAKAYLEQNDTKFDVIIMDLDDPLEGGPCYQLYSTEFYTFLKSKL  181
+
+Query  198  KEDGVLCCQGECQWL--HLDLIKEMRQFCQSLFP-VVAY--AYCTIPTYPSGQIGFMLCS  252
+               G++  Q     +  H  +   +    +S+FP  V Y  A  +        +     +
+Sbjct  182  NPGGIIVTQSGQSGIKQHTLVFTPIHNTLKSVFPNTVPYNQAIYSFLDEWGWNVALPEGA  241
+
+Query  253  KNPSTNFQEPVQPLTQQQVAQMQLKYYNSDVHRAAFVLPEFARKAL  298
+            K P+    E V  L ++++   +LK+ +    +  + L +  RK+L
+Sbjct  242  KPPAKFSPEEVDKLIEERI-NGELKFMDGCSWQGIWALSKVHRKSL  286
+
+
+
+
+>unnamed protein product, partial [Scrippsiella hangoei]
+Sequence ID: CAE8473490.1 Length: 292
+Range 1: 18 to 285
+
+Score:127 bits(318), Expect:7e-33, 
+Method:Compositional matrix adjust., 
+Identities:81/270(30%), Positives:140/270(51%), Gaps:9/270(3%)
+
+Query  36   QVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQCTERDEFSYQEMIANLPLCSHPNPR  95
+            +++++L   RS +Q + V   + +G  LV+DG++Q  + DEF Y E + +  +  HPNP+
+Sbjct  18   KIKEILATTRSEFQHVDVMDLEPFGRCLVIDGLLQSCQVDEFVYHESLVHPAMLMHPNPK  77
+
+Query  96   KVLIIGGGDGGVLREVVKHPSVESVVQCEIDEDVIQVSKKFLPGMAIGYSSSKLTLHVGD  155
+            +V I GGG+G   REV++H SVE  V  +ID DV++  K+ LP     ++  +L L + D
+Sbjct  78   RVYIGGGGEGSTAREVLRHKSVEKCVMVDIDGDVVRFCKEHLPENTEAFADPRLELVIED  137
+
+Query  156  GFEFMKQNQDAFDVIITDSSDPM--GPAESLFKESYYQLMKTALKEDGVLCCQGECQWL-  212
+                ++Q  + FDVII D  DP+  GP   L+ + +Y++ K+ L   GVL  Q     + 
+Sbjct  138  AKVVLEQATEPFDVIIMDLDDPLEGGPCYQLYTKEFYEMCKSKLGPGGVLVTQAGQAGIK  197
+
+Query  213  -HLDLIKEMRQFCQSLFPVVAYAYCTIPTYPSGQIGFMLCSKN---PSTNFQEPVQPLTQ  268
+             H  +   +    +++FP V      + ++   + G+ L   +   PS   +E V     
+Sbjct  198  RHHIVWSAIHSTLRAVFPTVLPYNQAVYSFMD-EWGWHLALTDGAMPSKLSEEEVDKRIA  256
+
+Query  269  QQVAQMQLKYYNSDVHRAAFVLPEFARKAL  298
+             ++ Q +LK+ +    +  F L +  RK L
+Sbjct  257  ARI-QGELKFLDGCSWQGLFALSKVHRKTL  285
+
+
+
+
+>unnamed protein product, partial [Kryptoperidinium foliaceum]
+Sequence ID: CAF6018833.1 Length: 343
+Range 1: 47 to 316
+
+Score:128 bits(321), Expect:8e-33, 
+Method:Compositional matrix adjust., 
+Identities:77/271(28%), Positives:141/271(52%), Gaps:7/271(2%)
+
+Query  36   QVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQCTERDEFSYQEMIANLPLCSHPNPR  95
+            +++++L    S++Q + V   + +G  L++DG++Q TE DEF Y E + +  +  HPNP+
+Sbjct  47   KIKKILASTTSKWQTVDVMELEPFGKCLMIDGLLQSTEVDEFVYHESLVHPAMLVHPNPK  106
+
+Query  96   KVLIIGGGDGGVLREVVKHPSVESVVQCEIDEDVIQVSKKFLPGMAIGYSSSKLTLHVGD  155
+             V I GGG+G   REV++H +VE  V  +ID DV+   K+ L   A  ++  +L L + D
+Sbjct  107  TVYIGGGGEGATAREVLRHKTVEKCVMVDIDGDVVAFCKEHLTENAEAFADPRLELVIDD  166
+
+Query  156  GFEFMKQNQDAFDVIITDSSDPM--GPAESLFKESYYQLMKTALKEDGVLCCQGECQWL-  212
+              + ++ +   +DVII D  DP+  GP   L+ + +Y++ ++ L   GVL  Q     + 
+Sbjct  167  AKKILEDSDRKYDVIIMDLDDPLEGGPCYQLYTKEFYEMCRSKLNPGGVLVTQAGQAGIK  226
+
+Query  213  -HLDLIKEMRQFCQSLFPVVAYAYCTIPTYPSGQIGFMLCSKNPSTNFQEPVQPLTQQQV  271
+             H  +   +    +++FP V  AY         + G+ L   + S   +  V+ + ++  
+Sbjct  227  RHHIVWSAVHSTLKAVFPTV-LAYNQAVYSFMDEWGWQLALSDASLPSKLSVEDVDKRIS  285
+
+Query  272  AQM--QLKYYNSDVHRAAFVLPEFARKALND  300
+             ++  +LK+ + +  +  F L +  RK L D
+Sbjct  286  ERINGELKFLDGESWQGLFSLSKLHRKTLKD  316
+
+
+
+
+>unnamed protein product, partial [Crypthecodinium cohnii]
+Sequence ID: CAE5124395.1 Length: 310
+Range 1: 31 to 204
+
+Score:127 bits(319), Expect:9e-33, 
+Method:Compositional matrix adjust., 
+Identities:60/174(34%), Positives:104/174(59%), Gaps:2/174(1%)
+
+Query  36   QVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQCTERDEFSYQEMIANLPLCSHPNPR  95
+            +++Q+    +S++Q + V   + +G  L++DG++Q T+ DEF Y E + +  +  H NP+
+Sbjct  31   KIKQIFASTKSKFQHVDVMELEPFGRCLMIDGLLQSTQVDEFVYHESLVHPAMLMHANPK  90
+
+Query  96   KVLIIGGGDGGVLREVVKHPSVESVVQCEIDEDVIQVSKKFLPGMAIGYSSSKLTLHVGD  155
+             V I GGG+G   REV++H SVE  +  +IDEDV+   K+ LP     ++  +LT+ + D
+Sbjct  91   NVYIGGGGEGATAREVLRHKSVEKCIMVDIDEDVVNFCKEHLPENKAAFADPRLTVVIED  150
+
+Query  156  GFEFMKQNQDAFDVIITDSSDPM--GPAESLFKESYYQLMKTALKEDGVLCCQG  207
+              + +++++  FDVII D  DP+  GP   L+ + +Y++ K+ L   GVL  Q 
+Sbjct  151  AKKVLEESETKFDVIIMDLDDPLEGGPCYQLYTKEFYEMCKSKLAPGGVLVTQA  204
+
+
+
+
+>unnamed protein product [Scrippsiella hangoei]
+Sequence ID: CAE8473489.1 Length: 317
+>unnamed protein product [Scrippsiella hangoei]
+Sequence ID: CAE8473492.1 Length: 317 
+Range 1: 18 to 285
+
+Score:127 bits(319), Expect:1e-32, 
+Method:Compositional matrix adjust., 
+Identities:81/270(30%), Positives:140/270(51%), Gaps:9/270(3%)
+
+Query  36   QVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQCTERDEFSYQEMIANLPLCSHPNPR  95
+            +++++L   RS +Q + V   + +G  LV+DG++Q  + DEF Y E + +  +  HPNP+
+Sbjct  18   KIKEILATTRSEFQHVDVMDLEPFGRCLVIDGLLQSCQVDEFVYHESLVHPAMLMHPNPK  77
+
+Query  96   KVLIIGGGDGGVLREVVKHPSVESVVQCEIDEDVIQVSKKFLPGMAIGYSSSKLTLHVGD  155
+            +V I GGG+G   REV++H SVE  V  +ID DV++  K+ LP     ++  +L L + D
+Sbjct  78   RVYIGGGGEGSTAREVLRHKSVEKCVMVDIDGDVVRFCKEHLPENTEAFADPRLELVIED  137
+
+Query  156  GFEFMKQNQDAFDVIITDSSDPM--GPAESLFKESYYQLMKTALKEDGVLCCQGECQWL-  212
+                ++Q  + FDVII D  DP+  GP   L+ + +Y++ K+ L   GVL  Q     + 
+Sbjct  138  AKVVLEQATEPFDVIIMDLDDPLEGGPCYQLYTKEFYEMCKSKLGPGGVLVTQAGQAGIK  197
+
+Query  213  -HLDLIKEMRQFCQSLFPVVAYAYCTIPTYPSGQIGFMLCSKN---PSTNFQEPVQPLTQ  268
+             H  +   +    +++FP V      + ++   + G+ L   +   PS   +E V     
+Sbjct  198  RHHIVWSAIHSTLRAVFPTVLPYNQAVYSFMD-EWGWHLALTDGAMPSKLSEEEVDKRIA  256
+
+Query  269  QQVAQMQLKYYNSDVHRAAFVLPEFARKAL  298
+             ++ Q +LK+ +    +  F L +  RK L
+Sbjct  257  ARI-QGELKFLDGCSWQGLFALSKVHRKTL  285
+
+
+
+
+>unnamed protein product [Scrippsiella hangoei]
+Sequence ID: CAE8473488.1 Length: 317
+>unnamed protein product [Scrippsiella hangoei]
+Sequence ID: CAE8473491.1 Length: 317 
+Range 1: 18 to 285
+
+Score:127 bits(319), Expect:1e-32, 
+Method:Compositional matrix adjust., 
+Identities:81/270(30%), Positives:140/270(51%), Gaps:9/270(3%)
+
+Query  36   QVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQCTERDEFSYQEMIANLPLCSHPNPR  95
+            +++++L   RS +Q + V   + +G  LV+DG++Q  + DEF Y E + +  +  HPNP+
+Sbjct  18   KIKEILATTRSEFQHVDVMDLEPFGRCLVIDGLLQSCQVDEFVYHESLVHPAMLMHPNPK  77
+
+Query  96   KVLIIGGGDGGVLREVVKHPSVESVVQCEIDEDVIQVSKKFLPGMAIGYSSSKLTLHVGD  155
+            +V I GGG+G   REV++H SVE  V  +ID DV++  K+ LP     ++  +L L + D
+Sbjct  78   RVYIGGGGEGSTAREVLRHKSVEKCVMVDIDGDVVRFCKEHLPENTEAFADPRLELVIED  137
+
+Query  156  GFEFMKQNQDAFDVIITDSSDPM--GPAESLFKESYYQLMKTALKEDGVLCCQGECQWL-  212
+                ++Q  + FDVII D  DP+  GP   L+ + +Y++ K+ L   GVL  Q     + 
+Sbjct  138  AKVVLEQATEPFDVIIMDLDDPLEGGPCYQLYTKEFYEMCKSKLGPGGVLVTQAGQAGIK  197
+
+Query  213  -HLDLIKEMRQFCQSLFPVVAYAYCTIPTYPSGQIGFMLCSKN---PSTNFQEPVQPLTQ  268
+             H  +   +    +++FP V      + ++   + G+ L   +   PS   +E V     
+Sbjct  198  RHHIVWSAIHSTLRAVFPTVLPYNQAVYSFMD-EWGWHLALTDGAMPSKLSEEEVDKRIA  256
+
+Query  269  QQVAQMQLKYYNSDVHRAAFVLPEFARKAL  298
+             ++ Q +LK+ +    +  F L +  RK L
+Sbjct  257  ARI-QGELKFLDGCSWQGLFALSKVHRKTL  285
+
+
+
+
+>unnamed protein product, partial [Crypthecodinium cohnii]
+Sequence ID: CAE5124396.1 Length: 310
+Range 1: 44 to 217
+
+Score:126 bits(317), Expect:2e-32, 
+Method:Compositional matrix adjust., 
+Identities:60/174(34%), Positives:104/174(59%), Gaps:2/174(1%)
+
+Query  36   QVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQCTERDEFSYQEMIANLPLCSHPNPR  95
+            +++Q+    +S++Q + V   + +G  L++DG++Q T+ DEF Y E + +  +  H NP+
+Sbjct  44   KIKQIFASTKSKFQHVDVMELEPFGRCLMIDGLLQSTQVDEFVYHESLVHPAMLIHANPK  103
+
+Query  96   KVLIIGGGDGGVLREVVKHPSVESVVQCEIDEDVIQVSKKFLPGMAIGYSSSKLTLHVGD  155
+             V I GGG+G   REV++H SVE  +  +IDEDV+   K+ LP     ++  +LT+ + D
+Sbjct  104  NVYIGGGGEGATAREVLRHKSVEKCIMVDIDEDVVNFCKEHLPENQAAFADPRLTVVIED  163
+
+Query  156  GFEFMKQNQDAFDVIITDSSDPM--GPAESLFKESYYQLMKTALKEDGVLCCQG  207
+              + +++++  FDVII D  DP+  GP   L+ + +Y++ K+ L   GVL  Q 
+Sbjct  164  AKKVLEESETKFDVIIMDLDDPLEGGPCYQLYTKEFYEMCKSKLAPGGVLVTQA  217
+
+
+
+
+>unnamed protein product [Kryptoperidinium foliaceum]
+Sequence ID: CAF6018829.1 Length: 314
+Range 1: 18 to 287
+
+Score:126 bits(316), Expect:2e-32, 
+Method:Compositional matrix adjust., 
+Identities:77/271(28%), Positives:140/271(51%), Gaps:7/271(2%)
+
+Query  36   QVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQCTERDEFSYQEMIANLPLCSHPNPR  95
+            ++ ++L    S++Q + V   + +G  L++DG++Q TE DEF Y E + +  +  HPNP+
+Sbjct  18   KIGKILASTTSKWQTVDVMELEPFGKCLMIDGLLQSTEVDEFVYHESLVHPAMLVHPNPK  77
+
+Query  96   KVLIIGGGDGGVLREVVKHPSVESVVQCEIDEDVIQVSKKFLPGMAIGYSSSKLTLHVGD  155
+             V I GGG+G   REV++H +VE  V  +ID DV+   K+ L   A  ++  +L L + D
+Sbjct  78   TVYIGGGGEGATAREVLRHKTVEKCVMVDIDGDVVAFCKEHLTENAEAFADPRLELVIDD  137
+
+Query  156  GFEFMKQNQDAFDVIITDSSDPM--GPAESLFKESYYQLMKTALKEDGVLCCQGECQWL-  212
+              + ++ +   +DVII D  DP+  GP   L+ + +Y++ ++ L   GVL  Q     + 
+Sbjct  138  AKKILEDSDRKYDVIIMDLDDPLEGGPCYQLYTKEFYEMCRSKLNPGGVLVTQAGQAGIK  197
+
+Query  213  -HLDLIKEMRQFCQSLFPVVAYAYCTIPTYPSGQIGFMLCSKNPSTNFQEPVQPLTQQQV  271
+             H  +   +    +++FP V  AY         + G+ L   + S   +  V+ + ++  
+Sbjct  198  RHHIVWSAVHSTLKAVFPTV-LAYNQAVYSFMDEWGWQLALSDASLPSKLSVEDVDKRIS  256
+
+Query  272  AQM--QLKYYNSDVHRAAFVLPEFARKALND  300
+             ++  +LK+ + +  +  F L +  RK L D
+Sbjct  257  ERINGELKFLDGESWQGLFSLSKLHRKTLKD  287
+
+
+
+
+>unnamed protein product, partial [Alexandrium monilatum]
+Sequence ID: CAE4678432.1 Length: 351
+Range 1: 21 to 316
+
+Score:127 bits(318), Expect:3e-32, 
+Method:Compositional matrix adjust., 
+Identities:85/299(28%), Positives:145/299(48%), Gaps:11/299(3%)
+
+Query  8    PAASGPAAIREGWFRETCSLWPGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVLVLDG  67
+            P+A  P A    W  E  ++ PG     +VE+ L    S++Q + +   + +G  LV+DG
+Sbjct  21   PSAQRPRASMSKWLEE--NIEPGLRAMYKVEKTLGSTVSKFQSVDLVDLECFGRSLVIDG  78
+
+Query  68   VIQCTERDEFSYQEMIANLPLCSHPNPRKVLIIGGGDGGVLREVVKHPSVESVVQCEIDE  127
+            ++Q    DEF Y E + +  +  HPNP+ V I GGG+G   REV++H SVE  V  +IDE
+Sbjct  79   LLQSCRVDEFVYHECLVHPAMLLHPNPKSVYIGGGGEGSTAREVLRHKSVERCVMVDIDE  138
+
+Query  128  DVIQVSKKFLPGMAIGYSSSKLTLHVGDGFEFMKQNQDAFDVIITDSSDPM--GPAESLF  185
+            DV++  ++ L      ++  +L L + D   +++++   FDVII D  DP+  GP   L+
+Sbjct  139  DVVRFCREHLEENHAAFADGRLELVIDDAKAWLERSDSKFDVIIMDLDDPLEGGPCYQLY  198
+
+Query  186  KESYYQLMKTALKEDGVLCCQGECQWL--HLDLIKEMRQFCQSLFP-VVAYAYCTIPTYP  242
+               +Y ++KT +     L  Q     +  H  +   + +  +S+F  VVAY         
+Sbjct  199  TTEFYAMLKTKMNPGATLVTQSGQSGIKAHHLVFSPINRTLRSVFSNVVAYNQAVYSFLD  258
+
+Query  243  SGQIGFMLCSKN---PSTNFQEPVQPLTQQQVAQMQLKYYNSDVHRAAFVLPEFARKAL  298
+                   L  +    P++  +E V     ++V + +L++ +    R  + L +  RK L
+Sbjct  259  EWGWNLALTEEGAPAPASLSEEEVDRRIAERV-EGELQFLDGVSWRGIWALSKRHRKTL  316
+
+
+
+
+>TPA: unnamed protein product, partial [uncultured Symbiodinium]
+Sequence ID: CAI0197573.1 Length: 336
+Range 1: 17 to 300
+
+Score:125 bits(315), Expect:5e-32, 
+Method:Compositional matrix adjust., 
+Identities:85/288(30%), Positives:151/288(52%), Gaps:11/288(3%)
+
+Query  20   WFRETCSLWPGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQCTERDEFSY  79
+            W  E   L  G   + +++++L   +S++Q + V  ++ +G VL++DG+IQ  E DEF Y
+Sbjct  17   WMIE--DLEEGLQYNYKLKKVLASTQSKFQMVNVCDTEPFGRVLIIDGLIQSAELDEFIY  74
+
+Query  80   QEMIANLPLCSHPN-PRKVLIIGGGDGGVLREVVKHPSVESVVQCEIDEDVIQVSKKFLP  138
+             E + +  + +HP   ++V I GGG+G   REV++H SVE  V  +ID DV+   K+ LP
+Sbjct  75   HECLVHPAMLAHPTGAKRVFIGGGGEGSTAREVLRHRSVEKCVMVDIDGDVVNFCKEHLP  134
+
+Query  139  GMAIGYSSSKLTLHVGDGFEFMKQNQDAFDVIITDSSDPM--GPAESLFKESYYQLMKTA  196
+              A  ++  +L L + D    ++Q  + FDVII D  DP+  GP   L+ + +Y++ K+ 
+Sbjct  135  ANAEAFADPRLDLIIDDCKVQLEQATENFDVIIMDLDDPLEGGPCYWLYCQEFYEMCKSK  194
+
+Query  197  LKEDGVLCCQGECQWL--HLDLIKEMRQFCQSLFPVVAYAYCTIPTYPSGQIGFMLCSKN  254
+            L   G+L  Q     +  +  ++  +      +FP VA AY       + + GF++ + +
+Sbjct  195  LNPGGILVTQASGAGVKQYKAVLSPVLNTLSKVFP-VARAYKEAIYSFADEWGFVIANSD  253
+
+Query  255  PSTN--FQEPVQPLTQQQVAQMQLKYYNSDVHRAAFVLPEFARKALND  300
+            PS      E V     ++V Q  L++ + + +   + L +  RK L++
+Sbjct  254  PSAKALTAEEVDRRIAERV-QGSLQFLDGESYTGIYCLSKRMRKDLSE  300
+
+
+
+
+>unnamed protein product, partial [Pelagodinium bei]
+Sequence ID: CAE9667917.1 Length: 339
+Range 1: 29 to 215
+
+Score:125 bits(315), Expect:7e-32, 
+Method:Compositional matrix adjust., 
+Identities:64/189(34%), Positives:105/189(55%), Gaps:4/189(2%)
+
+Query  20   WFRETCSLWPGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQCTERDEFSY  79
+            W  ET    PG  +  +VE+ L    S++Q++ +   + +G  LV+DG++Q    DEF Y
+Sbjct  29   WLEETIE--PGLRVQYRVERTLGSTVSKFQNVDLVDLEPFGRSLVIDGLMQSCRSDEFVY  86
+
+Query  80   QEMIANLPLCSHPNPRKVLIIGGGDGGVLREVVKHPSVESVVQCEIDEDVIQVSKKFLPG  139
+             E + +  +  HPNP+ V I GGG+G   REV++H SVE  V  +IDEDV++  ++ L  
+Sbjct  87   HECLVHPAMLLHPNPKSVYIGGGGEGSTAREVLRHKSVERCVMVDIDEDVVRFCREHLEE  146
+
+Query  140  MAIGYSSSKLTLHVGDGFEFMKQNQDAFDVIITDSSDPM--GPAESLFKESYYQLMKTAL  197
+                ++  +L L + D   ++++++  FDVII D  DP+  GP   L+   +Y ++KT +
+Sbjct  147  NHAAFADKRLELVIDDAKAWLERSESKFDVIIMDLDDPLEGGPCYQLYTTEFYSMVKTKM  206
+
+Query  198  KEDGVLCCQ  206
+                 L  Q
+Sbjct  207  NPGATLVTQ  215
+
+
+
+
+>unnamed protein product [Lingulaulax polyedra]
+Sequence ID: CAG0468211.1 Length: 310
+Range 1: 18 to 287
+
+Score:124 bits(311), Expect:1e-31, 
+Method:Compositional matrix adjust., 
+Identities:79/272(29%), Positives:138/272(50%), Gaps:9/272(3%)
+
+Query  36   QVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQCTERDEFSYQEMIANLPLCSHPNPR  95
+            +++++L    S++Q + V   + +G  L++DG++Q TE DEF Y E + +  +  HPNP+
+Sbjct  18   KIKKILASTTSKWQTVDVMELEPFGKCLMIDGLLQSTEVDEFVYHESLVHPAMLVHPNPK  77
+
+Query  96   KVLIIGGGDGGVLREVVKHPSVESVVQCEIDEDVIQVSKKFLPGMAIGYSSSKLTLHVGD  155
+             V I GGG+G   REV++H +VE  V  +ID DV+   K+ L   A  ++  +L L + D
+Sbjct  78   TVYIGGGGEGATAREVLRHKTVEKCVMVDIDGDVVAFCKEHLTENAEAFADPRLELVIDD  137
+
+Query  156  GFEFMKQNQDAFDVIITDSSDPM--GPAESLFKESYYQLMKTALKEDGVLCCQGECQWL-  212
+              + ++ +   +DVII D  DP+  GP   L+ + +Y+  KT L   GVL  Q     + 
+Sbjct  138  AKKILEDSARTYDVIIMDLDDPLEGGPCYQLYTKEFYEFCKTKLNPGGVLVTQAGQAGIK  197
+
+Query  213  -HLDLIKEMRQFCQSLFPVVAYAYCTIPTYPSGQIGFMLCSKN---PSTNFQEPVQPLTQ  268
+             H  +   +    +++FP V  AY         + G+ L   +   PS    E V     
+Sbjct  198  RHHIVWSAVHSTLRAVFPTV-LAYNQAVYSFMDEWGWQLALSDESMPSKLSAEEVDKRIA  256
+
+Query  269  QQVAQMQLKYYNSDVHRAAFVLPEFARKALND  300
+            +++   +LK+ + +  +  F L +  R+ L +
+Sbjct  257  ERI-NGELKFLDGESWQGLFSLSKRHRQTLKN  287
+
+
+
+
+>unnamed protein product, partial [Kryptoperidinium foliaceum]
+Sequence ID: CAF6018831.1 Length: 339
+Range 1: 47 to 316
+
+Score:125 bits(313), Expect:1e-31, 
+Method:Compositional matrix adjust., 
+Identities:79/272(29%), Positives:138/272(50%), Gaps:9/272(3%)
+
+Query  36   QVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQCTERDEFSYQEMIANLPLCSHPNPR  95
+            +++++L    S++Q + V   + +G  L++DG++Q TE DEF Y E + +  +  HPNP+
+Sbjct  47   KIKKILASTTSKWQTVDVMELEPFGKCLMIDGLLQSTEVDEFVYHESLVHPAMLVHPNPK  106
+
+Query  96   KVLIIGGGDGGVLREVVKHPSVESVVQCEIDEDVIQVSKKFLPGMAIGYSSSKLTLHVGD  155
+             V I GGG+G   REV++H +VE  V  +ID DV+   K+ L   A  ++  +L L + D
+Sbjct  107  TVYIGGGGEGATAREVLRHKTVEKCVMVDIDGDVVAFCKEHLTENAEAFADPRLELVIDD  166
+
+Query  156  GFEFMKQNQDAFDVIITDSSDPM--GPAESLFKESYYQLMKTALKEDGVLCCQGECQWL-  212
+              + ++ +   +DVII D  DP+  GP   L+ + +Y+  KT L   GVL  Q     + 
+Sbjct  167  AKKILEDSARTYDVIIMDLDDPLEGGPCYQLYTKEFYEFCKTKLNPGGVLVTQAGQAGIK  226
+
+Query  213  -HLDLIKEMRQFCQSLFPVVAYAYCTIPTYPSGQIGFMLCSKN---PSTNFQEPVQPLTQ  268
+             H  +   +    +++FP V  AY         + G+ L   +   PS    E V     
+Sbjct  227  RHHIVWSAVHSTLRAVFPTV-LAYNQAVYSFMDEWGWQLALSDESMPSKLSAEEVDKRIA  285
+
+Query  269  QQVAQMQLKYYNSDVHRAAFVLPEFARKALND  300
+            +++   +LK+ + +  +  F L +  R+ L +
+Sbjct  286  ERI-NGELKFLDGESWQGLFSLSKRHRQTLKN  316
+
+
+
+
+>unnamed protein product, partial [Scrippsiella hangoei]
+Sequence ID: CAE9288931.1 Length: 435
+Range 1: 92 to 362
+
+Score:126 bits(317), Expect:2e-31, 
+Method:Compositional matrix adjust., 
+Identities:85/273(31%), Positives:138/273(50%), Gaps:20/273(7%)
+
+Query  37   VEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQCTERDEFSYQEMIANLPLCSHPN-PR  95
+            V+++LH  ++  Q +LVFRS  +G  L LDGV+Q TE DE  Y E + ++PL   P  PR
+Sbjct  92   VDEVLHEEQTPLQHVLVFRSNRFGVCLSLDGVLQSTEEDEHIYHEYLVHVPLALLPGPPR  151
+
+Query  96   KVLIIGGGDGGVLREVVKHPSVESVVQCEIDEDVIQVSKKFLPGMAIGYSSSKLTLHVGD  155
+            +VL+ GGG GG  REV+++ SVE  V  EID  V++V+++F P     Y+ ++  L V D
+Sbjct  152  RVLVCGGGPGGAAREVLRYGSVEEGVVAEIDSAVVEVARRFSPRQVCAYADTRCRLSVCD  211
+
+Query  156  GFEFMK-QNQDAFDVIITDSSD---PMGPAESLFKESYYQLMKTALKEDGVLCCQ-GECQ  210
+              E ++ +    FD II D +D     G + +L+  +++     +L+  G L  Q G C 
+Sbjct  212  AAEAVRGRASGTFDAIIVDGTDMGVTSGRSNNLWSRTFFADCVRSLRAGGTLSTQLGACI  271
+
+Query  211  WLHLDLI------KEMRQFCQSLFPVVAYAYCTIPTYPS-GQIGFMLCSKNP-----STN  258
+                 L       + +R+   + F  VA     IP++     +G    S        +  
+Sbjct  272  ASSSGLAWSRAAPRGLRRLRAAGFEEVAAYMAEIPSFGGLALVGVARASGGAELDGGAGG  331
+
+Query  259  FQEPVQPLTQQQVAQMQLKYYNSDVHRAAFVLP  291
+              EP +    +++ ++  + Y++  HR AF LP
+Sbjct  332  LSEP-RSFAARELTELP-RVYSAQGHRQAFRLP  362
+
+
+
+
+>unnamed protein product, partial [Lingulaulax polyedra]
+Sequence ID: CAG0468213.1 Length: 325
+Range 1: 5 to 302
+
+Score:124 bits(311), Expect:2e-31, 
+Method:Compositional matrix adjust., 
+Identities:87/302(29%), Positives:147/302(48%), Gaps:12/302(3%)
+
+Query  7    GPAASGPA-AIREGWFRETCSLWPGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVLVL  65
+            G AA+G   +I   W  E   L  G     ++ ++L    S++Q + V   + +G  L++
+Sbjct  5    GTAATGKRPSIMSKWIEE--ELEDGLRGMYKIGKILASTTSKWQTVDVMELEPFGKCLMI  62
+
+Query  66   DGVIQCTERDEFSYQEMIANLPLCSHPNPRKVLIIGGGDGGVLREVVKHPSVESVVQCEI  125
+            DG++Q TE DEF Y E + +  +  HP P+ V I GGG+G   REV++H +VE  V  +I
+Sbjct  63   DGLLQSTEVDEFVYHESLVHPAMLVHPGPKTVYIGGGGEGATAREVLRHKTVEKCVMVDI  122
+
+Query  126  DEDVIQVSKKFLPGMAIGYSSSKLTLHVGDGFEFMKQNQDAFDVIITDSSDPM--GPAES  183
+            D DV+   K+ L   A  ++  +L L + D  + ++ +   +DVII D  DP+  GP   
+Sbjct  123  DGDVVAFCKEHLTENAEAFADPRLELVIDDAKKILEDSARTYDVIIMDLDDPLEGGPCYQ  182
+
+Query  184  LFKESYYQLMKTALKEDGVLCCQGECQWL--HLDLIKEMRQFCQSLFPVVAYAYCTIPTY  241
+            L+ + +Y+  KT L   GVL  Q     +  H  +   +    +++FP V  AY      
+Sbjct  183  LYTKEFYEFCKTKLNPGGVLVTQAGQAGIKRHHIVWSAVHSTLRAVFPTV-LAYNQAVYS  241
+
+Query  242  PSGQIGFMLCSKN---PSTNFQEPVQPLTQQQVAQMQLKYYNSDVHRAAFVLPEFARKAL  298
+               + G+ L   +   PS    E V     +++   +LK+ + +  +  F L +  R+ L
+Sbjct  242  FMDEWGWQLALSDESMPSKLSAEEVDKRIAERI-NGELKFLDGESWQGLFSLSKRHRQTL  300
+
+Query  299  ND  300
+             +
+Sbjct  301  KN  302
+
+
+
+
+>unnamed protein product, partial [Alexandrium fundyense]
+Sequence ID: CAE4381683.1 Length: 123
+Range 1: 1 to 112
+
+Score:118 bits(295), Expect:2e-31, 
+Method:Compositional matrix adjust., 
+Identities:56/112(50%), Positives:74/112(66%), Gaps:1/112(0%)
+
+Query  112  VKHPSVESVVQCEIDEDVIQVSKKFLPGMAIGYSSSKLTLHVGDGFEFMKQNQDA-FDVI  170
+            VK   V  V  CEID  VI+ SK+F P ++  YS  K+ L VGDG  F + ++DA FD+I
+Sbjct  1    VKRKCVSRVTHCEIDAGVIEASKQFFPSVSCAYSDPKVNLMVGDGVGFAENSEDASFDII  60
+
+Query  171  ITDSSDPMGPAESLFKESYYQLMKTALKEDGVLCCQGECQWLHLDLIKEMRQ  222
+            I DSSDP+GPAE LF + +Y  +   L+  GV+C QGEC W+H DLI++M Q
+Sbjct  61   IVDSSDPVGPAEKLFSKEFYSNVHRILRPGGVICSQGECLWIHADLIQKMLQ  112
+
+
+
+
+>unnamed protein product, partial [Zooxanthella nutricula]
+Sequence ID: CAE1882160.1 Length: 365
+Range 1: 28 to 326
+
+Score:124 bits(312), Expect:3e-31, 
+Method:Compositional matrix adjust., 
+Identities:85/303(28%), Positives:151/303(49%), Gaps:10/303(3%)
+
+Query  3    PGPDGPAASGPAAIREGWFRETCSLWPGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNV  62
+            PGP G   +   A+ + W  E   L  G     ++++++   RS++Q + V   + +G  
+Sbjct  28   PGPAGRPPAKRFAMSK-WIEE--ELEDGLRGMYRLKKIVASTRSKWQQVDVMDLEPFGRC  84
+
+Query  63   LVLDGVIQCTERDEFSYQEMIANLPLCSHPNPRKVLIIGGGDGGVLREVVKHPSVESVVQ  122
+            L++DG++Q TE DEF Y E + +  +  H  P+ V I GGG+G   REV++H SV   V 
+Sbjct  85   LMIDGLLQSTEADEFVYHESLVHPAMLLHQCPKTVFIGGGGEGATAREVLRHKSVVKCVM  144
+
+Query  123  CEIDEDVIQVSKKFLPGMAIGYSSSKLTLHVGDGFEFMKQNQDAFDVIITDSSDPM--GP  180
+             +IDEDV++  K  LP     +   +L L + D  + ++++Q  FDVII D  DP+  GP
+Sbjct  145  VDIDEDVVRFCKDHLPENKEAWVDPRLELVIDDAKKILEESQRKFDVIIMDLDDPLEGGP  204
+
+Query  181  AESLFKESYYQLMKTALKEDGVLCCQGECQWL--HLDLIKEMRQFCQSLFPVVAYAYCTI  238
+               L+ + +Y++ +T L+  GVL  Q     +  H  +   +    +++FP V      I
+Sbjct  205  CYQLYTKEFYEMCRTKLQPGGVLVTQASQAGITRHHIVWSAVNSTLRAVFPRVFPYSRAI  264
+
+Query  239  PTYPSGQIGFMLCSKNPSTNFQEP--VQPLTQQQVAQMQLKYYNSDVHRAAFVLPEFARK  296
+             ++       +  S   +T+   P  V    + ++ Q +L++ + +  +  F L +  R+
+Sbjct  265  YSFMDEWGWHLALSDTEATSALSPEEVDKRIKDRI-QGELRFLDGESWQGLFALSKRHRQ  323
+
+Query  297  ALN  299
+             L 
+Sbjct  324  TLR  326
+
+
+
+
+>unnamed protein product [Kryptoperidinium foliaceum]
+Sequence ID: CAF6018828.1 Length: 310
+Range 1: 18 to 287
+
+Score:123 bits(308), Expect:3e-31, 
+Method:Compositional matrix adjust., 
+Identities:79/272(29%), Positives:137/272(50%), Gaps:9/272(3%)
+
+Query  36   QVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQCTERDEFSYQEMIANLPLCSHPNPR  95
+            ++ ++L    S++Q + V   + +G  L++DG++Q TE DEF Y E + +  +  HPNP+
+Sbjct  18   KIGKILASTTSKWQTVDVMELEPFGKCLMIDGLLQSTEVDEFVYHESLVHPAMLVHPNPK  77
+
+Query  96   KVLIIGGGDGGVLREVVKHPSVESVVQCEIDEDVIQVSKKFLPGMAIGYSSSKLTLHVGD  155
+             V I GGG+G   REV++H +VE  V  +ID DV+   K+ L   A  ++  +L L + D
+Sbjct  78   TVYIGGGGEGATAREVLRHKTVEKCVMVDIDGDVVAFCKEHLTENAEAFADPRLELVIDD  137
+
+Query  156  GFEFMKQNQDAFDVIITDSSDPM--GPAESLFKESYYQLMKTALKEDGVLCCQGECQWL-  212
+              + ++ +   +DVII D  DP+  GP   L+ + +Y+  KT L   GVL  Q     + 
+Sbjct  138  AKKILEDSARTYDVIIMDLDDPLEGGPCYQLYTKEFYEFCKTKLNPGGVLVTQAGQAGIK  197
+
+Query  213  -HLDLIKEMRQFCQSLFPVVAYAYCTIPTYPSGQIGFMLCSKN---PSTNFQEPVQPLTQ  268
+             H  +   +    +++FP V  AY         + G+ L   +   PS    E V     
+Sbjct  198  RHHIVWSAVHSTLRAVFPTV-LAYNQAVYSFMDEWGWQLALSDESMPSKLSAEEVDKRIA  256
+
+Query  269  QQVAQMQLKYYNSDVHRAAFVLPEFARKALND  300
+            +++   +LK+ + +  +  F L +  R+ L +
+Sbjct  257  ERI-NGELKFLDGESWQGLFSLSKRHRQTLKN  287
+
+
+
+
+>unnamed protein product, partial [Alexandrium monilatum]
+Sequence ID: CAE4680851.1 Length: 230
+Range 1: 38 to 219
+
+Score:120 bits(302), Expect:4e-31, 
+Method:Compositional matrix adjust., 
+Identities:64/182(35%), Positives:103/182(56%), Gaps:6/182(3%)
+
+Query  34   SLQVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQCTERDEFSYQEMIANLPLCSHPN  93
+             + V+ ++   ++  Q+IL+FRS  +G  L LDGV+Q TERDE  Y E + ++PL  HP 
+Sbjct  38   GVTVDSVVCQEQTDLQEILLFRSHRFGLCLALDGVLQSTERDEHIYHEFLVHVPLVMHPA  97
+
+Query  94   PRKVLIIGGGDGGVLREVVKHPSVESVVQCEIDEDVIQVSKKFLPGMAIGYSSSKLTLHV  153
+            PR VL+ GGG+G   RE ++HPSVE VV  E+D  V+  ++++LP         ++ + V
+Sbjct  98   PRHVLVCGGGNGAAAREALRHPSVEKVVVAEVDPAVVATARRWLPRQGPALDDPRVEVRV  157
+
+Query  154  GDGFEFMKQNQDA--FDVIITDSSD---PMGPAESLFKESYYQLMKTALKEDGVLCCQ-G  207
+             D    +  ++    FD I+ D +D     G ++ L + ++Y   +  L++ GVL  Q G
+Sbjct  158  ADAAALLAASEGVGPFDAILVDGTDGGLTSGHSDRLLEGAFYSACRAGLRDGGVLAAQLG  217
+
+Query  208  EC  209
+             C
+Sbjct  218  AC  219
+
+
+
+
+>unnamed protein product [Alexandrium monilatum]
+Sequence ID: CAE4678430.1 Length: 322
+Range 1: 4 to 287
+
+Score:122 bits(307), Expect:6e-31, 
+Method:Compositional matrix adjust., 
+Identities:81/287(28%), Positives:139/287(48%), Gaps:11/287(3%)
+
+Query  20   WFRETCSLWPGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQCTERDEFSY  79
+            W  E     PG     +VE+ L    S++Q++ +   + +G  LV+DG++Q    DEF Y
+Sbjct  4    WLEENIE--PGLRAMYKVEKTLGSTVSKFQNVDLVDLECFGRSLVIDGLLQSCRVDEFVY  61
+
+Query  80   QEMIANLPLCSHPNPRKVLIIGGGDGGVLREVVKHPSVESVVQCEIDEDVIQVSKKFLPG  139
+             E + +  +  HPNP+ V I GGG+G   REV++H SVE  V  +IDEDV++  ++ L  
+Sbjct  62   HECLVHPAMLLHPNPKSVYIGGGGEGSTAREVLRHKSVERCVMVDIDEDVVRFCREHLEE  121
+
+Query  140  MAIGYSSSKLTLHVGDGFEFMKQNQDAFDVIITDSSDPM--GPAESLFKESYYQLMKTAL  197
+                ++  +L L + D   +++++   FDVII D  DP+  GP   L+   +Y ++KT +
+Sbjct  122  NHAAFADKRLELVIDDAKAWLERSDSKFDVIIMDLDDPLEGGPCYQLYTTEFYAMLKTKM  181
+
+Query  198  KEDGVLCCQGECQWL--HLDLIKEMRQFCQSLFP-VVAYAYCTIPTYPSGQIGFMLCSKN  254
+                 L  Q     +  H  +   + +  +S+F  VVAY                L  + 
+Sbjct  182  NPGATLVTQSGQSGIKAHHLVFSPINRTLRSVFSNVVAYNQAVYSFLDEWGWNLALTEEG  241
+
+Query  255  ---PSTNFQEPVQPLTQQQVAQMQLKYYNSDVHRAAFVLPEFARKAL  298
+               P++  +E V     ++V + +L++ +    R  + L +  RK L
+Sbjct  242  APAPASLSEEEVDRRIAERV-EGELQFLDGVSWRGIWALSKRHRKTL  287
+
+
+
+
+>unnamed protein product [Alexandrium monilatum]
+Sequence ID: CAE4678431.1 Length: 322
+Range 1: 4 to 287
+
+Score:122 bits(305), Expect:1e-30, 
+Method:Compositional matrix adjust., 
+Identities:81/287(28%), Positives:138/287(48%), Gaps:11/287(3%)
+
+Query  20   WFRETCSLWPGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQCTERDEFSY  79
+            W  E     PG     +VE+ L    S++Q + +   + +G  LV+DG++Q    DEF Y
+Sbjct  4    WLEENIE--PGLRAMYKVEKTLGSTVSKFQSVDLVDLECFGRSLVIDGLLQSCRVDEFVY  61
+
+Query  80   QEMIANLPLCSHPNPRKVLIIGGGDGGVLREVVKHPSVESVVQCEIDEDVIQVSKKFLPG  139
+             E + +  +  HPNP+ V I GGG+G   REV++H SVE  V  +IDEDV++  ++ L  
+Sbjct  62   HECLVHPAMLLHPNPKSVYIGGGGEGSTAREVLRHKSVERCVMVDIDEDVVRFCREHLEE  121
+
+Query  140  MAIGYSSSKLTLHVGDGFEFMKQNQDAFDVIITDSSDPM--GPAESLFKESYYQLMKTAL  197
+                ++  +L L + D   +++++   FDVII D  DP+  GP   L+   +Y ++KT +
+Sbjct  122  NHAAFADGRLELVIDDAKAWLERSDSKFDVIIMDLDDPLEGGPCYQLYTTEFYAMLKTKM  181
+
+Query  198  KEDGVLCCQGECQWL--HLDLIKEMRQFCQSLFP-VVAYAYCTIPTYPSGQIGFMLCSKN  254
+                 L  Q     +  H  +   + +  +S+F  VVAY                L  + 
+Sbjct  182  NPGATLVTQSGQSGIKAHHLVFSPINRTLRSVFSNVVAYNQAVYSFLDEWGWNLALTEEG  241
+
+Query  255  ---PSTNFQEPVQPLTQQQVAQMQLKYYNSDVHRAAFVLPEFARKAL  298
+               P++  +E V     ++V + +L++ +    R  + L +  RK L
+Sbjct  242  APAPASLSEEEVDRRIAERV-EGELQFLDGVSWRGIWALSKRHRKTL  287
+
+
+
+
+>unnamed protein product [Lingulaulax polyedra]
+Sequence ID: CAG0468212.1 Length: 306
+Range 1: 10 to 279
+
+Score:121 bits(304), Expect:1e-30, 
+Method:Compositional matrix adjust., 
+Identities:77/272(28%), Positives:138/272(50%), Gaps:9/272(3%)
+
+Query  36   QVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQCTERDEFSYQEMIANLPLCSHPNPR  95
+            ++ ++L    S++Q + V   + +G  L++DG++Q TE DEF Y E + +  +  HPNP+
+Sbjct  10   KISKILASTTSKWQTVDVMELEPFGKCLMIDGLLQSTEVDEFVYHESLVHPAMLVHPNPK  69
+
+Query  96   KVLIIGGGDGGVLREVVKHPSVESVVQCEIDEDVIQVSKKFLPGMAIGYSSSKLTLHVGD  155
+             V I GGG+G   REV++H SVE  V  +ID DV+   K+ L      ++  +L L + D
+Sbjct  70   TVYIGGGGEGATAREVLRHKSVEKCVMVDIDGDVVDFCKEHLIENKEAFADPRLELVIDD  129
+
+Query  156  GFEFMKQNQDAFDVIITDSSDPM--GPAESLFKESYYQLMKTALKEDGVLCCQGECQWL-  212
+              + ++++   +DVII D  DP+  GP   L+ + +Y+  KT L   GVL  Q     + 
+Sbjct  130  AKKILEESARTYDVIIMDLDDPLEGGPCYQLYTKEFYEFCKTKLNPGGVLVTQAGQAGIK  189
+
+Query  213  -HLDLIKEMRQFCQSLFPVVAYAYCTIPTYPSGQIGFMLCSKN---PSTNFQEPVQPLTQ  268
+             H  +   +    +++FP V      + ++   + G+ L   +   PS    E V     
+Sbjct  190  RHHIVWSAVHSTLRAVFPKVLPYNQAVYSFMD-EWGWQLALSDDSLPSKMSAEEVDKRIS  248
+
+Query  269  QQVAQMQLKYYNSDVHRAAFVLPEFARKALND  300
+            +++   +LK+ + +  +  F L +  R+ L +
+Sbjct  249  ERITG-ELKFLDGESWQGLFSLSKKHRQTLKE  279
+
+
+
+
+>unnamed protein product [Lingulaulax polyedra]
+Sequence ID: CAG0468214.1 Length: 302
+Range 1: 10 to 279
+
+Score:120 bits(301), Expect:3e-30, 
+Method:Compositional matrix adjust., 
+Identities:77/272(28%), Positives:137/272(50%), Gaps:9/272(3%)
+
+Query  36   QVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQCTERDEFSYQEMIANLPLCSHPNPR  95
+            ++ ++L    S++Q + V   + +G  L++DG++Q TE DEF Y E + +  +  HPNP+
+Sbjct  10   KISKILASTTSKWQTVDVMELEPFGKCLMIDGLLQSTEVDEFVYHESLVHPAMLVHPNPK  69
+
+Query  96   KVLIIGGGDGGVLREVVKHPSVESVVQCEIDEDVIQVSKKFLPGMAIGYSSSKLTLHVGD  155
+             V I GGG+G   REV++H SVE  V  +ID DV+   K+ L      ++  +L L + D
+Sbjct  70   TVYIGGGGEGATAREVLRHKSVEKCVMVDIDGDVVDFCKEHLIENKEAFADPRLELVIDD  129
+
+Query  156  GFEFMKQNQDAFDVIITDSSDPM--GPAESLFKESYYQLMKTALKEDGVLCCQGECQWL-  212
+              + ++ +   +DVII D  DP+  GP   L+ + +Y++ ++ L   GVL  Q     + 
+Sbjct  130  AKKILEDSDRKYDVIIMDLDDPLEGGPCYQLYTKEFYEMCRSKLNPGGVLVTQAGQAGIK  189
+
+Query  213  -HLDLIKEMRQFCQSLFPVVAYAYCTIPTYPSGQIGFMLCSKN---PSTNFQEPVQPLTQ  268
+             H  +   +    +++FP V  AY         + G+ L   +   PS    E V     
+Sbjct  190  RHHIVWSAVHSTLRAVFPTV-LAYNQAVYSFMDEWGWQLALSDESMPSKLSAEEVDKRIA  248
+
+Query  269  QQVAQMQLKYYNSDVHRAAFVLPEFARKALND  300
+            +++   +LK+ + +  +  F L +  R+ L +
+Sbjct  249  ERI-NGELKFLDGESWQGLFSLSKRHRQTLKN  279
+
+
+
+
+>unnamed protein product, partial [Alexandrium catenella]
+Sequence ID: CAD9191185.1 Length: 240
+Range 1: 12 to 191
+
+Score:118 bits(296), Expect:3e-30, 
+Method:Compositional matrix adjust., 
+Identities:60/180(33%), Positives:98/180(54%), Gaps:2/180(1%)
+
+Query  29   PGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQCTERDEFSYQEMIANLPL  88
+            PG  +  +VE+ L    S++Q + +   + +G  LV+DG++Q    DEF Y E + +  +
+Sbjct  12   PGLRVQYKVERTLGSTVSKFQHVDLVDLEPFGRSLVIDGLMQSCRSDEFVYHECLVHPAM  71
+
+Query  89   CSHPNPRKVLIIGGGDGGVLREVVKHPSVESVVQCEIDEDVIQVSKKFLPGMAIGYSSSK  148
+              HPNP+ V I GGG+G   REV++H +VE  V  +IDEDV+   +  L      ++  +
+Sbjct  72   LLHPNPKSVYIGGGGEGSTAREVLRHKTVERCVMVDIDEDVVGFCRTHLEENHAAFADKR  131
+
+Query  149  LTLHVGDGFEFMKQNQDAFDVIITDSSDPM--GPAESLFKESYYQLMKTALKEDGVLCCQ  206
+            L L + D   +++++   FDVII D  DP+  GP   L+   +Y ++KT +     L  Q
+Sbjct  132  LELVIDDAKAWLERSDSKFDVIIMDLDDPLEGGPCYQLYTTEFYSMLKTKMNPGATLVTQ  191
+
+
+
+
+>unnamed protein product [Noctiluca scintillans]
+Sequence ID: CAD8860413.1 Length: 318
+Range 1: 9 to 286
+
+Score:120 bits(301), Expect:3e-30, 
+Method:Compositional matrix adjust., 
+Identities:82/282(29%), Positives:136/282(48%), Gaps:14/282(4%)
+
+Query  27   LWPGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQCTERDEFSYQEMIANL  86
+            L PG  +   ++++L    S +Q + +   K +G  LV+DG++Q    DE+ Y E + + 
+Sbjct  9    LEPGLRVLYSIDKILASCVSPFQTVDLVDLKPFGRTLVIDGLLQSCRVDEYVYHECLVHP  68
+
+Query  87   PLCSHPNPRKVLIIGGGDGGVLREVVKHPSVESVVQCEIDEDVIQVSKKFLPGMAIGYSS  146
+             +  HPNP+ V I GGG+G   REV++H SVE  V  +ID  V++  ++ L      ++ 
+Sbjct  69   AMLLHPNPKTVFIGGGGEGSTAREVLRHKSVEKCVMVDIDGKVVEFCREHLDENHAAFNH  128
+
+Query  147  SKLTLHVGDGFEFMKQNQDAFDVIITDSSDPM--GPAESLFKESYYQLMKTALKEDGVLC  204
+             KL L + D   ++++ ++ FDVII D  DP+  GP   L+   +Y  +K+ L EDG++ 
+Sbjct  129  PKLELVIDDAKAWIEKYENTFDVIIMDLDDPLEGGPCYQLYTTEFYATLKSKLGEDGIVV  188
+
+Query  205  CQG-----ECQWLHLDLIKEMRQFCQSLFP-VVAYAYCTIPTYPSGQIGFMLCSKN--PS  256
+             Q      +C  L    I       +S+FP VVAY                L +    PS
+Sbjct  189  TQSGQSGQKCPHLTFSPI---HNTLKSVFPNVVAYNQAVFSFMDEWGWNMALSANAPPPS  245
+
+Query  257  TNFQEPVQPLTQQQVAQMQLKYYNSDVHRAAFVLPEFARKAL  298
+                E +  L  +++   +L++ +       F L +  RK L
+Sbjct  246  KMAAEDIDKLIAERI-DGELQFLDGISWAGVFSLSKKHRKTL  286
+
+
+
+
+>TPA: unnamed protein product, partial [Symbiodinium sp. clade D]
+Sequence ID: CAG1167454.1 Length: 260
+Range 1: 4 to 204
+
+Score:119 bits(297), Expect:5e-30, 
+Method:Compositional matrix adjust., 
+Identities:64/204(31%), Positives:112/204(54%), Gaps:6/204(2%)
+
+Query  7    GPAASGPAAIREGWFRETCSLWPGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVLVLD  66
+            G   SGP   ++  FR       G  ++  ++++  +  S +Q + V + + +G  L+LD
+Sbjct  4    GRKMSGP---KQHLFRFKEVAVEGVEVAHAIDEVYFNGASEWQAVSVVKLQQWGRSLLLD  60
+
+Query  67   GVIQCTERDEFSYQEMIANLPLCSHPNPRKVLIIGGGDGGVLREVVKHPSVESVVQCEID  126
+              IQ  E DE  Y E + + P+  H +PR+V I GGG+G   REV++H +VE +V  +ID
+Sbjct  61   EKIQSCEHDEHVYHETLVHAPMLLHASPRRVFIAGGGEGATAREVLRHSTVEELVMVDID  120
+
+Query  127  EDVIQVSKKFLPGMAIG-YSSSKLTLHVGDGFEFMKQNQDAFDVIITDSSDPM--GPAES  183
+               ++ SK++LP    G + S+++ L + D  +++  + + FDVI+ D +DP+  GP   
+Sbjct  121  PFAVETSKQYLPDHHRGAFDSARMRLVIADAKQYLIDSDELFDVIVLDLADPVEDGPCYL  180
+
+Query  184  LFKESYYQLMKTALKEDGVLCCQG  207
+            L+ E +Y ++   L   GV+  Q 
+Sbjct  181  LYTEEFYTMLAKRLAPGGVVVTQA  204
+
+
+
+
+>unnamed protein product [Lingulaulax polyedra]
+Sequence ID: CAG0468210.1 Length: 314
+Range 1: 18 to 287
+
+Score:119 bits(299), Expect:7e-30, 
+Method:Compositional matrix adjust., 
+Identities:75/271(28%), Positives:139/271(51%), Gaps:7/271(2%)
+
+Query  36   QVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQCTERDEFSYQEMIANLPLCSHPNPR  95
+            ++ ++L    S++Q + V   + +G  L++DG++Q TE DEF Y E + +  +  HPNP+
+Sbjct  18   KIGKILASTTSKWQTVDVMELEPFGKCLMIDGLLQSTEVDEFVYHESLVHPAMLLHPNPK  77
+
+Query  96   KVLIIGGGDGGVLREVVKHPSVESVVQCEIDEDVIQVSKKFLPGMAIGYSSSKLTLHVGD  155
+             V I GGG+G   REV++H SVE  V  +ID DV+   K+ L      ++  +L L + D
+Sbjct  78   TVYIGGGGEGATAREVLRHKSVEKCVMVDIDGDVVDFCKEHLTENKEAFADPRLELVIDD  137
+
+Query  156  GFEFMKQNQDAFDVIITDSSDPM--GPAESLFKESYYQLMKTALKEDGVLCCQGECQWL-  212
+              + ++ +   +DVII D  DP+  GP   L+ + +Y+  KT L   GVL  Q     + 
+Sbjct  138  AKKILEDSDRKYDVIIMDLDDPLEGGPCYQLYTKEFYEFCKTRLNPGGVLVTQAGQAGIK  197
+
+Query  213  -HLDLIKEMRQFCQSLFPVVAYAYCTIPTYPSGQIGFMLCSKNPSTNFQEPVQPLTQQQV  271
+             H  +   +    +++FP V      + ++   + G+ L   + S   +  V+ + ++  
+Sbjct  198  RHHIVWSAVHSTLRAVFPKVLPYNQAVYSFMD-EWGWQLALSDDSLPSKLSVEEVDKRIA  256
+
+Query  272  AQM--QLKYYNSDVHRAAFVLPEFARKALND  300
+             ++  +LK+ + +  +  F L +  R+ L +
+Sbjct  257  DRINGELKFLDGESWQGIFSLSKKHRQTLKE  287
+
+
+
+
+>unnamed protein product, partial [Oxyrrhis marina]
+Sequence ID: CAE0844343.1 Length: 644
+Range 1: 334 to 612
+
+Score:122 bits(307), Expect:2e-29, 
+Method:Compositional matrix adjust., 
+Identities:85/286(30%), Positives:140/286(48%), Gaps:18/286(6%)
+
+Query  26   SLWPGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQCTERDEFSYQEMIAN  85
+            +L  G   S ++E+ LH   S +Q++ +   K +G  LV+DG+IQ T+ DE  Y E + +
+Sbjct  334  NLEAGWRASYELERELHSETSEFQEVALVDLKPFGRTLVIDGLIQSTQADEQVYHESLVH  393
+
+Query  86   LPLCSHPNPRKVLIIGGGDGGVLREVVKHPSVESVVQCEIDEDVIQVSKKFLPGMAIGYS  145
+              +  H NP+ V I GGG+G   REV++  SVE  V  +ID  V+   ++ LP  A  ++
+Sbjct  394  PAMLYHGNPKSVYIGGGGEGSTAREVLRFKSVERCVMVDIDAAVVDFCRQHLPENAEAFA  453
+
+Query  146  SSKLTLHVGDGFEFMKQNQDAFDVIITDSSDPM--GPAESLFKESYYQLMKTALKEDGVL  203
+              +L L +    + +    + FDVII D  DP+  GP   L+ + +Y+L+K  L   GV+
+Sbjct  454  DPRLELVIDCAKKTLVGGTEKFDVIIMDLDDPIEDGPCYQLYTKEFYELLKQKLNPGGVV  513
+
+Query  204  CCQGECQWL--HLDLIKEMRQFCQSLFPVVAYAYCTIPTYPSGQIGFMLCSKNPSTNFQE  261
+              Q     L  H ++   + +   ++FP V  AY         Q G+ +         +E
+Sbjct  514  VTQSGQAGLKMHKNVFTPINKTLSAVFPTV-MAYNQAVYSFLDQWGWNMGLT------EE  566
+
+Query  262  PVQPLTQQQVAQM-------QLKYYNSDVHRAAFVLPEFARKALND  300
+              QPLT+++V ++       Q K+   +     F L +  RK L +
+Sbjct  567  GRQPLTREEVDKLLAEKVTGQNKFLTGEAFEGLFCLSKVHRKNLAN  612
+
+
+
+
+>unnamed protein product, partial [Symbiodinium kawagutii]
+Sequence ID: CAE8141456.1 Length: 219
+Range 1: 2 to 187
+
+Score:115 bits(289), Expect:2e-29, 
+Method:Compositional matrix adjust., 
+Identities:62/186(33%), Positives:106/186(56%), Gaps:8/186(4%)
+
+Query  29   PGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQCTERDEFSYQEMIANLPL  88
+            P    ++ V+++L   +S +QDIL+ +SK +G  LVLD  +Q  E DE  Y E + +  +
+Sbjct  2    PSLYYTVGVDKVLAEGKSDFQDILLIQSKCFGRTLVLDNQVQSCETDEACYHETLVHPAM  61
+
+Query  89   CSHPNPRKVLIIGGGDGGVLREVVKHPSVESVVQCEIDEDVIQVSKKFLPGMAIG-YSSS  147
+             +HPNP++V I GGG+G   RE++KH SVE+ V  ++D+ V+   ++ +     G +   
+Sbjct  62   LAHPNPKRVYIGGGGEGATAREILKHKSVEACVMVDLDKKVVDFCREHMTQWNKGVFEDP  121
+
+Query  148  KLTLHVGDGFEFM----KQNQDAFDVIITDSSDPM--GPAESLFK-ESYYQLMKTALKED  200
+            + T +  D ++++    K + D FDVI+ D  DP+  GP   L+  E Y +++   L + 
+Sbjct  122  RFTCYYEDAYQWLVDNVKTDADKFDVIVMDICDPLDAGPGWKLYTVEFYKEVLAKFLNKG  181
+
+Query  201  GVLCCQ  206
+            G+L  Q
+Sbjct  182  GILVTQ  187
+
+
+
+
+>unnamed protein product [Togula jolla]
+Sequence ID: CAE2592239.1 Length: 321
+Range 1: 7 to 223
+
+Score:117 bits(293), Expect:7e-29, 
+Method:Compositional matrix adjust., 
+Identities:75/219(34%), Positives:120/219(54%), Gaps:7/219(3%)
+
+Query  20   WFRETCSLWPGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQCTERDEFSY  79
+            W  E   L PG  +  +++ +LH  +S +Q + +   + +G  LV+DG+IQ T  DEF Y
+Sbjct  7    WMEE--ELEPGLRVQYRLQDILHSGKSEFQTVDLVNIEPFGTTLVIDGLIQSTNSDEFVY  64
+
+Query  80   QEMIANLPLCSHPNPRKVLIIGGGDGGVLREVVKHPSVESVVQCEIDEDVIQVSKKFLPG  139
+             E + +  + SHPNP+ V I GGG+GG  REV++H SVE  V  +ID DV++  ++ LP 
+Sbjct  65   HECLVHPAMLSHPNPKFVFIGGGGEGGTAREVLRHKSVEKCVMVDIDGDVVKFCREHLPQ  124
+
+Query  140  MAIGYSSSKLTLHVGDGFEFMKQNQDAFDVIITDSSDPM--GPAESLFKESYYQLMKTAL  197
+                ++  +L L + D    ++Q+   FDVII D  DP+  GP   L+ + +Y  +++ L
+Sbjct  125  NKEAFADPRLELIIDDAKVRLEQSPIKFDVIIMDLDDPLEGGPCYQLYTKEFYTTIQSKL  184
+
+Query  198  KEDGVLCCQGECQWL--HLDLIKEMRQFCQSLFP-VVAY  233
+               GV+  Q     +  H  +   +    +S+FP VV Y
+Sbjct  185  NPGGVMVTQSGQAGIKQHPVVFSPINSTLRSVFPRVVPY  223
+
+
+
+
+>TPA: unnamed protein product, partial [Symbiodinium sp. clade D]
+Sequence ID: CAG1346854.1 Length: 275
+Range 1: 8 to 250
+
+Score:115 bits(289), Expect:9e-29, 
+Method:Compositional matrix adjust., 
+Identities:73/251(29%), Positives:124/251(49%), Gaps:19/251(7%)
+
+Query  59   YGNVLVLDGVIQCTERDEFSYQEMIANLPLCSHPNPRKVLIIGGGDGGVLREVVKHPSVE  118
+            +G  L++DG++Q +E DE+ Y E + +  + SHPNP+ V I GGG+G   REV++H +VE
+Sbjct  8    FGKCLIIDGLMQSSELDEYVYHECLVHPAMLSHPNPKTVFIGGGGEGSTAREVLRHKTVE  67
+
+Query  119  SVVQCEIDEDVIQVSKKFLPGMAIGYSSSKLTLHVGDGFEFMKQNQDAFDVIITDSSDPM  178
+              V  +ID DV+   KK L      ++  +L L + D    ++ +   FDVII D  DP+
+Sbjct  68   KCVMVDIDGDVVDFCKKALTENKEAFADPRLELIIDDAKARLENSPIKFDVIILDLDDPL  127
+
+Query  179  --GPAESLFKESYYQLMKTALKEDGVLCCQ--GECQWLHLDLIKEMRQFCQSLFPVVAYA  234
+              GP   L+ + +Y++ K  L   G++  Q  G     H  +   +    + +FP V Y 
+Sbjct  128  EGGPCYQLYTKQFYEMAKKQLNPGGIVVTQSSGGGMKHHKLVFSPVHNTFKQVFPSV-YP  186
+
+Query  235  YCTIPTYPSGQIGFMLCSKNPSTNFQEPVQPLTQQQVAQM-------QLKYYNSDVHRAA  287
+            Y T     + Q  ++L        F EP + L+ +++ +        + K+ +   +   
+Sbjct  187  YATAVYSFADQWSWVL-------GFSEPTEKLSSEEIDKRAAERITGENKFLDGVSYTGV  239
+
+Query  288  FVLPEFARKAL  298
+            F L +  RK +
+Sbjct  240  FCLSKAVRKTM  250
+
+
+
+
+>TPA: unnamed protein product [uncultured Symbiodinium]
+Sequence ID: CAI0216515.1 Length: 175
+Range 1: 1 to 148
+
+Score:112 bits(281), Expect:1e-28, 
+Method:Compositional matrix adjust., 
+Identities:59/149(40%), Positives:86/149(57%), Gaps:2/149(1%)
+
+Query  137  LPGMAIGYSSSKLTLHVGDGFEFMKQ-NQDAFDVIITDSSDPMGPAESLFKESYYQLMKT  195
+            +P +A+     K+ L VGDG  F +   ++++DVII DSSDP+GPAE LF + +Y     
+Sbjct  1    MPSVAVAVGDPKVELLVGDGVAFAENAKENSYDVIIVDSSDPVGPAEKLFSKEFYVNAHR  60
+
+Query  196  ALKEDGVLCCQGECQWLHLDLIKEMRQFCQSLFPVVAYAYCTIPTYPSGQIGFMLCSKNP  255
+             LK  GV+C QGEC WL+  LI  M +   + F    YA   +PTYPSGQIG  L  K  
+Sbjct  61   ILKPGGVVCSQGECVWLNEGLIATMVKDYGACFASAEYASIQVPTYPSGQIGAFLARKAT  120
+
+Query  256  STNFQEPVQPLTQQQVAQMQLKYYNSDVH  284
+            ++  +   +   ++  A M+L+YY  ++H
+Sbjct  121  ASGGEVSCRHPRREPEA-MELRYYTPEMH  148
+
+
+
+
+>unnamed protein product, partial [Alexandrium tamarense]
+Sequence ID: CAE5057262.1 Length: 110
+Range 1: 7 to 110
+
+Score:110 bits(275), Expect:1e-28, 
+Method:Compositional matrix adjust., 
+Identities:51/104(49%), Positives:72/104(69%), Gaps:6/104(5%)
+
+Query  165  DAFDVIITDSSDPMGPAESLFKESYYQLMKTALKEDGVLCCQGECQWLHLDLIKEMRQFC  224
+            +++D II DSSDP+GPA  LF+  +++ +  ALK  GV+C QGEC WLH +LIK++ + C
+Sbjct  7    ESYDAIIVDSSDPVGPAAVLFERDFFEKIHRALKPGGVVCTQGECVWLHAELIKDVLEMC  66
+
+Query  225  QSLF--PVVAYAYCTIPTYPSGQIGFMLCSK----NPSTNFQEP  262
+            +S+F    V Y + TIPTYPSGQIGF++CSK      + +F  P
+Sbjct  67   KSIFVGGSVQYGFTTIPTYPSGQIGFVMCSKPDAAGKTVDFATP  110
+
+
+
+
+>TPA: unnamed protein product, partial [Symbiodinium sp. clade D]
+Sequence ID: CAG1316353.1 Length: 164
+Range 1: 1 to 149
+
+Score:112 bits(279), Expect:2e-28, 
+Method:Compositional matrix adjust., 
+Identities:57/149(38%), Positives:92/149(61%), Gaps:5/149(3%)
+
+Query  63   LVLDGVIQCTERDEFSYQEMIANLPLCSHPNPRKVLIIGGGDGGVLREVVKHPSVESVVQ  122
+            L++DGV+Q +E DEF+Y E + +  +  HPNP+ V + GGG+G  +REV+KH SVE  V 
+Sbjct  1    LIMDGVMQSSEVDEFTYHEALVHPAMLMHPNPKTVFVAGGGEGSTVREVLKHKSVEKCVW  60
+
+Query  123  CEIDEDVIQVSKKFLPGMAIGY--SSSKLTLHVGDGFEFMKQNQDA-FDVIITDSSDPM-  178
+             +ID+DV++  KK L      +  S  ++ L + D    +K+ ++  +DVII D +DP+ 
+Sbjct  61   VDIDKDVVEFCKKHLEANKGIWDESGKRMELIIDDANAQLKKAEEGKYDVIIMDLADPLE  120
+
+Query  179  -GPAESLFKESYYQLMKTALKEDGVLCCQ  206
+             GP   L+ + +Y++ K+ L  +GVL  Q
+Sbjct  121  CGPCAQLYTKEFYEMAKSKLSSNGVLVTQ  149
+
+
+
+
+>unnamed protein product [Karenia brevis]
+Sequence ID: CAF8040493.1 Length: 328
+Range 1: 4 to 216
+
+Score:115 bits(289), Expect:2e-28, 
+Method:Compositional matrix adjust., 
+Identities:64/215(30%), Positives:112/215(52%), Gaps:6/215(2%)
+
+Query  20   WFRETCSLWPGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQCTERDEFSY  79
+            W  E      G  +S +++++L    S++Q + +     +G  LV+DG++Q T  DEF Y
+Sbjct  4    WLEENIE--DGLRISYKIDRILDSTTSKFQQVDLVDLAPFGRSLVIDGLMQSTRCDEFVY  61
+
+Query  80   QEMIANLPLCSHPNPRKVLIIGGGDGGVLREVVKHPSVESVVQCEIDEDVIQVSKKFLPG  139
+             E + +  +  H  P+ V I GGG+G   REV++H +VE  V  +IDEDV++  K  L  
+Sbjct  62   HECLVHPAMLLHACPKNVYIGGGGEGSTAREVLRHKTVEKCVMVDIDEDVVRFCKTHLEE  121
+
+Query  140  MAIGYSSSKLTLHVGDGFEFMKQNQDAFDVIITDSSDPM--GPAESLFKESYYQLMKTAL  197
+                ++  +L L + D   +++++   FDVII D  DP+  GP   L+   +Y++++T +
+Sbjct  122  NHAAFADPRLELVIDDAKAWIERSDMMFDVIIMDLDDPLEGGPCYQLYTTEFYKMLRTKM  181
+
+Query  198  KEDGVLCCQGECQWL--HLDLIKEMRQFCQSLFPV  230
+               G+   Q     +  H  +   +    +S+FPV
+Sbjct  182  NPGGIFVTQSGQSGIKQHHLVFSPIHNTVKSVFPV  216
+
+
+
+
+>unnamed protein product [Karenia brevis]
+Sequence ID: CAE6563447.1 Length: 328
+>unnamed protein product [Karenia brevis]
+Sequence ID: CAE6563450.1 Length: 328 
+Range 1: 4 to 216
+
+Score:115 bits(289), Expect:2e-28, 
+Method:Compositional matrix adjust., 
+Identities:64/215(30%), Positives:112/215(52%), Gaps:6/215(2%)
+
+Query  20   WFRETCSLWPGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQCTERDEFSY  79
+            W  E      G  +S +++++L    S++Q + +     +G  LV+DG++Q T  DEF Y
+Sbjct  4    WLEENIE--DGLRISYKIDRILDSTTSKFQQVDLVDLAPFGRSLVIDGLMQSTRCDEFVY  61
+
+Query  80   QEMIANLPLCSHPNPRKVLIIGGGDGGVLREVVKHPSVESVVQCEIDEDVIQVSKKFLPG  139
+             E + +  +  H  P+ V I GGG+G   REV++H +VE  V  +IDEDV++  K  L  
+Sbjct  62   HECLVHPAMLLHACPKNVYIGGGGEGSTAREVLRHKTVEKCVMVDIDEDVVRFCKTHLEE  121
+
+Query  140  MAIGYSSSKLTLHVGDGFEFMKQNQDAFDVIITDSSDPM--GPAESLFKESYYQLMKTAL  197
+                ++  +L L + D   +++++   FDVII D  DP+  GP   L+   +Y++++T +
+Sbjct  122  NHAAFADPRLELVIDDAKAWIERSDMMFDVIIMDLDDPLEGGPCYQLYTTEFYKMLRTKM  181
+
+Query  198  KEDGVLCCQGECQWL--HLDLIKEMRQFCQSLFPV  230
+               G+   Q     +  H  +   +    +S+FPV
+Sbjct  182  NPGGIFVTQSGQSGIKQHHLVFSPIHNTVKSVFPV  216
+
+
+
+
+>unnamed protein product [Karenia brevis]
+Sequence ID: CAF5852137.1 Length: 328
+Range 1: 4 to 216
+
+Score:115 bits(289), Expect:2e-28, 
+Method:Compositional matrix adjust., 
+Identities:64/215(30%), Positives:112/215(52%), Gaps:6/215(2%)
+
+Query  20   WFRETCSLWPGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQCTERDEFSY  79
+            W  E      G  +S +++++L    S++Q + +     +G  LV+DG++Q T  DEF Y
+Sbjct  4    WLEENIE--DGLRISYKIDRILDSTTSKFQQVDLVDLAPFGRSLVIDGLMQSTRCDEFVY  61
+
+Query  80   QEMIANLPLCSHPNPRKVLIIGGGDGGVLREVVKHPSVESVVQCEIDEDVIQVSKKFLPG  139
+             E + +  +  H  P+ V I GGG+G   REV++H +VE  V  +IDEDV++  K  L  
+Sbjct  62   HECLVHPAMLLHTCPKNVYIGGGGEGSTAREVLRHKTVEKCVMVDIDEDVVRFCKTHLEE  121
+
+Query  140  MAIGYSSSKLTLHVGDGFEFMKQNQDAFDVIITDSSDPM--GPAESLFKESYYQLMKTAL  197
+                ++  +L L + D   +++++   FDVII D  DP+  GP   L+   +Y++++T +
+Sbjct  122  NHAAFADPRLELVIDDAKAWIERSDMMFDVIIMDLDDPLEGGPCYQLYTTEFYKMLRTKM  181
+
+Query  198  KEDGVLCCQGECQWL--HLDLIKEMRQFCQSLFPV  230
+               G+   Q     +  H  +   +    +S+FPV
+Sbjct  182  NPGGIFVTQSGQSGIKQHHLVFSPIHNTVKSVFPV  216
+
+
+
+
+>unnamed protein product [Tripos fusus]
+Sequence ID: CAE4804344.1 Length: 318
+Range 1: 11 to 220
+
+Score:115 bits(287), Expect:5e-28, 
+Method:Compositional matrix adjust., 
+Identities:66/210(31%), Positives:110/210(52%), Gaps:5/210(2%)
+
+Query  29   PGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQCTERDEFSYQEMIANLPL  88
+            PG  +  +++++L    S++Q++ +     +G  LV+DG+IQ    DEF Y E + +  +
+Sbjct  11   PGLRVQYKLDKILGSATSKFQNVDLVDLTCFGRTLVIDGLIQSCRCDEFVYHECLVHPAM  70
+
+Query  89   CSHPNPRKVLIIGGGDGGVLREVVKHPSVESVVQCEIDEDVIQVSKKFLPGMAIGYSSSK  148
+              H  P+ V I GGG+G   REV++H SVE  V  +IDEDV++  ++ L      +   +
+Sbjct  71   LLHSAPKSVYIGGGGEGSTAREVLRHNSVERCVMVDIDEDVVRFCRENLSENRAAFEDKR  130
+
+Query  149  LTLHVGDGFEFMKQNQDAFDVIITDSSDPM--GPAESLFKESYYQLMKTALKEDGVLCCQ  206
+            L L +     ++++  + FDVII D  DP+  GP   L+   +Y  +KT L   GV+  Q
+Sbjct  131  LELVIDCAKSWLERTSERFDVIIMDLDDPLEGGPCYQLYTTEFYTFLKTKLNPGGVIVTQ  190
+
+Query  207  GECQWL--HLDLIKEMRQFCQSLFP-VVAY  233
+                 +  H  +   +    +S+FP  VAY
+Sbjct  191  SGQSGIKQHHLVFSPIHNTLKSVFPTTVAY  220
+
+
+
+
+>unnamed protein product [Karlodinium veneficum]
+Sequence ID: CAF6417543.1 Length: 324
+Range 1: 4 to 217
+
+Score:115 bits(287), Expect:5e-28, 
+Method:Compositional matrix adjust., 
+Identities:63/216(29%), Positives:114/216(52%), Gaps:6/216(2%)
+
+Query  20   WFRETCSLWPGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQCTERDEFSY  79
+            W  E   L PG  ++ +++++L    S +Q + +   + +G  LV+DG++Q    DEF Y
+Sbjct  4    WLEEI--LEPGLRVNYKIDKILASTTSEFQVVDLVDLEPFGRSLVIDGLMQSCRVDEFVY  61
+
+Query  80   QEMIANLPLCSHPNPRKVLIIGGGDGGVLREVVKHPSVESVVQCEIDEDVIQVSKKFLPG  139
+             E + +  +  HP+P+ V I GGG+G   REV++H ++E  V  +ID DV++  K+ L  
+Sbjct  62   HECLVHPAMLLHPSPKNVYIGGGGEGSTAREVLRHKTLEKCVMVDIDPDVVRFCKEHLEE  121
+
+Query  140  MAIGYSSSKLTLHVGDGFEFMKQNQDAFDVIITDSSDPM--GPAESLFKESYYQLMKTAL  197
+                ++  +L   + D   +++++   FDVII D  DP+  GP   L+   +Y ++KT +
+Sbjct  122  NHAAFADPRLDCIIDDAKAWIEKSDLKFDVIIMDLDDPLEGGPCYQLYTTEFYAMLKTKM  181
+
+Query  198  KEDGVLCCQGECQWL--HLDLIKEMRQFCQSLFPVV  231
+               G+   Q     +  H  +   + +  + +FPVV
+Sbjct  182  NPGGIFVTQSGASGIKQHHLVFTPINRTLRDVFPVV  217
+
+
+
+
+>unnamed protein product, partial [Symbiodinium sp. Mp]
+Sequence ID: CAF9465090.1 Length: 286
+Range 1: 63 to 245
+
+Score:113 bits(283), Expect:7e-28, 
+Method:Compositional matrix adjust., 
+Identities:66/184(36%), Positives:103/184(55%), Gaps:5/184(2%)
+
+Query  30   GQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQCTERDEFSYQEMIANLPLC  89
+            G+   + V+++LH   + +Q +LVFRS  YG  L LDGV+Q TE+DE  Y E + ++PL 
+Sbjct  63   GEYQPVLVDEVLHEEHTDFQHVLVFRSHQYGVCLSLDGVLQSTEKDESIYHERLCHIPLL  122
+
+Query  90   SHPNPRKVLIIGGGDGGVLREVVKHPSVESVVQCEIDEDVIQVSKKFLPGMAIGYSSSKL  149
+                P++V I GGG+GG  REV+KH   E  V  ++D  V + +K+F+P  A  +  S++
+Sbjct  123  LCAEPKRVAICGGGNGGAAREVLKHGVCEIYV-IDVDPAVRRTAKRFMPIQAAAWMDSRV  181
+
+Query  150  TLHVGDGFEFMKQNQDAFDVIITDSSD---PMGPAESLFKESYYQLMKTALKEDGVLCCQ  206
+                 D  +F    Q +FD II D +D     G ++ L+ + +Y      L+ +G+L  Q
+Sbjct  182  QEITADAADFDHWPQGSFDAIIVDGTDMGATGGRSDHLWSQRFYVGCLRRLQPNGLLSTQ  241
+
+Query  207  -GEC  209
+             G C
+Sbjct  242  LGAC  245
+
+
+
+
+>unnamed protein product [Alexandrium monilatum]
+Sequence ID: CAE4628186.1 Length: 654
+>unnamed protein product [Alexandrium monilatum]
+Sequence ID: CAE4628188.1 Length: 654 
+Range 1: 361 to 638
+
+Score:117 bits(293), Expect:1e-27, 
+Method:Compositional matrix adjust., 
+Identities:78/279(28%), Positives:134/279(48%), Gaps:28/279(10%)
+
+Query  40   LLHHRRSRYQDILVFRSKTYGNV-LVLDGVIQCTERDEFSYQEMIANLPLCSHP------  92
+            LLH  +S +Q++ V+R+    +  L+LDG +Q T + E++Y EM+  +PL +        
+Sbjct  361  LLHAEKSPFQELAVWRNLAENSTYLMLDGDVQLTSKGEYAYHEMMVYVPLAAATCAGTGT  420
+
+Query  93   -----NPR-KVLIIGGGDGGVLREVVKHPSVESVVQCEIDEDVIQVSKKFLPGMAIGYSS  146
+                  P+ +V + G GDGGV + +++HP V  V+Q EIDE V++ +++F P +     +
+Sbjct  421  HLTAEEPKMRVFVFGAGDGGVAQRLLRHPGVAQVLQVEIDEAVVKAARRFFPELQPDEEA  480
+
+Query  147  S-KLTLHVGDGFEFMKQNQD-----AFDVIITDSSDPMG--------PAESLFKESYYQL  192
+            + + TL +GD   F ++        AFD++I D++D +         P   LF  + Y+ 
+Sbjct  481  AQRHTLRIGDAVAFAQEAAKGSLAGAFDLVIMDTTDVLAVSAEASRNPGRELFTSTLYRD  540
+
+Query  193  MKTALKEDGVLCCQGECQWLHLDLIKEMRQFCQSLFPVVAYAYCTIPTYPSGQIGFMLCS  252
+            +   L+  GVL  Q      H D I+ ++      F  V   +   P Y S    F+   
+Sbjct  541  LAALLRPGGVL-AQNVQSIDHPDEIRRLQSVMGQAFRRVTPFHFATPDYISPYFAFLASD  599
+
+Query  253  KNPSTNFQEPVQPLTQQQVAQMQLKYYNSDVHRAAFVLP  291
+                   +        + +    L++Y+ +VH AAFVLP
+Sbjct  600  GTVRCPQRRECGRRLLRSLKTPPLRFYSPEVHEAAFVLP  638
+
+
+
+
+>unnamed protein product [Alexandrium monilatum]
+Sequence ID: CAE4628190.1 Length: 734
+Range 1: 441 to 718
+
+Score:117 bits(293), Expect:2e-27, 
+Method:Compositional matrix adjust., 
+Identities:78/279(28%), Positives:134/279(48%), Gaps:28/279(10%)
+
+Query  40   LLHHRRSRYQDILVFRSKTYGNV-LVLDGVIQCTERDEFSYQEMIANLPLCSHP------  92
+            LLH  +S +Q++ V+R+    +  L+LDG +Q T + E++Y EM+  +PL +        
+Sbjct  441  LLHAEKSPFQELAVWRNLAENSTYLMLDGDVQLTSKGEYAYHEMMVYVPLAAATCAGTGT  500
+
+Query  93   -----NPR-KVLIIGGGDGGVLREVVKHPSVESVVQCEIDEDVIQVSKKFLPGMAIGYSS  146
+                  P+ +V + G GDGGV + +++HP V  V+Q EIDE V++ +++F P +     +
+Sbjct  501  HLTAEEPKMRVFVFGAGDGGVAQRLLRHPGVAQVLQVEIDEAVVKAARRFFPELQPDEEA  560
+
+Query  147  S-KLTLHVGDGFEFMKQNQD-----AFDVIITDSSDPMG--------PAESLFKESYYQL  192
+            + + TL +GD   F ++        AFD++I D++D +         P   LF  + Y+ 
+Sbjct  561  AQRHTLRIGDAVAFAQEAAKGSLAGAFDLVIMDTTDVLAVSAEASRNPGRELFTSTLYRD  620
+
+Query  193  MKTALKEDGVLCCQGECQWLHLDLIKEMRQFCQSLFPVVAYAYCTIPTYPSGQIGFMLCS  252
+            +   L+  GVL  Q      H D I+ ++      F  V   +   P Y S    F+   
+Sbjct  621  LAALLRPGGVL-AQNVQSIDHPDEIRRLQSVMGQAFRRVTPFHFATPDYISPYFAFLASD  679
+
+Query  253  KNPSTNFQEPVQPLTQQQVAQMQLKYYNSDVHRAAFVLP  291
+                   +        + +    L++Y+ +VH AAFVLP
+Sbjct  680  GTVRCPQRRECGRRLLRSLKTPPLRFYSPEVHEAAFVLP  718
+
+
+
+
+>unnamed protein product [Lingulaulax polyedra]
+Sequence ID: CAG0388653.1 Length: 1007
+>unnamed protein product [Lingulaulax polyedra]
+Sequence ID: CAG0388656.1 Length: 1007 
+Range 1: 75 to 303
+
+Score:116 bits(290), Expect:4e-27, 
+Method:Compositional matrix adjust., 
+Identities:77/234(33%), Positives:119/234(50%), Gaps:10/234(4%)
+
+Query  63   LVLDGVIQCTERDEFSYQEMIANLPLCSHPN-PRKVLIIGGGDGGVLREVVKHPSVESVV  121
+            L LD  +Q +   E  Y EM+A++PL S    P+ VL+IGGGDGG+   V+ HPSV SVV
+Sbjct  75   LYLDRALQLSGGAEHMYHEMMAHVPLLSMSMLPQDVLVIGGGDGGISLRVLMHPSVRSVV  134
+
+Query  122  QCEIDEDVIQVSKKFLPGMAIGYSSSKLTLHVGDGFEFMKQNQD----AFDVIITDSSDP  177
+            Q E+DE+V+Q SK   P +A  Y   +L LH+GD   ++K   +    +FD  I DS+D 
+Sbjct  135  QVELDEEVVQASKIHFPFLAKAYDDPRLQLHIGDAIHWVKTEAEHRAHSFDACIIDSTDE  194
+
+Query  178  MGPAESLFKESYYQLMKTALKEDGVLCCQGECQWLHLDLIKEMRQFCQSLFPVVAYAYCT  237
+              P  SL+ + +Y  ++  ++  GVL    +   + + L   +R   +  F  V      
+Sbjct  195  --PLVSLWSKEFYAGLRRMIRPGGVLMQNAQTIDVPMQLDHLLRLKIEGGFERVRAVLMG  252
+
+Query  238  IPTYPSGQIGFMLCSKNPSTNFQEPVQPLTQQQVAQMQLKYYNSDVHRAAFVLP  291
+               Y S  + F+  S    T    PV    + +   ++  +Y+  +HRA+ V P
+Sbjct  253  SNDYESPYVAFL--SSGFETVCPGPVAD-AEARAEVLKASWYSPAMHRASLVAP  303
+
+
+
+
+>unnamed protein product, partial [Perkinsus chesapeaki]
+Sequence ID: CAE6010737.1 Length: 111
+Range 1: 1 to 111
+
+Score:105 bits(263), Expect:9e-27, 
+Method:Compositional matrix adjust., 
+Identities:57/111(51%), Positives:81/111(72%), Gaps:0/111(0%)
+
+Query  61   NVLVLDGVIQCTERDEFSYQEMIANLPLCSHPNPRKVLIIGGGDGGVLREVVKHPSVESV  120
+             VL LDGV Q T++DEF YQE +A+ P   HPNP+K LIIGGGDGG+LRE+ KH S   +
+Sbjct  1    RVLSLDGVFQTTDKDEFCYQEAMAHTPAFLHPNPKKALIIGGGDGGILRELAKHASFTEL  60
+
+Query  121  VQCEIDEDVIQVSKKFLPGMAIGYSSSKLTLHVGDGFEFMKQNQDAFDVII  171
+              CEID  VI+VSKK++  +++G++  ++ +H+ DG  FMK++ + FDVI+
+Sbjct  61   HICEIDGQVIEVSKKYMKKLSVGFADPRVIVHLEDGAAFMKRHSNEFDVIV  111
+
+
+
+
+>unnamed protein product, partial [Perkinsus chesapeaki]
+Sequence ID: CAE6010695.1 Length: 111
+Range 1: 1 to 111
+
+Score:105 bits(263), Expect:9e-27, 
+Method:Compositional matrix adjust., 
+Identities:56/111(50%), Positives:81/111(72%), Gaps:0/111(0%)
+
+Query  61   NVLVLDGVIQCTERDEFSYQEMIANLPLCSHPNPRKVLIIGGGDGGVLREVVKHPSVESV  120
+             VL LDGV Q T++DEF YQE +A+ P   HPNP+K LIIGGGDGG+LRE+ KH S   +
+Sbjct  1    RVLSLDGVFQTTDKDEFCYQEAMAHTPAFLHPNPKKALIIGGGDGGILRELAKHASFTEL  60
+
+Query  121  VQCEIDEDVIQVSKKFLPGMAIGYSSSKLTLHVGDGFEFMKQNQDAFDVII  171
+              CEID  VI+VSKK++  +++G++  ++ +H+ DG  FMK++ + FD+I+
+Sbjct  61   HICEIDGQVIEVSKKYMKKLSVGFADPRVIIHLEDGAAFMKRHSNEFDIIV  111
+
+
+
+
+>TPA: unnamed protein product, partial [Symbiodinium sp. clade A]
+Sequence ID: CAG1255946.1 Length: 319
+Range 1: 8 to 290
+
+Score:111 bits(277), Expect:1e-26, 
+Method:Compositional matrix adjust., 
+Identities:73/285(26%), Positives:136/285(47%), Gaps:8/285(2%)
+
+Query  20   WFRETCSLWPGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQCTERDEFSY  79
+            W  E     PG  +  ++++ L    S +Q++ +   + +G  LV+DG+IQ    DEF Y
+Sbjct  8    WLEENIE--PGLRVMYKLDRTLGSTVSEFQNVDLVDIEPFGRALVIDGLIQSCRVDEFVY  65
+
+Query  80   QEMIANLPLCSHPNPRKVLIIGGGDGGVLREVVKHPSVESVVQCEIDEDVIQVSKKFLPG  139
+             E + +  +  H  P+ V I GGG+G   REV+KH SV   V  +ID+ V++  K+ L  
+Sbjct  66   HECLVHPAMLLHEGPKTVYIGGGGEGSTAREVLKHKSVTKCVMVDIDDAVVRFCKEHLDE  125
+
+Query  140  MAIGYSSSKLTLHVGDGFEFMKQNQDAFDVIITDSSDPM--GPAESLFKESYYQLMKTAL  197
+             +  ++  +L L + D   +++++   FDVII D  DP+  GP   L+   +Y+++K  L
+Sbjct  126  NSAAFADPRLELVIDDAKAWLERSDMKFDVIIMDLDDPLEGGPCYQLYTAEFYEMLKGRL  185
+
+Query  198  KEDGVLCCQGECQWL--HLDLIKEMRQFCQSLFPVVAYAYCTIPTYPSGQIGFMLCSKNP  255
+               G L  Q     +  H  +   +    +S+FP V      + ++       + C+   
+Sbjct  186  NPGGFLVTQSGQSGIKQHHLVFSPIHNTLKSVFPKVVPYTQAVYSFLDEWGWNLACTSAD  245
+
+Query  256  STNFQEPVQPLTQQQVAQM--QLKYYNSDVHRAAFVLPEFARKAL  298
+            +   + P + L ++   ++  +L++ +       + L +  RK L
+Sbjct  246  TEPAKLPAEELDKRIADRIDGELQFLDGQSWPGIWALSKKHRKTL  290
+
+
+
+
+>unnamed protein product, partial [Prorocentrum minimum]
+Sequence ID: CAE1342947.1 Length: 364
+Range 1: 23 to 226
+
+Score:111 bits(278), Expect:1e-26, 
+Method:Compositional matrix adjust., 
+Identities:64/206(31%), Positives:106/206(51%), Gaps:5/206(2%)
+
+Query  4    GPDGPAASGPAAIREGWFRETCSLWPGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVL  63
+            G  G + S  +     W  E     PG  +  +++++L    S++Q + +   + +G  L
+Sbjct  23   GRAGASGSRRSLAMSKWLEEMIE--PGLRVQYKLDKILGSCTSKFQTVDLVDIEPFGRSL  80
+
+Query  64   VLDGVIQCTERDEFSYQEMIANLPLCSHPNP-RKVLIIGGGDGGVLREVVKHPSVESVVQ  122
+            V+DG++Q    DEF Y E + +  L  HP P + V I GGG+G   REV++H SVE  V 
+Sbjct  81   VIDGLMQSCRADEFVYHECLVHPALLMHPGPVKNVYIGGGGEGSTAREVLRHKSVEKCVM  140
+
+Query  123  CEIDEDVIQVSKKFLPGMAIGYSSSKLTLHVGDGFEFMKQNQDAFDVIITDSSDPM--GP  180
+             +ID DV++  K+ L      ++  +L L + D   +++ +   FDVII D  DP+  GP
+Sbjct  141  VDIDADVVRFCKEHLEENHAAFADPRLELVIDDAKAWLENSPMKFDVIIMDLDDPLEGGP  200
+
+Query  181  AESLFKESYYQLMKTALKEDGVLCCQ  206
+               L+   +Y  +K+ L   G++  Q
+Sbjct  201  CYQLYTSEFYTFLKSRLNPGGIVVTQ  226
+
+
+
+
+>unnamed protein product [Zooxanthella nutricula]
+Sequence ID: CAD9516917.1 Length: 328
+Range 1: 18 to 287
+
+Score:110 bits(276), Expect:2e-26, 
+Method:Compositional matrix adjust., 
+Identities:76/271(28%), Positives:142/271(52%), Gaps:7/271(2%)
+
+Query  36   QVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQCTERDEFSYQEMIANLPLCSHPNPR  95
+            +++++L   +S++Q + V   + +G  L++DG++Q TE DEF Y E + +  +  HP P+
+Sbjct  18   RIKKILASTKSKWQQVDVMDLEPFGRCLMIDGLLQSTEADEFVYHESLVHPAMILHPCPK  77
+
+Query  96   KVLIIGGGDGGVLREVVKHPSVESVVQCEIDEDVIQVSKKFLPGMAIGYSSSKLTLHVGD  155
+             V I GGG+G   REV++H +VE  V  +ID+DV++  K  LP     +   +L L + D
+Sbjct  78   TVYIGGGGEGATAREVLRHKTVERCVMVDIDDDVVRFCKDHLPENKEAWVDPRLELVIDD  137
+
+Query  156  GFEFMKQNQDAFDVIITDSSDPM--GPAESLFKESYYQLMKTALKEDGVLCCQGECQWL-  212
+              + ++++Q  FDVII D  DP+  GP   L+ + +Y++ +T L+  GVL  Q     + 
+Sbjct  138  AKKILEESQRKFDVIIMDLDDPLEGGPCYQLYTKEFYEMCRTKLQPGGVLVTQASQAGIT  197
+
+Query  213  -HLDLIKEMRQFCQSLFPVVAYAYCTIPTYPSGQIGFMLCSKNPSTNFQEP--VQPLTQQ  269
+             H  +   +    +++FP V      I ++       +  S   +T+   P  V    + 
+Sbjct  198  RHHIVWSAVNSTLRAVFPRVLPYSQAIYSFMDEWGWHLALSDAEATSALSPEEVDKRIKD  257
+
+Query  270  QVAQMQLKYYNSDVHRAAFVLPEFARKALND  300
+            ++ Q +L++ + +  +  F L +  R+ L +
+Sbjct  258  RI-QGELRFLDGESWQGLFALSKKHRQTLRE  287
+
+
+
+
+>unnamed protein product, partial [Zooxanthella nutricula]
+Sequence ID: CAE1882159.1 Length: 360
+Range 1: 50 to 319
+
+Score:110 bits(276), Expect:3e-26, 
+Method:Compositional matrix adjust., 
+Identities:76/271(28%), Positives:142/271(52%), Gaps:7/271(2%)
+
+Query  36   QVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQCTERDEFSYQEMIANLPLCSHPNPR  95
+            +++++L   +S++Q + V   + +G  L++DG++Q TE DEF Y E + +  +  HP P+
+Sbjct  50   RIKKILASTKSKWQQVDVMDLEPFGRCLMIDGLLQSTEADEFVYHESLVHPAMILHPCPK  109
+
+Query  96   KVLIIGGGDGGVLREVVKHPSVESVVQCEIDEDVIQVSKKFLPGMAIGYSSSKLTLHVGD  155
+             V I GGG+G   REV++H +VE  V  +ID+DV++  K  LP     +   +L L + D
+Sbjct  110  TVYIGGGGEGATAREVLRHKTVERCVMVDIDDDVVRFCKDHLPENKEAWVDPRLELVIDD  169
+
+Query  156  GFEFMKQNQDAFDVIITDSSDPM--GPAESLFKESYYQLMKTALKEDGVLCCQGECQWL-  212
+              + ++++Q  FDVII D  DP+  GP   L+ + +Y++ +T L+  GVL  Q     + 
+Sbjct  170  AKKILEESQRKFDVIIMDLDDPLEGGPCYQLYTKEFYEMCRTKLQPGGVLVTQASQAGIT  229
+
+Query  213  -HLDLIKEMRQFCQSLFPVVAYAYCTIPTYPSGQIGFMLCSKNPSTNFQEP--VQPLTQQ  269
+             H  +   +    +++FP V      I ++       +  S   +T+   P  V    + 
+Sbjct  230  RHHIVWSAVNSTLRAVFPRVLPYSQAIYSFMDEWGWHLALSDAEATSALSPEEVDKRIKD  289
+
+Query  270  QVAQMQLKYYNSDVHRAAFVLPEFARKALND  300
+            ++ Q +L++ + +  +  F L +  R+ L +
+Sbjct  290  RI-QGELRFLDGESWQGLFALSKKHRQTLRE  319
+
+
+
+
+>unnamed protein product, partial [Lingulaulax polyedra]
+Sequence ID: CAF5567409.1 Length: 322
+Range 1: 26 to 300
+
+Score:110 bits(274), Expect:3e-26, 
+Method:Compositional matrix adjust., 
+Identities:87/277(31%), Positives:136/277(49%), Gaps:27/277(9%)
+
+Query  40   LLHHRRSRYQDILVFRSKTYGNV-LVLDGVIQCTERDEFSYQEMIANLPLCSHPNPRKV-  97
+            LLH  RS YQ + V+ ++   +  L+LDG +Q T R E+ Y EM+  +PL +    R   
+Sbjct  26   LLHSARSAYQAVAVWANRAENSTYLMLDGDVQLTSRGEYVYHEMLVYVPLAAALCARAGA  85
+
+Query  98   ------LIIGGGDGGVLREVVKHPSVESVVQCEIDEDVIQVSKKFLPGMAIGYS--SSKL  149
+                   + G GDGGV + +++HP VE VVQ EIDE V++VS++F P +    S    + 
+Sbjct  86   AGGLRAFVFGAGDGGVAQRLLRHPRVEKVVQVEIDEAVVRVSRRFFPELQPPASEEGGRY  145
+
+Query  150  TLHVGDGFEFMKQNQD-----AFDVIITDSSDPMGPAESLFKESYYQLMKTALKED----  200
+            TLH+ D   F +   +     +FD++I D++D +   +   +++  +L  TAL  D    
+Sbjct  146  TLHIDDAVAFARSAAEGELAGSFDLVILDTTDILAAEDESTRQAGRELFATALYRDLAAL  205
+
+Query  201  ----GVLCCQGECQWLHLDLIKEMRQFCQSLF-PVVAYAYCTIPTYPSGQIGFMLCSKNP  255
+                G L  Q      H   I+ +R   Q  F  VV + + T P Y S    F+  +   
+Sbjct  206  LRPTGAL-AQNVQSVDHPQEIRRLRGVMQQAFSSVVPFQFAT-PDYISPYFAFLAFNAAA  263
+
+Query  256  S-TNFQEPVQPLTQQQVAQMQLKYYNSDVHRAAFVLP  291
+                 +E    L +  +    L++Y+ +VH AAFVLP
+Sbjct  264  GCPQRRECGLALLEAGLDGPPLRFYSPEVHEAAFVLP  300
+
+
+
+
+>TPA: unnamed protein product, partial [Symbiodinium sp. clade D]
+Sequence ID: CAG1290274.1 Length: 99
+Range 1: 1 to 97
+
+Score:103 bits(256), Expect:6e-26, 
+Method:Composition-based stats., 
+Identities:46/97(47%), Positives:63/97(64%), Gaps:1/97(1%)
+
+Query  157  FEFMKQNQDAFDVIITDSSDPMGPAESLFKESYYQLMKTALKEDGVLCCQGECQWLHLDL  216
+            F FM+  ++ +D+II DSSDP GPA +LF + +Y+  + ALK+ G+L  QGE  W+HL L
+Sbjct  1    FAFMENKENEYDIIIVDSSDPEGPASTLFGKEFYERCRKALKQGGILTTQGENMWIHLKL  60
+
+Query  217  IKEMRQFCQSL-FPVVAYAYCTIPTYPSGQIGFMLCS  252
+            I EM  F + + F  V Y     P+YPSG IGF +CS
+Sbjct  61   ITEMYNFIKDIGFKSVEYCCIQTPSYPSGSIGFFMCS  97
+
+
+
+
+>unnamed protein product, partial [Dinophysis acuminata]
+Sequence ID: CAE1607805.1 Length: 111
+Range 1: 17 to 110
+
+Score:102 bits(255), Expect:1e-25, 
+Method:Compositional matrix adjust., 
+Identities:48/94(51%), Positives:63/94(67%), Gaps:0/94(0%)
+
+Query  45   RSRYQDILVFRSKTYGNVLVLDGVIQCTERDEFSYQEMIANLPLCSHPNPRKVLIIGGGD  104
+            RS +Q ILVFRS+ +G  L LDGV+Q TE DE  Y E + ++PL  H  PR+VL+ GGG+
+Sbjct  17   RSEFQHILVFRSRVFGRCLSLDGVLQSTELDEHVYHEFLVHVPLALHACPRRVLVCGGGN  76
+
+Query  105  GGVLREVVKHPSVESVVQCEIDEDVIQVSKKFLP  138
+            GG  RE +KHPSV  V   EID  V  V+ +++P
+Sbjct  77   GGAAREALKHPSVVGVTVAEIDTAVADVAPRWVP  110
+
+
+
+
+>unnamed protein product [Kryptoperidinium triquetrum]
+Sequence ID: CAE2912637.1 Length: 323
+Range 1: 4 to 191
+
+Score:108 bits(269), Expect:2e-25, 
+Method:Compositional matrix adjust., 
+Identities:59/190(31%), Positives:101/190(53%), Gaps:5/190(2%)
+
+Query  20   WFRETCSLWPGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQCTERDEFSY  79
+            W  E     PG  +S Q+E++L    S++Q + +   + +G  LV+DG+IQ    DE+ Y
+Sbjct  4    WLEECIE--PGLRVSYQIEKILASTTSKFQTVDLVDLEPFGRTLVIDGLIQSCRVDEYVY  61
+
+Query  80   QEMIANLPLCSHPNPRKVLII-GGGDGGVLREVVKHPSVESVVQCEIDEDVIQVSKKFLP  138
+             E + +  +  H    K + I GGG+G   REV++H SVE  V  +ID DV++  ++ L 
+Sbjct  62   HECLVHPAMLMHTTGAKTVYIGGGGEGSTAREVLRHKSVEKCVMVDIDGDVVRFCREHLE  121
+
+Query  139  GMAIGYSSSKLTLHVGDGFEFMKQNQDAFDVIITDSSDPM--GPAESLFKESYYQLMKTA  196
+                 ++  +L L + D   +++++   FD+II D  DP+  GP   L+   +Y  +K+ 
+Sbjct  122  ENHAAFNDPRLELVIDDAKAWLERSDLKFDIIIMDLDDPLEGGPCYQLYTTEFYAFLKSR  181
+
+Query  197  LKEDGVLCCQ  206
+            L   G++  Q
+Sbjct  182  LNPGGLVVTQ  191
+
+
+
+
+>unnamed protein product, partial [Zooxanthella nutricula]
+Sequence ID: CAE1922193.1 Length: 135
+Range 1: 1 to 135
+
+Score:102 bits(254), Expect:3e-25, 
+Method:Compositional matrix adjust., 
+Identities:52/135(39%), Positives:79/135(58%), Gaps:0/135(0%)
+
+Query  4    GPDGPAASGPAAIREGWFRETCSLWPGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVL  63
+            G  GPAA    A+ +G   +  +   G   ++ V+  L+  ++ +Q +LVFRS   G  +
+Sbjct  1    GSRGPAAPRRGAMADGDDPDAGAGCSGPGGAVAVDAPLYEAQTDFQHLLVFRSDRLGTCM  60
+
+Query  64   VLDGVIQCTERDEFSYQEMIANLPLCSHPNPRKVLIIGGGDGGVLREVVKHPSVESVVQC  123
+             LDGV+Q TE+DE  Y E + ++PL  HP P +VL+ GGG GG  RE ++ PSV  V+  
+Sbjct  61   ALDGVLQSTEQDEHIYHEFLVHVPLGLHPAPERVLVCGGGPGGAAREALRVPSVRDVLVA  120
+
+Query  124  EIDEDVIQVSKKFLP  138
+            E+D  V+  S++F P
+Sbjct  121  ELDPAVVAASRRFTP  135
+
+
+
+
+>unnamed protein product [Amphidinium carterae]
+Sequence ID: CAE4501954.1 Length: 316
+Range 1: 4 to 217
+
+Score:107 bits(267), Expect:3e-25, 
+Method:Compositional matrix adjust., 
+Identities:64/216(30%), Positives:108/216(50%), Gaps:6/216(2%)
+
+Query  20   WFRETCSLWPGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQCTERDEFSY  79
+            W  E     PG  +  ++++ L    S +Q++ +   + +G  LV+DG+IQ    DEF Y
+Sbjct  4    WLEENIE--PGLRVMYKLDKTLGSTVSEFQNVDLVDIEPFGRALVIDGLIQSCRVDEFVY  61
+
+Query  80   QEMIANLPLCSHPNPRKVLIIGGGDGGVLREVVKHPSVESVVQCEIDEDVIQVSKKFLPG  139
+             E + +  +  H  P+ V I GGG+G   REV+KH +V   V  +ID  V+   K+ L  
+Sbjct  62   HECLVHPAMLLHEGPKTVYIGGGGEGSTAREVLKHKTVTKCVMVDIDAAVVDFCKEHLDE  121
+
+Query  140  MAIGYSSSKLTLHVGDGFEFMKQNQDAFDVIITDSSDPM--GPAESLFKESYYQLMKTAL  197
+             +  ++  +L L + D   +++++   FDVII D  DP+  GP   L+   +Y+++K  L
+Sbjct  122  NSEAFADPRLELVIDDAKAWLERSDLKFDVIIMDLDDPLEGGPCYQLYTAEFYEMLKGRL  181
+
+Query  198  KEDGVLCCQGECQWL--HLDLIKEMRQFCQSLFPVV  231
+               G L  Q     +  H  +   +    +S+FP V
+Sbjct  182  NPGGFLVTQSGQSGIKQHHLVFSPIHNTLKSVFPKV  217
+
+
+
+
+>unnamed protein product [Amphidinium massartii]
+Sequence ID: CAE3123401.1 Length: 315
+Range 1: 4 to 190
+
+Score:107 bits(266), Expect:4e-25, 
+Method:Compositional matrix adjust., 
+Identities:59/189(31%), Positives:97/189(51%), Gaps:4/189(2%)
+
+Query  20   WFRETCSLWPGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQCTERDEFSY  79
+            W  E     PG  +  ++++ L    S +Q++ +   + +G  LV+DG+IQ    DEF Y
+Sbjct  4    WLEENIE--PGLRVMYKLDKTLGSTVSEFQNVDLVDIEPFGRALVIDGLIQSCRVDEFVY  61
+
+Query  80   QEMIANLPLCSHPNPRKVLIIGGGDGGVLREVVKHPSVESVVQCEIDEDVIQVSKKFLPG  139
+             E + +  +  H  P+ V I GGG+G   REV+KH +V   V  +ID  V+   K  L  
+Sbjct  62   HECLVHPAMLLHEGPKTVYIGGGGEGSTAREVLKHKTVTKCVMVDIDAAVVDFCKAHLDE  121
+
+Query  140  MAIGYSSSKLTLHVGDGFEFMKQNQDAFDVIITDSSDPM--GPAESLFKESYYQLMKTAL  197
+             +  ++  +L L + D   +++++   FDVII D  DP+  GP   L+   +Y+++K  L
+Sbjct  122  NSATFADPRLELVIDDAKAWLERSDMKFDVIIMDLDDPLEGGPCYQLYTAEFYEMLKGRL  181
+
+Query  198  KEDGVLCCQ  206
+               G L  Q
+Sbjct  182  NPGGFLVTQ  190
+
+
+
+
+>unnamed protein product, partial [Alexandrium tamarense]
+Sequence ID: CAE4939338.1 Length: 597
+Range 1: 289 to 583
+
+Score:108 bits(269), Expect:2e-24, 
+Method:Compositional matrix adjust., 
+Identities:82/304(27%), Positives:145/304(47%), Gaps:50/304(16%)
+
+Query  40   LLHHRRSRYQDILVFRSKTYGNV-LVLDGVIQCTERDEFSYQEMIANLPL----CS----  90
+            LLH  RS +Q + V+++    +  L+LDG +Q T + E+ Y EM+  +PL    CS    
+Sbjct  289  LLHSTRSPFQQLAVWQNIAENSTYLMLDGDVQLTSKGEYVYHEMLVYVPLAAASCSGVAG  348
+
+Query  91   --------------HPNPRKVLIIGGGDGGVLREVVKHPSVESVVQCEIDEDVIQVSKKF  136
+                           P   +  + G GDGGV + +++HP +  V+Q EIDE V++ +++F
+Sbjct  349  LGTASAAGSGAELVEPPKLRAFVFGAGDGGVAQRLLRHPGMVQVLQVEIDEAVVKAARRF  408
+
+Query  137  LPGMAIG-YSSSKLTLHVGDGFEFMKQNQD-----AFDVIITDSSDPMGPAESLFKESYY  190
+            LP +  G  ++ +  L +GD  +F ++  +     +FD++I D++D +   ++  +E+  
+Sbjct  409  LPELQPGEEAAGRHVLRIGDAVQFAREAAEGDLAGSFDLVIMDTTDVLAADDAADREAGR  468
+
+Query  191  QLMKTALKED--------GVLCCQGECQWLHLDLIKEMRQF----CQSLFPVVAYAYCTI  238
+            +L   AL  D        GVL    +     +D   E+R+      Q+   V+ + + T 
+Sbjct  469  ELFTVALYRDLAALLRPGGVLAQNIQS----IDHPAEIRRLHAVMSQAFKRVLPFQFGT-  523
+
+Query  239  PTYPSGQIGFMLCSKNPSTNFQEPVQPLTQQQVAQMQLKYYNSDVHRAAFVLPEFARKAL  298
+            P Y S    F+          +        + +    L++Y++DVH A+FVLP     AL
+Sbjct  524  PDYISPYFAFLASDGTARCPQRRSCGRRLVEALGPPPLRFYSADVHEASFVLP----AAL  579
+
+Query  299  NDVS  302
+             D+S
+Sbjct  580  ADLS  583
+
+
+
+
+>unnamed protein product, partial [Kryptoperidinium foliaceum]
+Sequence ID: CAF6018836.1 Length: 339
+Range 1: 16 to 210
+
+Score:105 bits(262), Expect:2e-24, 
+Method:Compositional matrix adjust., 
+Identities:60/197(30%), Positives:100/197(50%), Gaps:5/197(2%)
+
+Query  13   PAAIREGWFRETCSLWPGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQCT  72
+            P      WF E  +  P  +    +  +    +S +Q + V  +  +G  LVLDG  Q  
+Sbjct  16   PTMTSAFWFTEDVT--PELSTRAALTSISFDTKSEFQRVQVIETVPFGKTLVLDGKTQSA  73
+
+Query  73   ERDEFSYQEMIANLPLCSHPNPRKVLIIGGGDGGVLREVVKHPSVESVVQCEIDEDVIQV  132
+             +DE+ Y E + +  + +HPNP+ V + GGG+    RE+++H SVE  V  +ID+ V  V
+Sbjct  74   LKDEYVYHESLVHPVMLAHPNPKSVYVGGGGEFATTREILRHTSVEKCVMVDIDKVVCDV  133
+
+Query  133  SKKFLPGMAIG-YSSSKLTLHVGDGFEFMKQNQDAFDVIITDSSDPM--GPAESLFKESY  189
+             ++ LP    G     +L +   D   ++++ +  FD+II D +DP+  GP  +L+ E +
+Sbjct  134  CREQLPEWHDGCVDDPRLEVVYDDAKGWLERYEGTFDIIIMDIADPIEAGPGIALYTEEF  193
+
+Query  190  YQLMKTALKEDGVLCCQ  206
+            Y+   T L   G+L  Q
+Sbjct  194  YKFAITKLNPGGMLVTQ  210
+
+
+
+
+>unnamed protein product, partial [Perkinsus marinus]
+Sequence ID: CAF5654268.1 Length: 119
+Range 1: 2 to 115
+
+Score:99.8 bits(247), Expect:3e-24, 
+Method:Compositional matrix adjust., 
+Identities:44/114(39%), Positives:71/114(62%), Gaps:0/114(0%)
+
+Query  140  MAIGYSSSKLTLHVGDGFEFMKQNQDAFDVIITDSSDPMGPAESLFKESYYQLMKTALKE  199
+            +++ +   ++ +H+ DG  FMK++   FD+I+ D+SDP+GPA +LF+  +Y  +  AL  
+Sbjct  2    LSVAFDVPRVRIHLEDGAAFMKRHSSEFDIIVCDTSDPIGPATTLFENDFYDAIYNALTP  61
+
+Query  200  DGVLCCQGECQWLHLDLIKEMRQFCQSLFPVVAYAYCTIPTYPSGQIGFMLCSK  253
+            +GV   QGEC  L + LI+ + +  +  F  V YA   IPTYP GQIG ++ +K
+Sbjct  62   NGVAATQGECYHLSIPLIRRLIEHSRKHFTDVRYADVRIPTYPCGQIGCLVLAK  115
+
+
+
+
+>unnamed protein product, partial [Heterocapsa rotundata]
+Sequence ID: CAE3064227.1 Length: 351
+Range 1: 24 to 241
+
+Score:105 bits(261), Expect:3e-24, 
+Method:Compositional matrix adjust., 
+Identities:67/221(30%), Positives:113/221(51%), Gaps:8/221(3%)
+
+Query  20   WFRETCSLWPGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQCTERDEFSY  79
+            W  E  +L  G   S ++E++L    S++Q + +   + +G  LV+DG++Q    DE+ Y
+Sbjct  24   WLEE--NLEDGFRASYRIEKILGSATSQFQTVDLVDLEPFGRSLVIDGLLQSCRCDEWVY  81
+
+Query  80   QEMIANLPLCSHPNPRKVLII-GGGDGGVLREVVKHPSVESVVQCEIDEDVIQVSKKFLP  138
+             E + +  +  HP   K + I GGG+G   REV++H SVE  V  +ID DV++  K+ L 
+Sbjct  82   HECLVHPAMLLHPTGAKTVYIGGGGEGSTAREVLRHKSVEKCVMVDIDGDVVRFCKEHLD  141
+
+Query  139  GMAIGYSSSKLTLHVGDGFEFMKQNQDAFDVIITDSSDPM--GPAESLFKESYYQLMKTA  196
+                 ++  +L L + D   +++Q    FDVII D  DP+  GP   L+   +Y  +K+ 
+Sbjct  142  ENHAAFADPRLELVIDDAKGWLEQRDLKFDVIIMDLDDPLEGGPCYQLYTTEFYAFLKSR  201
+
+Query  197  LKEDGVLCCQGECQWL--HLDLIKEMRQFCQSLFPVVAYAY  235
+            L   G+   Q     +  H  +   + +  + +FP V +AY
+Sbjct  202  LNPGGIFVTQSGQSGIKQHHLVFSPINRTLKDVFPNV-FAY  241
+
+
+
+
+>unnamed protein product, partial [Gymnodinium catenatum]
+Sequence ID: CAE3285670.1 Length: 811
+Range 1: 256 to 511
+
+Score:107 bits(267), Expect:4e-24, 
+Method:Compositional matrix adjust., 
+Identities:79/256(31%), Positives:123/256(48%), Gaps:36/256(14%)
+
+Query  37   VEQLLHHRRSRYQDI---------LVF-RSKTYGNVLVLDGVIQCTERDEFSYQEMIANL  86
+              +LL  R+SRYQ I         LVF  ++T   +L LDGV+Q    DE +Y E + + 
+Sbjct  256  TRELLVKRKSRYQTIEVWDVEGTSLVFGEAETRKRILFLDGVMQLDTSDEATYHESLVHP  315
+
+Query  87   PLCSHPNPRKVLIIGGGDGGVLREVVKHPSVESVVQCEIDEDVIQVSKKFLPGMAIGYSS  146
+             + +H  PR+V I+GGGDGG LRE + H SVES V  +ID++V +V+   LP +A  +  
+Sbjct  316  MMLAHAAPRRVCILGGGDGGALREALGHRSVESAVLVDIDQEVARVAADLLPSLAFSFHD  375
+
+Query  147  SKLTLHVGDGFEFMK----QNQDAFDVIITDSSDPMGPA---ESLFKES----YYQLMKT  195
+             +  L   D FE++     +++   D II D  D    +   + L+ +     +   ++ 
+Sbjct  376  PRAELVFKDAFEWIHSYPARSKAKLDAIIVDLLDLTFDSPLIDFLYTDGRLDRFIGDLRL  435
+
+Query  196  ALKEDGVL-----------CCQGECQWLHLDLIKEMRQF--CQSLFPVVAYAYCTIPTYP  242
+            AL +DG++            C    +  H D     RQF   QSL  V  + +      P
+Sbjct  436  ALDDDGIVVSQLGELTEETACSAGTRQRHPDCKALRRQFMYVQSLQRVFKHTHVYSVYIP  495
+
+Query  243  S--GQIGFMLCSKNPS  256
+            S  G+  F + + +PS
+Sbjct  496  SFLGKWTFAMATDSPS  511
+
+
+
+
+>unnamed protein product, partial [Lingulaulax polyedra]
+Sequence ID: CAG0525504.1 Length: 618
+Range 1: 41 to 211
+
+Score:103 bits(257), Expect:6e-23, 
+Method:Compositional matrix adjust., 
+Identities:63/172(37%), Positives:92/172(53%), Gaps:7/172(4%)
+
+Query  38   EQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQCTERDEFSYQEMIANLPLCSHPNPRKV  97
+            +QLL  RR+ +    ++R    G +LVLDG++    RDE  Y EM+    L +   P +V
+Sbjct  41   KQLLASRRTSFSQASIWRLGR-GRILVLDGILMSDTRDEHIYHEMLVQPALLATAEPSRV  99
+
+Query  98   LIIGGGDGGVLREVVKHPSVESVVQCEIDEDVIQVSKKFLPGMAIG-YSSSKLTLHVGDG  156
+            LI+GGG+G  LREV++HP V  V   EIDE ++ + ++ L  M  G ++SS+  +   DG
+Sbjct  100  LIVGGGEGATLREVLRHPQVRQVTMVEIDEGLVGLCREHLGEMHQGSFNSSRALVRFEDG  159
+
+Query  157  FEFMKQN-QDAFDVIITDSSDPM----GPAESLFKESYYQLMKTALKEDGVL  203
+              F++   + AFD II D  D           LF+   YQ    AL+  GVL
+Sbjct  160  AAFLRAAPEAAFDAIIIDGVDFYEERPNYGNVLFETGLYQDAFRALRPGGVL  211
+
+
+
+
+>unnamed protein product, partial [Perkinsus chesapeaki]
+Sequence ID: CAE6010622.1 Length: 142
+Range 1: 1 to 100
+
+Score:94.0 bits(232), Expect:7e-22, 
+Method:Compositional matrix adjust., 
+Identities:52/100(52%), Positives:72/100(72%), Gaps:0/100(0%)
+
+Query  61   NVLVLDGVIQCTERDEFSYQEMIANLPLCSHPNPRKVLIIGGGDGGVLREVVKHPSVESV  120
+             VL LDGV Q T++DEF YQE +A+ P   HPNP+K LIIGGGDGG+LRE+ KH S   +
+Sbjct  1    RVLSLDGVFQTTDKDEFCYQEAMAHTPAFLHPNPKKALIIGGGDGGILRELAKHASFTEL  60
+
+Query  121  VQCEIDEDVIQVSKKFLPGMAIGYSSSKLTLHVGDGFEFM  160
+              CEID  VI+VSKK++  +++G++  ++ +H+ DG  FM
+Sbjct  61   HICEIDGQVIEVSKKYMKKLSVGFADPRVIVHLEDGAAFM  100
+
+
+
+
+
+
+
+		
+
+

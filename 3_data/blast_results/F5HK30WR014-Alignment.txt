@@ -1,0 +1,3255 @@
+RID: F5HK30WR014	
+Job Title:D Rhizaria Haptophyta SpdSyn TSA				
+Program: TBLASTN 
+Database: tsa (111 databases) 
+Query #1: human_spermidine_synthase Query ID: lcl|Query_5097727 Length: 302
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E    Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value  Ident  Len        Accession        
+TSA: Phaeocystis antarctica, TRINITY-DN15365-c3-g2-i7                                             0          321    321   95%   3e-106 52.96  1106       HBRJ01021799.1   
+TSA: Phaeocystis antarctica, TRINITY-DN15365-c3-g2-i4                                             0          321    321   95%   3e-106 52.96  1105       HBRJ01021796.1   
+TSA: Phaeocystis antarctica,...                                                                   0          320    320   95%   4e-106 52.96  1105       HBEP01024466.1   
+TSA: Phaeocystis antarctica, TRINITY-DN15690-c1-g6-i2                                             0          320    320   95%   1e-105 52.96  1191       HBQY01058434.1   
+TSA: Phaeocystis antarctica TR18119:c0_g1_i1 transcribed RNA...                                   0          318    318   95%   1e-104 52.61  1241       GFUQ01041784.1   
+TSA: uncultured Isochrysis, transcript: TRINITY-DN45-c0-g1-i1                                     0          317    317   94%   1e-104 54.20  1146       HBZR01006619.1   
+TSA: Isochrysis galbana, TRINITY-DN2821-c0-g1-i1                                                  0          317    317   94%   1e-104 54.20  1148       HBOM01064329.1   
+TSA: Emiliania huxleyi, TRINITY-DN17419-c0-g1-i2                                                  0          315    315   95%   2e-104 52.96  973        HBTP01013218.1   
+TPA_asm: uncultured Phaeocystis,...                                                               0          314    314   94%   4e-104 53.15  1033       HBRV01010298.1   
+TPA_asm: uncultured marine Prymnesiales, transcript:...                                           0          317    317   94%   6e-104 53.52  1267       HBYJ01018378.1   
+TSA: Emiliania huxleyi, TRINITY-DN10998-c0-g1-i2                                                  0          314    314   95%   1e-103 52.96  1117       HBQI01002661.1   
+TSA: Emiliania huxleyi, TRINITY-DN12834-c0-g1-i1                                                  0          314    314   95%   1e-103 52.96  1122       HBPW01043914.1   
+TSA: Gephyrocapsa muellerae, TRINITY-DN10449-c5-g4-i3                                             0          316    316   95%   1e-103 53.31  1253       HBRT01013926.1   
+TSA: Prymnesium parvum Locus_14647 transcribed RNA sequence                                       0          313    313   95%   1e-103 50.87  1022       GBYI01028163.1   
+TSA: Phaeocystis antarctica,...                                                                   0          311    311   91%   1e-103 53.26  853        HBKH01012493.1   
+TSA: Emiliania huxleyi, TRINITY-DN10932-c1-g1-i6                                                  0          314    314   95%   2e-103 52.96  1160       HBRW01017690.1   
+TSA: Gephyrocapsa oceanica, TRINITY-DN3513-c6-g1-i7                                               0          315    315   95%   2e-103 53.31  1275       HBON01040126.1   
+TSA: Gephyrocapsa oceanica, TRINITY-DN3513-c6-g1-i3                                               0          315    315   95%   2e-103 53.31  1277       HBON01040124.1   
+TSA: Gephyrocapsa oceanica, TRINITY-DN8294-c0-g1-i4                                               0          315    315   95%   2e-103 53.31  1296       HBTM01048747.1   
+TSA: Emiliania huxleyi, TRINITY-DN3200-c0-g1-i1                                                   0          314    314   95%   4e-103 52.96  1226       HBTX01045441.1   
+TSA: Emiliania huxleyi, TRINITY-DN3200-c0-g1-i1                                                   0          314    314   95%   4e-103 52.96  1226       HBTI01045441.1   
+TSA: Phaeocystis sp. PLY559, TRINITY-DN44941-c0-g1-i1                                             0          310    310   94%   4e-103 50.70  888        HBRK01057483.1   
+TSA: Emiliania huxleyi, TRINITY-DN11161-c0-g1-i2                                                  0          314    314   95%   4e-103 52.96  1238       HBTU01001843.1   
+TSA: Emiliania huxleyi, TRINITY-DN36889-c0-g1-i1                                                  0          314    314   95%   4e-103 52.96  1240       HBTV01047599.1   
+TSA: Emiliania huxleyi, TRINITY-DN12834-c0-g1-i3                                                  0          314    314   95%   5e-103 52.96  1249       HBPW01043916.1   
+TSA: Emiliania huxleyi, TRINITY-DN10037-c0-g1-i1                                                  0          314    314   95%   5e-103 52.96  1252       HBNU01000039.1   
+TSA: Emiliania huxleyi, TRINITY-DN16518-c0-g1-i1                                                  0          314    314   95%   5e-103 52.96  1254       HBTF01011923.1   
+TSA: Emiliania huxleyi, TRINITY-DN14361-c0-g1-i1                                                  0          314    314   95%   5e-103 52.96  1258       HBTT01008421.1   
+TSA: Emiliania huxleyi, TRINITY-DN9133-c0-g1-i3                                                   0          314    314   95%   5e-103 52.96  1259       HBTL01111754.1   
+TSA: Emiliania huxleyi, TRINITY-DN5335-c0-g1-i1                                                   0          314    314   95%   5e-103 52.96  1259       HBIR01007344.1   
+TSA: Emiliania huxleyi, TRINITY-DN5130-c4-g2-i3                                                   0          314    314   95%   5e-103 52.96  1265       HBOB01027952.1   
+TSA: Emiliania huxleyi, TRINITY-DN4198-c2-g1-i4                                                   0          314    314   95%   6e-103 52.96  1266       HBOC01035486.1   
+TSA: Emiliania huxleyi, TRINITY-DN10998-c0-g1-i1                                                  0          314    314   95%   6e-103 52.96  1271       HBQI01002660.1   
+Emiliania huxleyi strain CCMP3266 Ehux3266_tr18846                                                0          314    314   95%   6e-103 52.96  1274       GIZZ01018846.1   
+TSA: Emiliania huxleyi, TRINITY-DN13076-c0-g1-i1                                                  0          314    314   95%   8e-103 52.96  1300       HBTO01005163.1   
+TSA: uncultured Isochrysis, TRINITY-DN4222-c0-g1-i1                                               0          314    314   95%   8e-103 52.96  1299       HBSX01006676.1   
+TSA: Phaeocystis sp. PLY559, TRINITY-DN44941-c0-g1-i2                                             0          310    310   94%   1e-102 50.70  961        HBRK01057484.1   
+TSA: Emiliania huxleyi, TRINITY-DN10932-c1-g1-i8                                                  0          314    314   95%   1e-102 52.96  1337       HBRW01017692.1   
+TSA: Coccolithus braarudii,...                                                                    0          311    311   95%   1e-102 52.61  1078       HBEY01053133.1   
+TSA: Exanthemachrysis gayraliae,...                                                               0          314    314   92%   1e-102 54.64  1360       HBNB01014089.1   
+TSA: Exanthemachrysis gayraliae,...                                                               0          314    314   92%   1e-102 54.64  1362       HBNB01014090.1   
+TSA: Emiliania huxleyi, TRINITY-DN19611-c1-g3-i1                                                  0          314    314   95%   2e-102 52.96  1400       HBQG01057788.1   
+TSA: Phaeocystis sp. RCC851, transcript: TRINITY-DN24425-c0-g1-i6                                 0          312    312   95%   3e-102 51.22  1220       HBRH01037739.1   
+TSA: Emiliania huxleyi, transcript: TRINITY_DN6661_c0_g1_i9                                       0          314    314   95%   3e-102 52.96  1435       HCFM01091798.1   
+TSA: Calcidiscus leptoporus,...                                                                   0          314    314   95%   4e-102 52.61  1485       HBER01027130.1   
+TSA: Phaeocystis sp. RCC3538, transcript:...                                                      0          312    312   95%   5e-102 51.22  1279       HBTC01314710.1   
+TSA: Phaeocystis sp. RCC851, transcript: TRINITY-DN24425-c0-g1-i3                                 0          312    312   95%   6e-102 51.22  1284       HBRH01037736.1   
+TSA: Phaeocystis rex RA-2015b, transcript:...                                                     0          312    312   95%   7e-102 51.22  1299       HBRF01110792.1   
+TSA: Phaeocystis sp. RCC3538, transcript:...                                                      0          312    312   95%   7e-102 51.22  1297       HBTC01314717.1   
+TSA: Prymnesium parvum comp20694_c0_seq1 transcribed RNA sequence                                 0          313    313   95%   1e-101 50.87  1457       GAMG01021411.1   
+TSA: Phaeocystis sp. RCC3538, transcript:...                                                      0          310    310   95%   1e-101 50.87  1236       HBTC01314724.1   
+TSA: Prymnesium polylepis, TRINITY-DN18461-c8-g2-i1                                               0          311    311   95%   1e-101 50.17  1279       HBOG01050355.1   
+TSA: Emiliania huxleyi, transcript: TRINITY_DN6661_c0_g1_i1                                       0          313    313   92%   2e-101 53.93  1509       HCFM01091797.1   
+TSA: Phaeocystis globosa, TRINITY-DN28198-c0-g1-i2                                                0          310    310   95%   3e-101 50.87  1311       HBRB01042748.1   
+TSA: Phaeocystis globosa, TRINITY-DN28198-c0-g1-i5                                                0          310    310   94%   3e-101 51.06  1238       HBRB01042751.1   
+TSA: Prymnesium parvum, TRINITY-DN8384-c2-g2-i1                                                   0          312    312   95%   3e-101 50.87  1488       HBJC01045082.1   
+TSA: Diacronema lutheri,...                                                                       0          308    308   94%   5e-101 50.70  1148       HBEB01002415.1   
+TSA: Prymnesium parvum Locus_4668 transcribed RNA sequence                                        0          313    313   95%   1e-100 50.87  1670       GBYJ01019808.1   
+TSA: Phaeocystis sp. PLY559, TRINITY-DN44941-c0-g3-i1                                             0          305    305   94%   1e-100 50.35  1018       HBRK01057486.1   
+TSA: Phaeocystis sp. RCC3538, transcript:...                                                      0          309    309   94%   1e-100 51.06  1324       HBTC01314711.1   
+TSA: Phaeocystis sp. RCC3538, transcript:...                                                      0          309    309   94%   1e-100 51.06  1331       HBTC01314715.1   
+TSA: Haptolina brevifila,...                                                                      0          310    310   95%   1e-100 51.21  1453       HBGU01047759.1   
+TSA: Phaeocystis globosa, TRINITY-DN13032-c0-g1-i2                                                0          308    308   94%   2e-100 51.06  1274       HBRY01005481.1   
+TSA: Chrysochromulina rotalis,...                                                                 0          309    309   95%   2e-100 50.87  1397       HBKT01006031.1   
+TSA: Scyphosphaera apsteinii,...                                                                  0          307    307   95%   3e-100 50.87  1253       HBMI01028429.1   
+TSA: Isochrysis galbana, TRINITY-DN16332-c1-g1-i1                                                 0          310    310   94%   9e-100 53.33  1667       HBOM01020619.1   
+TSA: Phaeocystis sp. RCC935, transcript: TRINITY-DN31018-c0-g2-i1                                 0          305    305   94%   1e-99  50.35  1231       HBQW01030066.1   
+TSA: Chrysotila carterae, TRINITY-DN17165-c11-g1-i5                                               0          306    306   95%   8e-99  51.57  1505       HBIZ01041153.1   
+TSA: Pavlova sp. CCMP459, TRINITY-DN29190-c0-g1-i1                                                0          302    302   94%   2e-98  50.18  1190       HBSY01021561.1   
+TSA: Gephyrocapsa oceanica, TRINITY-DN8294-c0-g1-i3                                               0          298    298   95%   8e-98  49.51  1015       HBTM01048746.1   
+TSA: Orciraptor agilis, transcript:...                                                            0          301    301   95%   2e-97  49.15  1323       HBWT01001083.1   
+TSA: Pavlova gyrans,...                                                                           0          296    296   94%   6e-97  49.82  1066       HBND01025891.1   
+TSA: Emiliania huxleyi, TRINITY-DN12834-c0-g1-i5                                                  0          295    295   88%   6e-97  53.76  939        HBPW01043918.1   
+Pavlova pinguis isolate RCC6260 TRINITY_DN171511_c0_g1_i1                                         0          295    295   94%   7e-97  49.12  900        GKOX01000424.1   
+TSA: Emiliania huxleyi, TRINITY-DN10998-c0-g1-i4                                                  0          295    295   88%   7e-97  53.76  942        HBQI01002663.1   
+Pavlomulina ranunculiformis isolate RCC3430...                                                    0          299    299   94%   7e-97  50.70  1288       GKPZ01120247.1   
+TSA: Phaeocystis antarctica, TRINITY-DN15690-c1-g6-i1                                             0          293    293   87%   2e-96  52.27  896        HBQY01058433.1   
+TSA: Phaeocystis antarctica, TRINITY-DN15365-c3-g2-i1                                             0          293    293   87%   2e-96  52.27  950        HBRJ01021793.1   
+TSA: Phaeocystis antarctica, TRINITY-DN15365-c3-g2-i2                                             0          293    293   87%   2e-96  52.27  953        HBRJ01021794.1   
+TSA: Gephyrocapsa oceanica, TRINITY-DN3513-c6-g1-i5                                               0          298    298   95%   2e-96  49.51  1341       HBON01040125.1   
+TSA: Gephyrocapsa oceanica, TRINITY-DN3513-c6-g1-i2                                               0          298    298   95%   2e-96  49.51  1343       HBON01040123.1   
+TSA: Phaeocystis sp. RCC935, transcript: TRINITY-DN31018-c0-g1-i1                                 0          295    295   93%   5e-96  50.18  1134       HBQW01030065.1   
+TSA: Emiliania huxleyi, transcript: TRINITY_DN760_c0_g1_i24                                       0          314    314   95%   6e-96  52.96  3606       HCFN01018411.1   
+TSA: Gephyrocapsa muellerae, TRINITY-DN10449-c5-g4-i5                                             0          296    296   88%   9e-96  54.14  1319       HBRT01013928.1   
+TSA: Emiliania huxleyi, TRINITY-DN5130-c4-g2-i2                                                   0          295    295   95%   6e-95  46.06  1394       HBOB01027951.1   
+TSA: Emiliania huxleyi, TRINITY-DN4198-c2-g1-i3                                                   0          295    295   95%   6e-95  46.06  1395       HBOC01035485.1   
+TSA: Phaeocystis globosa, TRINITY-DN13032-c0-g1-i1                                                0          293    293   94%   2e-94  46.77  1352       HBRY01005480.1   
+TSA: Emiliania huxleyi, TRINITY-DN19611-c1-g3-i2                                                  0          295    295   95%   2e-94  46.06  1529       HBQG01057789.1   
+TSA: Phaeocystis rex RA-2015b, transcript:...                                                     0          288    288   92%   3e-94  50.87  932        HBRF01081039.1   
+TSA: Phaeocystis antarctica TR9119:c1_g1_i1 transcribed RNA...                                    0          292    292   94%   3e-94  48.78  1284       GFUQ01020942.1   
+Emiliania huxleyi c28088_g1_i3                                                                    0          295    295   95%   3e-92  46.06  2106       GHJP01035459.1   
+TSA: Chrysotila carterae, TRINITY-DN17165-c11-g1-i2                                               0          290    290   95%   4e-92  46.39  1601       HBIZ01041151.1   
+Bolivina costata isolate POMZ1 BcoT_NODE_111743                                                   0          276    276   82%   4e-90  50.00  816        GIHC01316190.1   
+TSA: Orciraptor agilis, transcript:...                                                            0          301    301   95%   6e-90  49.15  12265      HBWU01000190.1   
+TSA: Chrysotila carterae, TRINITY-DN17165-c11-g1-i8                                               0          277    277   78%   7e-90  54.85  966        HBIZ01041155.1   
+TSA: Orciraptor agilis, transcript:...                                                            0          297    297   95%   1e-89  49.15  3515       HBWU01007247.1   
+TSA: Emiliania huxleyi, transcript: TRINITY_DN760_c0_g1_i55                                       0          293    293   95%   4e-88  46.06  3735       HCFN01018398.1   
+TSA: Chrysoculter rhomboideus,...                                                                 0          276    276   95%   1e-87  44.44  1401       HBMJ01002343.1   
+TSA: Amorphochlora amoebiformis,...                                                               0          270    270   92%   1e-86  46.90  1078       HBEM01006949.1   
+TSA: Phaeocystis sp. PLY559, TRINITY-DN44941-c0-g2-i1                                             0          266    266   79%   2e-86  51.67  731        HBRK01057485.1   
+
+
+Alignments:
+
+>TSA: Phaeocystis antarctica, TRINITY-DN15365-c3-g2-i7, transcribed RNA sequence
+Sequence ID: HBRJ01021799.1 Length: 1106
+Range 1: 25 to 879
+
+Score:321 bits(822), Expect:3e-106, 
+Method:Compositional matrix adjust., 
+Identities:158/287(55%), Positives:209/287(72%), Gaps:3/287(1%)
+
+Query  16   IREGWFRETCSLWPGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQCTERD  75
+            I++GWF E   +WPGQA+SL+VE++L+  +S +QDILVFRS TYGNVLVLDG IQ TERD
+Sbjct  25   IKDGWFSEAEVMWPGQAMSLKVEEVLYEGKSDFQDILVFRSSTYGNVLVLDGAIQLTERD  204
+
+Query  76   EFSYQEMIANLPLCSHPNPRKVLIIgggdggVLREVVKHPSVESVVQCEIDEDVIQVSKK  135
+            E +YQEMIA +PL +HP+P+ VLI+GGGDGGVLREV +H SV+ +V CEID  V  VSK+
+Sbjct  205  EHAYQEMIAQIPLHAHPDPKSVLIVGGGDGGVLREVCRHSSVQKIVMCEIDSQVCDVSKR  384
+
+Query  136  FLPG-MAIGYSSSKLTLHVGDGFEFMKQNQDAFDVIITDSSDPMGPAESLFKESYYQLMK  194
+            F     A  ++  ++ L   D  +F+K  +D +DV+I DSSDP+GPAE+LF+ ++YQ +K
+Sbjct  385  FFANSTATAFNDPRVQLVHADAAQFVKDKRDEYDVVIVDSSDPIGPAETLFQPAFYQGLK  564
+
+Query  195  TALKEDGVLCCQGECQWLHLDLIKEMRQFCQSLFPVVAYAYCTIPTYPSGQIGFMLCSKN  254
+             A++   ++C QGEC WLHLDLI  + + C ++FP V YA+ TIPTYPSGQIGF++CS +
+Sbjct  565  DAMRPGAIMCNQGECIWLHLDLIGTVLRHCTTVFPSVDYAFTTIPTYPSGQIGFLMCSTS  744
+
+Query  255  PSTNFQEPVQPLTQQQVAQMQLKYYNSDVHRAAFVLPEFARKALNDV  301
+            P+T  + P +  T     Q QLKYYN  VH AAFVLP FA K +  V
+Sbjct  745  PNTVLRVPAR--TPPPEVQAQLKYYNPAVHAAAFVLPVFAEKVVAPV  879
+
+
+
+
+>TSA: Phaeocystis antarctica, TRINITY-DN15365-c3-g2-i4, transcribed RNA sequence
+Sequence ID: HBRJ01021796.1 Length: 1105
+Range 1: 25 to 879
+
+Score:321 bits(822), Expect:3e-106, 
+Method:Compositional matrix adjust., 
+Identities:158/287(55%), Positives:209/287(72%), Gaps:3/287(1%)
+
+Query  16   IREGWFRETCSLWPGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQCTERD  75
+            I++GWF E   +WPGQA+SL+VE++L+  +S +QDILVFRS TYGNVLVLDG IQ TERD
+Sbjct  25   IKDGWFSEAEVMWPGQAMSLKVEEVLYEGKSDFQDILVFRSSTYGNVLVLDGAIQLTERD  204
+
+Query  76   EFSYQEMIANLPLCSHPNPRKVLIIgggdggVLREVVKHPSVESVVQCEIDEDVIQVSKK  135
+            E +YQEMIA +PL +HP+P+ VLI+GGGDGGVLREV +H SV+ +V CEID  V  VSK+
+Sbjct  205  EHAYQEMIAQIPLHAHPDPKSVLIVGGGDGGVLREVCRHSSVQKIVMCEIDSQVCDVSKR  384
+
+Query  136  FLPG-MAIGYSSSKLTLHVGDGFEFMKQNQDAFDVIITDSSDPMGPAESLFKESYYQLMK  194
+            F     A  ++  ++ L   D  +F+K  +D +DV+I DSSDP+GPAE+LF+ ++YQ +K
+Sbjct  385  FFANSTATAFNDPRVQLVHADAAQFVKDKRDEYDVVIVDSSDPIGPAETLFQPAFYQGLK  564
+
+Query  195  TALKEDGVLCCQGECQWLHLDLIKEMRQFCQSLFPVVAYAYCTIPTYPSGQIGFMLCSKN  254
+             A++   ++C QGEC WLHLDLI  + + C ++FP V YA+ TIPTYPSGQIGF++CS +
+Sbjct  565  DAMRPGAIMCNQGECIWLHLDLIGTVLRHCTTVFPSVDYAFTTIPTYPSGQIGFLMCSTS  744
+
+Query  255  PSTNFQEPVQPLTQQQVAQMQLKYYNSDVHRAAFVLPEFARKALNDV  301
+            P+T  + P +  T     Q QLKYYN  VH AAFVLP FA K +  V
+Sbjct  745  PNTVLRVPAR--TPPPEVQAQLKYYNPAVHAAAFVLPVFAEKVVAPV  879
+
+
+
+
+>TSA: Phaeocystis antarctica, MMETSP1444-doi:10.5281-zenodo.249982-Transcript-32015, transcribed RNA sequence
+Sequence ID: HBEP01024466.1 Length: 1105
+Range 1: 30 to 884
+
+Score:320 bits(821), Expect:4e-106, 
+Method:Compositional matrix adjust., 
+Identities:158/287(55%), Positives:209/287(72%), Gaps:3/287(1%)
+
+Query  16   IREGWFRETCSLWPGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQCTERD  75
+            I++GWF E   +WPGQA+SL+VE++L+  +S +QDILVFRS TYGNVLVLDG IQ TERD
+Sbjct  30   IKDGWFSEAEVMWPGQAMSLKVEEVLYEGKSDFQDILVFRSSTYGNVLVLDGAIQLTERD  209
+
+Query  76   EFSYQEMIANLPLCSHPNPRKVLIIgggdggVLREVVKHPSVESVVQCEIDEDVIQVSKK  135
+            E +YQEMIA +PL +HP+P+ VLI+GGGDGGVLREV +H SV+ +V CEID  V  VSK+
+Sbjct  210  EHAYQEMIAQIPLHAHPDPKSVLIVGGGDGGVLREVCRHSSVQKIVMCEIDSQVCDVSKR  389
+
+Query  136  FLPG-MAIGYSSSKLTLHVGDGFEFMKQNQDAFDVIITDSSDPMGPAESLFKESYYQLMK  194
+            F     A  ++  ++ L   D  +F+K  +D +DV+I DSSDP+GPAE+LF+ ++YQ +K
+Sbjct  390  FFANSTATSFNDPRVQLVHADAAQFVKDKRDEYDVVIVDSSDPIGPAETLFQPAFYQGLK  569
+
+Query  195  TALKEDGVLCCQGECQWLHLDLIKEMRQFCQSLFPVVAYAYCTIPTYPSGQIGFMLCSKN  254
+             A++   ++C QGEC WLHLDLI  + + C ++FP V YA+ TIPTYPSGQIGF++CS +
+Sbjct  570  DAMRPGAIMCNQGECIWLHLDLIGTVLRHCTTVFPSVDYAFTTIPTYPSGQIGFLMCSTS  749
+
+Query  255  PSTNFQEPVQPLTQQQVAQMQLKYYNSDVHRAAFVLPEFARKALNDV  301
+            P+T  + P +  T     Q QLKYYN  VH AAFVLP FA K +  V
+Sbjct  750  PNTVLRVPAR--TPPPEVQAQLKYYNPAVHAAAFVLPVFAEKVVAPV  884
+
+
+
+
+>TSA: Phaeocystis antarctica, TRINITY-DN15690-c1-g6-i2, transcribed RNA sequence
+Sequence ID: HBQY01058434.1 Length: 1191
+Range 1: 35 to 889
+
+Score:320 bits(820), Expect:1e-105, 
+Method:Compositional matrix adjust., 
+Identities:158/287(55%), Positives:209/287(72%), Gaps:3/287(1%)
+
+Query  16   IREGWFRETCSLWPGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQCTERD  75
+            I++GWF E   +WPGQA+SL+VE++L+  +S +QDILVFRS TYGNVLVLDG IQ TERD
+Sbjct  35   IKDGWFSEAEVMWPGQAMSLKVEEVLYEGKSDFQDILVFRSSTYGNVLVLDGAIQLTERD  214
+
+Query  76   EFSYQEMIANLPLCSHPNPRKVLIIgggdggVLREVVKHPSVESVVQCEIDEDVIQVSKK  135
+            E +YQEMIA +PL +HP+P+ VLI+GGGDGGVLREV +H SV+ +V CEID  V  VSK+
+Sbjct  215  EHAYQEMIAQIPLHAHPDPKSVLIVGGGDGGVLREVCRHSSVQKIVMCEIDSQVCDVSKR  394
+
+Query  136  FLPG-MAIGYSSSKLTLHVGDGFEFMKQNQDAFDVIITDSSDPMGPAESLFKESYYQLMK  194
+            F     A  ++  ++ L   D  +F+K  +D +DV+I DSSDP+GPAE+LF+ ++YQ +K
+Sbjct  395  FFANSTATSFNDPRVQLVHADAAQFVKDKRDEYDVVIVDSSDPIGPAETLFQPAFYQGLK  574
+
+Query  195  TALKEDGVLCCQGECQWLHLDLIKEMRQFCQSLFPVVAYAYCTIPTYPSGQIGFMLCSKN  254
+             A++   ++C QGEC WLHLDLI  + + C ++FP V YA+ TIPTYPSGQIGF++CS +
+Sbjct  575  DAMRPGAIMCNQGECIWLHLDLIGTVLRHCTTVFPSVDYAFTTIPTYPSGQIGFLMCSTS  754
+
+Query  255  PSTNFQEPVQPLTQQQVAQMQLKYYNSDVHRAAFVLPEFARKALNDV  301
+            P+T  + P +  T     Q QLKYYN  VH AAFVLP FA K +  V
+Sbjct  755  PNTVLRVPAR--TPPPEVQAQLKYYNPAVHAAAFVLPVFAEKVVAPV  889
+
+
+
+
+>TSA: Phaeocystis antarctica TR18119:c0_g1_i1 transcribed RNA sequence
+Sequence ID: GFUQ01041784.1 Length: 1241
+Range 1: 336 to 1190
+
+Score:318 bits(815), Expect:1e-104, 
+Method:Compositional matrix adjust., 
+Identities:157/287(55%), Positives:209/287(72%), Gaps:3/287(1%)
+
+Query  16    IREGWFRETCSLWPGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQCTERD  75
+             I++GWF E   +WPGQA+SL+VE++L+  +S +QDILVFRS TYGNVLVLDG IQ TERD
+Sbjct  1190  IKDGWFSEAEVMWPGQAMSLKVEEVLYEGKSDFQDILVFRSSTYGNVLVLDGAIQLTERD  1011
+
+Query  76    EFSYQEMIANLPLCSHPNPRKVLIIgggdggVLREVVKHPSVESVVQCEIDEDVIQVSKK  135
+             E +YQEMIA +PL +HP+P+ VLI+GGGDGGVLREV +H SV+ +V CEID  V  VSK+
+Sbjct  1010  EHAYQEMIAQIPLHAHPDPKSVLIVGGGDGGVLREVCRHSSVQKIVMCEIDSQVCDVSKR  831
+
+Query  136   FLPG-MAIGYSSSKLTLHVGDGFEFMKQNQDAFDVIITDSSDPMGPAESLFKESYYQLMK  194
+             F     A  ++  ++ L   D  +F++  +D +DV+I DSSDP+GPAE+LF+ ++YQ +K
+Sbjct  830   FFANSTATSFNDPRVQLVHADAAQFVQDKRDEYDVVIVDSSDPIGPAETLFQPAFYQGLK  651
+
+Query  195   TALKEDGVLCCQGECQWLHLDLIKEMRQFCQSLFPVVAYAYCTIPTYPSGQIGFMLCSKN  254
+              A++   ++C QGEC WLHLDLI  + + C ++FP V YA+ TIPTYPSGQIGF++CS +
+Sbjct  650   DAMRPGAIMCNQGECIWLHLDLIGTVLRHCTTVFPSVDYAFTTIPTYPSGQIGFLMCSTS  471
+
+Query  255   PSTNFQEPVQPLTQQQVAQMQLKYYNSDVHRAAFVLPEFARKALNDV  301
+             P+T  + P +  T     Q QLKYYN  VH AAFVLP FA K +  V
+Sbjct  470   PNTVLRVPAR--TPPPEVQAQLKYYNPAVHAAAFVLPVFAEKVVAPV  336
+
+
+
+
+>TSA: uncultured Isochrysis, transcript: TRINITY-DN45-c0-g1-i1, transcribed RNA sequence
+Sequence ID: HBZR01006619.1 Length: 1146
+Range 1: 25 to 870
+
+Score:317 bits(812), Expect:1e-104, 
+Method:Compositional matrix adjust., 
+Identities:161/286(56%), Positives:207/286(72%), Gaps:7/286(2%)
+
+Query  16   IREGWFRETCSLWPGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQCTERD  75
+            I++GWF E   +WPGQA+S++VE++L   RS +QD+LVF+S TYG VLVLDGVIQ TERD
+Sbjct  25   IKDGWFTENEVMWPGQAMSIKVEEVLFEGRSDFQDVLVFKSSTYGTVLVLDGVIQVTERD  204
+
+Query  76   EFSYQEMIANLPLCSHPNPRKVLIIgggdggVLREVVKHPSVESVVQCEIDEDVIQVSKK  135
+            EF+YQEMI +LP+ SHPNP  VLI+GGGDGGVLREV KH  V+++  CEID  V  VSKK
+Sbjct  205  EFAYQEMITHLPMFSHPNPTSVLIVGGGDGGVLREVCKHSCVQNITMCEIDPLVCDVSKK  384
+
+Query  136  FLP-GMAIGYSSSKLTLHVGDGFEFMKQNQDAFDVIITDSSDPMGPAESLFKESYYQLMK  194
+            FL    A  ++  ++TL   D  E++K   +++DVII DSSDP+GPAE+LF  S+Y  ++
+Sbjct  385  FLSKSTATAFNDPRVTLVHADAAEYVKDKTNSYDVIIVDSSDPVGPAETLFTSSFYTCLR  564
+
+Query  195  TALKEDGVLCCQGECQWLHLDLIKEMRQFCQSLFPVVAYAYCTIPTYPSGQIGFMLCSKN  254
+             A++   ++C QGEC WLHL LI E  Q CQ +FP V YAY TIPTYPSGQIGF+LCS +
+Sbjct  565  QAMRPGAIMCNQGECIWLHLPLIAECLQACQMVFPSVDYAYTTIPTYPSGQIGFLLCSSS  744
+
+Query  255  PSTNFQEPVQPLTQQQVAQM--QLKYYNSDVHRAAFVLPEFARKAL  298
+            P T  ++PV    +Q  A M  +LKYY+   H AAFVLP FA +A+
+Sbjct  745  PDTVLRQPV----RQPSAGMLERLKYYSPATHAAAFVLPRFAEEAI  870
+
+
+
+
+>TSA: Isochrysis galbana, TRINITY-DN2821-c0-g1-i1, transcribed RNA sequence
+Sequence ID: HBOM01064329.1 Length: 1148
+Range 1: 30 to 875
+
+Score:317 bits(812), Expect:1e-104, 
+Method:Compositional matrix adjust., 
+Identities:161/286(56%), Positives:207/286(72%), Gaps:7/286(2%)
+
+Query  16   IREGWFRETCSLWPGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQCTERD  75
+            I++GWF E   +WPGQA+S++VE++L   RS +QD+LVF+S TYG VLVLDGVIQ TERD
+Sbjct  30   IKDGWFTENEVMWPGQAMSIKVEEVLFEGRSDFQDVLVFKSSTYGTVLVLDGVIQVTERD  209
+
+Query  76   EFSYQEMIANLPLCSHPNPRKVLIIgggdggVLREVVKHPSVESVVQCEIDEDVIQVSKK  135
+            EF+YQEMI +LP+ SHPNP  VLI+GGGDGGVLREV KH  V+++  CEID  V  VSKK
+Sbjct  210  EFAYQEMITHLPMFSHPNPTSVLIVGGGDGGVLREVCKHSCVQNITMCEIDPLVCDVSKK  389
+
+Query  136  FLP-GMAIGYSSSKLTLHVGDGFEFMKQNQDAFDVIITDSSDPMGPAESLFKESYYQLMK  194
+            FL    A  ++  ++TL   D  E++K   +++DVII DSSDP+GPAE+LF  S+Y  ++
+Sbjct  390  FLSKSTATAFNDPRVTLVHADAAEYVKDKTNSYDVIIVDSSDPVGPAETLFTSSFYTCLR  569
+
+Query  195  TALKEDGVLCCQGECQWLHLDLIKEMRQFCQSLFPVVAYAYCTIPTYPSGQIGFMLCSKN  254
+             A++   ++C QGEC WLHL LI E  Q CQ +FP V YAY TIPTYPSGQIGF+LCS +
+Sbjct  570  QAMRPGAIMCNQGECIWLHLPLIAECLQACQMVFPSVDYAYTTIPTYPSGQIGFLLCSSS  749
+
+Query  255  PSTNFQEPVQPLTQQQVAQM--QLKYYNSDVHRAAFVLPEFARKAL  298
+            P T  ++PV    +Q  A M  +LKYY+   H AAFVLP FA +A+
+Sbjct  750  PDTVLRQPV----RQPSAGMLERLKYYSPATHAAAFVLPRFAEEAI  875
+
+
+
+
+>TSA: Emiliania huxleyi, TRINITY-DN17419-c0-g1-i2, transcribed RNA sequence
+Sequence ID: HBTP01013218.1 Length: 973
+Range 1: 34 to 888
+
+Score:315 bits(806), Expect:2e-104, 
+Method:Compositional matrix adjust., 
+Identities:158/287(55%), Positives:202/287(70%), Gaps:3/287(1%)
+
+Query  16   IREGWFRETCSLWPGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQCTERD  75
+            +R+ WF E   +WPGQA+SL+VE++L   RS++QDILVFRS TYG VLVLDGVIQ TERD
+Sbjct  34   VRDNWFTENEVMWPGQAMSLKVEEVLFEGRSKFQDILVFRSSTYGTVLVLDGVIQLTERD  213
+
+Query  76   EFSYQEMIANLPLCSHPNPRKVLIIgggdggVLREVVKHPSVESVVQCEIDEDVIQVSKK  135
+            E +YQEMIA LPL SHPNP+ VLI+GGGDGGVLREV +HP V SV  CEIDE V  V+KK
+Sbjct  214  EHAYQEMIAQLPLHSHPNPQSVLIVGGGDGGVLREVCRHPDVASVTMCEIDELVCDVAKK  393
+
+Query  136  FLP-GMAIGYSSSKLTLHVGDGFEFMKQNQDAFDVIITDSSDPMGPAESLFKESYYQLMK  194
+            +L    A  +   ++TL   D  E++K   DA+D++I DSSDP+GPAE+LF  S+Y  ++
+Sbjct  394  YLSHSTATAFDDPRVTLVHADAAEYVKDKCDAYDLVIVDSSDPIGPAETLFTSSFYSCLR  573
+
+Query  195  TALKEDGVLCCQGECQWLHLDLIKEMRQFCQSLFPVVAYAYCTIPTYPSGQIGFMLCSKN  254
+             A++   ++C QGEC WLHL LI +  + C  +FP V YAY TIPTYPSGQIGF+LCS  
+Sbjct  574  KAMRPGAIMCNQGECIWLHLPLIADCLRSCHEIFPSVDYAYTTIPTYPSGQIGFLLCSTA  753
+
+Query  255  PSTNFQEPVQPLTQQQVAQMQLKYYNSDVHRAAFVLPEFARKALNDV  301
+                 + P++  T +   Q QLKYY+   H AAF+LP FA + +  V
+Sbjct  754  AGAVLRRPLREPTPEM--QAQLKYYSPAAHAAAFILPRFAEETVAAV  888
+
+
+
+
+>TPA_asm: uncultured Phaeocystis, MMETSP1178-doi:10.5281-zenodo.249982-Transcript-19265, transcribed RNA sequence
+Sequence ID: HBRV01010298.1 Length: 1033
+Range 1: 28 to 879
+
+Score:314 bits(805), Expect:4e-104, 
+Method:Compositional matrix adjust., 
+Identities:158/286(55%), Positives:206/286(72%), Gaps:3/286(1%)
+
+Query  16   IREGWFRETCSLWPGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQCTERD  75
+            I++GWF E   +WPGQA+SL+VE++L+  RS +QDILVFRS TYGNVLVLDG IQ TERD
+Sbjct  28   IKDGWFSEAEVMWPGQAMSLKVEEVLYEGRSDFQDILVFRSSTYGNVLVLDGAIQLTERD  207
+
+Query  76   EFSYQEMIANLPLCSHPNPRKVLIIgggdggVLREVVKHPSVESVVQCEIDEDVIQVSKK  135
+            E +YQEMIA +PL SHP+PR VLI+GGGDGGVLREV +H SV+ +V CEID  V +VSK+
+Sbjct  208  EHAYQEMIAQIPLHSHPDPRSVLIVGGGDGGVLREVCRHNSVQKIVMCEIDAQVCEVSKR  387
+
+Query  136  FLPG-MAIGYSSSKLTLHVGDGFEFMKQNQDAFDVIITDSSDPMGPAESLFKESYYQLMK  194
+            F     A  +   ++ L   D  +F+K  +D +DV+I DSSDP+GPAE+LF+ ++YQ +K
+Sbjct  388  FFANSTATSFDDPRVQLVHADAAQFVKDKRDEYDVVIVDSSDPIGPAETLFQPAFYQGLK  567
+
+Query  195  TALKEDGVLCCQGECQWLHLDLIKEMRQFCQSLFPVVAYAYCTIPTYPSGQIGFMLCSKN  254
+             A++   ++C QGEC WLHL+LI  + + C ++FP V YAY TIPTYPSGQIGF+LC   
+Sbjct  568  EAMRPGAIMCNQGECIWLHLELIGTVLRHCTTVFPSVDYAYTTIPTYPSGQIGFLLCCTT  747
+
+Query  255  PSTNFQEPVQPLTQQQVAQMQLKYYNSDVHRAAFVLPEFARKALND  300
+            P+T  + P +  T     Q QLKYY   VH AAFVLP FA + + +
+Sbjct  748  PNTLLRLPAR--TPPPEVQRQLKYYCPAVHAAAFVLPLFAERTVAN  879
+
+
+
+
+>TPA_asm: uncultured marine Prymnesiales, transcript: MMETSP1474-doi:10.5281-zenodo.249982-Transcript-26537, transcribed RNA sequence
+Sequence ID: HBYJ01018378.1 Length: 1267
+Range 1: 48 to 893
+
+Score:317 bits(812), Expect:6e-104, 
+Method:Compositional matrix adjust., 
+Identities:158/284(56%), Positives:205/284(72%), Gaps:3/284(1%)
+
+Query  16   IREGWFRETCSLWPGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQCTERD  75
+            IR+GWFRE+  +WPGQA+SL++E++L   RS +QDILVFRS TYG VL LDGVIQ TERD
+Sbjct  48   IRDGWFRESEVMWPGQAMSLKIEEVLWEGRSDFQDILVFRSSTYGTVLALDGVIQLTERD  227
+
+Query  76   EFSYQEMIANLPLCSHPNPRKVLIIgggdggVLREVVKHPSVESVVQCEIDEDVIQVSKK  135
+            E +YQEMI ++P+ SHP+P+ VLI+GGGDGGVLREV +H  V  +  CEID  V QV+++
+Sbjct  228  EHAYQEMITHIPMHSHPDPKSVLIVGGGDGGVLREVCRHAGVTQITMCEIDPVVCQVAQQ  407
+
+Query  136  FLPG-MAIGYSSSKLTLHVGDGFEFMKQNQDAFDVIITDSSDPMGPAESLFKESYYQLMK  194
+            FL G  A  ++  ++TL   D  EF+K  +DA+DV+I DSSDP+GPAE+LF  S+Y  ++
+Sbjct  408  FLAGSTATSFNDPRVTLVHADAAEFVKDKKDAYDVVIVDSSDPVGPAETLFTASFYTALR  587
+
+Query  195  TALKEDGVLCCQGECQWLHLDLIKEMRQFCQSLFPVVAYAYCTIPTYPSGQIGFMLCSKN  254
+             A+K   ++C QGEC WLHLDLI E    C  +FP V YA+ TIPTYPSGQIGF+LCS  
+Sbjct  588  GAMKPGAIMCNQGECVWLHLDLIGECMGHCTQVFPSVDYAFTTIPTYPSGQIGFLLCSTA  767
+
+Query  255  PSTNFQEPVQPLTQQQVAQMQLKYYNSDVHRAAFVLPEFARKAL  298
+            P+T  +E  +    +     QLKYY++ VH AAFVLP FA K +
+Sbjct  768  PNTVLREACREPAPELA--RQLKYYSAAVHSAAFVLPLFAEKVV  893
+
+
+
+
+>TSA: Emiliania huxleyi, TRINITY-DN10998-c0-g1-i2, transcribed RNA sequence
+Sequence ID: HBQI01002661.1 Length: 1117
+Range 1: 45 to 899
+
+Score:314 bits(805), Expect:1e-103, 
+Method:Compositional matrix adjust., 
+Identities:158/287(55%), Positives:202/287(70%), Gaps:3/287(1%)
+
+Query  16   IREGWFRETCSLWPGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQCTERD  75
+            +R+ WF E   +WPGQA+SL+VE++L   RS++QDILVFRS TYG VLVLDGVIQ TERD
+Sbjct  45   VRDNWFTENEVMWPGQAMSLKVEEVLFEGRSKFQDILVFRSSTYGTVLVLDGVIQLTERD  224
+
+Query  76   EFSYQEMIANLPLCSHPNPRKVLIIgggdggVLREVVKHPSVESVVQCEIDEDVIQVSKK  135
+            E +YQEMIA LPL SHPNP+ VLI+GGGDGGVLREV +HP V SV  CEIDE V  V+KK
+Sbjct  225  EHAYQEMIAQLPLHSHPNPQSVLIVGGGDGGVLREVCRHPDVASVTMCEIDELVCDVAKK  404
+
+Query  136  FLP-GMAIGYSSSKLTLHVGDGFEFMKQNQDAFDVIITDSSDPMGPAESLFKESYYQLMK  194
+            +L    A  +   ++TL   D  E++K   DA+D++I DSSDP+GPAE+LF  S+Y  ++
+Sbjct  405  YLSHSTATAFDDPRVTLVHADAAEYVKDKCDAYDLVIVDSSDPIGPAETLFTSSFYSCLR  584
+
+Query  195  TALKEDGVLCCQGECQWLHLDLIKEMRQFCQSLFPVVAYAYCTIPTYPSGQIGFMLCSKN  254
+             A++   ++C QGEC WLHL LI +  + C  +FP V YAY TIPTYPSGQIGF+LCS  
+Sbjct  585  KAMRPGAIMCNQGECIWLHLPLIADCLRSCHEIFPSVDYAYTTIPTYPSGQIGFLLCSTA  764
+
+Query  255  PSTNFQEPVQPLTQQQVAQMQLKYYNSDVHRAAFVLPEFARKALNDV  301
+                 + P++  T +   Q QLKYY+   H AAF+LP FA + +  V
+Sbjct  765  AGAVLRRPLREPTPEM--QAQLKYYSPAAHAAAFILPRFAEETVAAV  899
+
+
+
+
+>TSA: Emiliania huxleyi, TRINITY-DN12834-c0-g1-i1, transcribed RNA sequence
+Sequence ID: HBPW01043914.1 Length: 1122
+Range 1: 42 to 896
+
+Score:314 bits(805), Expect:1e-103, 
+Method:Compositional matrix adjust., 
+Identities:158/287(55%), Positives:202/287(70%), Gaps:3/287(1%)
+
+Query  16   IREGWFRETCSLWPGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQCTERD  75
+            +R+ WF E   +WPGQA+SL+VE++L   RS++QDILVFRS TYG VLVLDGVIQ TERD
+Sbjct  42   VRDNWFTENEVMWPGQAMSLKVEEVLFEGRSKFQDILVFRSSTYGTVLVLDGVIQLTERD  221
+
+Query  76   EFSYQEMIANLPLCSHPNPRKVLIIgggdggVLREVVKHPSVESVVQCEIDEDVIQVSKK  135
+            E +YQEMIA LPL SHPNP+ VLI+GGGDGGVLREV +HP V SV  CEIDE V  V+KK
+Sbjct  222  EHAYQEMIAQLPLHSHPNPQSVLIVGGGDGGVLREVCRHPDVASVTMCEIDELVCDVAKK  401
+
+Query  136  FLP-GMAIGYSSSKLTLHVGDGFEFMKQNQDAFDVIITDSSDPMGPAESLFKESYYQLMK  194
+            +L    A  +   ++TL   D  E++K   DA+D++I DSSDP+GPAE+LF  S+Y  ++
+Sbjct  402  YLSHSTATAFDDPRVTLVHADAAEYVKDKCDAYDLVIVDSSDPIGPAETLFTSSFYSCLR  581
+
+Query  195  TALKEDGVLCCQGECQWLHLDLIKEMRQFCQSLFPVVAYAYCTIPTYPSGQIGFMLCSKN  254
+             A++   ++C QGEC WLHL LI +  + C  +FP V YAY TIPTYPSGQIGF+LCS  
+Sbjct  582  KAMRPGAIMCNQGECIWLHLPLIADCLRSCHEIFPSVDYAYTTIPTYPSGQIGFLLCSTA  761
+
+Query  255  PSTNFQEPVQPLTQQQVAQMQLKYYNSDVHRAAFVLPEFARKALNDV  301
+                 + P++  T +   Q QLKYY+   H AAF+LP FA + +  V
+Sbjct  762  AGAVLRRPLREPTPEM--QAQLKYYSPAAHAAAFILPRFAEETVAAV  896
+
+
+
+
+>TSA: Gephyrocapsa muellerae, TRINITY-DN10449-c5-g4-i3, transcribed RNA sequence
+Sequence ID: HBRT01013926.1 Length: 1253
+Range 1: 65 to 919
+
+Score:316 bits(809), Expect:1e-103, 
+Method:Compositional matrix adjust., 
+Identities:159/287(55%), Positives:202/287(70%), Gaps:3/287(1%)
+
+Query  16   IREGWFRETCSLWPGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQCTERD  75
+            +R+ WF E   +WPGQA+SL+VE++L   RS++QDILVFRS TYG VLVLDGVIQ TERD
+Sbjct  65   VRDNWFTENEVMWPGQAMSLKVEEVLFEGRSKFQDILVFRSSTYGTVLVLDGVIQLTERD  244
+
+Query  76   EFSYQEMIANLPLCSHPNPRKVLIIgggdggVLREVVKHPSVESVVQCEIDEDVIQVSKK  135
+            E +YQEMIA LPL SHPNP+ VLI+GGGDGGVLREV +HP V SV  CEIDE V  V+KK
+Sbjct  245  EHAYQEMIAQLPLHSHPNPQSVLIVGGGDGGVLREVCRHPDVASVTMCEIDELVCDVAKK  424
+
+Query  136  FLP-GMAIGYSSSKLTLHVGDGFEFMKQNQDAFDVIITDSSDPMGPAESLFKESYYQLMK  194
+            +L    A  +   ++TL   D  E++K   DA+DV+I DSSDP+GPAE+LF  S+Y  ++
+Sbjct  425  YLSHSTATAFDDPRVTLVHADAAEYVKDKCDAYDVVIVDSSDPIGPAETLFTSSFYSCLR  604
+
+Query  195  TALKEDGVLCCQGECQWLHLDLIKEMRQFCQSLFPVVAYAYCTIPTYPSGQIGFMLCSKN  254
+             A++   ++C QGEC WLHL LI +  + C  +FP V YAY TIPTYPSGQIGF+LCS  
+Sbjct  605  KAMRPGAIMCNQGECIWLHLPLIADCLRSCHEIFPSVDYAYTTIPTYPSGQIGFLLCSTA  784
+
+Query  255  PSTNFQEPVQPLTQQQVAQMQLKYYNSDVHRAAFVLPEFARKALNDV  301
+                 + P++  T +   Q QLKYY+   H AAF+LP FA + +  V
+Sbjct  785  AGAVLRRPLREPTPEM--QAQLKYYSPAAHAAAFILPRFAEETVAAV  919
+
+
+
+
+>TSA: Prymnesium parvum Locus_14647 transcribed RNA sequence
+Sequence ID: GBYI01028163.1 Length: 1022
+Range 1: 104 to 958
+
+Score:313 bits(801), Expect:1e-103, 
+Method:Compositional matrix adjust., 
+Identities:152/287(53%), Positives:207/287(72%), Gaps:3/287(1%)
+
+Query  16   IREGWFRETCSLWPGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQCTERD  75
+            IR+GWF E+  +WPGQA+SL+V++++   RS +QDILVF+S TYG VL LDGVIQ TERD
+Sbjct  104  IRDGWFSESEVMWPGQAMSLKVDEVIWEGRSDFQDILVFKSATYGMVLALDGVIQLTERD  283
+
+Query  76   EFSYQEMIANLPLCSHPNPRKVLIIgggdggVLREVVKHPSVESVVQCEIDEDVIQVSKK  135
+            E++YQEMI ++P+ +HP+P+ VLI+GGGDGGVLREV +H  V+ +V CEID  V ++++K
+Sbjct  284  EYAYQEMITHIPMHAHPDPQSVLIVGGGDGGVLREVCRHAGVQKIVMCEIDPQVCEIAQK  463
+
+Query  136  FLPG-MAIGYSSSKLTLHVGDGFEFMKQNQDAFDVIITDSSDPMGPAESLFKESYYQLMK  194
+            F     A  ++  +LTL   D  EF+K     FDV+I DSSDP+GPAE+LF   +Y+ ++
+Sbjct  464  FFSNSTATAFNDPRLTLLHADAAEFVKDKAQEFDVVIVDSSDPVGPAETLFTADFYRSLR  643
+
+Query  195  TALKEDGVLCCQGECQWLHLDLIKEMRQFCQSLFPVVAYAYCTIPTYPSGQIGFMLCSKN  254
+             A+K + ++C QGEC WLHL+LI E+   C+ +FP V YA+ TIPTYPSGQIGF+LCS  
+Sbjct  644  HAMKPNAIMCNQGECMWLHLELIGEVLSHCKEVFPSVDYAFTTIPTYPSGQIGFLLCSTA  823
+
+Query  255  PSTNFQEPVQPLTQQQVAQMQLKYYNSDVHRAAFVLPEFARKALNDV  301
+            P+   + P +  T +     QLKYY+S VH AAFVLPEFA + +  V
+Sbjct  824  PNVVLRSPAR--TPEPELAAQLKYYSSAVHAAAFVLPEFAERVVAKV  958
+
+
+
+
+>TSA: Phaeocystis antarctica, MMETSP1100-doi:10.5281-zenodo.249982-Transcript-2124, transcribed RNA sequence
+Sequence ID: HBKH01012493.1 Length: 853
+Range 1: 30 to 851
+
+Score:311 bits(796), Expect:1e-103, 
+Method:Compositional matrix adjust., 
+Identities:153/276(55%), Positives:203/276(73%), Gaps:3/276(1%)
+
+Query  16   IREGWFRETCSLWPGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQCTERD  75
+            I++GWF E   +WPGQA+SL+VE++L+  +S +QDILVFRS TYGNVLVLDG IQ TERD
+Sbjct  30   IKDGWFSEAEVMWPGQAMSLKVEEVLYEGKSDFQDILVFRSSTYGNVLVLDGAIQLTERD  209
+
+Query  76   EFSYQEMIANLPLCSHPNPRKVLIIgggdggVLREVVKHPSVESVVQCEIDEDVIQVSKK  135
+            E +YQEMIA +PL +HP+P+ VLI+GGGDGGVLREV +H SV+ +V CEID  V  VSK+
+Sbjct  210  EHAYQEMIAQIPLHAHPDPKSVLIVGGGDGGVLREVCRHSSVQKIVMCEIDSQVCDVSKR  389
+
+Query  136  FLPG-MAIGYSSSKLTLHVGDGFEFMKQNQDAFDVIITDSSDPMGPAESLFKESYYQLMK  194
+            F     A  ++  ++ L   D  +F+K  +D +DV+I DSSDP+GPAE+LF+ ++YQ +K
+Sbjct  390  FFANSTATSFNDPRVQLVHADAAQFVKDKRDEYDVVIVDSSDPIGPAETLFQPAFYQGLK  569
+
+Query  195  TALKEDGVLCCQGECQWLHLDLIKEMRQFCQSLFPVVAYAYCTIPTYPSGQIGFMLCSKN  254
+             A++   ++C QGEC WLHLDLI  + + C ++FP V YA+ TIPTYPSGQIGF++CS +
+Sbjct  570  DAMRPGAIMCNQGECIWLHLDLIGTVLRHCTTVFPSVDYAFTTIPTYPSGQIGFLMCSTS  749
+
+Query  255  PSTNFQEPVQPLTQQQVAQMQLKYYNSDVHRAAFVL  290
+            P+T  + P +  T     Q QLKYYN  VH AAFVL
+Sbjct  750  PNTVLRVPAR--TPPPEVQAQLKYYNPAVHAAAFVL  851
+
+
+
+
+>TSA: Emiliania huxleyi, TRINITY-DN10932-c1-g1-i6, transcribed RNA sequence
+Sequence ID: HBRW01017690.1 Length: 1160
+Range 1: 72 to 926
+
+Score:314 bits(805), Expect:2e-103, 
+Method:Compositional matrix adjust., 
+Identities:158/287(55%), Positives:202/287(70%), Gaps:3/287(1%)
+
+Query  16   IREGWFRETCSLWPGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQCTERD  75
+            +R+ WF E   +WPGQA+SL+VE++L   RS++QDILVFRS TYG VLVLDGVIQ TERD
+Sbjct  72   VRDNWFTENEVMWPGQAMSLKVEEVLFEGRSKFQDILVFRSSTYGTVLVLDGVIQLTERD  251
+
+Query  76   EFSYQEMIANLPLCSHPNPRKVLIIgggdggVLREVVKHPSVESVVQCEIDEDVIQVSKK  135
+            E +YQEMIA LPL SHPNP+ VLI+GGGDGGVLREV +HP V SV  CEIDE V  V+KK
+Sbjct  252  EHAYQEMIAQLPLHSHPNPQSVLIVGGGDGGVLREVCRHPDVASVTMCEIDELVCDVAKK  431
+
+Query  136  FLP-GMAIGYSSSKLTLHVGDGFEFMKQNQDAFDVIITDSSDPMGPAESLFKESYYQLMK  194
+            +L    A  +   ++TL   D  E++K   DA+D++I DSSDP+GPAE+LF  S+Y  ++
+Sbjct  432  YLSHSTATAFDDPRVTLVHADAAEYVKDKCDAYDLVIVDSSDPIGPAETLFTSSFYSCLR  611
+
+Query  195  TALKEDGVLCCQGECQWLHLDLIKEMRQFCQSLFPVVAYAYCTIPTYPSGQIGFMLCSKN  254
+             A++   ++C QGEC WLHL LI +  + C  +FP V YAY TIPTYPSGQIGF+LCS  
+Sbjct  612  KAMRPGAIMCNQGECIWLHLPLIADCLRSCHEIFPSVDYAYTTIPTYPSGQIGFLLCSTA  791
+
+Query  255  PSTNFQEPVQPLTQQQVAQMQLKYYNSDVHRAAFVLPEFARKALNDV  301
+                 + P++  T +   Q QLKYY+   H AAF+LP FA + +  V
+Sbjct  792  AGAVLRRPLREPTPEM--QAQLKYYSPAAHAAAFILPRFAEETVAAV  926
+
+
+
+
+>TSA: Gephyrocapsa oceanica, TRINITY-DN3513-c6-g1-i7, transcribed RNA sequence
+Sequence ID: HBON01040126.1 Length: 1275
+Range 1: 83 to 937
+
+Score:315 bits(808), Expect:2e-103, 
+Method:Compositional matrix adjust., 
+Identities:159/287(55%), Positives:202/287(70%), Gaps:3/287(1%)
+
+Query  16   IREGWFRETCSLWPGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQCTERD  75
+            +R+ WF E   +WPGQA+SL+VE++L   RS++QDILVFRS TYG VLVLDGVIQ TERD
+Sbjct  83   VRDNWFTENEVMWPGQAMSLKVEEVLFEGRSKFQDILVFRSSTYGTVLVLDGVIQLTERD  262
+
+Query  76   EFSYQEMIANLPLCSHPNPRKVLIIgggdggVLREVVKHPSVESVVQCEIDEDVIQVSKK  135
+            E +YQEMIA LPL SHPNP+ VLI+GGGDGGVLREV +HP V SV  CEIDE V  V+KK
+Sbjct  263  EHAYQEMIAQLPLHSHPNPQSVLIVGGGDGGVLREVCRHPDVASVTMCEIDELVCDVAKK  442
+
+Query  136  FLP-GMAIGYSSSKLTLHVGDGFEFMKQNQDAFDVIITDSSDPMGPAESLFKESYYQLMK  194
+            +L    A  +   ++TL   D  E++K   DA+DV+I DSSDP+GPAE+LF  S+Y  ++
+Sbjct  443  YLSHSTATAFDDPRVTLVHADAAEYVKDKCDAYDVVIVDSSDPIGPAETLFTSSFYSCLR  622
+
+Query  195  TALKEDGVLCCQGECQWLHLDLIKEMRQFCQSLFPVVAYAYCTIPTYPSGQIGFMLCSKN  254
+             A++   ++C QGEC WLHL LI +  + C  +FP V YAY TIPTYPSGQIGF+LCS  
+Sbjct  623  KAMRPGAIMCNQGECIWLHLPLIADCLRSCHEIFPSVDYAYTTIPTYPSGQIGFLLCSTA  802
+
+Query  255  PSTNFQEPVQPLTQQQVAQMQLKYYNSDVHRAAFVLPEFARKALNDV  301
+                 + P++  T +   Q QLKYY+   H AAF+LP FA + +  V
+Sbjct  803  AGAVLRRPLREPTPEM--QAQLKYYSPAAHAAAFILPRFAEETVAAV  937
+
+
+
+
+>TSA: Gephyrocapsa oceanica, TRINITY-DN3513-c6-g1-i3, transcribed RNA sequence
+Sequence ID: HBON01040124.1 Length: 1277
+Range 1: 85 to 939
+
+Score:315 bits(808), Expect:2e-103, 
+Method:Compositional matrix adjust., 
+Identities:159/287(55%), Positives:202/287(70%), Gaps:3/287(1%)
+
+Query  16   IREGWFRETCSLWPGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQCTERD  75
+            +R+ WF E   +WPGQA+SL+VE++L   RS++QDILVFRS TYG VLVLDGVIQ TERD
+Sbjct  85   VRDNWFTENEVMWPGQAMSLKVEEVLFEGRSKFQDILVFRSSTYGTVLVLDGVIQLTERD  264
+
+Query  76   EFSYQEMIANLPLCSHPNPRKVLIIgggdggVLREVVKHPSVESVVQCEIDEDVIQVSKK  135
+            E +YQEMIA LPL SHPNP+ VLI+GGGDGGVLREV +HP V SV  CEIDE V  V+KK
+Sbjct  265  EHAYQEMIAQLPLHSHPNPQSVLIVGGGDGGVLREVCRHPDVASVTMCEIDELVCDVAKK  444
+
+Query  136  FLP-GMAIGYSSSKLTLHVGDGFEFMKQNQDAFDVIITDSSDPMGPAESLFKESYYQLMK  194
+            +L    A  +   ++TL   D  E++K   DA+DV+I DSSDP+GPAE+LF  S+Y  ++
+Sbjct  445  YLSHSTATAFDDPRVTLVHADAAEYVKDKCDAYDVVIVDSSDPIGPAETLFTSSFYSCLR  624
+
+Query  195  TALKEDGVLCCQGECQWLHLDLIKEMRQFCQSLFPVVAYAYCTIPTYPSGQIGFMLCSKN  254
+             A++   ++C QGEC WLHL LI +  + C  +FP V YAY TIPTYPSGQIGF+LCS  
+Sbjct  625  KAMRPGAIMCNQGECIWLHLPLIADCLRSCHEIFPSVDYAYTTIPTYPSGQIGFLLCSTA  804
+
+Query  255  PSTNFQEPVQPLTQQQVAQMQLKYYNSDVHRAAFVLPEFARKALNDV  301
+                 + P++  T +   Q QLKYY+   H AAF+LP FA + +  V
+Sbjct  805  AGAVLRRPLREPTPEM--QAQLKYYSPAAHAAAFILPRFAEETVAAV  939
+
+
+
+
+>TSA: Gephyrocapsa oceanica, TRINITY-DN8294-c0-g1-i4, transcribed RNA sequence
+Sequence ID: HBTM01048747.1 Length: 1296
+Range 1: 85 to 939
+
+Score:315 bits(808), Expect:2e-103, 
+Method:Compositional matrix adjust., 
+Identities:159/287(55%), Positives:202/287(70%), Gaps:3/287(1%)
+
+Query  16   IREGWFRETCSLWPGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQCTERD  75
+            +R+ WF E   +WPGQA+SL+VE++L   RS++QDILVFRS TYG VLVLDGVIQ TERD
+Sbjct  85   VRDNWFTENEVMWPGQAMSLKVEEVLFEGRSKFQDILVFRSSTYGTVLVLDGVIQLTERD  264
+
+Query  76   EFSYQEMIANLPLCSHPNPRKVLIIgggdggVLREVVKHPSVESVVQCEIDEDVIQVSKK  135
+            E +YQEMIA LPL SHPNP+ VLI+GGGDGGVLREV +HP V SV  CEIDE V  V+KK
+Sbjct  265  EHAYQEMIAQLPLHSHPNPQSVLIVGGGDGGVLREVCRHPDVASVTMCEIDELVCDVAKK  444
+
+Query  136  FLP-GMAIGYSSSKLTLHVGDGFEFMKQNQDAFDVIITDSSDPMGPAESLFKESYYQLMK  194
+            +L    A  +   ++TL   D  E++K   DA+DV+I DSSDP+GPAE+LF  S+Y  ++
+Sbjct  445  YLSHSTATAFDDPRVTLVHADAAEYVKDKCDAYDVVIVDSSDPIGPAETLFTSSFYSCLR  624
+
+Query  195  TALKEDGVLCCQGECQWLHLDLIKEMRQFCQSLFPVVAYAYCTIPTYPSGQIGFMLCSKN  254
+             A++   ++C QGEC WLHL LI +  + C  +FP V YAY TIPTYPSGQIGF+LCS  
+Sbjct  625  KAMRPGAIMCNQGECIWLHLPLIADCLRSCHEIFPSVDYAYTTIPTYPSGQIGFLLCSTA  804
+
+Query  255  PSTNFQEPVQPLTQQQVAQMQLKYYNSDVHRAAFVLPEFARKALNDV  301
+                 + P++  T +   Q QLKYY+   H AAF+LP FA + +  V
+Sbjct  805  AGAVLRRPLREPTPEM--QAQLKYYSPAAHAAAFILPRFAEETVAAV  939
+
+
+
+
+>TSA: Emiliania huxleyi, TRINITY-DN3200-c0-g1-i1, transcribed RNA sequence
+Sequence ID: HBTX01045441.1 Length: 1226
+Range 1: 42 to 896
+
+Score:314 bits(805), Expect:4e-103, 
+Method:Compositional matrix adjust., 
+Identities:158/287(55%), Positives:202/287(70%), Gaps:3/287(1%)
+
+Query  16   IREGWFRETCSLWPGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQCTERD  75
+            +R+ WF E   +WPGQA+SL+VE++L   RS++QDILVFRS TYG VLVLDGVIQ TERD
+Sbjct  42   VRDNWFTENEVMWPGQAMSLKVEEVLFEGRSKFQDILVFRSSTYGTVLVLDGVIQLTERD  221
+
+Query  76   EFSYQEMIANLPLCSHPNPRKVLIIgggdggVLREVVKHPSVESVVQCEIDEDVIQVSKK  135
+            E +YQEMIA LPL SHPNP+ VLI+GGGDGGVLREV +HP V SV  CEIDE V  V+KK
+Sbjct  222  EHAYQEMIAQLPLHSHPNPQSVLIVGGGDGGVLREVCRHPDVASVTMCEIDELVCDVAKK  401
+
+Query  136  FLP-GMAIGYSSSKLTLHVGDGFEFMKQNQDAFDVIITDSSDPMGPAESLFKESYYQLMK  194
+            +L    A  +   ++TL   D  E++K   DA+D++I DSSDP+GPAE+LF  S+Y  ++
+Sbjct  402  YLSHSTATAFDDPRVTLVHADAAEYVKDKCDAYDLVIVDSSDPIGPAETLFTSSFYSCLR  581
+
+Query  195  TALKEDGVLCCQGECQWLHLDLIKEMRQFCQSLFPVVAYAYCTIPTYPSGQIGFMLCSKN  254
+             A++   ++C QGEC WLHL LI +  + C  +FP V YAY TIPTYPSGQIGF+LCS  
+Sbjct  582  KAMRPGAIMCNQGECIWLHLPLIADCLRSCHEIFPSVDYAYTTIPTYPSGQIGFLLCSTA  761
+
+Query  255  PSTNFQEPVQPLTQQQVAQMQLKYYNSDVHRAAFVLPEFARKALNDV  301
+                 + P++  T +   Q QLKYY+   H AAF+LP FA + +  V
+Sbjct  762  AGAVLRRPLREPTPEM--QAQLKYYSPAAHAAAFILPRFAEETVAAV  896
+
+
+
+
+>TSA: Emiliania huxleyi, TRINITY-DN3200-c0-g1-i1, transcribed RNA sequence
+Sequence ID: HBTI01045441.1 Length: 1226
+Range 1: 42 to 896
+
+Score:314 bits(805), Expect:4e-103, 
+Method:Compositional matrix adjust., 
+Identities:158/287(55%), Positives:202/287(70%), Gaps:3/287(1%)
+
+Query  16   IREGWFRETCSLWPGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQCTERD  75
+            +R+ WF E   +WPGQA+SL+VE++L   RS++QDILVFRS TYG VLVLDGVIQ TERD
+Sbjct  42   VRDNWFTENEVMWPGQAMSLKVEEVLFEGRSKFQDILVFRSSTYGTVLVLDGVIQLTERD  221
+
+Query  76   EFSYQEMIANLPLCSHPNPRKVLIIgggdggVLREVVKHPSVESVVQCEIDEDVIQVSKK  135
+            E +YQEMIA LPL SHPNP+ VLI+GGGDGGVLREV +HP V SV  CEIDE V  V+KK
+Sbjct  222  EHAYQEMIAQLPLHSHPNPQSVLIVGGGDGGVLREVCRHPDVASVTMCEIDELVCDVAKK  401
+
+Query  136  FLP-GMAIGYSSSKLTLHVGDGFEFMKQNQDAFDVIITDSSDPMGPAESLFKESYYQLMK  194
+            +L    A  +   ++TL   D  E++K   DA+D++I DSSDP+GPAE+LF  S+Y  ++
+Sbjct  402  YLSHSTATAFDDPRVTLVHADAAEYVKDKCDAYDLVIVDSSDPIGPAETLFTSSFYSCLR  581
+
+Query  195  TALKEDGVLCCQGECQWLHLDLIKEMRQFCQSLFPVVAYAYCTIPTYPSGQIGFMLCSKN  254
+             A++   ++C QGEC WLHL LI +  + C  +FP V YAY TIPTYPSGQIGF+LCS  
+Sbjct  582  KAMRPGAIMCNQGECIWLHLPLIADCLRSCHEIFPSVDYAYTTIPTYPSGQIGFLLCSTA  761
+
+Query  255  PSTNFQEPVQPLTQQQVAQMQLKYYNSDVHRAAFVLPEFARKALNDV  301
+                 + P++  T +   Q QLKYY+   H AAF+LP FA + +  V
+Sbjct  762  AGAVLRRPLREPTPEM--QAQLKYYSPAAHAAAFILPRFAEETVAAV  896
+
+
+
+
+>TSA: Phaeocystis sp. PLY559, TRINITY-DN44941-c0-g1-i1, transcribed RNA sequence
+Sequence ID: HBRK01057483.1 Length: 888
+Range 1: 39 to 884
+
+Score:310 bits(794), Expect:4e-103, 
+Method:Compositional matrix adjust., 
+Identities:150/284(53%), Positives:208/284(73%), Gaps:3/284(1%)
+
+Query  16   IREGWFRETCSLWPGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQCTERD  75
+            I++GWF E+  +WPGQA+SL+VE +L+  RS +QDILVF+S TYGNVLVLDG IQ TERD
+Sbjct  39   IKDGWFSESEVMWPGQAMSLKVENVLYEGRSDFQDILVFKSSTYGNVLVLDGAIQLTERD  218
+
+Query  76   EFSYQEMIANLPLCSHPNPRKVLIIgggdggVLREVVKHPSVESVVQCEIDEDVIQVSKK  135
+            E +YQEMIA +PL  HP+P+ VLI+GGGDGGVLREV +H S++ +V CEID  V +V+K+
+Sbjct  219  EHAYQEMIAQIPLHCHPDPKSVLIVGGGDGGVLREVCRHKSIQKIVMCEIDAKVCEVAKQ  398
+
+Query  136  FLPG-MAIGYSSSKLTLHVGDGFEFMKQNQDAFDVIITDSSDPMGPAESLFKESYYQLMK  194
+            F  G  A  ++  ++ L   D  +++K   D +DV+I DSSDP+GPAE+LF+ ++YQ +K
+Sbjct  399  FFAGSTATAFNDPRVELVHADAAQYVKNKHDEYDVVIVDSSDPIGPAETLFQPAFYQGLK  578
+
+Query  195  TALKEDGVLCCQGECQWLHLDLIKEMRQFCQSLFPVVAYAYCTIPTYPSGQIGFMLCSKN  254
+             A++   ++C QGEC WLHL+LI ++ + C ++FP V YA+ TIPTYPSGQIGF++C  +
+Sbjct  579  DAMRPGAIMCNQGECIWLHLELIGQVLRHCTTVFPSVDYAFTTIPTYPSGQIGFLMCCTS  758
+
+Query  255  PSTNFQEPVQPLTQQQVAQMQLKYYNSDVHRAAFVLPEFARKAL  298
+            P+T  + P +    +   Q QLKYY+  VH AAFVLP FA + +
+Sbjct  759  PNTVLRVPARAPAPE--LQAQLKYYSHAVHSAAFVLPVFAERTV  884
+
+
+
+
+>TSA: Emiliania huxleyi, TRINITY-DN11161-c0-g1-i2, transcribed RNA sequence
+Sequence ID: HBTU01001843.1 Length: 1238
+Range 1: 39 to 893
+
+Score:314 bits(805), Expect:4e-103, 
+Method:Compositional matrix adjust., 
+Identities:158/287(55%), Positives:202/287(70%), Gaps:3/287(1%)
+
+Query  16   IREGWFRETCSLWPGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQCTERD  75
+            +R+ WF E   +WPGQA+SL+VE++L   RS++QDILVFRS TYG VLVLDGVIQ TERD
+Sbjct  39   VRDNWFTENEVMWPGQAMSLKVEEVLFEGRSKFQDILVFRSSTYGTVLVLDGVIQLTERD  218
+
+Query  76   EFSYQEMIANLPLCSHPNPRKVLIIgggdggVLREVVKHPSVESVVQCEIDEDVIQVSKK  135
+            E +YQEMIA LPL SHPNP+ VLI+GGGDGGVLREV +HP V SV  CEIDE V  V+KK
+Sbjct  219  EHAYQEMIAQLPLHSHPNPQSVLIVGGGDGGVLREVCRHPDVASVTMCEIDELVCDVAKK  398
+
+Query  136  FLP-GMAIGYSSSKLTLHVGDGFEFMKQNQDAFDVIITDSSDPMGPAESLFKESYYQLMK  194
+            +L    A  +   ++TL   D  E++K   DA+D++I DSSDP+GPAE+LF  S+Y  ++
+Sbjct  399  YLSHSTATAFDDPRVTLVHADAAEYVKDKCDAYDLVIVDSSDPIGPAETLFTSSFYSCLR  578
+
+Query  195  TALKEDGVLCCQGECQWLHLDLIKEMRQFCQSLFPVVAYAYCTIPTYPSGQIGFMLCSKN  254
+             A++   ++C QGEC WLHL LI +  + C  +FP V YAY TIPTYPSGQIGF+LCS  
+Sbjct  579  KAMRPGAIMCNQGECIWLHLPLIADCLRSCHEIFPSVDYAYTTIPTYPSGQIGFLLCSTA  758
+
+Query  255  PSTNFQEPVQPLTQQQVAQMQLKYYNSDVHRAAFVLPEFARKALNDV  301
+                 + P++  T +   Q QLKYY+   H AAF+LP FA + +  V
+Sbjct  759  AGAVLRRPLREPTPEM--QAQLKYYSPAAHAAAFILPRFAEETVAAV  893
+
+
+
+
+>TSA: Emiliania huxleyi, TRINITY-DN36889-c0-g1-i1, transcribed RNA sequence
+Sequence ID: HBTV01047599.1 Length: 1240
+Range 1: 40 to 894
+
+Score:314 bits(805), Expect:4e-103, 
+Method:Compositional matrix adjust., 
+Identities:158/287(55%), Positives:202/287(70%), Gaps:3/287(1%)
+
+Query  16   IREGWFRETCSLWPGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQCTERD  75
+            +R+ WF E   +WPGQA+SL+VE++L   RS++QDILVFRS TYG VLVLDGVIQ TERD
+Sbjct  40   VRDNWFTENEVMWPGQAMSLKVEEVLFEGRSKFQDILVFRSSTYGTVLVLDGVIQLTERD  219
+
+Query  76   EFSYQEMIANLPLCSHPNPRKVLIIgggdggVLREVVKHPSVESVVQCEIDEDVIQVSKK  135
+            E +YQEMIA LPL SHPNP+ VLI+GGGDGGVLREV +HP V SV  CEIDE V  V+KK
+Sbjct  220  EHAYQEMIAQLPLHSHPNPQSVLIVGGGDGGVLREVCRHPDVASVTMCEIDELVCDVAKK  399
+
+Query  136  FLP-GMAIGYSSSKLTLHVGDGFEFMKQNQDAFDVIITDSSDPMGPAESLFKESYYQLMK  194
+            +L    A  +   ++TL   D  E++K   DA+D++I DSSDP+GPAE+LF  S+Y  ++
+Sbjct  400  YLSHSTATAFDDPRVTLVHADAAEYVKDKCDAYDLVIVDSSDPIGPAETLFTSSFYSCLR  579
+
+Query  195  TALKEDGVLCCQGECQWLHLDLIKEMRQFCQSLFPVVAYAYCTIPTYPSGQIGFMLCSKN  254
+             A++   ++C QGEC WLHL LI +  + C  +FP V YAY TIPTYPSGQIGF+LCS  
+Sbjct  580  KAMRPGAIMCNQGECIWLHLPLIADCLRSCHEIFPSVDYAYTTIPTYPSGQIGFLLCSTA  759
+
+Query  255  PSTNFQEPVQPLTQQQVAQMQLKYYNSDVHRAAFVLPEFARKALNDV  301
+                 + P++  T +   Q QLKYY+   H AAF+LP FA + +  V
+Sbjct  760  AGAVLRRPLREPTPEM--QAQLKYYSPAAHAAAFILPRFAEETVAAV  894
+
+
+
+
+>TSA: Emiliania huxleyi, TRINITY-DN12834-c0-g1-i3, transcribed RNA sequence
+Sequence ID: HBPW01043916.1 Length: 1249
+Range 1: 42 to 896
+
+Score:314 bits(805), Expect:5e-103, 
+Method:Compositional matrix adjust., 
+Identities:158/287(55%), Positives:202/287(70%), Gaps:3/287(1%)
+
+Query  16   IREGWFRETCSLWPGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQCTERD  75
+            +R+ WF E   +WPGQA+SL+VE++L   RS++QDILVFRS TYG VLVLDGVIQ TERD
+Sbjct  42   VRDNWFTENEVMWPGQAMSLKVEEVLFEGRSKFQDILVFRSSTYGTVLVLDGVIQLTERD  221
+
+Query  76   EFSYQEMIANLPLCSHPNPRKVLIIgggdggVLREVVKHPSVESVVQCEIDEDVIQVSKK  135
+            E +YQEMIA LPL SHPNP+ VLI+GGGDGGVLREV +HP V SV  CEIDE V  V+KK
+Sbjct  222  EHAYQEMIAQLPLHSHPNPQSVLIVGGGDGGVLREVCRHPDVASVTMCEIDELVCDVAKK  401
+
+Query  136  FLP-GMAIGYSSSKLTLHVGDGFEFMKQNQDAFDVIITDSSDPMGPAESLFKESYYQLMK  194
+            +L    A  +   ++TL   D  E++K   DA+D++I DSSDP+GPAE+LF  S+Y  ++
+Sbjct  402  YLSHSTATAFDDPRVTLVHADAAEYVKDKCDAYDLVIVDSSDPIGPAETLFTSSFYSCLR  581
+
+Query  195  TALKEDGVLCCQGECQWLHLDLIKEMRQFCQSLFPVVAYAYCTIPTYPSGQIGFMLCSKN  254
+             A++   ++C QGEC WLHL LI +  + C  +FP V YAY TIPTYPSGQIGF+LCS  
+Sbjct  582  KAMRPGAIMCNQGECIWLHLPLIADCLRSCHEIFPSVDYAYTTIPTYPSGQIGFLLCSTA  761
+
+Query  255  PSTNFQEPVQPLTQQQVAQMQLKYYNSDVHRAAFVLPEFARKALNDV  301
+                 + P++  T +   Q QLKYY+   H AAF+LP FA + +  V
+Sbjct  762  AGAVLRRPLREPTPEM--QAQLKYYSPAAHAAAFILPRFAEETVAAV  896
+
+
+
+
+>TSA: Emiliania huxleyi, TRINITY-DN10037-c0-g1-i1, transcribed RNA sequence
+Sequence ID: HBNU01000039.1 Length: 1252
+Range 1: 37 to 891
+
+Score:314 bits(805), Expect:5e-103, 
+Method:Compositional matrix adjust., 
+Identities:158/287(55%), Positives:202/287(70%), Gaps:3/287(1%)
+
+Query  16   IREGWFRETCSLWPGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQCTERD  75
+            +R+ WF E   +WPGQA+SL+VE++L   RS++QDILVFRS TYG VLVLDGVIQ TERD
+Sbjct  37   VRDNWFTENEVMWPGQAMSLKVEEVLFEGRSKFQDILVFRSSTYGTVLVLDGVIQLTERD  216
+
+Query  76   EFSYQEMIANLPLCSHPNPRKVLIIgggdggVLREVVKHPSVESVVQCEIDEDVIQVSKK  135
+            E +YQEMIA LPL SHPNP+ VLI+GGGDGGVLREV +HP V SV  CEIDE V  V+KK
+Sbjct  217  EHAYQEMIAQLPLHSHPNPQSVLIVGGGDGGVLREVCRHPDVASVTMCEIDELVCDVAKK  396
+
+Query  136  FLP-GMAIGYSSSKLTLHVGDGFEFMKQNQDAFDVIITDSSDPMGPAESLFKESYYQLMK  194
+            +L    A  +   ++TL   D  E++K   DA+D++I DSSDP+GPAE+LF  S+Y  ++
+Sbjct  397  YLSHSTATAFDDPRVTLVHADAAEYVKDKCDAYDLVIVDSSDPIGPAETLFTSSFYSCLR  576
+
+Query  195  TALKEDGVLCCQGECQWLHLDLIKEMRQFCQSLFPVVAYAYCTIPTYPSGQIGFMLCSKN  254
+             A++   ++C QGEC WLHL LI +  + C  +FP V YAY TIPTYPSGQIGF+LCS  
+Sbjct  577  KAMRPGAIMCNQGECIWLHLPLIADCLRSCHEIFPSVDYAYTTIPTYPSGQIGFLLCSTA  756
+
+Query  255  PSTNFQEPVQPLTQQQVAQMQLKYYNSDVHRAAFVLPEFARKALNDV  301
+                 + P++  T +   Q QLKYY+   H AAF+LP FA + +  V
+Sbjct  757  AGAVLRRPLREPTPEM--QAQLKYYSPAAHAAAFILPRFAEETVAAV  891
+
+
+
+
+>TSA: Emiliania huxleyi, TRINITY-DN16518-c0-g1-i1, transcribed RNA sequence
+Sequence ID: HBTF01011923.1 Length: 1254
+Range 1: 35 to 889
+
+Score:314 bits(805), Expect:5e-103, 
+Method:Compositional matrix adjust., 
+Identities:158/287(55%), Positives:202/287(70%), Gaps:3/287(1%)
+
+Query  16   IREGWFRETCSLWPGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQCTERD  75
+            +R+ WF E   +WPGQA+SL+VE++L   RS++QDILVFRS TYG VLVLDGVIQ TERD
+Sbjct  35   VRDNWFTENEVMWPGQAMSLKVEEVLFEGRSKFQDILVFRSSTYGTVLVLDGVIQLTERD  214
+
+Query  76   EFSYQEMIANLPLCSHPNPRKVLIIgggdggVLREVVKHPSVESVVQCEIDEDVIQVSKK  135
+            E +YQEMIA LPL SHPNP+ VLI+GGGDGGVLREV +HP V SV  CEIDE V  V+KK
+Sbjct  215  EHAYQEMIAQLPLHSHPNPQSVLIVGGGDGGVLREVCRHPDVASVTMCEIDELVCDVAKK  394
+
+Query  136  FLP-GMAIGYSSSKLTLHVGDGFEFMKQNQDAFDVIITDSSDPMGPAESLFKESYYQLMK  194
+            +L    A  +   ++TL   D  E++K   DA+D++I DSSDP+GPAE+LF  S+Y  ++
+Sbjct  395  YLSHSTATAFDDPRVTLVHADAAEYVKDKCDAYDLVIVDSSDPIGPAETLFTSSFYSCLR  574
+
+Query  195  TALKEDGVLCCQGECQWLHLDLIKEMRQFCQSLFPVVAYAYCTIPTYPSGQIGFMLCSKN  254
+             A++   ++C QGEC WLHL LI +  + C  +FP V YAY TIPTYPSGQIGF+LCS  
+Sbjct  575  KAMRPGAIMCNQGECIWLHLPLIADCLRSCHEIFPSVDYAYTTIPTYPSGQIGFLLCSTA  754
+
+Query  255  PSTNFQEPVQPLTQQQVAQMQLKYYNSDVHRAAFVLPEFARKALNDV  301
+                 + P++  T +   Q QLKYY+   H AAF+LP FA + +  V
+Sbjct  755  AGAVLRRPLREPTPEM--QAQLKYYSPAAHAAAFILPRFAEETVAAV  889
+
+
+
+
+>TSA: Emiliania huxleyi, TRINITY-DN14361-c0-g1-i1, transcribed RNA sequence
+Sequence ID: HBTT01008421.1 Length: 1258
+Range 1: 63 to 917
+
+Score:314 bits(805), Expect:5e-103, 
+Method:Compositional matrix adjust., 
+Identities:158/287(55%), Positives:202/287(70%), Gaps:3/287(1%)
+
+Query  16   IREGWFRETCSLWPGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQCTERD  75
+            +R+ WF E   +WPGQA+SL+VE++L   RS++QDILVFRS TYG VLVLDGVIQ TERD
+Sbjct  63   VRDNWFTENEVMWPGQAMSLKVEEVLFEGRSKFQDILVFRSSTYGTVLVLDGVIQLTERD  242
+
+Query  76   EFSYQEMIANLPLCSHPNPRKVLIIgggdggVLREVVKHPSVESVVQCEIDEDVIQVSKK  135
+            E +YQEMIA LPL SHPNP+ VLI+GGGDGGVLREV +HP V SV  CEIDE V  V+KK
+Sbjct  243  EHAYQEMIAQLPLHSHPNPQSVLIVGGGDGGVLREVCRHPDVASVTMCEIDELVCDVAKK  422
+
+Query  136  FLP-GMAIGYSSSKLTLHVGDGFEFMKQNQDAFDVIITDSSDPMGPAESLFKESYYQLMK  194
+            +L    A  +   ++TL   D  E++K   DA+D++I DSSDP+GPAE+LF  S+Y  ++
+Sbjct  423  YLSHSTATAFDDPRVTLVHADAAEYVKDKCDAYDLVIVDSSDPIGPAETLFTSSFYSCLR  602
+
+Query  195  TALKEDGVLCCQGECQWLHLDLIKEMRQFCQSLFPVVAYAYCTIPTYPSGQIGFMLCSKN  254
+             A++   ++C QGEC WLHL LI +  + C  +FP V YAY TIPTYPSGQIGF+LCS  
+Sbjct  603  KAMRPGAIMCNQGECIWLHLPLIADCLRSCHEIFPSVDYAYTTIPTYPSGQIGFLLCSTA  782
+
+Query  255  PSTNFQEPVQPLTQQQVAQMQLKYYNSDVHRAAFVLPEFARKALNDV  301
+                 + P++  T +   Q QLKYY+   H AAF+LP FA + +  V
+Sbjct  783  AGAVLRRPLREPTPEM--QAQLKYYSPAAHAAAFILPRFAEETVAAV  917
+
+
+
+
+>TSA: Emiliania huxleyi, TRINITY-DN9133-c0-g1-i3, transcribed RNA sequence
+Sequence ID: HBTL01111754.1 Length: 1259
+Range 1: 42 to 896
+
+Score:314 bits(805), Expect:5e-103, 
+Method:Compositional matrix adjust., 
+Identities:158/287(55%), Positives:202/287(70%), Gaps:3/287(1%)
+
+Query  16   IREGWFRETCSLWPGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQCTERD  75
+            +R+ WF E   +WPGQA+SL+VE++L   RS++QDILVFRS TYG VLVLDGVIQ TERD
+Sbjct  42   VRDNWFTENEVMWPGQAMSLKVEEVLFEGRSKFQDILVFRSSTYGTVLVLDGVIQLTERD  221
+
+Query  76   EFSYQEMIANLPLCSHPNPRKVLIIgggdggVLREVVKHPSVESVVQCEIDEDVIQVSKK  135
+            E +YQEMIA LPL SHPNP+ VLI+GGGDGGVLREV +HP V SV  CEIDE V  V+KK
+Sbjct  222  EHAYQEMIAQLPLHSHPNPQSVLIVGGGDGGVLREVCRHPDVASVTMCEIDELVCDVAKK  401
+
+Query  136  FLP-GMAIGYSSSKLTLHVGDGFEFMKQNQDAFDVIITDSSDPMGPAESLFKESYYQLMK  194
+            +L    A  +   ++TL   D  E++K   DA+D++I DSSDP+GPAE+LF  S+Y  ++
+Sbjct  402  YLSHSTATAFDDPRVTLVHADAAEYVKDKCDAYDLVIVDSSDPIGPAETLFTSSFYSCLR  581
+
+Query  195  TALKEDGVLCCQGECQWLHLDLIKEMRQFCQSLFPVVAYAYCTIPTYPSGQIGFMLCSKN  254
+             A++   ++C QGEC WLHL LI +  + C  +FP V YAY TIPTYPSGQIGF+LCS  
+Sbjct  582  KAMRPGAIMCNQGECIWLHLPLIADCLRSCHEIFPSVDYAYTTIPTYPSGQIGFLLCSTA  761
+
+Query  255  PSTNFQEPVQPLTQQQVAQMQLKYYNSDVHRAAFVLPEFARKALNDV  301
+                 + P++  T +   Q QLKYY+   H AAF+LP FA + +  V
+Sbjct  762  AGAVLRRPLREPTPEM--QAQLKYYSPAAHAAAFILPRFAEETVAAV  896
+
+
+
+
+>TSA: Emiliania huxleyi, TRINITY-DN5335-c0-g1-i1, transcribed RNA sequence
+Sequence ID: HBIR01007344.1 Length: 1259
+Range 1: 36 to 890
+
+Score:314 bits(805), Expect:5e-103, 
+Method:Compositional matrix adjust., 
+Identities:158/287(55%), Positives:202/287(70%), Gaps:3/287(1%)
+
+Query  16   IREGWFRETCSLWPGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQCTERD  75
+            +R+ WF E   +WPGQA+SL+VE++L   RS++QDILVFRS TYG VLVLDGVIQ TERD
+Sbjct  36   VRDNWFTENEVMWPGQAMSLKVEEVLFEGRSKFQDILVFRSSTYGTVLVLDGVIQLTERD  215
+
+Query  76   EFSYQEMIANLPLCSHPNPRKVLIIgggdggVLREVVKHPSVESVVQCEIDEDVIQVSKK  135
+            E +YQEMIA LPL SHPNP+ VLI+GGGDGGVLREV +HP V SV  CEIDE V  V+KK
+Sbjct  216  EHAYQEMIAQLPLHSHPNPQSVLIVGGGDGGVLREVCRHPDVASVTMCEIDELVCDVAKK  395
+
+Query  136  FLP-GMAIGYSSSKLTLHVGDGFEFMKQNQDAFDVIITDSSDPMGPAESLFKESYYQLMK  194
+            +L    A  +   ++TL   D  E++K   DA+D++I DSSDP+GPAE+LF  S+Y  ++
+Sbjct  396  YLSHSTATAFDDPRVTLVHADAAEYVKDKCDAYDLVIVDSSDPIGPAETLFTSSFYSCLR  575
+
+Query  195  TALKEDGVLCCQGECQWLHLDLIKEMRQFCQSLFPVVAYAYCTIPTYPSGQIGFMLCSKN  254
+             A++   ++C QGEC WLHL LI +  + C  +FP V YAY TIPTYPSGQIGF+LCS  
+Sbjct  576  KAMRPGAIMCNQGECIWLHLPLIADCLRSCHEIFPSVDYAYTTIPTYPSGQIGFLLCSTA  755
+
+Query  255  PSTNFQEPVQPLTQQQVAQMQLKYYNSDVHRAAFVLPEFARKALNDV  301
+                 + P++  T +   Q QLKYY+   H AAF+LP FA + +  V
+Sbjct  756  AGAVLRRPLREPTPEM--QAQLKYYSPAAHAAAFILPRFAEETVAAV  890
+
+
+
+
+>TSA: Emiliania huxleyi, TRINITY-DN5130-c4-g2-i3, transcribed RNA sequence
+Sequence ID: HBOB01027952.1 Length: 1265
+Range 1: 42 to 896
+
+Score:314 bits(805), Expect:5e-103, 
+Method:Compositional matrix adjust., 
+Identities:158/287(55%), Positives:202/287(70%), Gaps:3/287(1%)
+
+Query  16   IREGWFRETCSLWPGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQCTERD  75
+            +R+ WF E   +WPGQA+SL+VE++L   RS++QDILVFRS TYG VLVLDGVIQ TERD
+Sbjct  42   VRDNWFTENEVMWPGQAMSLKVEEVLFEGRSKFQDILVFRSSTYGTVLVLDGVIQLTERD  221
+
+Query  76   EFSYQEMIANLPLCSHPNPRKVLIIgggdggVLREVVKHPSVESVVQCEIDEDVIQVSKK  135
+            E +YQEMIA LPL SHPNP+ VLI+GGGDGGVLREV +HP V SV  CEIDE V  V+KK
+Sbjct  222  EHAYQEMIAQLPLHSHPNPQSVLIVGGGDGGVLREVCRHPDVASVTMCEIDELVCDVAKK  401
+
+Query  136  FLP-GMAIGYSSSKLTLHVGDGFEFMKQNQDAFDVIITDSSDPMGPAESLFKESYYQLMK  194
+            +L    A  +   ++TL   D  E++K   DA+D++I DSSDP+GPAE+LF  S+Y  ++
+Sbjct  402  YLSHSTATAFDDPRVTLVHADAAEYVKDKCDAYDLVIVDSSDPIGPAETLFTSSFYSCLR  581
+
+Query  195  TALKEDGVLCCQGECQWLHLDLIKEMRQFCQSLFPVVAYAYCTIPTYPSGQIGFMLCSKN  254
+             A++   ++C QGEC WLHL LI +  + C  +FP V YAY TIPTYPSGQIGF+LCS  
+Sbjct  582  KAMRPGAIMCNQGECIWLHLPLIADCLRSCHEIFPSVDYAYTTIPTYPSGQIGFLLCSTA  761
+
+Query  255  PSTNFQEPVQPLTQQQVAQMQLKYYNSDVHRAAFVLPEFARKALNDV  301
+                 + P++  T +   Q QLKYY+   H AAF+LP FA + +  V
+Sbjct  762  AGAVLRRPLREPTPEM--QAQLKYYSPAAHAAAFILPRFAEETVAAV  896
+
+
+
+
+>TSA: Emiliania huxleyi, TRINITY-DN4198-c2-g1-i4, transcribed RNA sequence
+Sequence ID: HBOC01035486.1 Length: 1266
+Range 1: 42 to 896
+
+Score:314 bits(805), Expect:6e-103, 
+Method:Compositional matrix adjust., 
+Identities:158/287(55%), Positives:202/287(70%), Gaps:3/287(1%)
+
+Query  16   IREGWFRETCSLWPGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQCTERD  75
+            +R+ WF E   +WPGQA+SL+VE++L   RS++QDILVFRS TYG VLVLDGVIQ TERD
+Sbjct  42   VRDNWFTENEVMWPGQAMSLKVEEVLFEGRSKFQDILVFRSSTYGTVLVLDGVIQLTERD  221
+
+Query  76   EFSYQEMIANLPLCSHPNPRKVLIIgggdggVLREVVKHPSVESVVQCEIDEDVIQVSKK  135
+            E +YQEMIA LPL SHPNP+ VLI+GGGDGGVLREV +HP V SV  CEIDE V  V+KK
+Sbjct  222  EHAYQEMIAQLPLHSHPNPQSVLIVGGGDGGVLREVCRHPDVASVTMCEIDELVCDVAKK  401
+
+Query  136  FLP-GMAIGYSSSKLTLHVGDGFEFMKQNQDAFDVIITDSSDPMGPAESLFKESYYQLMK  194
+            +L    A  +   ++TL   D  E++K   DA+D++I DSSDP+GPAE+LF  S+Y  ++
+Sbjct  402  YLSHSTATAFDDPRVTLVHADAAEYVKDKCDAYDLVIVDSSDPIGPAETLFTSSFYSCLR  581
+
+Query  195  TALKEDGVLCCQGECQWLHLDLIKEMRQFCQSLFPVVAYAYCTIPTYPSGQIGFMLCSKN  254
+             A++   ++C QGEC WLHL LI +  + C  +FP V YAY TIPTYPSGQIGF+LCS  
+Sbjct  582  KAMRPGAIMCNQGECIWLHLPLIADCLRSCHEIFPSVDYAYTTIPTYPSGQIGFLLCSTA  761
+
+Query  255  PSTNFQEPVQPLTQQQVAQMQLKYYNSDVHRAAFVLPEFARKALNDV  301
+                 + P++  T +   Q QLKYY+   H AAF+LP FA + +  V
+Sbjct  762  AGAVLRRPLREPTPEM--QAQLKYYSPAAHAAAFILPRFAEETVAAV  896
+
+
+
+
+>TSA: Emiliania huxleyi, TRINITY-DN10998-c0-g1-i1, transcribed RNA sequence
+Sequence ID: HBQI01002660.1 Length: 1271
+Range 1: 45 to 899
+
+Score:314 bits(805), Expect:6e-103, 
+Method:Compositional matrix adjust., 
+Identities:158/287(55%), Positives:202/287(70%), Gaps:3/287(1%)
+
+Query  16   IREGWFRETCSLWPGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQCTERD  75
+            +R+ WF E   +WPGQA+SL+VE++L   RS++QDILVFRS TYG VLVLDGVIQ TERD
+Sbjct  45   VRDNWFTENEVMWPGQAMSLKVEEVLFEGRSKFQDILVFRSSTYGTVLVLDGVIQLTERD  224
+
+Query  76   EFSYQEMIANLPLCSHPNPRKVLIIgggdggVLREVVKHPSVESVVQCEIDEDVIQVSKK  135
+            E +YQEMIA LPL SHPNP+ VLI+GGGDGGVLREV +HP V SV  CEIDE V  V+KK
+Sbjct  225  EHAYQEMIAQLPLHSHPNPQSVLIVGGGDGGVLREVCRHPDVASVTMCEIDELVCDVAKK  404
+
+Query  136  FLP-GMAIGYSSSKLTLHVGDGFEFMKQNQDAFDVIITDSSDPMGPAESLFKESYYQLMK  194
+            +L    A  +   ++TL   D  E++K   DA+D++I DSSDP+GPAE+LF  S+Y  ++
+Sbjct  405  YLSHSTATAFDDPRVTLVHADAAEYVKDKCDAYDLVIVDSSDPIGPAETLFTSSFYSCLR  584
+
+Query  195  TALKEDGVLCCQGECQWLHLDLIKEMRQFCQSLFPVVAYAYCTIPTYPSGQIGFMLCSKN  254
+             A++   ++C QGEC WLHL LI +  + C  +FP V YAY TIPTYPSGQIGF+LCS  
+Sbjct  585  KAMRPGAIMCNQGECIWLHLPLIADCLRSCHEIFPSVDYAYTTIPTYPSGQIGFLLCSTA  764
+
+Query  255  PSTNFQEPVQPLTQQQVAQMQLKYYNSDVHRAAFVLPEFARKALNDV  301
+                 + P++  T +   Q QLKYY+   H AAF+LP FA + +  V
+Sbjct  765  AGAVLRRPLREPTPEM--QAQLKYYSPAAHAAAFILPRFAEETVAAV  899
+
+
+
+
+>TSA: Emiliania huxleyi strain CCMP3266 Ehux3266_tr18846, transcribed RNA sequence
+Sequence ID: GIZZ01018846.1 Length: 1274
+Range 1: 51 to 905
+
+Score:314 bits(805), Expect:6e-103, 
+Method:Compositional matrix adjust., 
+Identities:158/287(55%), Positives:202/287(70%), Gaps:3/287(1%)
+
+Query  16   IREGWFRETCSLWPGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQCTERD  75
+            +R+ WF E   +WPGQA+SL+VE++L   RS++QDILVFRS TYG VLVLDGVIQ TERD
+Sbjct  51   VRDNWFTENEVMWPGQAMSLKVEEVLFEGRSKFQDILVFRSSTYGTVLVLDGVIQLTERD  230
+
+Query  76   EFSYQEMIANLPLCSHPNPRKVLIIgggdggVLREVVKHPSVESVVQCEIDEDVIQVSKK  135
+            E +YQEMIA LPL SHPNP+ VLI+GGGDGGVLREV +HP V SV  CEIDE V  V+KK
+Sbjct  231  EHAYQEMIAQLPLHSHPNPQSVLIVGGGDGGVLREVCRHPDVASVTMCEIDELVCDVAKK  410
+
+Query  136  FLP-GMAIGYSSSKLTLHVGDGFEFMKQNQDAFDVIITDSSDPMGPAESLFKESYYQLMK  194
+            +L    A  +   ++TL   D  E++K   DA+D++I DSSDP+GPAE+LF  S+Y  ++
+Sbjct  411  YLSHSTATAFDDPRVTLVHADAAEYVKDKCDAYDLVIVDSSDPIGPAETLFTSSFYSCLR  590
+
+Query  195  TALKEDGVLCCQGECQWLHLDLIKEMRQFCQSLFPVVAYAYCTIPTYPSGQIGFMLCSKN  254
+             A++   ++C QGEC WLHL LI +  + C  +FP V YAY TIPTYPSGQIGF+LCS  
+Sbjct  591  KAMRPGAIMCNQGECIWLHLPLIADCLRSCHEIFPSVDYAYTTIPTYPSGQIGFLLCSTA  770
+
+Query  255  PSTNFQEPVQPLTQQQVAQMQLKYYNSDVHRAAFVLPEFARKALNDV  301
+                 + P++  T +   Q QLKYY+   H AAF+LP FA + +  V
+Sbjct  771  AGAVLRRPLREPTPEM--QAQLKYYSPAAHAAAFILPRFAEETVAAV  905
+
+
+
+
+>TSA: Emiliania huxleyi, TRINITY-DN13076-c0-g1-i1, transcribed RNA sequence
+Sequence ID: HBTO01005163.1 Length: 1300
+Range 1: 64 to 918
+
+Score:314 bits(805), Expect:8e-103, 
+Method:Compositional matrix adjust., 
+Identities:158/287(55%), Positives:202/287(70%), Gaps:3/287(1%)
+
+Query  16   IREGWFRETCSLWPGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQCTERD  75
+            +R+ WF E   +WPGQA+SL+VE++L   RS++QDILVFRS TYG VLVLDGVIQ TERD
+Sbjct  64   VRDNWFTENEVMWPGQAMSLKVEEVLFEGRSKFQDILVFRSSTYGTVLVLDGVIQLTERD  243
+
+Query  76   EFSYQEMIANLPLCSHPNPRKVLIIgggdggVLREVVKHPSVESVVQCEIDEDVIQVSKK  135
+            E +YQEMIA LPL SHPNP+ VLI+GGGDGGVLREV +HP V SV  CEIDE V  V+KK
+Sbjct  244  EHAYQEMIAQLPLHSHPNPQSVLIVGGGDGGVLREVCRHPDVASVTMCEIDELVCDVAKK  423
+
+Query  136  FLP-GMAIGYSSSKLTLHVGDGFEFMKQNQDAFDVIITDSSDPMGPAESLFKESYYQLMK  194
+            +L    A  +   ++TL   D  E++K   DA+D++I DSSDP+GPAE+LF  S+Y  ++
+Sbjct  424  YLSHSTATAFDDPRVTLVHADAAEYVKDKCDAYDLVIVDSSDPIGPAETLFTSSFYSCLR  603
+
+Query  195  TALKEDGVLCCQGECQWLHLDLIKEMRQFCQSLFPVVAYAYCTIPTYPSGQIGFMLCSKN  254
+             A++   ++C QGEC WLHL LI +  + C  +FP V YAY TIPTYPSGQIGF+LCS  
+Sbjct  604  KAMRPGAIMCNQGECIWLHLPLIADCLRSCHEIFPSVDYAYTTIPTYPSGQIGFLLCSTA  783
+
+Query  255  PSTNFQEPVQPLTQQQVAQMQLKYYNSDVHRAAFVLPEFARKALNDV  301
+                 + P++  T +   Q QLKYY+   H AAF+LP FA + +  V
+Sbjct  784  AGAVLRRPLREPTPEM--QAQLKYYSPAAHAAAFILPRFAEETVAAV  918
+
+
+
+
+>TSA: uncultured Isochrysis, TRINITY-DN4222-c0-g1-i1, transcribed RNA sequence
+Sequence ID: HBSX01006676.1 Length: 1299
+Range 1: 85 to 939
+
+Score:314 bits(805), Expect:8e-103, 
+Method:Compositional matrix adjust., 
+Identities:158/287(55%), Positives:202/287(70%), Gaps:3/287(1%)
+
+Query  16   IREGWFRETCSLWPGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQCTERD  75
+            +R+ WF E   +WPGQA+SL+VE++L   RS++QDILVFRS TYG VLVLDGVIQ TERD
+Sbjct  85   VRDNWFTENEVMWPGQAMSLKVEEVLFEGRSKFQDILVFRSSTYGTVLVLDGVIQLTERD  264
+
+Query  76   EFSYQEMIANLPLCSHPNPRKVLIIgggdggVLREVVKHPSVESVVQCEIDEDVIQVSKK  135
+            E +YQEMIA LPL SHPNP+ VLI+GGGDGGVLREV +HP V SV  CEIDE V  V+KK
+Sbjct  265  EHAYQEMIAQLPLHSHPNPQSVLIVGGGDGGVLREVCRHPDVASVTMCEIDELVCDVAKK  444
+
+Query  136  FLP-GMAIGYSSSKLTLHVGDGFEFMKQNQDAFDVIITDSSDPMGPAESLFKESYYQLMK  194
+            +L    A  +   ++TL   D  E++K   DA+D++I DSSDP+GPAE+LF  S+Y  ++
+Sbjct  445  YLSHSTATAFDDPRVTLVHADAAEYVKDKCDAYDLVIVDSSDPIGPAETLFTSSFYSCLR  624
+
+Query  195  TALKEDGVLCCQGECQWLHLDLIKEMRQFCQSLFPVVAYAYCTIPTYPSGQIGFMLCSKN  254
+             A++   ++C QGEC WLHL LI +  + C  +FP V YAY TIPTYPSGQIGF+LCS  
+Sbjct  625  KAMRPGAIMCNQGECIWLHLPLIADCLRSCHEIFPSVDYAYTTIPTYPSGQIGFLLCSTA  804
+
+Query  255  PSTNFQEPVQPLTQQQVAQMQLKYYNSDVHRAAFVLPEFARKALNDV  301
+                 + P++  T +   Q QLKYY+   H AAF+LP FA + +  V
+Sbjct  805  AGAVLRRPLREPTPEM--QAQLKYYSPAAHAAAFILPRFAEETVAAV  939
+
+
+
+
+>TSA: Phaeocystis sp. PLY559, TRINITY-DN44941-c0-g1-i2, transcribed RNA sequence
+Sequence ID: HBRK01057484.1 Length: 961
+Range 1: 112 to 957
+
+Score:310 bits(794), Expect:1e-102, 
+Method:Compositional matrix adjust., 
+Identities:150/284(53%), Positives:208/284(73%), Gaps:3/284(1%)
+
+Query  16   IREGWFRETCSLWPGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQCTERD  75
+            I++GWF E+  +WPGQA+SL+VE +L+  RS +QDILVF+S TYGNVLVLDG IQ TERD
+Sbjct  112  IKDGWFSESEVMWPGQAMSLKVENVLYEGRSDFQDILVFKSSTYGNVLVLDGAIQLTERD  291
+
+Query  76   EFSYQEMIANLPLCSHPNPRKVLIIgggdggVLREVVKHPSVESVVQCEIDEDVIQVSKK  135
+            E +YQEMIA +PL  HP+P+ VLI+GGGDGGVLREV +H S++ +V CEID  V +V+K+
+Sbjct  292  EHAYQEMIAQIPLHCHPDPKSVLIVGGGDGGVLREVCRHKSIQKIVMCEIDAKVCEVAKQ  471
+
+Query  136  FLPG-MAIGYSSSKLTLHVGDGFEFMKQNQDAFDVIITDSSDPMGPAESLFKESYYQLMK  194
+            F  G  A  ++  ++ L   D  +++K   D +DV+I DSSDP+GPAE+LF+ ++YQ +K
+Sbjct  472  FFAGSTATAFNDPRVELVHADAAQYVKNKHDEYDVVIVDSSDPIGPAETLFQPAFYQGLK  651
+
+Query  195  TALKEDGVLCCQGECQWLHLDLIKEMRQFCQSLFPVVAYAYCTIPTYPSGQIGFMLCSKN  254
+             A++   ++C QGEC WLHL+LI ++ + C ++FP V YA+ TIPTYPSGQIGF++C  +
+Sbjct  652  DAMRPGAIMCNQGECIWLHLELIGQVLRHCTTVFPSVDYAFTTIPTYPSGQIGFLMCCTS  831
+
+Query  255  PSTNFQEPVQPLTQQQVAQMQLKYYNSDVHRAAFVLPEFARKAL  298
+            P+T  + P +    +   Q QLKYY+  VH AAFVLP FA + +
+Sbjct  832  PNTVLRVPARAPAPE--LQAQLKYYSHAVHSAAFVLPVFAERTV  957
+
+
+
+
+>TSA: Emiliania huxleyi, TRINITY-DN10932-c1-g1-i8, transcribed RNA sequence
+Sequence ID: HBRW01017692.1 Length: 1337
+Range 1: 72 to 926
+
+Score:314 bits(805), Expect:1e-102, 
+Method:Compositional matrix adjust., 
+Identities:158/287(55%), Positives:202/287(70%), Gaps:3/287(1%)
+
+Query  16   IREGWFRETCSLWPGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQCTERD  75
+            +R+ WF E   +WPGQA+SL+VE++L   RS++QDILVFRS TYG VLVLDGVIQ TERD
+Sbjct  72   VRDNWFTENEVMWPGQAMSLKVEEVLFEGRSKFQDILVFRSSTYGTVLVLDGVIQLTERD  251
+
+Query  76   EFSYQEMIANLPLCSHPNPRKVLIIgggdggVLREVVKHPSVESVVQCEIDEDVIQVSKK  135
+            E +YQEMIA LPL SHPNP+ VLI+GGGDGGVLREV +HP V SV  CEIDE V  V+KK
+Sbjct  252  EHAYQEMIAQLPLHSHPNPQSVLIVGGGDGGVLREVCRHPDVASVTMCEIDELVCDVAKK  431
+
+Query  136  FLP-GMAIGYSSSKLTLHVGDGFEFMKQNQDAFDVIITDSSDPMGPAESLFKESYYQLMK  194
+            +L    A  +   ++TL   D  E++K   DA+D++I DSSDP+GPAE+LF  S+Y  ++
+Sbjct  432  YLSHSTATAFDDPRVTLVHADAAEYVKDKCDAYDLVIVDSSDPIGPAETLFTSSFYSCLR  611
+
+Query  195  TALKEDGVLCCQGECQWLHLDLIKEMRQFCQSLFPVVAYAYCTIPTYPSGQIGFMLCSKN  254
+             A++   ++C QGEC WLHL LI +  + C  +FP V YAY TIPTYPSGQIGF+LCS  
+Sbjct  612  KAMRPGAIMCNQGECIWLHLPLIADCLRSCHEIFPSVDYAYTTIPTYPSGQIGFLLCSTA  791
+
+Query  255  PSTNFQEPVQPLTQQQVAQMQLKYYNSDVHRAAFVLPEFARKALNDV  301
+                 + P++  T +   Q QLKYY+   H AAF+LP FA + +  V
+Sbjct  792  AGAVLRRPLREPTPEM--QAQLKYYSPAAHAAAFILPRFAEETVAAV  926
+
+
+
+
+>TSA: Coccolithus braarudii, MMETSP0164-doi:10.5281-zenodo.249982-Transcript-9664, transcribed RNA sequence
+Sequence ID: HBEY01053133.1 Length: 1078
+Range 1: 89 to 943
+
+Score:311 bits(797), Expect:1e-102, 
+Method:Compositional matrix adjust., 
+Identities:157/287(55%), Positives:206/287(71%), Gaps:3/287(1%)
+
+Query  16   IREGWFRETCSLWPGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQCTERD  75
+            IR+GWF E   +WPGQA++L+VE++L   RS +QD+LVFRS TYGNVLVLDGVIQ TERD
+Sbjct  89   IRDGWFAEQEVMWPGQAMTLKVEEVLFEGRSDFQDVLVFRSATYGNVLVLDGVIQVTERD  268
+
+Query  76   EFSYQEMIANLPLCSHPNPRKVLIIgggdggVLREVVKHPSVESVVQCEIDEDVIQVSKK  135
+            EF+YQEMIA++PL +HP P+ VLI+GGGDGGVLREV +H  V+ V  CEID  V +VSKK
+Sbjct  269  EFAYQEMIAHIPLFAHPEPQNVLIVGGGDGGVLREVCRHSCVQHVTMCEIDPLVCEVSKK  448
+
+Query  136  FLP-GMAIGYSSSKLTLHVGDGFEFMKQNQDAFDVIITDSSDPMGPAESLFKESYYQLMK  194
+            +L    A  +   ++TL   D   F+K + + +DV+I DSSDP+GPAE+LF  ++YQ ++
+Sbjct  449  YLSKSTATAFEDPRVTLVHDDAARFVKDHLEEYDVVIVDSSDPVGPAETLFTSTFYQGLR  628
+
+Query  195  TALKEDGVLCCQGECQWLHLDLIKEMRQFCQSLFPVVAYAYCTIPTYPSGQIGFMLCSKN  254
+             A++   ++C QGEC WLHL+LI E    C+ +FP V YAY TIPTYPSGQIGF+LCS  
+Sbjct  629  AAMRPGAIMCNQGECVWLHLELIGECMGSCKEVFPSVDYAYTTIPTYPSGQIGFLLCSTA  808
+
+Query  255  PSTNFQEPVQPLTQQQVAQMQLKYYNSDVHRAAFVLPEFARKALNDV  301
+             +T+ + P +  T   + Q QLKYY+   H AAFVLP FA + +  V
+Sbjct  809  SNTSLRRPFRSPT--PLMQEQLKYYSPAAHAAAFVLPAFAERVVAPV  943
+
+
+
+
+>TSA: Exanthemachrysis gayraliae, MMETSP1464-doi:10.5281-zenodo.249982-Transcript-22677, transcribed RNA sequence
+Sequence ID: HBNB01014089.1 Length: 1360
+Range 1: 72 to 905
+
+Score:314 bits(805), Expect:1e-102, 
+Method:Compositional matrix adjust., 
+Identities:159/280(57%), Positives:203/280(72%), Gaps:4/280(1%)
+
+Query  16   IREGWFRETCSLWPGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQCTERD  75
+            I++GWF E   +WPGQ  SL+VE +L+  RSR+QD+LVF+S  YG VLVLDGVIQ TERD
+Sbjct  72   IKDGWFSEREVMWPGQKFSLKVENVLYQGRSRFQDVLVFQSSNYGRVLVLDGVIQLTERD  251
+
+Query  76   EFSYQEMIANLPLCSHPNPRKVLIIgggdggVLREVVKHPSVESVVQCEIDEDVIQVSKK  135
+            E +YQEMI ++PL +H NP  VLI+GGGDGGVLREV +H  VESV  CEIDEDVI VSKK
+Sbjct  252  EAAYQEMITHIPLFAHSNPTSVLIVGGGDGGVLREVCRHSCVESVTMCEIDEDVINVSKK  431
+
+Query  136  FLPGM-AIGYSSSKLTLHVGDGFEFMKQNQDAFDVIITDSSDPMGPAESLFKESYYQLMK  194
+            +   + A  +   +LTL + D  ++++   ++FDVII DSSDP+GPAE+LF+ S+Y  +K
+Sbjct  432  YFADVTAKSFGDPRLTLVIDDAAKYVETQPESFDVIIVDSSDPVGPAETLFQSSFYAALK  611
+
+Query  195  TALKEDGVLCCQGECQWLHLDLIKEMRQFCQSLFPVVAYAYCTIPTYPSGQIGFMLCSKN  254
+             +LK  G++C QGECQWLHLDLI  + + C   F  V YA+ TIPTYPSGQIGF+LCS  
+Sbjct  612  RSLKPGGIICNQGECQWLHLDLIGSVLKDCGDSFATVEYAFTTIPTYPSGQIGFLLCSLG  791
+
+Query  255  PSTN-FQEPVQPLTQQQVAQMQLKYYNSDVHRAAFVLPEF  293
+             + N  +EP + ++     Q QL+YY  DVHRAAFVLP F
+Sbjct  792  SAPNLLREPKRGIS--DALQAQLRYYTPDVHRAAFVLPRF  905
+
+
+
+
+>TSA: Exanthemachrysis gayraliae, MMETSP1464-doi:10.5281-zenodo.249982-Transcript-22678, transcribed RNA sequence
+Sequence ID: HBNB01014090.1 Length: 1362
+Range 1: 72 to 905
+
+Score:314 bits(805), Expect:1e-102, 
+Method:Compositional matrix adjust., 
+Identities:159/280(57%), Positives:203/280(72%), Gaps:4/280(1%)
+
+Query  16   IREGWFRETCSLWPGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQCTERD  75
+            I++GWF E   +WPGQ  SL+VE +L+  RSR+QD+LVF+S  YG VLVLDGVIQ TERD
+Sbjct  72   IKDGWFSEREVMWPGQKFSLKVENVLYQGRSRFQDVLVFQSSNYGRVLVLDGVIQLTERD  251
+
+Query  76   EFSYQEMIANLPLCSHPNPRKVLIIgggdggVLREVVKHPSVESVVQCEIDEDVIQVSKK  135
+            E +YQEMI ++PL +H NP  VLI+GGGDGGVLREV +H  VESV  CEIDEDVI VSKK
+Sbjct  252  EAAYQEMITHIPLFAHSNPTSVLIVGGGDGGVLREVCRHSCVESVTMCEIDEDVINVSKK  431
+
+Query  136  FLPGM-AIGYSSSKLTLHVGDGFEFMKQNQDAFDVIITDSSDPMGPAESLFKESYYQLMK  194
+            +   + A  +   +LTL + D  ++++   ++FDVII DSSDP+GPAE+LF+ S+Y  +K
+Sbjct  432  YFADVTAKSFGDPRLTLVIDDAAKYVETQPESFDVIIVDSSDPVGPAETLFQSSFYAALK  611
+
+Query  195  TALKEDGVLCCQGECQWLHLDLIKEMRQFCQSLFPVVAYAYCTIPTYPSGQIGFMLCSKN  254
+             +LK  G++C QGECQWLHLDLI  + + C   F  V YA+ TIPTYPSGQIGF+LCS  
+Sbjct  612  RSLKPGGIICNQGECQWLHLDLIGSVLKDCGDSFATVEYAFTTIPTYPSGQIGFLLCSLG  791
+
+Query  255  PSTN-FQEPVQPLTQQQVAQMQLKYYNSDVHRAAFVLPEF  293
+             + N  +EP + ++     Q QL+YY  DVHRAAFVLP F
+Sbjct  792  SAPNLLREPKRGIS--DALQAQLRYYTPDVHRAAFVLPRF  905
+
+
+
+
+>TSA: Emiliania huxleyi, TRINITY-DN19611-c1-g3-i1, transcribed RNA sequence
+Sequence ID: HBQG01057788.1 Length: 1400
+Range 1: 73 to 927
+
+Score:314 bits(805), Expect:2e-102, 
+Method:Compositional matrix adjust., 
+Identities:158/287(55%), Positives:202/287(70%), Gaps:3/287(1%)
+
+Query  16   IREGWFRETCSLWPGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQCTERD  75
+            +R+ WF E   +WPGQA+SL+VE++L   RS++QDILVFRS TYG VLVLDGVIQ TERD
+Sbjct  73   VRDNWFTENEVMWPGQAMSLKVEEVLFEGRSKFQDILVFRSSTYGTVLVLDGVIQLTERD  252
+
+Query  76   EFSYQEMIANLPLCSHPNPRKVLIIgggdggVLREVVKHPSVESVVQCEIDEDVIQVSKK  135
+            E +YQEMIA LPL SHPNP+ VLI+GGGDGGVLREV +HP V SV  CEIDE V  V+KK
+Sbjct  253  EHAYQEMIAQLPLHSHPNPQSVLIVGGGDGGVLREVCRHPDVASVTMCEIDELVCDVAKK  432
+
+Query  136  FLP-GMAIGYSSSKLTLHVGDGFEFMKQNQDAFDVIITDSSDPMGPAESLFKESYYQLMK  194
+            +L    A  +   ++TL   D  E++K   DA+D++I DSSDP+GPAE+LF  S+Y  ++
+Sbjct  433  YLSHSTATAFDDPRVTLVHADAAEYVKDKCDAYDLVIVDSSDPIGPAETLFTSSFYSCLR  612
+
+Query  195  TALKEDGVLCCQGECQWLHLDLIKEMRQFCQSLFPVVAYAYCTIPTYPSGQIGFMLCSKN  254
+             A++   ++C QGEC WLHL LI +  + C  +FP V YAY TIPTYPSGQIGF+LCS  
+Sbjct  613  KAMRPGAIMCNQGECIWLHLPLIADCLRSCHEIFPSVDYAYTTIPTYPSGQIGFLLCSTA  792
+
+Query  255  PSTNFQEPVQPLTQQQVAQMQLKYYNSDVHRAAFVLPEFARKALNDV  301
+                 + P++  T +   Q QLKYY+   H AAF+LP FA + +  V
+Sbjct  793  AGAVLRRPLREPTPEM--QAQLKYYSPAAHAAAFILPRFAEETVAAV  927
+
+
+
+
+>TSA: Phaeocystis sp. RCC851, transcript: TRINITY-DN24425-c0-g1-i6, transcribed RNA sequence
+Sequence ID: HBRH01037739.1 Length: 1220
+Range 1: 56 to 910
+
+Score:312 bits(799), Expect:3e-102, 
+Method:Compositional matrix adjust., 
+Identities:153/287(53%), Positives:207/287(72%), Gaps:3/287(1%)
+
+Query  16   IREGWFRETCSLWPGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQCTERD  75
+            +++GWF E+  +WPGQA+SL+VEQ+L+  RS +QDILVFRS TYGNVLVLDG IQ TERD
+Sbjct  56   LKDGWFSESEVMWPGQAMSLKVEQVLYEGRSEFQDILVFRSSTYGNVLVLDGAIQLTERD  235
+
+Query  76   EFSYQEMIANLPLCSHPNPRKVLIIgggdggVLREVVKHPSVESVVQCEIDEDVIQVSKK  135
+            E +YQEMIA +P+  HP+P+ VLI+GGGDGGVLREV +H SVE +V CEID  V  VSK+
+Sbjct  236  EHAYQEMIAQIPMHCHPDPKSVLIVGGGDGGVLREVCRHSSVEKIVMCEIDAQVCDVSKR  415
+
+Query  136  FLPG-MAIGYSSSKLTLHVGDGFEFMKQNQDAFDVIITDSSDPMGPAESLFKESYYQLMK  194
+            F     A  ++  ++ L   D  +F++  +D +DV+I DSSDP+GPAE+LF+ ++YQ +K
+Sbjct  416  FFANSTATSFNDPRVQLVHADAAQFVQDKRDEYDVVIVDSSDPIGPAETLFQPAFYQGLK  595
+
+Query  195  TALKEDGVLCCQGECQWLHLDLIKEMRQFCQSLFPVVAYAYCTIPTYPSGQIGFMLCSKN  254
+             A++   ++C QGEC WLHLDLI  + + C ++FP V YA+ TIPTYPSGQIGF++C  +
+Sbjct  596  DAMRPGAIMCNQGECIWLHLDLIGTVLRHCTTVFPSVDYAFTTIPTYPSGQIGFLMCCTS  775
+
+Query  255  PSTNFQEPVQPLTQQQVAQMQLKYYNSDVHRAAFVLPEFARKALNDV  301
+            P+   + P +    +   Q QLKYY+  VH A+FVLP FA K +  V
+Sbjct  776  PNAVLRVPARKPPPE--VQAQLKYYSPAVHAASFVLPVFAEKTVAQV  910
+
+
+
+
+>TSA: Emiliania huxleyi, transcript: TRINITY_DN6661_c0_g1_i9, transcribed RNA sequence
+Sequence ID: HCFM01091798.1 Length: 1435
+Range 1: 503 to 1357
+
+Score:314 bits(805), Expect:3e-102, 
+Method:Compositional matrix adjust., 
+Identities:158/287(55%), Positives:202/287(70%), Gaps:3/287(1%)
+
+Query  16    IREGWFRETCSLWPGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQCTERD  75
+             +R+ WF E   +WPGQA+SL+VE++L   RS++QDILVFRS TYG VLVLDGVIQ TERD
+Sbjct  1357  VRDNWFTENEVMWPGQAMSLKVEEVLFEGRSKFQDILVFRSSTYGTVLVLDGVIQLTERD  1178
+
+Query  76    EFSYQEMIANLPLCSHPNPRKVLIIgggdggVLREVVKHPSVESVVQCEIDEDVIQVSKK  135
+             E +YQEMIA LPL SHPNP+ VLI+GGGDGGVLREV +HP V SV  CEIDE V  V+KK
+Sbjct  1177  EHAYQEMIAQLPLHSHPNPQSVLIVGGGDGGVLREVCRHPDVASVTMCEIDELVCDVAKK  998
+
+Query  136   FLP-GMAIGYSSSKLTLHVGDGFEFMKQNQDAFDVIITDSSDPMGPAESLFKESYYQLMK  194
+             +L    A  +   ++TL   D  E++K   DA+D++I DSSDP+GPAE+LF  S+Y  ++
+Sbjct  997   YLSHSTATAFDDPRVTLVHADAAEYVKDKCDAYDLVIVDSSDPIGPAETLFTSSFYSCLR  818
+
+Query  195   TALKEDGVLCCQGECQWLHLDLIKEMRQFCQSLFPVVAYAYCTIPTYPSGQIGFMLCSKN  254
+              A++   ++C QGEC WLHL LI +  + C  +FP V YAY TIPTYPSGQIGF+LCS  
+Sbjct  817   KAMRPGAIMCNQGECIWLHLPLIADCLRSCHEIFPSVDYAYTTIPTYPSGQIGFLLCSTA  638
+
+Query  255   PSTNFQEPVQPLTQQQVAQMQLKYYNSDVHRAAFVLPEFARKALNDV  301
+                  + P++  T +   Q QLKYY+   H AAF+LP FA + +  V
+Sbjct  637   AGAVLRRPLREPTPEM--QAQLKYYSPAAHAAAFILPRFAEETVAAV  503
+
+
+
+
+>TSA: Calcidiscus leptoporus, MMETSP1334-doi:10.5281-zenodo.249982-Transcript-34413, transcribed RNA sequence
+Sequence ID: HBER01027130.1 Length: 1485
+Range 1: 63 to 917
+
+Score:314 bits(805), Expect:4e-102, 
+Method:Compositional matrix adjust., 
+Identities:157/287(55%), Positives:207/287(72%), Gaps:3/287(1%)
+
+Query  16   IREGWFRETCSLWPGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQCTERD  75
+            IR+GWF E   +WPGQA++L+VE++L   RS +Q +LVFRS TYGNVLVLDGVIQ TERD
+Sbjct  63   IRDGWFAENEVMWPGQAMTLKVEEVLFEGRSDFQSVLVFRSATYGNVLVLDGVIQVTERD  242
+
+Query  76   EFSYQEMIANLPLCSHPNPRKVLIIgggdggVLREVVKHPSVESVVQCEIDEDVIQVSKK  135
+            EF+YQEMIA++PL +HP P+ VLI+GGGDGGVLREV +H  V+ V  CEID  V +VSKK
+Sbjct  243  EFAYQEMIAHIPLFAHPEPQSVLIVGGGDGGVLREVCRHSCVQHVTMCEIDPLVCEVSKK  422
+
+Query  136  FLP-GMAIGYSSSKLTLHVGDGFEFMKQNQDAFDVIITDSSDPMGPAESLFKESYYQLMK  194
+            FL    A  +   ++TL   D   F+K ++D +DV+I DSSDP+GPAE+LF  ++Y+ ++
+Sbjct  423  FLSKSTATAFDDPRVTLVHEDAARFVKDHEDEYDVVIVDSSDPVGPAETLFTSAFYEGLR  602
+
+Query  195  TALKEDGVLCCQGECQWLHLDLIKEMRQFCQSLFPVVAYAYCTIPTYPSGQIGFMLCSKN  254
+             A++   ++C QGEC WLHL+LI E    C+ +FP V YAY TIPTYPSGQIGF+LCS  
+Sbjct  603  AAMRPGAIMCNQGECVWLHLELIGECMGSCKEVFPSVDYAYTTIPTYPSGQIGFLLCSTA  782
+
+Query  255  PSTNFQEPVQPLTQQQVAQMQLKYYNSDVHRAAFVLPEFARKALNDV  301
+             +T+ + P +  T   + Q QLKYY+   H AAFVLP FA + ++ V
+Sbjct  783  ANTSLRRPFRSPT--PLVQEQLKYYSPAAHAAAFVLPSFAERVVSRV  917
+
+
+
+
+>TSA: Phaeocystis sp. RCC3538, transcript: TRINITY-DN62566-c0-g1-i1, transcribed RNA sequence
+Sequence ID: HBTC01314710.1 Length: 1279
+Range 1: 60 to 914
+
+Score:312 bits(799), Expect:5e-102, 
+Method:Compositional matrix adjust., 
+Identities:153/287(53%), Positives:207/287(72%), Gaps:3/287(1%)
+
+Query  16   IREGWFRETCSLWPGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQCTERD  75
+            +++GWF E+  +WPGQA+SL+VEQ+L+  RS +QDILVFRS TYGNVLVLDG IQ TERD
+Sbjct  60   LKDGWFSESEVMWPGQAMSLKVEQVLYEGRSEFQDILVFRSSTYGNVLVLDGAIQLTERD  239
+
+Query  76   EFSYQEMIANLPLCSHPNPRKVLIIgggdggVLREVVKHPSVESVVQCEIDEDVIQVSKK  135
+            E +YQEMIA +P+  HP+P+ VLI+GGGDGGVLREV +H SVE +V CEID  V  VSK+
+Sbjct  240  EHAYQEMIAQIPMHCHPDPKSVLIVGGGDGGVLREVCRHSSVEKIVMCEIDAQVCDVSKR  419
+
+Query  136  FLPG-MAIGYSSSKLTLHVGDGFEFMKQNQDAFDVIITDSSDPMGPAESLFKESYYQLMK  194
+            F     A  ++  ++ L   D  +F++  +D +DV+I DSSDP+GPAE+LF+ ++YQ +K
+Sbjct  420  FFANSTATSFNDPRVQLVHADAAQFVQDKRDEYDVVIVDSSDPIGPAETLFQPAFYQGLK  599
+
+Query  195  TALKEDGVLCCQGECQWLHLDLIKEMRQFCQSLFPVVAYAYCTIPTYPSGQIGFMLCSKN  254
+             A++   ++C QGEC WLHLDLI  + + C ++FP V YA+ TIPTYPSGQIGF++C  +
+Sbjct  600  DAMRPGAIMCNQGECIWLHLDLIGTVLRHCTTVFPSVDYAFTTIPTYPSGQIGFLMCCTS  779
+
+Query  255  PSTNFQEPVQPLTQQQVAQMQLKYYNSDVHRAAFVLPEFARKALNDV  301
+            P+   + P +    +   Q QLKYY+  VH A+FVLP FA K +  V
+Sbjct  780  PNAVLRVPARKPPPE--VQAQLKYYSPAVHAASFVLPVFAEKTVAQV  914
+
+
+
+
+>TSA: Phaeocystis sp. RCC851, transcript: TRINITY-DN24425-c0-g1-i3, transcribed RNA sequence
+Sequence ID: HBRH01037736.1 Length: 1284
+Range 1: 50 to 904
+
+Score:312 bits(799), Expect:6e-102, 
+Method:Compositional matrix adjust., 
+Identities:153/287(53%), Positives:207/287(72%), Gaps:3/287(1%)
+
+Query  16   IREGWFRETCSLWPGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQCTERD  75
+            +++GWF E+  +WPGQA+SL+VEQ+L+  RS +QDILVFRS TYGNVLVLDG IQ TERD
+Sbjct  50   LKDGWFSESEVMWPGQAMSLKVEQVLYEGRSEFQDILVFRSSTYGNVLVLDGAIQLTERD  229
+
+Query  76   EFSYQEMIANLPLCSHPNPRKVLIIgggdggVLREVVKHPSVESVVQCEIDEDVIQVSKK  135
+            E +YQEMIA +P+  HP+P+ VLI+GGGDGGVLREV +H SVE +V CEID  V  VSK+
+Sbjct  230  EHAYQEMIAQIPMHCHPDPKSVLIVGGGDGGVLREVCRHSSVEKIVMCEIDAQVCDVSKR  409
+
+Query  136  FLPG-MAIGYSSSKLTLHVGDGFEFMKQNQDAFDVIITDSSDPMGPAESLFKESYYQLMK  194
+            F     A  ++  ++ L   D  +F++  +D +DV+I DSSDP+GPAE+LF+ ++YQ +K
+Sbjct  410  FFANSTATSFNDPRVQLVHADAAQFVQDKRDEYDVVIVDSSDPIGPAETLFQPAFYQGLK  589
+
+Query  195  TALKEDGVLCCQGECQWLHLDLIKEMRQFCQSLFPVVAYAYCTIPTYPSGQIGFMLCSKN  254
+             A++   ++C QGEC WLHLDLI  + + C ++FP V YA+ TIPTYPSGQIGF++C  +
+Sbjct  590  DAMRPGAIMCNQGECIWLHLDLIGTVLRHCTTVFPSVDYAFTTIPTYPSGQIGFLMCCTS  769
+
+Query  255  PSTNFQEPVQPLTQQQVAQMQLKYYNSDVHRAAFVLPEFARKALNDV  301
+            P+   + P +    +   Q QLKYY+  VH A+FVLP FA K +  V
+Sbjct  770  PNAVLRVPARKPPPE--VQAQLKYYSPAVHAASFVLPVFAEKTVAQV  904
+
+
+
+
+>TSA: Phaeocystis rex RA-2015b, transcript: TRINITY-DN6736-c0-g1-i2, transcribed RNA sequence
+Sequence ID: HBRF01110792.1 Length: 1299
+Range 1: 50 to 904
+
+Score:312 bits(799), Expect:7e-102, 
+Method:Compositional matrix adjust., 
+Identities:153/287(53%), Positives:207/287(72%), Gaps:3/287(1%)
+
+Query  16   IREGWFRETCSLWPGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQCTERD  75
+            +++GWF E+  +WPGQA+SL+VEQ+L+  RS +QDILVFRS TYGNVLVLDG IQ TERD
+Sbjct  50   LKDGWFSESEVMWPGQAMSLKVEQVLYEGRSEFQDILVFRSSTYGNVLVLDGAIQLTERD  229
+
+Query  76   EFSYQEMIANLPLCSHPNPRKVLIIgggdggVLREVVKHPSVESVVQCEIDEDVIQVSKK  135
+            E +YQEMIA +P+  HP+P+ VLI+GGGDGGVLREV +H SVE +V CEID  V  VSK+
+Sbjct  230  EHAYQEMIAQIPMHCHPDPKSVLIVGGGDGGVLREVCRHSSVEKIVMCEIDAQVCDVSKR  409
+
+Query  136  FLPG-MAIGYSSSKLTLHVGDGFEFMKQNQDAFDVIITDSSDPMGPAESLFKESYYQLMK  194
+            F     A  ++  ++ L   D  +F++  +D +DV+I DSSDP+GPAE+LF+ ++YQ +K
+Sbjct  410  FFANSTATSFNDPRVQLVHADAAQFVQDKRDEYDVVIVDSSDPIGPAETLFQPAFYQGLK  589
+
+Query  195  TALKEDGVLCCQGECQWLHLDLIKEMRQFCQSLFPVVAYAYCTIPTYPSGQIGFMLCSKN  254
+             A++   ++C QGEC WLHLDLI  + + C ++FP V YA+ TIPTYPSGQIGF++C  +
+Sbjct  590  DAMRPGAIMCNQGECIWLHLDLIGTVLRHCTTVFPSVDYAFTTIPTYPSGQIGFLMCCTS  769
+
+Query  255  PSTNFQEPVQPLTQQQVAQMQLKYYNSDVHRAAFVLPEFARKALNDV  301
+            P+   + P +    +   Q QLKYY+  VH A+FVLP FA K +  V
+Sbjct  770  PNAVLRVPARKPPPE--VQAQLKYYSPAVHAASFVLPVFAEKTVAQV  904
+
+
+
+
+>TSA: Phaeocystis sp. RCC3538, transcript: TRINITY-DN62566-c0-g1-i8, transcribed RNA sequence
+Sequence ID: HBTC01314717.1 Length: 1297
+Range 1: 60 to 914
+
+Score:312 bits(799), Expect:7e-102, 
+Method:Compositional matrix adjust., 
+Identities:153/287(53%), Positives:207/287(72%), Gaps:3/287(1%)
+
+Query  16   IREGWFRETCSLWPGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQCTERD  75
+            +++GWF E+  +WPGQA+SL+VEQ+L+  RS +QDILVFRS TYGNVLVLDG IQ TERD
+Sbjct  60   LKDGWFSESEVMWPGQAMSLKVEQVLYEGRSEFQDILVFRSSTYGNVLVLDGAIQLTERD  239
+
+Query  76   EFSYQEMIANLPLCSHPNPRKVLIIgggdggVLREVVKHPSVESVVQCEIDEDVIQVSKK  135
+            E +YQEMIA +P+  HP+P+ VLI+GGGDGGVLREV +H SVE +V CEID  V  VSK+
+Sbjct  240  EHAYQEMIAQIPMHCHPDPKSVLIVGGGDGGVLREVCRHSSVEKIVMCEIDAQVCDVSKR  419
+
+Query  136  FLPG-MAIGYSSSKLTLHVGDGFEFMKQNQDAFDVIITDSSDPMGPAESLFKESYYQLMK  194
+            F     A  ++  ++ L   D  +F++  +D +DV+I DSSDP+GPAE+LF+ ++YQ +K
+Sbjct  420  FFANSTATSFNDPRVQLVHADAAQFVQDKRDEYDVVIVDSSDPIGPAETLFQPAFYQGLK  599
+
+Query  195  TALKEDGVLCCQGECQWLHLDLIKEMRQFCQSLFPVVAYAYCTIPTYPSGQIGFMLCSKN  254
+             A++   ++C QGEC WLHLDLI  + + C ++FP V YA+ TIPTYPSGQIGF++C  +
+Sbjct  600  DAMRPGAIMCNQGECIWLHLDLIGTVLRHCTTVFPSVDYAFTTIPTYPSGQIGFLMCCTS  779
+
+Query  255  PSTNFQEPVQPLTQQQVAQMQLKYYNSDVHRAAFVLPEFARKALNDV  301
+            P+   + P +    +   Q QLKYY+  VH A+FVLP FA K +  V
+Sbjct  780  PNAVLRVPARKPPPE--VQAQLKYYSPAVHAASFVLPVFAEKTVAQV  914
+
+
+
+
+>TSA: Prymnesium parvum comp20694_c0_seq1 transcribed RNA sequence
+Sequence ID: GAMG01021411.1 Length: 1457
+Range 1: 507 to 1361
+
+Score:313 bits(802), Expect:1e-101, 
+Method:Compositional matrix adjust., 
+Identities:152/287(53%), Positives:207/287(72%), Gaps:3/287(1%)
+
+Query  16    IREGWFRETCSLWPGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQCTERD  75
+             IR+GWF E+  +WPGQA+SL+V++++   RS +QDILVF+S TYG VL LDGVIQ TERD
+Sbjct  1361  IRDGWFSESEVMWPGQAMSLKVDEVIWEGRSDFQDILVFKSATYGMVLALDGVIQLTERD  1182
+
+Query  76    EFSYQEMIANLPLCSHPNPRKVLIIgggdggVLREVVKHPSVESVVQCEIDEDVIQVSKK  135
+             E++YQEMI ++P+ +HP+P+ VLI+GGGDGGVLREV +H  V+ +V CEID  V ++++K
+Sbjct  1181  EYAYQEMITHIPMHAHPDPQSVLIVGGGDGGVLREVCRHAGVQKIVMCEIDPQVCEIAQK  1002
+
+Query  136   FLPG-MAIGYSSSKLTLHVGDGFEFMKQNQDAFDVIITDSSDPMGPAESLFKESYYQLMK  194
+             F     A  ++  +LTL   D  EF+K     FDV+I DSSDP+GPAE+LF   +Y+ ++
+Sbjct  1001  FFSNSTATAFNDPRLTLLHADAAEFVKDKAQEFDVVIVDSSDPVGPAETLFTADFYRSLR  822
+
+Query  195   TALKEDGVLCCQGECQWLHLDLIKEMRQFCQSLFPVVAYAYCTIPTYPSGQIGFMLCSKN  254
+              A+K + ++C QGEC WLHL+LI E+   C+ +FP V YA+ TIPTYPSGQIGF+LCS  
+Sbjct  821   HAMKPNAIMCNQGECMWLHLELIGEVLSHCKEVFPSVDYAFTTIPTYPSGQIGFLLCSTA  642
+
+Query  255   PSTNFQEPVQPLTQQQVAQMQLKYYNSDVHRAAFVLPEFARKALNDV  301
+             P+   + P +  T +     QLKYY+S VH AAFVLPEFA + +  V
+Sbjct  641   PNVVLRSPAR--TPEPELAAQLKYYSSAVHAAAFVLPEFAERVVAKV  507
+
+
+
+
+>TSA: Phaeocystis sp. RCC3538, transcript: TRINITY-DN62566-c0-g2-i7, transcribed RNA sequence
+Sequence ID: HBTC01314724.1 Length: 1236
+Range 1: 56 to 910
+
+Score:310 bits(795), Expect:1e-101, 
+Method:Compositional matrix adjust., 
+Identities:152/287(53%), Positives:207/287(72%), Gaps:3/287(1%)
+
+Query  16   IREGWFRETCSLWPGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQCTERD  75
+            +++GWF E+  +WPGQA+SL+VE++L+  RS +QDILVFRS TYGNVLVLDG IQ TERD
+Sbjct  56   LKDGWFSESEVMWPGQAMSLKVEEVLYEGRSEFQDILVFRSSTYGNVLVLDGAIQLTERD  235
+
+Query  76   EFSYQEMIANLPLCSHPNPRKVLIIgggdggVLREVVKHPSVESVVQCEIDEDVIQVSKK  135
+            E +YQEMIA +P+  HP+P+ VLI+GGGDGGVLREV +H SVE +V CEID  V  VSK+
+Sbjct  236  EHAYQEMIAQIPMHCHPDPKSVLIVGGGDGGVLREVCRHSSVEKIVMCEIDAQVCDVSKR  415
+
+Query  136  FLPG-MAIGYSSSKLTLHVGDGFEFMKQNQDAFDVIITDSSDPMGPAESLFKESYYQLMK  194
+            F     A  ++  ++ L   D  +F++  +D +DV+I DSSDP+GPAE+LF+ ++YQ +K
+Sbjct  416  FFANSTATSFNDPRVQLVHADAAQFVQDKRDEYDVVIVDSSDPIGPAETLFQPAFYQGLK  595
+
+Query  195  TALKEDGVLCCQGECQWLHLDLIKEMRQFCQSLFPVVAYAYCTIPTYPSGQIGFMLCSKN  254
+             A++   ++C QGEC WLHLDLI  + + C ++FP V YA+ TIPTYPSGQIGF++C  +
+Sbjct  596  DAMRPGAIMCNQGECIWLHLDLIGTVLRHCTTVFPSVDYAFTTIPTYPSGQIGFLMCCTS  775
+
+Query  255  PSTNFQEPVQPLTQQQVAQMQLKYYNSDVHRAAFVLPEFARKALNDV  301
+            P+   + P +    +   Q QLKYY+  VH A+FVLP FA K +  V
+Sbjct  776  PNAVLRVPARKPPPE--VQAQLKYYSPAVHAASFVLPVFAEKTVAQV  910
+
+
+
+
+>TSA: Prymnesium polylepis, TRINITY-DN18461-c8-g2-i1, transcribed RNA sequence
+Sequence ID: HBOG01050355.1 Length: 1279
+Range 1: 47 to 901
+
+Score:311 bits(797), Expect:1e-101, 
+Method:Compositional matrix adjust., 
+Identities:150/287(52%), Positives:205/287(71%), Gaps:3/287(1%)
+
+Query  16   IREGWFRETCSLWPGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQCTERD  75
+            +R+GWF E+  +WPGQA+SL+V++++   RS +QDILVF+S TYG VL LDGVIQ TERD
+Sbjct  47   LRDGWFSESEVMWPGQAMSLKVDEVMWEGRSDFQDILVFKSATYGMVLALDGVIQLTERD  226
+
+Query  76   EFSYQEMIANLPLCSHPNPRKVLIIgggdggVLREVVKHPSVESVVQCEIDEDVIQVSKK  135
+            E +YQEMI ++P+ +HP+P+ VLI+GGGDGGVLREV +H  VE +V CEID  V  ++KK
+Sbjct  227  EHAYQEMITHIPMHAHPDPKAVLIVGGGDGGVLREVCRHKGVEKIVMCEIDPVVCDIAKK  406
+
+Query  136  FLP-GMAIGYSSSKLTLHVGDGFEFMKQNQDAFDVIITDSSDPMGPAESLFKESYYQLMK  194
+            F     A+ ++  ++TL   D  EF+K     FDV+I DSSDP+GPAE+LF  ++Y+ ++
+Sbjct  407  FFAKSTAVSFNDPRVTLVHADAAEFVKDKAGEFDVVIVDSSDPVGPAETLFTATFYKALR  586
+
+Query  195  TALKEDGVLCCQGECQWLHLDLIKEMRQFCQSLFPVVAYAYCTIPTYPSGQIGFMLCSKN  254
+             A++  G++C QGEC WLHLD IK+   +C  +FP V YA+ TIPTYPSGQIGF+LCS  
+Sbjct  587  HAMRAGGIMCNQGECMWLHLDPIKDFLTYCNKVFPSVDYAFTTIPTYPSGQIGFLLCSTT  766
+
+Query  255  PSTNFQEPVQPLTQQQVAQMQLKYYNSDVHRAAFVLPEFARKALNDV  301
+            P+   + P +    +      LKYY+S VH AAFVLPEFA + ++ V
+Sbjct  767  PNAVLRAPARAPDPELAP--HLKYYSSAVHAAAFVLPEFAERVVSQV  901
+
+
+
+
+>TSA: Emiliania huxleyi, transcript: TRINITY_DN6661_c0_g1_i1, transcribed RNA sequence
+Sequence ID: HCFM01091797.1 Length: 1509
+Range 1: 598 to 1431
+
+Score:313 bits(802), Expect:2e-101, 
+Method:Compositional matrix adjust., 
+Identities:157/280(56%), Positives:199/280(71%), Gaps:3/280(1%)
+
+Query  16    IREGWFRETCSLWPGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQCTERD  75
+             +R+ WF E   +WPGQA+SL+VE++L   RS++QDILVFRS TYG VLVLDGVIQ TERD
+Sbjct  1431  VRDNWFTENEVMWPGQAMSLKVEEVLFEGRSKFQDILVFRSSTYGTVLVLDGVIQLTERD  1252
+
+Query  76    EFSYQEMIANLPLCSHPNPRKVLIIgggdggVLREVVKHPSVESVVQCEIDEDVIQVSKK  135
+             E +YQEMIA LPL SHPNP+ VLI+GGGDGGVLREV +HP V SV  CEIDE V  V+KK
+Sbjct  1251  EHAYQEMIAQLPLHSHPNPQSVLIVGGGDGGVLREVCRHPDVASVTMCEIDELVCDVAKK  1072
+
+Query  136   FLP-GMAIGYSSSKLTLHVGDGFEFMKQNQDAFDVIITDSSDPMGPAESLFKESYYQLMK  194
+             +L    A  +   ++TL   D  E++K   DA+D++I DSSDP+GPAE+LF  S+Y  ++
+Sbjct  1071  YLSHSTATAFDDPRVTLVHADAAEYVKDKCDAYDLVIVDSSDPIGPAETLFTSSFYSCLR  892
+
+Query  195   TALKEDGVLCCQGECQWLHLDLIKEMRQFCQSLFPVVAYAYCTIPTYPSGQIGFMLCSKN  254
+              A++   ++C QGEC WLHL LI +  + C  +FP V YAY TIPTYPSGQIGF+LCS  
+Sbjct  891   KAMRPGAIMCNQGECIWLHLPLIADCLRSCHEIFPSVDYAYTTIPTYPSGQIGFLLCSTA  712
+
+Query  255   PSTNFQEPVQPLTQQQVAQMQLKYYNSDVHRAAFVLPEFA  294
+                  + P++  T +   Q QLKYY+   H AAF+LP FA
+Sbjct  711   AGAVLRRPLREPTPEM--QAQLKYYSPAAHAAAFILPRFA  598
+
+
+
+
+>TSA: Phaeocystis globosa, TRINITY-DN28198-c0-g1-i2, transcribed RNA sequence
+Sequence ID: HBRB01042748.1 Length: 1311
+Range 1: 60 to 914
+
+Score:310 bits(795), Expect:3e-101, 
+Method:Compositional matrix adjust., 
+Identities:152/287(53%), Positives:207/287(72%), Gaps:3/287(1%)
+
+Query  16   IREGWFRETCSLWPGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQCTERD  75
+            +++GWF E+  +WPGQA+SL+VE++L+  RS +QDILVFRS TYGNVLVLDG IQ TERD
+Sbjct  60   LKDGWFSESEVMWPGQAMSLKVEEVLYEGRSEFQDILVFRSSTYGNVLVLDGAIQLTERD  239
+
+Query  76   EFSYQEMIANLPLCSHPNPRKVLIIgggdggVLREVVKHPSVESVVQCEIDEDVIQVSKK  135
+            E +YQEMIA +P+  HP+P+ VLI+GGGDGGVLREV +H SVE +V CEID  V  VSK+
+Sbjct  240  EHAYQEMIAQIPMHCHPDPKSVLIVGGGDGGVLREVCRHSSVEKIVMCEIDAQVCDVSKR  419
+
+Query  136  FLPG-MAIGYSSSKLTLHVGDGFEFMKQNQDAFDVIITDSSDPMGPAESLFKESYYQLMK  194
+            F     A  ++  ++ L   D  +F++  +D +DV+I DSSDP+GPAE+LF+ ++YQ +K
+Sbjct  420  FFANSTATSFNDPRVQLVHADAAQFVQDKRDEYDVVIVDSSDPIGPAETLFQPAFYQGLK  599
+
+Query  195  TALKEDGVLCCQGECQWLHLDLIKEMRQFCQSLFPVVAYAYCTIPTYPSGQIGFMLCSKN  254
+             A++   ++C QGEC WLHLDLI  + + C ++FP V YA+ TIPTYPSGQIGF++C  +
+Sbjct  600  DAMRPGAIMCNQGECIWLHLDLIGTVLRHCTTVFPSVDYAFTTIPTYPSGQIGFLMCCTS  779
+
+Query  255  PSTNFQEPVQPLTQQQVAQMQLKYYNSDVHRAAFVLPEFARKALNDV  301
+            P+   + P +    +   Q QLKYY+  VH A+FVLP FA K +  V
+Sbjct  780  PNAVLRVPARKPPPE--VQAQLKYYSPAVHAASFVLPVFAEKTVAQV  914
+
+
+
+
+>TSA: Phaeocystis globosa, TRINITY-DN28198-c0-g1-i5, transcribed RNA sequence
+Sequence ID: HBRB01042751.1 Length: 1238
+Range 1: 60 to 905
+
+Score:310 bits(793), Expect:3e-101, 
+Method:Compositional matrix adjust., 
+Identities:151/284(53%), Positives:206/284(72%), Gaps:3/284(1%)
+
+Query  16   IREGWFRETCSLWPGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQCTERD  75
+            +++GWF E+  +WPGQA+SL+VE++L+  RS +QDILVFRS TYGNVLVLDG IQ TERD
+Sbjct  60   LKDGWFSESEVMWPGQAMSLKVEEVLYEGRSEFQDILVFRSSTYGNVLVLDGAIQLTERD  239
+
+Query  76   EFSYQEMIANLPLCSHPNPRKVLIIgggdggVLREVVKHPSVESVVQCEIDEDVIQVSKK  135
+            E +YQEMIA +P+  HP+P+ VLI+GGGDGGVLREV +H SVE +V CEID  V  VSK+
+Sbjct  240  EHAYQEMIAQIPMHCHPDPKSVLIVGGGDGGVLREVCRHSSVEKIVMCEIDAQVCDVSKR  419
+
+Query  136  FLPG-MAIGYSSSKLTLHVGDGFEFMKQNQDAFDVIITDSSDPMGPAESLFKESYYQLMK  194
+            F     A  ++  ++ L   D  +F++  +D +DV+I DSSDP+GPAE+LF+ ++YQ +K
+Sbjct  420  FFANSTATSFNDPRVQLVHADAAQFVQDKRDEYDVVIVDSSDPIGPAETLFQPAFYQGLK  599
+
+Query  195  TALKEDGVLCCQGECQWLHLDLIKEMRQFCQSLFPVVAYAYCTIPTYPSGQIGFMLCSKN  254
+             A++   ++C QGEC WLHLDLI  + + C ++FP V YA+ TIPTYPSGQIGF++C  +
+Sbjct  600  DAMRPGAIMCNQGECIWLHLDLIGTVLRHCTTVFPSVDYAFTTIPTYPSGQIGFLMCCTS  779
+
+Query  255  PSTNFQEPVQPLTQQQVAQMQLKYYNSDVHRAAFVLPEFARKAL  298
+            P+   + P +    +   Q QLKYY+  VH A+FVLP FA K +
+Sbjct  780  PNAVLRVPARKPPPE--VQAQLKYYSPAVHAASFVLPVFAEKTV  905
+
+
+
+
+>TSA: Prymnesium parvum, TRINITY-DN8384-c2-g2-i1, transcribed RNA sequence
+Sequence ID: HBJC01045082.1 Length: 1488
+Range 1: 111 to 965
+
+Score:312 bits(800), Expect:3e-101, 
+Method:Compositional matrix adjust., 
+Identities:152/287(53%), Positives:207/287(72%), Gaps:3/287(1%)
+
+Query  16   IREGWFRETCSLWPGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQCTERD  75
+            IR+GWF E+  +WPGQA+SL+V++++   RS +QDILVF+S TYG VL LDGVIQ TERD
+Sbjct  111  IRDGWFSESEVMWPGQAMSLKVDEVIWEGRSDFQDILVFKSATYGMVLALDGVIQLTERD  290
+
+Query  76   EFSYQEMIANLPLCSHPNPRKVLIIgggdggVLREVVKHPSVESVVQCEIDEDVIQVSKK  135
+            E++YQEMI ++P+ +HP+P+ VLI+GGGDGGVLREV +H  V+ +V CEID  V ++++K
+Sbjct  291  EYAYQEMITHIPMHAHPDPQSVLIVGGGDGGVLREVCRHAGVQKIVMCEIDPQVCEIAQK  470
+
+Query  136  FLPG-MAIGYSSSKLTLHVGDGFEFMKQNQDAFDVIITDSSDPMGPAESLFKESYYQLMK  194
+            F     A  ++  +LTL   D  EF+K     FDV+I DSSDP+GPAE+LF   +Y+ ++
+Sbjct  471  FFSNSTATAFNDPRLTLLHADAAEFVKDKAQEFDVVIVDSSDPVGPAETLFTADFYRSLR  650
+
+Query  195  TALKEDGVLCCQGECQWLHLDLIKEMRQFCQSLFPVVAYAYCTIPTYPSGQIGFMLCSKN  254
+             A+K + ++C QGEC WLHL+LI E+   C+ +FP V YA+ TIPTYPSGQIGF+LCS  
+Sbjct  651  HAMKPNAIMCNQGECMWLHLELIGEVLSHCKEVFPSVDYAFTTIPTYPSGQIGFLLCSTA  830
+
+Query  255  PSTNFQEPVQPLTQQQVAQMQLKYYNSDVHRAAFVLPEFARKALNDV  301
+            P+   + P +  T +     QLKYY+S VH AAFVLPEFA + +  V
+Sbjct  831  PNVVLRSPAR--TPEPELAAQLKYYSSAVHAAAFVLPEFAERVVAKV  965
+
+
+
+
+>TSA: Diacronema lutheri, MMETSP1463-doi:10.5281-zenodo.249982-Transcript-1217, transcribed RNA sequence
+Sequence ID: HBEB01002415.1 Length: 1148
+Range 1: 29 to 880
+
+Score:308 bits(788), Expect:5e-101, 
+Method:Compositional matrix adjust., 
+Identities:151/286(53%), Positives:207/286(72%), Gaps:4/286(1%)
+
+Query  16   IREGWFRETCSLWPGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQCTERD  75
+            I++GWF E   +WPGQ +SL+VE++L+  RS++QD+LVF+S TYG VLVLDGVIQ TE+D
+Sbjct  29   IKDGWFGEDEVMWPGQKMSLKVEEVLYEGRSKFQDVLVFQSATYGRVLVLDGVIQVTEKD  208
+
+Query  76   EFSYQEMIANLPLCSHPNPRKVLIIgggdggVLREVVKHPSVESVVQCEIDEDVIQVSKK  135
+            E +YQEMIA++PL +HP P  VLI+GGGDGGVLREV +H  V  +  CEIDE V++VSK+
+Sbjct  209  EMAYQEMIAHIPLFAHPKPESVLIVGGGDGGVLREVARHGCVRRITMCEIDEHVVEVSKR  388
+
+Query  136  FLPGM-AIGYSSSKLTLHVGDGFEFMKQNQDAFDVIITDSSDPMGPAESLFKESYYQLMK  194
+            FL  + A  ++  +L L   D  +F++  +  FDV+I DSSDP+GPAESL+   +Y  ++
+Sbjct  389  FLGDVTASSFNDDRLELLFEDAAKFVEGRRSVFDVVIVDSSDPVGPAESLYTSGFYAALR  568
+
+Query  195  TALKEDGVLCCQGECQWLHLDLIKEMRQFCQSLFPVVAYAYCTIPTYPSGQIGFMLCSKN  254
+             +LK  G++C QGECQWLHLDLI ++   C   FP V YA+ TIPTYP GQIGF++CS +
+Sbjct  569  QSLKPGGIICTQGECQWLHLDLIAKVLGDCAMAFPTVDYAFTTIPTYPCGQIGFLICSLS  748
+
+Query  255  PSTN-FQEPVQPLTQQQVAQMQLKYYNSDVHRAAFVLPEFARKALN  299
+                  +EP +P++++   Q  L+YY+ DVHRAAFVLP FA + + 
+Sbjct  749  AEPQMLREPKRPVSREM--QAALRYYSPDVHRAAFVLPSFAERVVG  880
+
+
+
+
+>TSA: Prymnesium parvum Locus_4668 transcribed RNA sequence
+Sequence ID: GBYJ01019808.1 Length: 1670
+Range 1: 94 to 948
+
+Score:313 bits(801), Expect:1e-100, 
+Method:Compositional matrix adjust., 
+Identities:152/287(53%), Positives:207/287(72%), Gaps:3/287(1%)
+
+Query  16   IREGWFRETCSLWPGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQCTERD  75
+            IR+GWF E+  +WPGQA+SL+V++++   RS +QDILVF+S TYG VL LDGVIQ TERD
+Sbjct  94   IRDGWFSESEVMWPGQAMSLKVDEVIWEGRSDFQDILVFKSATYGMVLALDGVIQLTERD  273
+
+Query  76   EFSYQEMIANLPLCSHPNPRKVLIIgggdggVLREVVKHPSVESVVQCEIDEDVIQVSKK  135
+            E++YQEMI ++P+ +HP+P+ VLI+GGGDGGVLREV +H  V+ +V CEID  V ++++K
+Sbjct  274  EYAYQEMITHIPMHAHPDPQSVLIVGGGDGGVLREVCRHAGVQKIVMCEIDPQVCEIAQK  453
+
+Query  136  FLPG-MAIGYSSSKLTLHVGDGFEFMKQNQDAFDVIITDSSDPMGPAESLFKESYYQLMK  194
+            F     A  ++  +LTL   D  EF+K     FDV+I DSSDP+GPAE+LF   +Y+ ++
+Sbjct  454  FFSNSTATAFNDPRLTLLHADAAEFVKDKAQEFDVVIVDSSDPVGPAETLFTADFYRSLR  633
+
+Query  195  TALKEDGVLCCQGECQWLHLDLIKEMRQFCQSLFPVVAYAYCTIPTYPSGQIGFMLCSKN  254
+             A+K + ++C QGEC WLHL+LI E+   C+ +FP V YA+ TIPTYPSGQIGF+LCS  
+Sbjct  634  HAMKPNAIMCNQGECMWLHLELIGEVLSHCKEVFPSVDYAFTTIPTYPSGQIGFLLCSTA  813
+
+Query  255  PSTNFQEPVQPLTQQQVAQMQLKYYNSDVHRAAFVLPEFARKALNDV  301
+            P+   + P +  T +     QLKYY+S VH AAFVLPEFA + +  V
+Sbjct  814  PNVVLRSPAR--TPEPELAAQLKYYSSAVHAAAFVLPEFAERVVAKV  948
+
+
+
+
+>TSA: Phaeocystis sp. PLY559, TRINITY-DN44941-c0-g3-i1, transcribed RNA sequence
+Sequence ID: HBRK01057486.1 Length: 1018
+Range 1: 89 to 934
+
+Score:305 bits(782), Expect:1e-100, 
+Method:Compositional matrix adjust., 
+Identities:149/284(52%), Positives:205/284(72%), Gaps:3/284(1%)
+
+Query  16   IREGWFRETCSLWPGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQCTERD  75
+            I++GWF E+  +WPGQA+SL+VE++L+  RS +QDILVF+S TYG VLVLDGVIQ TERD
+Sbjct  89   IKDGWFSESEVMWPGQAMSLKVEEVLYEGRSDFQDILVFKSSTYGTVLVLDGVIQLTERD  268
+
+Query  76   EFSYQEMIANLPLCSHPNPRKVLIIgggdggVLREVVKHPSVESVVQCEIDEDVIQVSKK  135
+            E +YQEM+A +PL  HP P+ VLI+GGGDGGVLREV +H ++E +V CEID  V +VSKK
+Sbjct  269  EHAYQEMLAQVPLHCHPEPKSVLIVGGGDGGVLREVCRHSTIEKIVMCEIDPLVCEVSKK  448
+
+Query  136  FLPG-MAIGYSSSKLTLHVGDGFEFMKQNQDAFDVIITDSSDPMGPAESLFKESYYQLMK  194
+            +L    A  ++  ++TL   D  +++K   + +DV+I DSSDP+GPAE+LF  ++Y  +K
+Sbjct  449  YLGNSTATSFNDPRVTLVHADAAQYVKDQVNEYDVVIVDSSDPVGPAETLFTSTFYASLK  628
+
+Query  195  TALKEDGVLCCQGECQWLHLDLIKEMRQFCQSLFPVVAYAYCTIPTYPSGQIGFMLCSKN  254
+             A++   ++C QGEC WLHLDLI E+ + C ++FP V Y + T+PTYPSGQIGF++C   
+Sbjct  629  AAMRPGAIMCNQGECIWLHLDLIGEVLRHCTAVFPTVDYCFTTVPTYPSGQIGFLMCCTT  808
+
+Query  255  PSTNFQEPVQPLTQQQVAQMQLKYYNSDVHRAAFVLPEFARKAL  298
+            P    + P +  T +   Q QLKYY+  VH A+FVLP FA +A+
+Sbjct  809  PDYILRTPAREPTPE--LQEQLKYYSPAVHAASFVLPRFAERAV  934
+
+
+
+
+>TSA: Phaeocystis sp. RCC3538, transcript: TRINITY-DN62566-c0-g1-i2, transcribed RNA sequence
+Sequence ID: HBTC01314711.1 Length: 1324
+Range 1: 60 to 905
+
+Score:309 bits(791), Expect:1e-100, 
+Method:Compositional matrix adjust., 
+Identities:151/284(53%), Positives:206/284(72%), Gaps:3/284(1%)
+
+Query  16   IREGWFRETCSLWPGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQCTERD  75
+            +++GWF E+  +WPGQA+SL+VEQ+L+  RS +QDILVFRS TYGNVLVLDG IQ TERD
+Sbjct  60   LKDGWFSESEVMWPGQAMSLKVEQVLYEGRSEFQDILVFRSSTYGNVLVLDGAIQLTERD  239
+
+Query  76   EFSYQEMIANLPLCSHPNPRKVLIIgggdggVLREVVKHPSVESVVQCEIDEDVIQVSKK  135
+            E +YQEMIA +P+  HP+P+ VLI+GGGDGGVLREV +H SVE +V CEID  V  VSK+
+Sbjct  240  EHAYQEMIAQIPMHCHPDPKSVLIVGGGDGGVLREVCRHSSVEKIVMCEIDAQVCDVSKR  419
+
+Query  136  FLPG-MAIGYSSSKLTLHVGDGFEFMKQNQDAFDVIITDSSDPMGPAESLFKESYYQLMK  194
+            F     A  ++  ++ L   D  +F++  +D +DV+I DSSDP+GPAE+LF+ ++YQ +K
+Sbjct  420  FFANSTATSFNDPRVQLVHADAAQFVQDKRDEYDVVIVDSSDPIGPAETLFQPAFYQGLK  599
+
+Query  195  TALKEDGVLCCQGECQWLHLDLIKEMRQFCQSLFPVVAYAYCTIPTYPSGQIGFMLCSKN  254
+             A++   ++C QGEC WLHL+LI  + + C ++FP V YA+ TIPTYPSGQIGF++C  +
+Sbjct  600  DAMRPGAIMCNQGECIWLHLELIGTVLRHCTTVFPSVDYAFTTIPTYPSGQIGFLMCCTS  779
+
+Query  255  PSTNFQEPVQPLTQQQVAQMQLKYYNSDVHRAAFVLPEFARKAL  298
+            P+   + P +    +   Q QLKYY+  VH A+FVLP FA K +
+Sbjct  780  PNALLRVPARKPPPE--VQAQLKYYSPAVHAASFVLPVFAEKTV  905
+
+
+
+
+>TSA: Phaeocystis sp. RCC3538, transcript: TRINITY-DN62566-c0-g1-i6, transcribed RNA sequence
+Sequence ID: HBTC01314715.1 Length: 1331
+Range 1: 60 to 905
+
+Score:309 bits(791), Expect:1e-100, 
+Method:Compositional matrix adjust., 
+Identities:151/284(53%), Positives:206/284(72%), Gaps:3/284(1%)
+
+Query  16   IREGWFRETCSLWPGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQCTERD  75
+            +++GWF E+  +WPGQA+SL+VEQ+L+  RS +QDILVFRS TYGNVLVLDG IQ TERD
+Sbjct  60   LKDGWFSESEVMWPGQAMSLKVEQVLYEGRSEFQDILVFRSSTYGNVLVLDGAIQLTERD  239
+
+Query  76   EFSYQEMIANLPLCSHPNPRKVLIIgggdggVLREVVKHPSVESVVQCEIDEDVIQVSKK  135
+            E +YQEMIA +P+  HP+P+ VLI+GGGDGGVLREV +H SVE +V CEID  V  VSK+
+Sbjct  240  EHAYQEMIAQIPMHCHPDPKSVLIVGGGDGGVLREVCRHSSVEKIVMCEIDAQVCDVSKR  419
+
+Query  136  FLPG-MAIGYSSSKLTLHVGDGFEFMKQNQDAFDVIITDSSDPMGPAESLFKESYYQLMK  194
+            F     A  ++  ++ L   D  +F++  +D +DV+I DSSDP+GPAE+LF+ ++YQ +K
+Sbjct  420  FFANSTATSFNDPRVQLVHADAAQFVQDKRDEYDVVIVDSSDPIGPAETLFQPAFYQGLK  599
+
+Query  195  TALKEDGVLCCQGECQWLHLDLIKEMRQFCQSLFPVVAYAYCTIPTYPSGQIGFMLCSKN  254
+             A++   ++C QGEC WLHL+LI  + + C ++FP V YA+ TIPTYPSGQIGF++C  +
+Sbjct  600  DAMRPGAIMCNQGECIWLHLELIGTVLRHCTTVFPSVDYAFTTIPTYPSGQIGFLMCCTS  779
+
+Query  255  PSTNFQEPVQPLTQQQVAQMQLKYYNSDVHRAAFVLPEFARKAL  298
+            P+   + P +    +   Q QLKYY+  VH A+FVLP FA K +
+Sbjct  780  PNALLRVPARKPPPE--VQAQLKYYSPAVHAASFVLPVFAEKTV  905
+
+
+
+
+>TSA: Haptolina brevifila, MMETSP1094-doi:10.5281-zenodo.249982-Transcript-52980, transcribed RNA sequence
+Sequence ID: HBGU01047759.1 Length: 1453
+Range 1: 84 to 944
+
+Score:310 bits(794), Expect:1e-100, 
+Method:Compositional matrix adjust., 
+Identities:154/289(53%), Positives:210/289(72%), Gaps:5/289(1%)
+
+Query  16   IREGWFRETCSLWPGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQCTERD  75
+            I++GWF E   +WPGQA+SL+VE++L+  RS +QD+LVFRS TYG VLVLDGVIQ TERD
+Sbjct  84   IKDGWFTEAEVMWPGQAMSLKVEEVLYEGRSDFQDVLVFRSATYGTVLVLDGVIQVTERD  263
+
+Query  76   EFSYQEMIANLPLCSHPNPRKVLIIgggdggVLREVVKHPSVESVVQCEIDEDVIQVSKK  135
+            E +YQEMI ++P+  H +P+ VLI+GGGDGGVLREV +HP V+ +  CEID  V  V+K+
+Sbjct  264  EHAYQEMITHIPMHCHADPQNVLIVGGGDGGVLREVCRHPGVQKITMCEIDPLVCDVAKQ  443
+
+Query  136  FLPG-MAIGYSSSKLTLHVGDGFEFM-KQNQDA-FDVIITDSSDPMGPAESLFKESYYQL  192
+            +L    A+ ++  ++TL   D  E++ K +Q A +DV+I DSSDP+GPAESLF E++Y+ 
+Sbjct  444  YLSASTAVAFNDPRVTLVHADAAEYVAKDDQRALYDVVIVDSSDPVGPAESLFTETFYKA  623
+
+Query  193  MKTALKEDGVLCCQGECQWLHLDLIKEMRQFCQSLFPVVAYAYCTIPTYPSGQIGFMLCS  252
+            ++ A++   ++C QGEC WLHLDLI+E+ + C S+FP V YA+ TIPTYPSGQIGF++CS
+Sbjct  624  LRVAMRPGAIMCNQGECMWLHLDLIREVLKHCHSVFPSVDYAFTTIPTYPSGQIGFLMCS  803
+
+Query  253  KNPSTNFQEPVQPLTQQQVAQMQLKYYNSDVHRAAFVLPEFARKALNDV  301
+             +P    ++PV+  T        LKYY+  VH AAFVLP FA  A+  V
+Sbjct  804  TSPGQVLRQPVR--TPDPAVSASLKYYSPAVHAAAFVLPVFAETAVATV  944
+
+
+
+
+>TSA: Phaeocystis globosa, TRINITY-DN13032-c0-g1-i2, transcribed RNA sequence
+Sequence ID: HBRY01005481.1 Length: 1274
+Range 1: 64 to 909
+
+Score:308 bits(788), Expect:2e-100, 
+Method:Compositional matrix adjust., 
+Identities:151/284(53%), Positives:206/284(72%), Gaps:3/284(1%)
+
+Query  16   IREGWFRETCSLWPGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQCTERD  75
+            +++GWF E+  +WPGQA+SL+VE++L+  RS +QDILVFRS TYGNVLVLDG IQ TERD
+Sbjct  64   LKDGWFSESEVMWPGQAMSLKVEEVLYEGRSEFQDILVFRSSTYGNVLVLDGAIQLTERD  243
+
+Query  76   EFSYQEMIANLPLCSHPNPRKVLIIgggdggVLREVVKHPSVESVVQCEIDEDVIQVSKK  135
+            E +YQEMIA +PL  HP+P+ VLI+GGGDGGVLREV +H SV+ +V CEID  V  VSK+
+Sbjct  244  EHAYQEMIAQIPLHCHPDPKSVLIVGGGDGGVLREVCRHSSVDKIVMCEIDAQVCDVSKR  423
+
+Query  136  FLPG-MAIGYSSSKLTLHVGDGFEFMKQNQDAFDVIITDSSDPMGPAESLFKESYYQLMK  194
+            F     A  ++  ++ L   D  +F++  +D +DV+I DSSDP+GPAE+LF+ ++YQ +K
+Sbjct  424  FFANSTATSFNDPRVQLVHADAAKFVQDKRDEYDVVIVDSSDPIGPAETLFQPAFYQGLK  603
+
+Query  195  TALKEDGVLCCQGECQWLHLDLIKEMRQFCQSLFPVVAYAYCTIPTYPSGQIGFMLCSKN  254
+             A++   ++C QGEC WLHLDLI  + + C ++FP V YA+ TIPTYPSGQIGF++C  +
+Sbjct  604  DAMRPGAIMCNQGECIWLHLDLIGTVLRHCTTVFPSVDYAFTTIPTYPSGQIGFLMCCTS  783
+
+Query  255  PSTNFQEPVQPLTQQQVAQMQLKYYNSDVHRAAFVLPEFARKAL  298
+            P+   + P +    +   Q QLKYY+  VH A+FVLP FA K +
+Sbjct  784  PNAVLRVPARKPPPE--VQAQLKYYSPAVHAASFVLPVFAEKTV  909
+
+
+
+
+>TSA: Chrysochromulina rotalis, MMETSP0287-doi:10.5281-zenodo.249982-Transcript-15424, transcribed RNA sequence
+Sequence ID: HBKT01006031.1 Length: 1397
+Range 1: 34 to 888
+
+Score:309 bits(791), Expect:2e-100, 
+Method:Compositional matrix adjust., 
+Identities:152/287(53%), Positives:208/287(72%), Gaps:3/287(1%)
+
+Query  16   IREGWFRETCSLWPGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQCTERD  75
+            I++GWF E+  +WPGQA+SL+VE++L+  RS +QD+LVF+S  YG VLVLDGVIQ TERD
+Sbjct  34   IKDGWFSESEVMWPGQAMSLKVEKVLYEGRSDFQDVLVFKSTNYGTVLVLDGVIQVTERD  213
+
+Query  76   EFSYQEMIANLPLCSHPNPRKVLIIgggdggVLREVVKHPSVESVVQCEIDEDVIQVSKK  135
+            E +YQEMI ++P+ +HPNP  VLI+GGGDGGVLREV +HP V+ +  CEID  V +VSK+
+Sbjct  214  EHAYQEMITHIPMHAHPNPTSVLIVGGGDGGVLREVCRHPGVQRITMCEIDPLVCEVSKR  393
+
+Query  136  FLPG-MAIGYSSSKLTLHVGDGFEFMKQNQDAFDVIITDSSDPMGPAESLFKESYYQLMK  194
+            FL G  A  ++  +LTL   D  E+++     +DV+I DSSDP+GPAE+LF  S+Y  ++
+Sbjct  394  FLGGSTATAFNDPRLTLVHADAAEYVRDQMGMYDVVIVDSSDPVGPAETLFTASFYTSLR  573
+
+Query  195  TALKEDGVLCCQGECQWLHLDLIKEMRQFCQSLFPVVAYAYCTIPTYPSGQIGFMLCSKN  254
+             A++   ++C QGEC WLHLDLI E+ + C+ +FP V YA+ TIPTYPSGQIGF++CS +
+Sbjct  574  YAMRPGAIMCNQGECMWLHLDLIGEVLKHCKEVFPSVDYAFTTIPTYPSGQIGFLVCSTS  753
+
+Query  255  PSTNFQEPVQPLTQQQVAQMQLKYYNSDVHRAAFVLPEFARKALNDV  301
+            P    + P +   +  VA+  L+YY+  VH A+FVLP FA KA+  V
+Sbjct  754  PGHVLRLPARE-PEPSVAR-ALRYYSPAVHAASFVLPVFAEKAVAAV  888
+
+
+
+
+>TSA: Scyphosphaera apsteinii, MMETSP1333-doi:10.5281-zenodo.249982-Transcript-35583, transcribed RNA sequence
+Sequence ID: HBMI01028429.1 Length: 1253
+Range 1: 31 to 885
+
+Score:307 bits(786), Expect:3e-100, 
+Method:Compositional matrix adjust., 
+Identities:152/287(53%), Positives:209/287(72%), Gaps:3/287(1%)
+
+Query  16   IREGWFRETCSLWPGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQCTERD  75
+            IR+GWF+E+  +WPGQA++L+VE++L   RS +QDILVFRS TYGNVLVLDGV+Q TERD
+Sbjct  31   IRDGWFKESEVMWPGQAMTLKVEEVLFEGRSDFQDILVFRSSTYGNVLVLDGVVQVTERD  210
+
+Query  76   EFSYQEMIANLPLCSHPNPRKVLIIgggdggVLREVVKHPSVESVVQCEIDEDVIQVSKK  135
+            E +YQEMI ++P+ +HP+P+ VLI+GGGDGGVLREV +H SV+ V  CEID  V ++++K
+Sbjct  211  EHAYQEMITHIPMHAHPDPQSVLIVGGGDGGVLREVCRHSSVQKVTMCEIDRMVPELARK  390
+
+Query  136  -FLPGMAIGYSSSKLTLHVGDGFEFMKQNQDAFDVIITDSSDPMGPAESLFKESYYQLMK  194
+             F    A+ +   +LTL   D   ++K  ++ +DV+I DSSDP+GPAE+LF  S+YQ +K
+Sbjct  391  YFADSTAVSFDDPRLTLLHDDAAAYVKGQRNQYDVVIVDSSDPIGPAETLFTSSFYQSLK  570
+
+Query  195  TALKEDGVLCCQGECQWLHLDLIKEMRQFCQSLFPVVAYAYCTIPTYPSGQIGFMLCSKN  254
+            +A++   ++C QGEC WLHL+LI +  + C  +FP V YA+ TIPTYPSGQIGF++CS +
+Sbjct  571  SAMRPGAIMCNQGECLWLHLELIADCMRSCNEVFPSVDYAFTTIPTYPSGQIGFLVCSTS  750
+
+Query  255  PSTNFQEPVQPLTQQQVAQMQLKYYNSDVHRAAFVLPEFARKALNDV  301
+              T  + P +    Q   Q QLKYY++ VH +AFVLP FA K +  V
+Sbjct  751  AETVLRRPCRVPPPQ--LQEQLKYYSAAVHASAFVLPRFAEKVVAAV  885
+
+
+
+
+>TSA: Isochrysis galbana, TRINITY-DN16332-c1-g1-i1, transcribed RNA sequence
+Sequence ID: HBOM01020619.1 Length: 1667
+Range 1: 81 to 929
+
+Score:310 bits(795), Expect:9e-100, 
+Method:Compositional matrix adjust., 
+Identities:158/285(55%), Positives:203/285(71%), Gaps:3/285(1%)
+
+Query  16   IREGWFRETCSLWPGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQCTERD  75
+            I+EGWF E   +WPGQA+SL++E++L+  RS +QDILVFRS TYG VLVLDGVIQ TERD
+Sbjct  81   IKEGWFTENEVMWPGQAMSLKIEEVLYEGRSDFQDILVFRSSTYGIVLVLDGVIQVTERD  260
+
+Query  76   EFSYQEMIANLPLCSHPNPRKVLIIgggdggVLREVVKHPSVESVVQCEIDEDVIQVSKK  135
+            EF+YQEMI +LP+ SHPNP  VLI+GGGDGGVLREV KH  V+++  CEID  V  VSK 
+Sbjct  261  EFAYQEMITHLPMHSHPNPTSVLIVGGGDGGVLREVCKHECVQTITMCEIDPLVCDVSKN  440
+
+Query  136  FL-PGMAIGYSSSKLTLHVGDGFEFMKQNQDAFDVIITDSSDPMGPAESLFKESYYQLMK  194
+            FL    A  +   ++TL   D  E++K  +DA+DVII DS DP+G AESLF  S+Y  ++
+Sbjct  441  FLGKSTATAFDDPRVTLVHADAAEYVKDKKDAYDVIIVDSCDPVGAAESLFTSSFYSCLR  620
+
+Query  195  TALKEDGVLCCQGECQWLHLDLIKEMRQFCQSLFPVVAYAYCTIPTYPSGQIGFMLCSKN  254
+             +++   ++C QGEC WLHL LI +  Q CQ +FP V YAY TIPTYPSGQIGF+LCS +
+Sbjct  621  QSMRPGAIMCNQGECVWLHLPLITDCLQACQKVFPSVDYAYTTIPTYPSGQIGFLLCSAS  800
+
+Query  255  PSTNFQEPVQPLTQQQVAQMQLKYYNSDVHRAAFVLPEFARKALN  299
+            P T  +   +  T   ++  QLKYY+  VH A+FV+P FA  A++
+Sbjct  801  PDTVLRRLAREPTPALLS--QLKYYSPAVHAASFVMPRFAEDAIS  929
+
+
+
+
+>TSA: Phaeocystis sp. RCC935, transcript: TRINITY-DN31018-c0-g2-i1, transcribed RNA sequence
+Sequence ID: HBQW01030066.1 Length: 1231
+Range 1: 76 to 921
+
+Score:305 bits(782), Expect:1e-99, 
+Method:Compositional matrix adjust., 
+Identities:149/284(52%), Positives:205/284(72%), Gaps:3/284(1%)
+
+Query  16   IREGWFRETCSLWPGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQCTERD  75
+            I++GWF E+  +WPGQA+SL+VE++L+  RS +QDILVF+S TYG VLVLDGVIQ TERD
+Sbjct  76   IKDGWFSESEVMWPGQAMSLKVEEVLYEGRSDFQDILVFKSSTYGTVLVLDGVIQLTERD  255
+
+Query  76   EFSYQEMIANLPLCSHPNPRKVLIIgggdggVLREVVKHPSVESVVQCEIDEDVIQVSKK  135
+            E +YQEM+A +PL  HP P+ VLI+GGGDGGVLREV +H ++E +V CEID  V +VSKK
+Sbjct  256  EHAYQEMLAQVPLHCHPEPKSVLIVGGGDGGVLREVCRHSTIEKIVMCEIDPLVCEVSKK  435
+
+Query  136  FLPG-MAIGYSSSKLTLHVGDGFEFMKQNQDAFDVIITDSSDPMGPAESLFKESYYQLMK  194
+            +L    A  ++  ++TL   D  +++K   + +DV+I DSSDP+GPAE+LF  ++Y  +K
+Sbjct  436  YLGNSTATSFNDPRVTLVHADAAQYVKDQVNEYDVVIVDSSDPVGPAETLFTSTFYASLK  615
+
+Query  195  TALKEDGVLCCQGECQWLHLDLIKEMRQFCQSLFPVVAYAYCTIPTYPSGQIGFMLCSKN  254
+             A++   ++C QGEC WLHLDLI E+ + C ++FP V Y + T+PTYPSGQIGF++C   
+Sbjct  616  AAMRPGAIMCNQGECIWLHLDLIGEVLRHCTAVFPTVDYCFTTVPTYPSGQIGFLMCCTT  795
+
+Query  255  PSTNFQEPVQPLTQQQVAQMQLKYYNSDVHRAAFVLPEFARKAL  298
+            P    + P +  T +   Q QLKYY+  VH A+FVLP FA +A+
+Sbjct  796  PDYILRTPAREPTPE--LQEQLKYYSPAVHAASFVLPRFAERAV  921
+
+
+
+
+>TSA: Chrysotila carterae, TRINITY-DN17165-c11-g1-i5, transcribed RNA sequence
+Sequence ID: HBIZ01041153.1 Length: 1505
+Range 1: 142 to 996
+
+Score:306 bits(784), Expect:8e-99, 
+Method:Compositional matrix adjust., 
+Identities:154/287(54%), Positives:199/287(69%), Gaps:3/287(1%)
+
+Query  16   IREGWFRETCSLWPGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQCTERD  75
+            I  GWFRE   +WPGQA+SLQVE++L   RS +QD+LVF+S TYG VLVLDGVIQ TERD
+Sbjct  142  INNGWFRENEVMWPGQAMSLQVEKILFEGRSDFQDVLVFQSSTYGRVLVLDGVIQLTERD  321
+
+Query  76   EFSYQEMIANLPLCSHPNPRKVLIIgggdggVLREVVKHPSVESVVQCEIDEDVIQVSKK  135
+            E++YQEMI +LP+ +HP+P+ VLI+GGGDGGVLREV +H  V+ V  CEID  V +V+KK
+Sbjct  322  EYAYQEMITHLPMHAHPDPQSVLIVGGGDGGVLREVCRHAGVQRVTMCEIDPMVCEVAKK  501
+
+Query  136  FLP-GMAIGYSSSKLTLHVGDGFEFMKQNQDAFDVIITDSSDPMGPAESLFKESYYQLMK  194
+            F     A  +   ++TL   D  +F+K  +D +DV+I DSSDP+GPAE+LF  ++Y+ ++
+Sbjct  502  FFATSTATAFDDPRVTLVHQDAAQFVKDFRDEYDVVIVDSSDPVGPAETLFTSTFYEALR  681
+
+Query  195  TALKEDGVLCCQGECQWLHLDLIKEMRQFCQSLFPVVAYAYCTIPTYPSGQIGFMLCSKN  254
+             A+K   ++C QGEC WLHLDLI E    C  +FP V YAY TIPTYPSGQIGF+LCS  
+Sbjct  682  VAMKPGAIMCNQGECVWLHLDLIGECLHHCTKVFPSVDYAYTTIPTYPSGQIGFLLCSTA  861
+
+Query  255  PSTNFQEPVQPLTQQQVAQMQLKYYNSDVHRAAFVLPEFARKALNDV  301
+               + ++P +        Q QLKYY    H AAFVLP FA + +  V
+Sbjct  862  SDVSLRKPAR--VPPSWLQSQLKYYTPAAHAAAFVLPWFAEQVIAPV  996
+
+
+
+
+>TSA: Pavlova sp. CCMP459, TRINITY-DN29190-c0-g1-i1, transcribed RNA sequence
+Sequence ID: HBSY01021561.1 Length: 1190
+Range 1: 60 to 908
+
+Score:302 bits(773), Expect:2e-98, 
+Method:Compositional matrix adjust., 
+Identities:149/285(52%), Positives:202/285(70%), Gaps:4/285(1%)
+
+Query  16   IREGWFRETCSLWPGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQCTERD  75
+            + +GWF E+  +WPGQ  SL+VE++L   RS++QD+LVF+S  YG VL LDGVIQ TERD
+Sbjct  60   LNDGWFTESEVMWPGQRFSLKVEKVLFQGRSKFQDVLVFQSTNYGRVLCLDGVIQLTERD  239
+
+Query  76   EFSYQEMIANLPLCSHPNPRKVLIIgggdggVLREVVKHPSVESVVQCEIDEDVIQVSKK  135
+            E +YQEMIA++PLC+HPNP  VLI+GGGDGGVLREV +HP +  +  CEIDE V++VSK+
+Sbjct  240  EAAYQEMIAHIPLCAHPNPTSVLIVGGGDGGVLREVCRHPCISQITMCEIDEKVVEVSKE  419
+
+Query  136  FLPGM-AIGYSSSKLTLHVGDGFEFMKQNQDAFDVIITDSSDPMGPAESLFKESYYQLMK  194
+            +   + A  +   ++ L   D  EF+K+    +DV+I DSSDP+GPAE+LF   +Y  +K
+Sbjct  420  YFREVTATSFGDPRVELLFEDAAEFVKRRPATYDVVIVDSSDPVGPAETLFTSEFYAALK  599
+
+Query  195  TALKEDGVLCCQGECQWLHLDLIKEMRQFCQSLFPVVAYAYCTIPTYPSGQIGFMLCSKN  254
+            T+L+  G++C QGECQWLHLDLI ++   C   F  V YA+ TIPTYPSGQIGF+LCS +
+Sbjct  600  TSLRPGGIICNQGECQWLHLDLIAKVLGDCGRAFDTVEYAFTTIPTYPSGQIGFLLCSTS  779
+
+Query  255  PSTN-FQEPVQPLTQQQVAQMQLKYYNSDVHRAAFVLPEFARKAL  298
+             + +  +EP + +      Q QL+YY  +VHRAAFVLP F  + +
+Sbjct  780  SAPDMLREPRRRVPPG--VQAQLRYYTPEVHRAAFVLPRFTEQVV  908
+
+
+
+
+>TSA: Gephyrocapsa oceanica, TRINITY-DN8294-c0-g1-i3, transcribed RNA sequence
+Sequence ID: HBTM01048746.1 Length: 1015
+Range 1: 85 to 1005
+
+Score:298 bits(763), Expect:8e-98, 
+Method:Compositional matrix adjust., 
+Identities:159/309(51%), Positives:202/309(65%), Gaps:25/309(8%)
+
+Query  16    IREGWFRETCSLWPGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQCTERD  75
+             +R+ WF E   +WPGQA+SL+VE++L   RS++QDILVFRS TYG VLVLDGVIQ TERD
+Sbjct  85    VRDNWFTENEVMWPGQAMSLKVEEVLFEGRSKFQDILVFRSSTYGTVLVLDGVIQLTERD  264
+
+Query  76    EFSYQEMIANLPLCSHPNPRKVLIIgggdggVLREVVKHPSVESVVQCEIDEDVIQVSKK  135
+             E +YQEMIA LPL SHPNP+ VLI+GGGDGGVLREV +HP V SV  CEIDE V  V+KK
+Sbjct  265   EHAYQEMIAQLPLHSHPNPQSVLIVGGGDGGVLREVCRHPDVASVTMCEIDELVCDVAKK  444
+
+Query  136   FLP-GMAIGYSSSKLTLHVGDGFEFMKQNQDAFDVIITDSSDPMGPAESLFKESYYQLMK  194
+             +L    A  +   ++TL   D  E++K   DA+DV+I DSSDP+GPAE+LF  S+Y  ++
+Sbjct  445   YLSHSTATAFDDPRVTLVHADAAEYVKDKCDAYDVVIVDSSDPIGPAETLFTSSFYSCLR  624
+
+Query  195   TALKEDGVLCCQGECQWLHLDLIKEMRQFCQSLFPVVAYAYCTIPTYPSGQIGFMLCSKN  254
+              A++   ++C QGEC WLHL LI +  + C  +FP V YAY TIPTYPSGQIGF+LCS  
+Sbjct  625   KAMRPGAIMCNQGECIWLHLPLIADCLRSCHEIFPSVDYAYTTIPTYPSGQIGFLLCSTA  804
+
+Query  255   PSTNFQEPVQPLTQQQVAQMQLKYYN-------------------SDVHRA---AFVLPE  292
+                  + P++  T +   Q QLKYY+                    D  R    AF+LP 
+Sbjct  805   AGAVLRRPLREPTPEM--QAQLKYYSPAAHAAVALAPRGSHARRRPDCRRGCL*AFILPR  978
+
+Query  293   FARKALNDV  301
+             FA + +  V
+Sbjct  979   FAEETVAAV  1005
+
+
+
+
+>TSA: Orciraptor agilis, transcript: m.31929_type-complete_len441_TR11364_c0_g1_i1, transcribed RNA sequence
+Sequence ID: HBWT01001083.1 Length: 1323
+Range 1: 82 to 960
+
+Score:301 bits(770), Expect:2e-97, 
+Method:Compositional matrix adjust., 
+Identities:151/295(51%), Positives:207/295(70%), Gaps:11/295(3%)
+
+Query  16   IREGWFRETCSLWPGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQCTERD  75
+            I++GWF E  S WPG A+SL++++ L + +S+YQ I VF +K +GNVLVLDGVIQ T+RD
+Sbjct  82   IKDGWFVEVNSQWPGGAMSLRIDKELLNIKSKYQQIFVFENKEFGNVLVLDGVIQLTDRD  261
+
+Query  76   EFSYQEMIANLPLCSHPNPRKVLIIgggdggVLREVVKHPSVESVVQCEIDEDVIQVSKK  135
+            E SYQEMIA+LPL +HP+P+ VL+IGGGDGGV+RE+VKH  VE +  CEIDE+VI+  KK
+Sbjct  262  EASYQEMIAHLPLFAHPDPKSVLVIGGGDGGVIREIVKHKGVEDITICEIDEEVIKAGKK  441
+
+Query  136  FLPGMAIGYSSSKLTLHVGDGFEFMK--QNQDAFDVIITDSSDPMGPAESLFKESYYQLM  193
+            F P +A  ++  ++ LHVGDG  FMK  +N + FDVIITDSSDP+GPA+SLF+  +Y  M
+Sbjct  442  FFPKVASAWTDKRVKLHVGDGSAFMKKEENLNRFDVIITDSSDPIGPAQSLFESPFYAAM  621
+
+Query  194  KTALKEDGVLCCQGECQWLHLDLIKEMRQFCQSLFPVVAYAYCTIPTYPSGQIGFMLCSK  253
+              ALK  G +C Q EC W  LDLIK++ +  + ++  V YA    PTYP GQIGF+LCSK
+Sbjct  622  HAALKPGGRVCTQAECYWKDLDLIKKLVKESRLVYEAVEYASTQTPTYPLGQIGFLLCSK  801
+
+Query  254  NP-------STNFQEPVQPLTQQQVAQMQLKYYNSDVHRAAFVLPEFARKALNDV  301
+             P       +   +EP +P T       ++ YY +++H+A+F+LP+FA  A+ + 
+Sbjct  802  APEQKRNRRTVTSKEP-RP-TPDDDEDFKVTYYTTELHKASFILPKFAHDAIEEA  960
+
+
+
+
+>TSA: Pavlova gyrans, MMETSP1466-doi:10.5281-zenodo.249982-Transcript-6926, transcribed RNA sequence
+Sequence ID: HBND01025891.1 Length: 1066
+Range 1: 64 to 912
+
+Score:296 bits(759), Expect:6e-97, 
+Method:Compositional matrix adjust., 
+Identities:148/285(52%), Positives:201/285(70%), Gaps:4/285(1%)
+
+Query  16   IREGWFRETCSLWPGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQCTERD  75
+            I++GWF E+  +WPGQ  +L+VE++LH  RS +QD+LVF+S TYG VL LDGVIQ TERD
+Sbjct  64   IKDGWFTESEVMWPGQRFALKVEEVLHEGRSDFQDVLVFQSSTYGRVLCLDGVIQLTERD  243
+
+Query  76   EFSYQEMIANLPLCSHPNPRKVLIIgggdggVLREVVKHPSVESVVQCEIDEDVIQVSKK  135
+            E +YQEMIA++P+ SHPNP  VLI+GGGDGGVLREV +H  +  +  CEID+ V+ VSKK
+Sbjct  244  EAAYQEMIAHIPIFSHPNPTSVLIVGGGDGGVLREVCRHAGITKITMCEIDKQVVDVSKK  423
+
+Query  136  FLPGM-AIGYSSSKLTLHVGDGFEFMKQNQDAFDVIITDSSDPMGPAESLFKESYYQLMK  194
+            +   + A  +   ++ L   D  +F+ +  +++DV+I DSSDP+GPAE+LF   +Y  +K
+Sbjct  424  YFRHITATSFEDPRVELLFEDAAKFVTRRPESYDVVIVDSSDPVGPAETLFTSDFYAALK  603
+
+Query  195  TALKEDGVLCCQGECQWLHLDLIKEMRQFCQSLFPVVAYAYCTIPTYPSGQIGFMLCSKN  254
+             +LK  G++C QGECQWLHLDLI ++   C   F  V YA+ TIPTYPSGQIGF+LCS +
+Sbjct  604  RSLKPGGIICNQGECQWLHLDLIAKVLGDCGKAFDTVEYAFTTIPTYPSGQIGFLLCSLS  783
+
+Query  255  PSTN-FQEPVQPLTQQQVAQMQLKYYNSDVHRAAFVLPEFARKAL  298
+             + +  +EP +    Q   Q QL+YY  +VHRAAFVLP F  + +
+Sbjct  784  AAPDMLREPRRAPPPQM--QAQLRYYTPEVHRAAFVLPRFTEQVV  912
+
+
+
+
+>TSA: Emiliania huxleyi, TRINITY-DN12834-c0-g1-i5, transcribed RNA sequence
+Sequence ID: HBPW01043918.1 Length: 939
+Range 1: 42 to 833
+
+Score:295 bits(755), Expect:6e-97, 
+Method:Compositional matrix adjust., 
+Identities:149/266(56%), Positives:190/266(71%), Gaps:3/266(1%)
+
+Query  16   IREGWFRETCSLWPGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQCTERD  75
+            +R+ WF E   +WPGQA+SL+VE++L   RS++QDILVFRS TYG VLVLDGVIQ TERD
+Sbjct  42   VRDNWFTENEVMWPGQAMSLKVEEVLFEGRSKFQDILVFRSSTYGTVLVLDGVIQLTERD  221
+
+Query  76   EFSYQEMIANLPLCSHPNPRKVLIIgggdggVLREVVKHPSVESVVQCEIDEDVIQVSKK  135
+            E +YQEMIA LPL SHPNP+ VLI+GGGDGGVLREV +HP V SV  CEIDE V  V+KK
+Sbjct  222  EHAYQEMIAQLPLHSHPNPQSVLIVGGGDGGVLREVCRHPDVASVTMCEIDELVCDVAKK  401
+
+Query  136  FLP-GMAIGYSSSKLTLHVGDGFEFMKQNQDAFDVIITDSSDPMGPAESLFKESYYQLMK  194
+            +L    A  +   ++TL   D  E++K   DA+D++I DSSDP+GPAE+LF  S+Y  ++
+Sbjct  402  YLSHSTATAFDDPRVTLVHADAAEYVKDKCDAYDLVIVDSSDPIGPAETLFTSSFYSCLR  581
+
+Query  195  TALKEDGVLCCQGECQWLHLDLIKEMRQFCQSLFPVVAYAYCTIPTYPSGQIGFMLCSKN  254
+             A++   ++C QGEC WLHL LI +  + C  +FP V YAY TIPTYPSGQIGF+LCS  
+Sbjct  582  KAMRPGAIMCNQGECIWLHLPLIADCLRSCHEIFPSVDYAYTTIPTYPSGQIGFLLCSTA  761
+
+Query  255  PSTNFQEPVQPLTQQQVAQMQLKYYN  280
+                 + P++  T +   Q QLKYY+
+Sbjct  762  AGAVLRRPLREPTPEM--QAQLKYYS  833
+
+
+
+
+>TSA: Pavlova pinguis isolate RCC6260 TRINITY_DN171511_c0_g1_i1, transcribed RNA sequence
+Sequence ID: GKOX01000424.1 Length: 900
+Range 1: 24 to 872
+
+Score:295 bits(754), Expect:7e-97, 
+Method:Compositional matrix adjust., 
+Identities:146/285(51%), Positives:199/285(69%), Gaps:4/285(1%)
+
+Query  16   IREGWFRETCSLWPGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQCTERD  75
+            + +GWF E   +WPGQ  SLQV+++L+  RS++QD+LVF S +YG VL LDGVIQ TERD
+Sbjct  24   LHDGWFAEKEVMWPGQRFSLQVQKVLYEGRSKFQDVLVFESTSYGRVLCLDGVIQLTERD  203
+
+Query  76   EFSYQEMIANLPLCSHPNPRKVLIIgggdggVLREVVKHPSVESVVQCEIDEDVIQVSKK  135
+            E +YQEMI ++PL +HPNP  VLI+GGGDGGVLREV +H  + ++  CEIDE V+ VSKK
+Sbjct  204  EAAYQEMITHIPLFAHPNPTSVLIVGGGDGGVLREVCRHECIRNITMCEIDEQVVDVSKK  383
+
+Query  136  FLPGM-AIGYSSSKLTLHVGDGFEFMKQNQDAFDVIITDSSDPMGPAESLFKESYYQLMK  194
+            +   + A  +   ++ L   D  EF+K+   ++DV+I DSSDP+GPAE+LF   +Y  +K
+Sbjct  384  YFKDVTATSFDDPRVELLFEDAAEFVKRRLSSYDVVIVDSSDPVGPAETLFTSEFYAALK  563
+
+Query  195  TALKEDGVLCCQGECQWLHLDLIKEMRQFCQSLFPVVAYAYCTIPTYPSGQIGFMLCSKN  254
+             +L+ +G++C QGECQWLHLDLI ++   C   F  V YA+ TIPTYPSGQIGF+LCS  
+Sbjct  564  ASLRPNGIICNQGECQWLHLDLIAKVLGDCGRAFSTVEYAFTTIPTYPSGQIGFLLCSTG  743
+
+Query  255  PSTN-FQEPVQPLTQQQVAQMQLKYYNSDVHRAAFVLPEFARKAL  298
+             + N  +EP +  +     Q +L+YY  +VHRAAFVLP F  + +
+Sbjct  744  AAPNLLREPRR--SMPPALQEKLRYYTPEVHRAAFVLPRFTEQVV  872
+
+
+
+
+>TSA: Emiliania huxleyi, TRINITY-DN10998-c0-g1-i4, transcribed RNA sequence
+Sequence ID: HBQI01002663.1 Length: 942
+Range 1: 45 to 836
+
+Score:295 bits(755), Expect:7e-97, 
+Method:Compositional matrix adjust., 
+Identities:149/266(56%), Positives:190/266(71%), Gaps:3/266(1%)
+
+Query  16   IREGWFRETCSLWPGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQCTERD  75
+            +R+ WF E   +WPGQA+SL+VE++L   RS++QDILVFRS TYG VLVLDGVIQ TERD
+Sbjct  45   VRDNWFTENEVMWPGQAMSLKVEEVLFEGRSKFQDILVFRSSTYGTVLVLDGVIQLTERD  224
+
+Query  76   EFSYQEMIANLPLCSHPNPRKVLIIgggdggVLREVVKHPSVESVVQCEIDEDVIQVSKK  135
+            E +YQEMIA LPL SHPNP+ VLI+GGGDGGVLREV +HP V SV  CEIDE V  V+KK
+Sbjct  225  EHAYQEMIAQLPLHSHPNPQSVLIVGGGDGGVLREVCRHPDVASVTMCEIDELVCDVAKK  404
+
+Query  136  FLP-GMAIGYSSSKLTLHVGDGFEFMKQNQDAFDVIITDSSDPMGPAESLFKESYYQLMK  194
+            +L    A  +   ++TL   D  E++K   DA+D++I DSSDP+GPAE+LF  S+Y  ++
+Sbjct  405  YLSHSTATAFDDPRVTLVHADAAEYVKDKCDAYDLVIVDSSDPIGPAETLFTSSFYSCLR  584
+
+Query  195  TALKEDGVLCCQGECQWLHLDLIKEMRQFCQSLFPVVAYAYCTIPTYPSGQIGFMLCSKN  254
+             A++   ++C QGEC WLHL LI +  + C  +FP V YAY TIPTYPSGQIGF+LCS  
+Sbjct  585  KAMRPGAIMCNQGECIWLHLPLIADCLRSCHEIFPSVDYAYTTIPTYPSGQIGFLLCSTA  764
+
+Query  255  PSTNFQEPVQPLTQQQVAQMQLKYYN  280
+                 + P++  T +   Q QLKYY+
+Sbjct  765  AGAVLRRPLREPTPEM--QAQLKYYS  836
+
+
+
+
+>TSA: Pavlomulina ranunculiformis isolate RCC3430 TRINITY_DN111638_c0_g1_i1, transcribed RNA sequence
+Sequence ID: GKPZ01120247.1 Length: 1288
+Range 1: 72 to 923
+
+Score:299 bits(765), Expect:7e-97, 
+Method:Compositional matrix adjust., 
+Identities:151/286(53%), Positives:207/286(72%), Gaps:3/286(1%)
+
+Query  17   REGWFRETCSLWPGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQCTERDE  76
+            ++GW++E   +WPGQA SL+V+ +L   +S +QD+ VF+S  YG VLVLD VIQ TERDE
+Sbjct  72   KDGWYQEGEVMWPGQAFSLKVKDVLFEGKSDFQDVKVFQSTDYGKVLVLDDVIQLTERDE  251
+
+Query  77   FSYQEMIANLPLCSHPNPRKVLIIgggdggVLREVVKHPSVESVVQCEIDEDVIQVSKKF  136
+             +YQEMI N+P+ +HPNP  VLI+GGGDGGVLREV +H  V+SV  CEID  V+ VSK+F
+Sbjct  252  HAYQEMITNIPMMAHPNPTSVLIVGGGDGGVLREVCRHSCVQSVTMCEIDALVVDVSKRF  431
+
+Query  137  LPGM-AIGYSSSKLTLHVGDGFEFMKQNQDAFDVIITDSSDPMGPAESLFKESYYQLMKT  195
+            L  + A  +   ++ L   D  E++K +Q+ FDV+I DSSDP+GPAE+LFK ++Y  +K 
+Sbjct  432  LGDITATSFDDPRVNLVHQDAAEYIKSHQEEFDVVIVDSSDPVGPAETLFKPAFYDALKD  611
+
+Query  196  ALKEDGVLCCQGECQWLHLDLIKEMRQFCQSLFPVVAYAYCTIPTYPSGQIGFMLCSKNP  255
+            +L+  G++C QGEC WLHL+LI ++   C   FPVV YA+ TIPTYPSGQIGF+LCS + 
+Sbjct  612  SLRPGGIICNQGECMWLHLELISQVLGECARSFPVVDYAFTTIPTYPSGQIGFLLCSLDK  791
+
+Query  256  STNFQEPVQPLTQQQVAQMQLKYYNSDVHRAAFVLPEFARKALNDV  301
+            + N ++  +PL    +AQ +L+YY+ DVH A+FVLP FA K ++ V
+Sbjct  792  NCNLRQLARPL-DPALAQ-KLRYYSPDVHTASFVLPTFAEKVVSTV  923
+
+
+
+
+>TSA: Phaeocystis antarctica, TRINITY-DN15690-c1-g6-i1, transcribed RNA sequence
+Sequence ID: HBQY01058433.1 Length: 896
+Range 1: 35 to 820
+
+Score:293 bits(751), Expect:2e-96, 
+Method:Compositional matrix adjust., 
+Identities:144/264(55%), Positives:194/264(73%), Gaps:3/264(1%)
+
+Query  16   IREGWFRETCSLWPGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQCTERD  75
+            I++GWF E   +WPGQA+SL+VE++L+  +S +QDILVFRS TYGNVLVLDG IQ TERD
+Sbjct  35   IKDGWFSEAEVMWPGQAMSLKVEEVLYEGKSDFQDILVFRSSTYGNVLVLDGAIQLTERD  214
+
+Query  76   EFSYQEMIANLPLCSHPNPRKVLIIgggdggVLREVVKHPSVESVVQCEIDEDVIQVSKK  135
+            E +YQEMIA +PL +HP+P+ VLI+GGGDGGVLREV +H SV+ +V CEID  V  VSK+
+Sbjct  215  EHAYQEMIAQIPLHAHPDPKSVLIVGGGDGGVLREVCRHSSVQKIVMCEIDSQVCDVSKR  394
+
+Query  136  FLPG-MAIGYSSSKLTLHVGDGFEFMKQNQDAFDVIITDSSDPMGPAESLFKESYYQLMK  194
+            F     A  ++  ++ L   D  +F+K  +D +DV+I DSSDP+GPAE+LF+ ++YQ +K
+Sbjct  395  FFANSTATSFNDPRVQLVHADAAQFVKDKRDEYDVVIVDSSDPIGPAETLFQPAFYQGLK  574
+
+Query  195  TALKEDGVLCCQGECQWLHLDLIKEMRQFCQSLFPVVAYAYCTIPTYPSGQIGFMLCSKN  254
+             A++   ++C QGEC WLHLDLI  + + C ++FP V YA+ TIPTYPSGQIGF++CS +
+Sbjct  575  DAMRPGAIMCNQGECIWLHLDLIGTVLRHCTTVFPSVDYAFTTIPTYPSGQIGFLMCSTS  754
+
+Query  255  PSTNFQEPVQPLTQQQVAQMQLKY  278
+            P+T  + P +  T     Q QLKY
+Sbjct  755  PNTVLRVPAR--TPPPEVQAQLKY  820
+
+
+
+
+>TSA: Phaeocystis antarctica, TRINITY-DN15365-c3-g2-i1, transcribed RNA sequence
+Sequence ID: HBRJ01021793.1 Length: 950
+Range 1: 25 to 810
+
+Score:293 bits(751), Expect:2e-96, 
+Method:Compositional matrix adjust., 
+Identities:144/264(55%), Positives:194/264(73%), Gaps:3/264(1%)
+
+Query  16   IREGWFRETCSLWPGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQCTERD  75
+            I++GWF E   +WPGQA+SL+VE++L+  +S +QDILVFRS TYGNVLVLDG IQ TERD
+Sbjct  25   IKDGWFSEAEVMWPGQAMSLKVEEVLYEGKSDFQDILVFRSSTYGNVLVLDGAIQLTERD  204
+
+Query  76   EFSYQEMIANLPLCSHPNPRKVLIIgggdggVLREVVKHPSVESVVQCEIDEDVIQVSKK  135
+            E +YQEMIA +PL +HP+P+ VLI+GGGDGGVLREV +H SV+ +V CEID  V  VSK+
+Sbjct  205  EHAYQEMIAQIPLHAHPDPKSVLIVGGGDGGVLREVCRHSSVQKIVMCEIDSQVCDVSKR  384
+
+Query  136  FLPG-MAIGYSSSKLTLHVGDGFEFMKQNQDAFDVIITDSSDPMGPAESLFKESYYQLMK  194
+            F     A  ++  ++ L   D  +F+K  +D +DV+I DSSDP+GPAE+LF+ ++YQ +K
+Sbjct  385  FFANSTATAFNDPRVQLVHADAAQFVKDKRDEYDVVIVDSSDPIGPAETLFQPAFYQGLK  564
+
+Query  195  TALKEDGVLCCQGECQWLHLDLIKEMRQFCQSLFPVVAYAYCTIPTYPSGQIGFMLCSKN  254
+             A++   ++C QGEC WLHLDLI  + + C ++FP V YA+ TIPTYPSGQIGF++CS +
+Sbjct  565  DAMRPGAIMCNQGECIWLHLDLIGTVLRHCTTVFPSVDYAFTTIPTYPSGQIGFLMCSTS  744
+
+Query  255  PSTNFQEPVQPLTQQQVAQMQLKY  278
+            P+T  + P +  T     Q QLKY
+Sbjct  745  PNTVLRVPAR--TPPPEVQAQLKY  810
+
+
+
+
+>TSA: Phaeocystis antarctica, TRINITY-DN15365-c3-g2-i2, transcribed RNA sequence
+Sequence ID: HBRJ01021794.1 Length: 953
+Range 1: 25 to 810
+
+Score:293 bits(751), Expect:2e-96, 
+Method:Compositional matrix adjust., 
+Identities:144/264(55%), Positives:194/264(73%), Gaps:3/264(1%)
+
+Query  16   IREGWFRETCSLWPGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQCTERD  75
+            I++GWF E   +WPGQA+SL+VE++L+  +S +QDILVFRS TYGNVLVLDG IQ TERD
+Sbjct  25   IKDGWFSEAEVMWPGQAMSLKVEEVLYEGKSDFQDILVFRSSTYGNVLVLDGAIQLTERD  204
+
+Query  76   EFSYQEMIANLPLCSHPNPRKVLIIgggdggVLREVVKHPSVESVVQCEIDEDVIQVSKK  135
+            E +YQEMIA +PL +HP+P+ VLI+GGGDGGVLREV +H SV+ +V CEID  V  VSK+
+Sbjct  205  EHAYQEMIAQIPLHAHPDPKSVLIVGGGDGGVLREVCRHSSVQKIVMCEIDSQVCDVSKR  384
+
+Query  136  FLPG-MAIGYSSSKLTLHVGDGFEFMKQNQDAFDVIITDSSDPMGPAESLFKESYYQLMK  194
+            F     A  ++  ++ L   D  +F+K  +D +DV+I DSSDP+GPAE+LF+ ++YQ +K
+Sbjct  385  FFANSTATAFNDPRVQLVHADAAQFVKDKRDEYDVVIVDSSDPIGPAETLFQPAFYQGLK  564
+
+Query  195  TALKEDGVLCCQGECQWLHLDLIKEMRQFCQSLFPVVAYAYCTIPTYPSGQIGFMLCSKN  254
+             A++   ++C QGEC WLHLDLI  + + C ++FP V YA+ TIPTYPSGQIGF++CS +
+Sbjct  565  DAMRPGAIMCNQGECIWLHLDLIGTVLRHCTTVFPSVDYAFTTIPTYPSGQIGFLMCSTS  744
+
+Query  255  PSTNFQEPVQPLTQQQVAQMQLKY  278
+            P+T  + P +  T     Q QLKY
+Sbjct  745  PNTVLRVPAR--TPPPEVQAQLKY  810
+
+
+
+
+>TSA: Gephyrocapsa oceanica, TRINITY-DN3513-c6-g1-i5, transcribed RNA sequence
+Sequence ID: HBON01040125.1 Length: 1341
+Range 1: 83 to 1003
+
+Score:298 bits(763), Expect:2e-96, 
+Method:Compositional matrix adjust., 
+Identities:159/309(51%), Positives:202/309(65%), Gaps:25/309(8%)
+
+Query  16    IREGWFRETCSLWPGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQCTERD  75
+             +R+ WF E   +WPGQA+SL+VE++L   RS++QDILVFRS TYG VLVLDGVIQ TERD
+Sbjct  83    VRDNWFTENEVMWPGQAMSLKVEEVLFEGRSKFQDILVFRSSTYGTVLVLDGVIQLTERD  262
+
+Query  76    EFSYQEMIANLPLCSHPNPRKVLIIgggdggVLREVVKHPSVESVVQCEIDEDVIQVSKK  135
+             E +YQEMIA LPL SHPNP+ VLI+GGGDGGVLREV +HP V SV  CEIDE V  V+KK
+Sbjct  263   EHAYQEMIAQLPLHSHPNPQSVLIVGGGDGGVLREVCRHPDVASVTMCEIDELVCDVAKK  442
+
+Query  136   FLP-GMAIGYSSSKLTLHVGDGFEFMKQNQDAFDVIITDSSDPMGPAESLFKESYYQLMK  194
+             +L    A  +   ++TL   D  E++K   DA+DV+I DSSDP+GPAE+LF  S+Y  ++
+Sbjct  443   YLSHSTATAFDDPRVTLVHADAAEYVKDKCDAYDVVIVDSSDPIGPAETLFTSSFYSCLR  622
+
+Query  195   TALKEDGVLCCQGECQWLHLDLIKEMRQFCQSLFPVVAYAYCTIPTYPSGQIGFMLCSKN  254
+              A++   ++C QGEC WLHL LI +  + C  +FP V YAY TIPTYPSGQIGF+LCS  
+Sbjct  623   KAMRPGAIMCNQGECIWLHLPLIADCLRSCHEIFPSVDYAYTTIPTYPSGQIGFLLCSTA  802
+
+Query  255   PSTNFQEPVQPLTQQQVAQMQLKYYN-------------------SDVHRA---AFVLPE  292
+                  + P++  T +   Q QLKYY+                    D  R    AF+LP 
+Sbjct  803   AGAVLRRPLREPTPEM--QAQLKYYSPAAHAAVALAPRGSHARRRPDCRRGCL*AFILPR  976
+
+Query  293   FARKALNDV  301
+             FA + +  V
+Sbjct  977   FAEETVAAV  1003
+
+
+
+
+>TSA: Gephyrocapsa oceanica, TRINITY-DN3513-c6-g1-i2, transcribed RNA sequence
+Sequence ID: HBON01040123.1 Length: 1343
+Range 1: 85 to 1005
+
+Score:298 bits(763), Expect:2e-96, 
+Method:Compositional matrix adjust., 
+Identities:159/309(51%), Positives:202/309(65%), Gaps:25/309(8%)
+
+Query  16    IREGWFRETCSLWPGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQCTERD  75
+             +R+ WF E   +WPGQA+SL+VE++L   RS++QDILVFRS TYG VLVLDGVIQ TERD
+Sbjct  85    VRDNWFTENEVMWPGQAMSLKVEEVLFEGRSKFQDILVFRSSTYGTVLVLDGVIQLTERD  264
+
+Query  76    EFSYQEMIANLPLCSHPNPRKVLIIgggdggVLREVVKHPSVESVVQCEIDEDVIQVSKK  135
+             E +YQEMIA LPL SHPNP+ VLI+GGGDGGVLREV +HP V SV  CEIDE V  V+KK
+Sbjct  265   EHAYQEMIAQLPLHSHPNPQSVLIVGGGDGGVLREVCRHPDVASVTMCEIDELVCDVAKK  444
+
+Query  136   FLP-GMAIGYSSSKLTLHVGDGFEFMKQNQDAFDVIITDSSDPMGPAESLFKESYYQLMK  194
+             +L    A  +   ++TL   D  E++K   DA+DV+I DSSDP+GPAE+LF  S+Y  ++
+Sbjct  445   YLSHSTATAFDDPRVTLVHADAAEYVKDKCDAYDVVIVDSSDPIGPAETLFTSSFYSCLR  624
+
+Query  195   TALKEDGVLCCQGECQWLHLDLIKEMRQFCQSLFPVVAYAYCTIPTYPSGQIGFMLCSKN  254
+              A++   ++C QGEC WLHL LI +  + C  +FP V YAY TIPTYPSGQIGF+LCS  
+Sbjct  625   KAMRPGAIMCNQGECIWLHLPLIADCLRSCHEIFPSVDYAYTTIPTYPSGQIGFLLCSTA  804
+
+Query  255   PSTNFQEPVQPLTQQQVAQMQLKYYN-------------------SDVHRA---AFVLPE  292
+                  + P++  T +   Q QLKYY+                    D  R    AF+LP 
+Sbjct  805   AGAVLRRPLREPTPEM--QAQLKYYSPAAHAAVALAPRGSHARRRPDCRRGCL*AFILPR  978
+
+Query  293   FARKALNDV  301
+             FA + +  V
+Sbjct  979   FAEETVAAV  1005
+
+
+
+
+>TSA: Phaeocystis sp. RCC935, transcript: TRINITY-DN31018-c0-g1-i1, transcribed RNA sequence
+Sequence ID: HBQW01030065.1 Length: 1134
+Range 1: 50 to 892
+
+Score:295 bits(755), Expect:5e-96, 
+Method:Compositional matrix adjust., 
+Identities:148/283(52%), Positives:198/283(69%), Gaps:3/283(1%)
+
+Query  17   REGWFRETCSLWPGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQCTERDE  76
+            ++GWFRE+  LWPGQA+SL+V+ +L+  RS +Q+ILVFRS  YG VLV+DGVIQ TERDE
+Sbjct  50   KDGWFRESEVLWPGQAMSLRVDSVLYEGRSEFQEILVFRSANYGTVLVIDGVIQLTERDE  229
+
+Query  77   FSYQEMIANLPLCSHPNPRKVLIIgggdggVLREVVKHPSVESVVQCEIDEDVIQVSKKF  136
+             ++ EM+A++PL  HP P+ VLI+GGGDGGVLREV +H  VE VV CEID  VI++SK+F
+Sbjct  230  HAFHEMLAHVPLHCHPAPKSVLIVGGGDGGVLREVCRHACVEEVVLCEIDPLVIELSKRF  409
+
+Query  137  LPG-MAIGYSSSKLTLHVGDGFEFMKQNQDAFDVIITDSSDPMGPAESLFKESYYQLMKT  195
+            L    A  +   ++TL   D  +F++     FDV+I DS DP+GPA +LF   +Y  ++ 
+Sbjct  410  LGNSTATSFGDPRVTLVHEDAAQFVRGRSSEFDVVIVDSRDPVGPAWTLFTSDFYASLRA  589
+
+Query  196  ALKEDGVLCCQGECQWLHLDLIKEMRQFCQSLFPVVAYAYCTIPTYPSGQIGFMLCSKNP  255
+            A+K   ++C QGEC WLHLDLI E+ + C+++FP V Y Y TIPT PSGQIGF++CS  P
+Sbjct  590  AMKPGALMCNQGECIWLHLDLIGEVLRHCKAVFPTVDYCYTTIPTCPSGQIGFLMCSTTP  769
+
+Query  256  STNFQEPVQPLTQQQVAQMQLKYYNSDVHRAAFVLPEFARKAL  298
+                ++P +  T     Q QLKYY   VH A+FVLP FA +A+
+Sbjct  770  DCVLRQPTR--TPAAGLQEQLKYYTPAVHAASFVLPRFAERAV  892
+
+
+
+
+>TSA: Emiliania huxleyi, transcript: TRINITY_DN760_c0_g1_i24, transcribed RNA sequence
+Sequence ID: HCFN01018411.1 Length: 3606
+Range 1: 2235 to 3089
+
+Score:314 bits(805), Expect:6e-96, 
+Method:Compositional matrix adjust., 
+Identities:158/287(55%), Positives:202/287(70%), Gaps:3/287(1%)
+
+Query  16    IREGWFRETCSLWPGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQCTERD  75
+             +R+ WF E   +WPGQA+SL+VE++L   RS++QDILVFRS TYG VLVLDGVIQ TERD
+Sbjct  2235  VRDNWFTENEVMWPGQAMSLKVEEVLFEGRSKFQDILVFRSSTYGTVLVLDGVIQLTERD  2414
+
+Query  76    EFSYQEMIANLPLCSHPNPRKVLIIgggdggVLREVVKHPSVESVVQCEIDEDVIQVSKK  135
+             E +YQEMIA LPL SHPNP+ VLI+GGGDGGVLREV +HP V SV  CEIDE V  V+KK
+Sbjct  2415  EHAYQEMIAQLPLHSHPNPQSVLIVGGGDGGVLREVCRHPDVASVTMCEIDELVCDVAKK  2594
+
+Query  136   FLP-GMAIGYSSSKLTLHVGDGFEFMKQNQDAFDVIITDSSDPMGPAESLFKESYYQLMK  194
+             +L    A  +   ++TL   D  E++K   DA+D++I DSSDP+GPAE+LF  S+Y  ++
+Sbjct  2595  YLSHSTATAFDDPRVTLVHADAAEYVKDKCDAYDLVIVDSSDPIGPAETLFTSSFYSCLR  2774
+
+Query  195   TALKEDGVLCCQGECQWLHLDLIKEMRQFCQSLFPVVAYAYCTIPTYPSGQIGFMLCSKN  254
+              A++   ++C QGEC WLHL LI +  + C  +FP V YAY TIPTYPSGQIGF+LCS  
+Sbjct  2775  KAMRPGAIMCNQGECIWLHLPLIADCLRSCHEIFPSVDYAYTTIPTYPSGQIGFLLCSTA  2954
+
+Query  255   PSTNFQEPVQPLTQQQVAQMQLKYYNSDVHRAAFVLPEFARKALNDV  301
+                  + P++  T +   Q QLKYY+   H AAF+LP FA + +  V
+Sbjct  2955  AGAVLRRPLREPTPEM--QAQLKYYSPAAHAAAFILPRFAEETVAAV  3089
+
+
+
+
+>TSA: Gephyrocapsa muellerae, TRINITY-DN10449-c5-g4-i5, transcribed RNA sequence
+Sequence ID: HBRT01013928.1 Length: 1319
+Range 1: 65 to 856
+
+Score:296 bits(759), Expect:9e-96, 
+Method:Compositional matrix adjust., 
+Identities:150/266(56%), Positives:190/266(71%), Gaps:3/266(1%)
+
+Query  16   IREGWFRETCSLWPGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQCTERD  75
+            +R+ WF E   +WPGQA+SL+VE++L   RS++QDILVFRS TYG VLVLDGVIQ TERD
+Sbjct  65   VRDNWFTENEVMWPGQAMSLKVEEVLFEGRSKFQDILVFRSSTYGTVLVLDGVIQLTERD  244
+
+Query  76   EFSYQEMIANLPLCSHPNPRKVLIIgggdggVLREVVKHPSVESVVQCEIDEDVIQVSKK  135
+            E +YQEMIA LPL SHPNP+ VLI+GGGDGGVLREV +HP V SV  CEIDE V  V+KK
+Sbjct  245  EHAYQEMIAQLPLHSHPNPQSVLIVGGGDGGVLREVCRHPDVASVTMCEIDELVCDVAKK  424
+
+Query  136  FLP-GMAIGYSSSKLTLHVGDGFEFMKQNQDAFDVIITDSSDPMGPAESLFKESYYQLMK  194
+            +L    A  +   ++TL   D  E++K   DA+DV+I DSSDP+GPAE+LF  S+Y  ++
+Sbjct  425  YLSHSTATAFDDPRVTLVHADAAEYVKDKCDAYDVVIVDSSDPIGPAETLFTSSFYSCLR  604
+
+Query  195  TALKEDGVLCCQGECQWLHLDLIKEMRQFCQSLFPVVAYAYCTIPTYPSGQIGFMLCSKN  254
+             A++   ++C QGEC WLHL LI +  + C  +FP V YAY TIPTYPSGQIGF+LCS  
+Sbjct  605  KAMRPGAIMCNQGECIWLHLPLIADCLRSCHEIFPSVDYAYTTIPTYPSGQIGFLLCSTA  784
+
+Query  255  PSTNFQEPVQPLTQQQVAQMQLKYYN  280
+                 + P++  T +   Q QLKYY+
+Sbjct  785  AGAVLRRPLREPTPEM--QAQLKYYS  856
+
+
+
+
+>TSA: Emiliania huxleyi, TRINITY-DN5130-c4-g2-i2, transcribed RNA sequence
+Sequence ID: HBOB01027951.1 Length: 1394
+Range 1: 42 to 1025
+
+Score:295 bits(755), Expect:6e-95, 
+Method:Compositional matrix adjust., 
+Identities:158/330(48%), Positives:202/330(61%), Gaps:46/330(13%)
+
+Query  16    IREGWFRETCSLWPGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQCTERD  75
+             +R+ WF E   +WPGQA+SL+VE++L   RS++QDILVFRS TYG VLVLDGVIQ TERD
+Sbjct  42    VRDNWFTENEVMWPGQAMSLKVEEVLFEGRSKFQDILVFRSSTYGTVLVLDGVIQLTERD  221
+
+Query  76    EFSYQEMIANLPLCSHPNPRKVLIIgggdggVLRE-------------------------  110
+             E +YQEMIA LPL SHPNP+ VLI+GGGDGGVLRE                         
+Sbjct  222   EHAYQEMIAQLPLHSHPNPQSVLIVGGGDGGVLREALLASCLSSPSRCMYMSSRHLPASL  401
+
+Query  111   ------------------VVKHPSVESVVQCEIDEDVIQVSKKFLP-GMAIGYSSSKLTL  151
+                               V +HP V SV  CEIDE V  V+KK+L    A  +   ++TL
+Sbjct  402   PPAGHAPLTRPTDATITQVCRHPDVASVTMCEIDELVCDVAKKYLSHSTATAFDDPRVTL  581
+
+Query  152   HVGDGFEFMKQNQDAFDVIITDSSDPMGPAESLFKESYYQLMKTALKEDGVLCCQGECQW  211
+                D  E++K   DA+D++I DSSDP+GPAE+LF  S+Y  ++ A++   ++C QGEC W
+Sbjct  582   VHADAAEYVKDKCDAYDLVIVDSSDPIGPAETLFTSSFYSCLRKAMRPGAIMCNQGECIW  761
+
+Query  212   LHLDLIKEMRQFCQSLFPVVAYAYCTIPTYPSGQIGFMLCSKNPSTNFQEPVQPLTQQQV  271
+             LHL LI +  + C  +FP V YAY TIPTYPSGQIGF+LCS       + P++  T +  
+Sbjct  762   LHLPLIADCLRSCHEIFPSVDYAYTTIPTYPSGQIGFLLCSTAAGAVLRRPLREPTPEM-  938
+
+Query  272   AQMQLKYYNSDVHRAAFVLPEFARKALNDV  301
+              Q QLKYY+   H AAF+LP FA + +  V
+Sbjct  939   -QAQLKYYSPAAHAAAFILPRFAEETVAAV  1025
+
+
+
+
+>TSA: Emiliania huxleyi, TRINITY-DN4198-c2-g1-i3, transcribed RNA sequence
+Sequence ID: HBOC01035485.1 Length: 1395
+Range 1: 42 to 1025
+
+Score:295 bits(755), Expect:6e-95, 
+Method:Compositional matrix adjust., 
+Identities:158/330(48%), Positives:202/330(61%), Gaps:46/330(13%)
+
+Query  16    IREGWFRETCSLWPGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQCTERD  75
+             +R+ WF E   +WPGQA+SL+VE++L   RS++QDILVFRS TYG VLVLDGVIQ TERD
+Sbjct  42    VRDNWFTENEVMWPGQAMSLKVEEVLFEGRSKFQDILVFRSSTYGTVLVLDGVIQLTERD  221
+
+Query  76    EFSYQEMIANLPLCSHPNPRKVLIIgggdggVLRE-------------------------  110
+             E +YQEMIA LPL SHPNP+ VLI+GGGDGGVLRE                         
+Sbjct  222   EHAYQEMIAQLPLHSHPNPQSVLIVGGGDGGVLREALLASCLSSPSRCMYMSSRHLPASL  401
+
+Query  111   ------------------VVKHPSVESVVQCEIDEDVIQVSKKFLP-GMAIGYSSSKLTL  151
+                               V +HP V SV  CEIDE V  V+KK+L    A  +   ++TL
+Sbjct  402   PPAGHAPLTRPTDATITQVCRHPDVASVTMCEIDELVCDVAKKYLSHSTATAFDDPRVTL  581
+
+Query  152   HVGDGFEFMKQNQDAFDVIITDSSDPMGPAESLFKESYYQLMKTALKEDGVLCCQGECQW  211
+                D  E++K   DA+D++I DSSDP+GPAE+LF  S+Y  ++ A++   ++C QGEC W
+Sbjct  582   VHADAAEYVKDKCDAYDLVIVDSSDPIGPAETLFTSSFYSCLRKAMRPGAIMCNQGECIW  761
+
+Query  212   LHLDLIKEMRQFCQSLFPVVAYAYCTIPTYPSGQIGFMLCSKNPSTNFQEPVQPLTQQQV  271
+             LHL LI +  + C  +FP V YAY TIPTYPSGQIGF+LCS       + P++  T +  
+Sbjct  762   LHLPLIADCLRSCHEIFPSVDYAYTTIPTYPSGQIGFLLCSTAAGAVLRRPLREPTPEM-  938
+
+Query  272   AQMQLKYYNSDVHRAAFVLPEFARKALNDV  301
+              Q QLKYY+   H AAF+LP FA + +  V
+Sbjct  939   -QAQLKYYSPAAHAAAFILPRFAEETVAAV  1025
+
+
+
+
+>TSA: Phaeocystis globosa, TRINITY-DN13032-c0-g1-i1, transcribed RNA sequence
+Sequence ID: HBRY01005480.1 Length: 1352
+Range 1: 64 to 987
+
+Score:293 bits(751), Expect:2e-94, 
+Method:Compositional matrix adjust., 
+Identities:151/310(49%), Positives:206/310(66%), Gaps:29/310(9%)
+
+Query  16   IREGWFRETCSLWPGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQCTERD  75
+            +++GWF E+  +WPGQA+SL+VE++L+  RS +QDILVFRS TYGNVLVLDG IQ TERD
+Sbjct  64   LKDGWFSESEVMWPGQAMSLKVEEVLYEGRSEFQDILVFRSSTYGNVLVLDGAIQLTERD  243
+
+Query  76   EFSYQEMIANLPLCSHPNPRKVLIIgggdggVLREVVKHPSVESVVQCEIDEDVIQVSKK  135
+            E +YQEMIA +PL  HP+P+ VLI+GGGDGGVLREV +H SV+ +V CEID  V  VSK+
+Sbjct  244  EHAYQEMIAQIPLHCHPDPKSVLIVGGGDGGVLREVCRHSSVDKIVMCEIDAQVCDVSKR  423
+
+Query  136  FLPG-MAIGYSSSKLTLHVGDGFEFMKQNQDAFDVIITDSSDPMG---------------  179
+            F     A  ++  ++ L   D  +F++  +D +DV+I DSSDP+G               
+Sbjct  424  FFANSTATSFNDPRVQLVHADAAKFVQDKRDEYDVVIVDSSDPIG*RYLTSLHPRPPHRP  603
+
+Query  180  -----------PAESLFKESYYQLMKTALKEDGVLCCQGECQWLHLDLIKEMRQFCQSLF  228
+                       PAE+LF+ ++YQ +K A++   ++C QGEC WLHLDLI  + + C ++F
+Sbjct  604  PPSSCLLARGRPAETLFQPAFYQGLKDAMRPGAIMCNQGECIWLHLDLIGTVLRHCTTVF  783
+
+Query  229  PVVAYAYCTIPTYPSGQIGFMLCSKNPSTNFQEPVQPLTQQQVAQMQLKYYNSDVHRAAF  288
+            P V YA+ TIPTYPSGQIGF++C  +P+   + P +    +   Q QLKYY+  VH A+F
+Sbjct  784  PSVDYAFTTIPTYPSGQIGFLMCCTSPNAVLRVPARKPPPE--VQAQLKYYSPAVHAASF  957
+
+Query  289  VLPEFARKAL  298
+            VLP FA K +
+Sbjct  958  VLPVFAEKTV  987
+
+
+
+
+>TSA: Emiliania huxleyi, TRINITY-DN19611-c1-g3-i2, transcribed RNA sequence
+Sequence ID: HBQG01057789.1 Length: 1529
+Range 1: 73 to 1056
+
+Score:295 bits(755), Expect:2e-94, 
+Method:Compositional matrix adjust., 
+Identities:158/330(48%), Positives:202/330(61%), Gaps:46/330(13%)
+
+Query  16    IREGWFRETCSLWPGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQCTERD  75
+             +R+ WF E   +WPGQA+SL+VE++L   RS++QDILVFRS TYG VLVLDGVIQ TERD
+Sbjct  73    VRDNWFTENEVMWPGQAMSLKVEEVLFEGRSKFQDILVFRSSTYGTVLVLDGVIQLTERD  252
+
+Query  76    EFSYQEMIANLPLCSHPNPRKVLIIgggdggVLRE-------------------------  110
+             E +YQEMIA LPL SHPNP+ VLI+GGGDGGVLRE                         
+Sbjct  253   EHAYQEMIAQLPLHSHPNPQSVLIVGGGDGGVLREALLASCLSSPSRCMYMSSHHLPASL  432
+
+Query  111   ------------------VVKHPSVESVVQCEIDEDVIQVSKKFLP-GMAIGYSSSKLTL  151
+                               V +HP V SV  CEIDE V  V+KK+L    A  +   ++TL
+Sbjct  433   PPAGHAPLTRPTDATITQVCRHPDVASVTMCEIDELVCDVAKKYLSHSTATAFDDPRVTL  612
+
+Query  152   HVGDGFEFMKQNQDAFDVIITDSSDPMGPAESLFKESYYQLMKTALKEDGVLCCQGECQW  211
+                D  E++K   DA+D++I DSSDP+GPAE+LF  S+Y  ++ A++   ++C QGEC W
+Sbjct  613   VHADAAEYVKDKCDAYDLVIVDSSDPIGPAETLFTSSFYSCLRKAMRPGAIMCNQGECIW  792
+
+Query  212   LHLDLIKEMRQFCQSLFPVVAYAYCTIPTYPSGQIGFMLCSKNPSTNFQEPVQPLTQQQV  271
+             LHL LI +  + C  +FP V YAY TIPTYPSGQIGF+LCS       + P++  T +  
+Sbjct  793   LHLPLIADCLRSCHEIFPSVDYAYTTIPTYPSGQIGFLLCSTAAGAVLRRPLREPTPEM-  969
+
+Query  272   AQMQLKYYNSDVHRAAFVLPEFARKALNDV  301
+              Q QLKYY+   H AAF+LP FA + +  V
+Sbjct  970   -QAQLKYYSPAAHAAAFILPRFAEETVAAV  1056
+
+
+
+
+>TSA: Phaeocystis rex RA-2015b, transcript: TRINITY-DN40189-c0-g1-i1, transcribed RNA sequence
+Sequence ID: HBRF01081039.1 Length: 932
+Range 1: 85 to 924
+
+Score:288 bits(737), Expect:3e-94, 
+Method:Compositional matrix adjust., 
+Identities:152/287(53%), Positives:202/287(70%), Gaps:15/287(5%)
+
+Query  16   IREGWFRETCSLWPGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQCTERD  75
+            I+ GWF ET ++WPGQ   ++VE++L + RS++QD+LVF+SKTYG VLVLDGVIQ TERD
+Sbjct  85   IKNGWFSETEAMWPGQKFCIEVEEVLVNGRSKFQDVLVFKSKTYGTVLVLDGVIQVTERD  264
+
+Query  76   EFSYQEMIANLPL--CSHPNPRKVLIIgggdggVLREVVKHPSVESVVQCEIDEDVIQVS  133
+            EF+YQEMIA+LP+  CS   P+KVLI+GGGDGGVLREVVKH  +E +  CEIDE V++V 
+Sbjct  265  EFAYQEMIAHLPIFACSTA-PKKVLIVGGGDGGVLREVVKHAGIEEIHMCEIDEQVVEVG  441
+
+Query  134  KKFLP-GMAIGYSSSKLTLHVGDGFEFMKQNQDA--FDVIITDSSDPMGPAESLFKESYY  190
+            KKF    MA  +  S++ L + D   ++++      +DVII DSSDP+GPA+ LF+  ++
+Sbjct  442  KKFFSKTMATAFDDSRVKLFIDDAARYLREEGAGQNYDVIICDSSDPVGPADVLFQPEFF  621
+
+Query  191  QLMKTALK-EDGVLCCQGECQWLHLDLIKEMRQFCQSLFPVVAYAYCTIPTYPSGQIGFM  249
+              MK AL  + GV+C QGECQWLHLD I  +    + LFP V YAY TIPTYPSGQIGF+
+Sbjct  622  LSMKNALNPKTGVICTQGECQWLHLDFIHGVIGKVRDLFPSVKYAYTTIPTYPSGQIGFL  801
+
+Query  250  LCSKNPSTNFQEPVQPLTQQQV--AQMQLKYYNSDVHRAAFVLPEFA  294
+            + S + S +      P   ++   A M L+YY++ +H +AFVLP FA
+Sbjct  802  IASLDASND------PAVGKRAVPADMSLRYYSAPMHASAFVLPAFA  924
+
+
+
+
+>TSA: Phaeocystis antarctica TR9119:c1_g1_i1 transcribed RNA sequence
+Sequence ID: GFUQ01020942.1 Length: 1284
+Range 1: 358 to 1203
+
+Score:292 bits(747), Expect:3e-94, 
+Method:Compositional matrix adjust., 
+Identities:145/287(51%), Positives:196/287(68%), Gaps:8/287(2%)
+
+Query  16    IREGWFRETCSLWPGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQCTERD  75
+             I++GWF E   +WPGQ   ++VE++L + +S +QDIL+F+SKTYG V +LDGVIQ TERD
+Sbjct  1203  IKDGWFSEKEVMWPGQRFCIEVEEVLLNGKSEFQDILIFQSKTYGIVFILDGVIQVTERD  1024
+
+Query  76    EFSYQEMIANLPLCSHPNPRKVLIIgggdggVLREVVKHPSVESVVQCEIDEDVIQVSKK  135
+             EFSYQEMI +LP+ +   P+KVLIIG GDGGVLREV KH  VE++  CEID  V+ V K 
+Sbjct  1023  EFSYQEMITHLPMFAQKEPKKVLIIGAGDGGVLREVCKHSCVETIHMCEIDRGVVDVCKH  844
+
+Query  136   FLP-GMAIGYSSSKLTLHVGDGFEFMKQNQDA--FDVIITDSSDPMGPAESLFKESYYQL  192
+             F P  ++  ++  +LTL   D   ++++   +  +DVII DSSDP+GPAE+LF+  ++  
+Sbjct  843   FYPTTLSTNFNDPRLTLMFDDAARYLREEGASQKYDVIIVDSSDPVGPAETLFESQFFSS  664
+
+Query  193   MKTALKEDGVLCCQGECQWLHLDLIKEMRQFCQSLFPVVAYAYCTIPTYPSGQIGFMLCS  252
+             +  AL   GV+C QGEC WLHLDLIK +   C+++FP V YAY TIPTYPSGQIGF++ S
+Sbjct  663   LNNALAPGGVVCTQGECMWLHLDLIKSIMDRCKAIFPSVKYAYTTIPTYPSGQIGFIISS  484
+
+Query  253   KNPSTNFQEPVQPLTQQQVAQMQLKYYNSDVHRAAFVLPEFARKALN  299
+              + S +   P      +    M LKYY +++H +AFVLP  A K L 
+Sbjct  483   NDASVDVAVP-----SRDAGDMDLKYYTTELHSSAFVLPAMANKLLK  358
+
+
+
+
+>TSA: Emiliania huxleyi c28088_g1_i3, transcribed RNA sequence
+Sequence ID: GHJP01035459.1 Length: 2106
+Range 1: 1092 to 2075
+
+Score:295 bits(755), Expect:3e-92, 
+Method:Compositional matrix adjust., 
+Identities:158/330(48%), Positives:202/330(61%), Gaps:46/330(13%)
+
+Query  16    IREGWFRETCSLWPGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQCTERD  75
+             +R+ WF E   +WPGQA+SL+VE++L   RS++QDILVFRS TYG VLVLDGVIQ TERD
+Sbjct  2075  VRDNWFTENEVMWPGQAMSLKVEEVLFEGRSKFQDILVFRSSTYGTVLVLDGVIQLTERD  1896
+
+Query  76    EFSYQEMIANLPLCSHPNPRKVLIIgggdggVLRE-------------------------  110
+             E +YQEMIA LPL SHPNP+ VLI+GGGDGGVLRE                         
+Sbjct  1895  EHAYQEMIAQLPLHSHPNPQSVLIVGGGDGGVLREALLASCLSSPSRCMYMSSRHLPASL  1716
+
+Query  111   ------------------VVKHPSVESVVQCEIDEDVIQVSKKFLP-GMAIGYSSSKLTL  151
+                               V +HP V SV  CEIDE V  V+KK+L    A  +   ++TL
+Sbjct  1715  PPAGHAPLTRPTDATITQVCRHPDVASVTMCEIDELVCDVAKKYLSHSTATAFDDPRVTL  1536
+
+Query  152   HVGDGFEFMKQNQDAFDVIITDSSDPMGPAESLFKESYYQLMKTALKEDGVLCCQGECQW  211
+                D  E++K   DA+D++I DSSDP+GPAE+LF  S+Y  ++ A++   ++C QGEC W
+Sbjct  1535  VHADAAEYVKDKCDAYDLVIVDSSDPIGPAETLFTSSFYSCLRKAMRPGAIMCNQGECIW  1356
+
+Query  212   LHLDLIKEMRQFCQSLFPVVAYAYCTIPTYPSGQIGFMLCSKNPSTNFQEPVQPLTQQQV  271
+             LHL LI +  + C  +FP V YAY TIPTYPSGQIGF+LCS       + P++  T +  
+Sbjct  1355  LHLPLIADCLRSCHEIFPSVDYAYTTIPTYPSGQIGFLLCSTAAGAVLRRPLREPTPEM-  1179
+
+Query  272   AQMQLKYYNSDVHRAAFVLPEFARKALNDV  301
+              Q QLKYY+   H AAF+LP FA + +  V
+Sbjct  1178  -QAQLKYYSPAAHAAAFILPRFAEETVAAV  1092
+
+
+
+
+>TSA: Chrysotila carterae, TRINITY-DN17165-c11-g1-i2, transcribed RNA sequence
+Sequence ID: HBIZ01041151.1 Length: 1601
+Range 1: 142 to 1092
+
+Score:290 bits(742), Expect:4e-92, 
+Method:Compositional matrix adjust., 
+Identities:154/319(48%), Positives:199/319(62%), Gaps:35/319(10%)
+
+Query  16    IREGWFRETCSLWPGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQCTERD  75
+             I  GWFRE   +WPGQA+SLQVE++L   RS +QD+LVF+S TYG VLVLDGVIQ TERD
+Sbjct  142   INNGWFRENEVMWPGQAMSLQVEKILFEGRSDFQDVLVFQSSTYGRVLVLDGVIQLTERD  321
+
+Query  76    EFSYQ--------------------------------EMIANLPLCSHPNPRKVLIIggg  103
+             E++YQ                                EMI +LP+ +HP+P+ VLI+GGG
+Sbjct  322   EYAYQVFTQRIWLFSFCG*TGSSAN*LGVFALFFTLQEMITHLPMHAHPDPQSVLIVGGG  501
+
+Query  104   dggVLREVVKHPSVESVVQCEIDEDVIQVSKKFLP-GMAIGYSSSKLTLHVGDGFEFMKQ  162
+             DGGVLREV +H  V+ V  CEID  V +V+KKF     A  +   ++TL   D  +F+K 
+Sbjct  502   DGGVLREVCRHAGVQRVTMCEIDPMVCEVAKKFFATSTATAFDDPRVTLVHQDAAQFVKD  681
+
+Query  163   NQDAFDVIITDSSDPMGPAESLFKESYYQLMKTALKEDGVLCCQGECQWLHLDLIKEMRQ  222
+              +D +DV+I DSSDP+GPAE+LF  ++Y+ ++ A+K   ++C QGEC WLHLDLI E   
+Sbjct  682   FRDEYDVVIVDSSDPVGPAETLFTSTFYEALRVAMKPGAIMCNQGECVWLHLDLIGECLH  861
+
+Query  223   FCQSLFPVVAYAYCTIPTYPSGQIGFMLCSKNPSTNFQEPVQPLTQQQVAQMQLKYYNSD  282
+              C  +FP V YAY TIPTYPSGQIGF+LCS     + ++P +        Q QLKYY   
+Sbjct  862   HCTKVFPSVDYAYTTIPTYPSGQIGFLLCSTASDVSLRKPAR--VPPSWLQSQLKYYTPA  1035
+
+Query  283   VHRAAFVLPEFARKALNDV  301
+              H AAFVLP FA + +  V
+Sbjct  1036  AHAAAFVLPWFAEQVIAPV  1092
+
+
+
+
+>TSA: Bolivina costata isolate POMZ1 BcoT_NODE_111743, transcribed RNA sequence
+Sequence ID: GIHC01316190.1 Length: 816
+Range 1: 15 to 758
+
+Score:276 bits(706), Expect:4e-90, 
+Method:Compositional matrix adjust., 
+Identities:130/248(52%), Positives:183/248(73%), Gaps:1/248(0%)
+
+Query  20   WFRETCSLWPGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQCTERDEFSY  79
+            WF E   +W GQ + +QV++++ +++S +Q IL+F S++ G V+ LDG IQ T+ DEFSY
+Sbjct  758  WFNEYGEMWKGQTMGIQVKKVIENQKSEFQHILIFDSESLGRVMCLDGAIQTTDSDEFSY  579
+
+Query  80   QEMIANLPLCSHPNPRKVLIIgggdggVLREVVKHPSVESVVQCEIDEDVIQVSKKFLPG  139
+            QEMI +LPLCSH +P+ VL+IGGGDGGV REV++H  VE VV  +ID  V+ + ++ LP 
+Sbjct  578  QEMIVHLPLCSHADPKAVLVIGGGDGGVCREVLRHEGVERVVWVDIDGKVMDLCREHLPN  399
+
+Query  140  M-AIGYSSSKLTLHVGDGFEFMKQNQDAFDVIITDSSDPMGPAESLFKESYYQLMKTALK  198
+            M A  ++S ++   V DGF +++ N+ AFD II DSSDP+GPA SLF+  +Y+LMK +LK
+Sbjct  398  MSAAAFASDRVDRKVADGFAYLRDNKGAFDAIIVDSSDPIGPAASLFEAPFYKLMKESLK  219
+
+Query  199  EDGVLCCQGECQWLHLDLIKEMRQFCQSLFPVVAYAYCTIPTYPSGQIGFMLCSKNPSTN  258
+            + G++C QGECQWLHLD+I +M  F ++L+P V YA+ TIPTYPSGQIGF+LCSK+  T+
+Sbjct  218  DGGIVCTQGECQWLHLDMIADMLDFSRTLYPNVRYAFTTIPTYPSGQIGFILCSKDGETD  39
+
+Query  259  FQEPVQPL  266
+               P + L
+Sbjct  38   LSTPRRQL  15
+
+
+
+
+>TSA: Orciraptor agilis, transcript: NODE_190_length_12265_cov_954.895792_g116_i0, transcribed RNA sequence
+Sequence ID: HBWU01000190.1 Length: 12265
+Range 1: 9153 to 10031
+
+Score:301 bits(770), Expect:6e-90, 
+Method:Compositional matrix adjust., 
+Identities:151/295(51%), Positives:207/295(70%), Gaps:11/295(3%)
+
+Query  16     IREGWFRETCSLWPGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQCTERD  75
+              I++GWF E  S WPG A+SL++++ L + +S+YQ I VF +K +GNVLVLDGVIQ T+RD
+Sbjct  9153   IKDGWFVEVNSQWPGGAMSLRIDKELLNIKSKYQQIFVFENKEFGNVLVLDGVIQLTDRD  9332
+
+Query  76     EFSYQEMIANLPLCSHPNPRKVLIIgggdggVLREVVKHPSVESVVQCEIDEDVIQVSKK  135
+              E SYQEMIA+LPL +HP+P+ VL+IGGGDGGV+RE+VKH  VE +  CEIDE+VI+  KK
+Sbjct  9333   EASYQEMIAHLPLFAHPDPKSVLVIGGGDGGVIREIVKHKGVEDITICEIDEEVIKAGKK  9512
+
+Query  136    FLPGMAIGYSSSKLTLHVGDGFEFMK--QNQDAFDVIITDSSDPMGPAESLFKESYYQLM  193
+              F P +A  ++  ++ LHVGDG  FMK  +N + FDVIITDSSDP+GPA+SLF+  +Y  M
+Sbjct  9513   FFPKVASAWTDKRVKLHVGDGSAFMKKEENLNRFDVIITDSSDPIGPAQSLFESPFYAAM  9692
+
+Query  194    KTALKEDGVLCCQGECQWLHLDLIKEMRQFCQSLFPVVAYAYCTIPTYPSGQIGFMLCSK  253
+                ALK  G +C Q EC W  LDLIK++ +  + ++  V YA    PTYP GQIGF+LCSK
+Sbjct  9693   HAALKPGGRVCTQAECYWKDLDLIKKLVKESRLVYEAVEYASTQTPTYPLGQIGFLLCSK  9872
+
+Query  254    NP-------STNFQEPVQPLTQQQVAQMQLKYYNSDVHRAAFVLPEFARKALNDV  301
+               P       +   +EP +P T       ++ YY +++H+A+F+LP+FA  A+ + 
+Sbjct  9873   APEQKRNRRTVTSKEP-RP-TPDDDEDFKVTYYTTELHKASFILPKFAHDAIEEA  10031
+
+
+
+
+>TSA: Chrysotila carterae, TRINITY-DN17165-c11-g1-i8, transcribed RNA sequence
+Sequence ID: HBIZ01041155.1 Length: 966
+Range 1: 142 to 852
+
+Score:277 bits(709), Expect:7e-90, 
+Method:Compositional matrix adjust., 
+Identities:136/237(57%), Positives:175/237(73%), Gaps:1/237(0%)
+
+Query  16   IREGWFRETCSLWPGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQCTERD  75
+            I  GWFRE   +WPGQA+SLQVE++L   RS +QD+LVF+S TYG VLVLDGVIQ TERD
+Sbjct  142  INNGWFRENEVMWPGQAMSLQVEKILFEGRSDFQDVLVFQSSTYGRVLVLDGVIQLTERD  321
+
+Query  76   EFSYQEMIANLPLCSHPNPRKVLIIgggdggVLREVVKHPSVESVVQCEIDEDVIQVSKK  135
+            E++YQEMI +LP+ +HP+P+ VLI+GGGDGGVLREV +H  V+ V  CEID  V +V+KK
+Sbjct  322  EYAYQEMITHLPMHAHPDPQSVLIVGGGDGGVLREVCRHAGVQRVTMCEIDPMVCEVAKK  501
+
+Query  136  FLP-GMAIGYSSSKLTLHVGDGFEFMKQNQDAFDVIITDSSDPMGPAESLFKESYYQLMK  194
+            F     A  +   ++TL   D  +F+K  +D +DV+I DSSDP+GPAE+LF  ++Y+ ++
+Sbjct  502  FFATSTATAFDDPRVTLVHQDAAQFVKDFRDEYDVVIVDSSDPVGPAETLFTSTFYEALR  681
+
+Query  195  TALKEDGVLCCQGECQWLHLDLIKEMRQFCQSLFPVVAYAYCTIPTYPSGQIGFMLC  251
+             A+K   ++C QGEC WLHLDLI E    C  +FP V YAY TIPTYPSGQIGF+LC
+Sbjct  682  VAMKPGAIMCNQGECVWLHLDLIGECLHHCTKVFPSVDYAYTTIPTYPSGQIGFLLC  852
+
+
+
+
+>TSA: Orciraptor agilis, transcript: NODE_7268_length_3515_cov_2589.241777_g116_i1, transcribed RNA sequence
+Sequence ID: HBWU01007247.1 Length: 3515
+Range 1: 403 to 1281
+
+Score:297 bits(760), Expect:1e-89, 
+Method:Compositional matrix adjust., 
+Identities:151/295(51%), Positives:207/295(70%), Gaps:11/295(3%)
+
+Query  16    IREGWFRETCSLWPGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQCTERD  75
+             I++GWF E  S WPG A+SL++++ L + +S+YQ I VF +K +GNVLVLDGVIQ T+RD
+Sbjct  403   IKDGWFVEVNSQWPGGAMSLRIDKELLNIKSKYQQIFVFENKEFGNVLVLDGVIQLTDRD  582
+
+Query  76    EFSYQEMIANLPLCSHPNPRKVLIIgggdggVLREVVKHPSVESVVQCEIDEDVIQVSKK  135
+             E SYQEMIA+LPL +HP+P+ VL+IGGGDGGV+RE+VKH  VE +  CEIDE+VI+  KK
+Sbjct  583   EASYQEMIAHLPLFAHPDPKSVLVIGGGDGGVIREIVKHKGVEDITICEIDEEVIKAGKK  762
+
+Query  136   FLPGMAIGYSSSKLTLHVGDGFEFMK--QNQDAFDVIITDSSDPMGPAESLFKESYYQLM  193
+             F P +A  ++  ++ LHVGDG  FMK  +N + FDVIITDSSDP+GPA+SLF+  +Y  M
+Sbjct  763   FFPKVASAWTDKRVKLHVGDGSAFMKKEENLNRFDVIITDSSDPIGPAQSLFESPFYAAM  942
+
+Query  194   KTALKEDGVLCCQGECQWLHLDLIKEMRQFCQSLFPVVAYAYCTIPTYPSGQIGFMLCSK  253
+               ALK  G +C Q EC W  LDLIK++ +  + ++  V YA    PTYP GQIGF+LCSK
+Sbjct  943   HAALKPGGRVCTQAECYWKDLDLIKKLVKESRLVYEAVEYASTQTPTYPLGQIGFLLCSK  1122
+
+Query  254   NP-------STNFQEPVQPLTQQQVAQMQLKYYNSDVHRAAFVLPEFARKALNDV  301
+              P       +   +EP +P T       ++ YY +++H+A+F+LP+FA  A+ + 
+Sbjct  1123  APEQKRNRRTVTSKEP-RP-TPDDDEDFKVTYYTTELHKASFILPKFAHDAIEEA  1281
+
+
+
+
+>TSA: Emiliania huxleyi, transcript: TRINITY_DN760_c0_g1_i55, transcribed RNA sequence
+Sequence ID: HCFN01018398.1 Length: 3735
+Range 1: 2235 to 3218
+
+Score:293 bits(751), Expect:4e-88, 
+Method:Compositional matrix adjust., 
+Identities:158/330(48%), Positives:202/330(61%), Gaps:46/330(13%)
+
+Query  16    IREGWFRETCSLWPGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNV-------------  62
+             +R+ WF E   +WPGQA+SL+VE++L   RS++QDILVFRS TYG V             
+Sbjct  2235  VRDNWFTENEVMWPGQAMSLKVEEVLFEGRSKFQDILVFRSSTYGTVPPFTRLRPPRPPH  2414
+
+Query  63    ------------------------------LVLDGVIQCTERDEFSYQEMIANLPLCSHP  92
+                                           LVLDGVIQ TERDE +YQEMIA LPL SHP
+Sbjct  2415  AHRRRCGCTVTVWSVDALAGQSLLRTPVQVLVLDGVIQLTERDEHAYQEMIAQLPLHSHP  2594
+
+Query  93    NPRKVLIIgggdggVLREVVKHPSVESVVQCEIDEDVIQVSKKFLP-GMAIGYSSSKLTL  151
+             NP+ VLI+GGGDGGVLREV +HP V SV  CEIDE V  V+KK+L    A  +   ++TL
+Sbjct  2595  NPQSVLIVGGGDGGVLREVCRHPDVASVTMCEIDELVCDVAKKYLSHSTATAFDDPRVTL  2774
+
+Query  152   HVGDGFEFMKQNQDAFDVIITDSSDPMGPAESLFKESYYQLMKTALKEDGVLCCQGECQW  211
+                D  E++K   DA+D++I DSSDP+GPAE+LF  S+Y  ++ A++   ++C QGEC W
+Sbjct  2775  VHADAAEYVKDKCDAYDLVIVDSSDPIGPAETLFTSSFYSCLRKAMRPGAIMCNQGECIW  2954
+
+Query  212   LHLDLIKEMRQFCQSLFPVVAYAYCTIPTYPSGQIGFMLCSKNPSTNFQEPVQPLTQQQV  271
+             LHL LI +  + C  +FP V YAY TIPTYPSGQIGF+LCS       + P++  T +  
+Sbjct  2955  LHLPLIADCLRSCHEIFPSVDYAYTTIPTYPSGQIGFLLCSTAAGAVLRRPLREPTPEM-  3131
+
+Query  272   AQMQLKYYNSDVHRAAFVLPEFARKALNDV  301
+              Q QLKYY+   H AAF+LP FA + +  V
+Sbjct  3132  -QAQLKYYSPAAHAAAFILPRFAEETVAAV  3218
+
+
+
+
+>TSA: Chrysoculter rhomboideus, MMETSP1335-doi:10.5281-zenodo.249982-Transcript-12104, transcribed RNA sequence
+Sequence ID: HBMJ01002343.1 Length: 1401
+Range 1: 46 to 987
+
+Score:276 bits(707), Expect:1e-87, 
+Method:Compositional matrix adjust., 
+Identities:146/315(46%), Positives:196/315(62%), Gaps:30/315(9%)
+
+Query  16   IREGWFRETCSLWPGQALSLQVEQLLHHRRS----------------------------R  47
+            I++GWF E   +WPGQ   L+VE++L   RS                            R
+Sbjct  46   IKDGWFAENEVMWPGQRFCLKVEEVLFEGRSDFQVRSHQAQRAGTATRRSSE*ACAAPSR  225
+
+Query  48   YQDILVFRSKTYGNVLVLDGVIQCTERDEFSYQEMIANLPLCSHPNPRKVLIIgggdggV  107
+             QD+LVF+S +YG VLVLDGVIQ TERDE +YQEM  ++PL +HP+P+ VLI+GGGDGGV
+Sbjct  226  VQDVLVFKSSSYGRVLVLDGVIQLTERDEMAYQEMATHIPLFAHPSPKSVLIVGGGDGGV  405
+
+Query  108  LREVVKHPSVESVVQCEIDEDVIQVSKKFLPGM-AIGYSSSKLTLHVGDGFEFMKQNQDA  166
+            LREV +H  V SV  CEID  V+ VSK+F   + A  +   +L L   D  +F++     
+Sbjct  406  LREVCRHACVTSVTMCEIDRMVVDVSKRFFGDVTATAFDDPRLELVFDDAAKFVETRPST  585
+
+Query  167  FDVIITDSSDPMGPAESLFKESYYQLMKTALKEDGVLCCQGECQWLHLDLIKEMRQFCQS  226
+            +DV+I DSSDP+GPAE+LF  ++Y  +  AL+  G++C QGECQWLHLDLI ++   C  
+Sbjct  586  YDVVIVDSSDPVGPAETLFTSTFYAGLMRALRPGGIICNQGECQWLHLDLIGKVLGDCAR  765
+
+Query  227  LFPVVAYAYCTIPTYPSGQIGFMLCSKNPSTNFQEPVQPLTQQQVAQMQLKYYNSDVHRA  286
+            +F  V YA+ TIPTYP GQIGF+LCS + + +     + L   ++ Q  L+YY+  VHRA
+Sbjct  766  VFDTVEYAFTTIPTYPCGQIGFLLCSTSAAPDMLREPRRLPSAEL-QAALRYYSPAVHRA  942
+
+Query  287  AFVLPEFARKALNDV  301
+            AFVLP FA K +  +
+Sbjct  943  AFVLPRFAEKVVGPI  987
+
+
+
+
+>TSA: Amorphochlora amoebiformis, MMETSP0042-doi:10.5281-zenodo.249982-Transcript-16250, transcribed RNA sequence
+Sequence ID: HBEM01006949.1 Length: 1078
+Range 1: 84 to 953
+
+Score:270 bits(691), Expect:1e-86, 
+Method:Compositional matrix adjust., 
+Identities:142/290(49%), Positives:193/290(66%), Gaps:11/290(3%)
+
+Query  20   WFRETCSLWPGQALSLQVEQLLHHRRSRYQDILVFRSKT-YGNVLVLDGVIQCTERDEFS  78
+            WF E    W GQAL+L+VE++L   +S+YQ I VF+SK+ +GNVL+LDGVIQ T+ DE +
+Sbjct  84   WFLEINDQWKGQALALEVEKMLFDEKSKYQHIQVFKSKSPFGNVLLLDGVIQITDLDECA  263
+
+Query  79   YQEMIANLPLCSHPNPRKVLIIgggdggVLREVVKHPSVESVVQCEIDEDVIQVSKKFLP  138
+            YQEMIA+LPL +H NP  VL+IGGGDGGVLRE+ +H  V+ VV CEID+ VIQ  K++ P
+Sbjct  264  YQEMIAHLPLNAHANPENVLVIGGGDGGVLREICRHECVKEVVICEIDQMVIQAGKRYFP  443
+
+Query  139  GMAIGYSSSKLTLHVGDGFEFMKQNQDAFDVIITDSSDPMGPAESLFKESYYQLMKTALK  198
+             +A  +S  ++ L  GDG EF+++N++ FDVII DSSDP+GPA++LF + +Y+ M+ AL+
+Sbjct  444  KIASAWSDERIHLFCGDGAEFVRKNKNRFDVIICDSSDPVGPAKTLFSQQFYESMRQALR  623
+
+Query  199  EDGVLCCQGECQWLHLDLIKEMRQFCQSLFPVVAYAYCTIPTYPSGQIGFMLCSKNPSTN  258
+              G +C Q E  WL LDLI  +    +  +  V YAY  IPTYP G IGF+LCS  P   
+Sbjct  624  PGGKVCTQAETVWLDLDLIHHLASGARKGYHSVQYAYTQIPTYPCGMIGFLLCSLAPKEA  803
+
+Query  259  FQEPVQPLTQQQV----------AQMQLKYYNSDVHRAAFVLPEFARKAL  298
+              E        +           A  +LKYY+ ++H+AAFVLP FAR+ +
+Sbjct  804  IDEKKDTYEAARCDKPRRRFDKKALDRLKYYSEEMHKAAFVLPAFARRVI  953
+
+
+
+
+>TSA: Phaeocystis sp. PLY559, TRINITY-DN44941-c0-g2-i1, transcribed RNA sequence
+Sequence ID: HBRK01057485.1 Length: 731
+Range 1: 11 to 730
+
+Score:266 bits(679), Expect:2e-86, 
+Method:Compositional matrix adjust., 
+Identities:130/240(54%), Positives:174/240(72%), Gaps:1/240(0%)
+
+Query  17   REGWFRETCSLWPGQALSLQVEQLLHHRRSRYQDILVFRSKTYGNVLVLDGVIQCTERDE  76
+            ++GWFRE+  LWPGQA+SL+V+ +L+  RS +Q++LVFRS  YG VLV+DGVIQ TERDE
+Sbjct  11   KDGWFRESEVLWPGQAMSLRVDSVLYEGRSEFQELLVFRSANYGTVLVIDGVIQLTERDE  190
+
+Query  77   FSYQEMIANLPLCSHPNPRKVLIIgggdggVLREVVKHPSVESVVQCEIDEDVIQVSKKF  136
+             ++ EM+A++PL  HP P+ VLI+GGGDGGVLREV +H  VE VV CEID  VI+VSK+F
+Sbjct  191  HAFHEMLAHVPLHCHPAPKSVLIVGGGDGGVLREVCRHACVEEVVLCEIDPLVIEVSKRF  370
+
+Query  137  LPG-MAIGYSSSKLTLHVGDGFEFMKQNQDAFDVIITDSSDPMGPAESLFKESYYQLMKT  195
+            L    A  +   ++TL   D  +F++     FDV+I DS DP+GPA +LF   +Y  ++ 
+Sbjct  371  LGNSTATSFGDPRVTLVHEDAAQFVRGRSSEFDVVIVDSRDPVGPAWTLFTSDFYASLRA  550
+
+Query  196  ALKEDGVLCCQGECQWLHLDLIKEMRQFCQSLFPVVAYAYCTIPTYPSGQIGFMLCSKNP  255
+            A+K   ++C QGEC WLHLDLI E+ + C+++FP V Y Y TIPT PSGQIGF++CS  P
+Sbjct  551  AMKPGAIMCNQGECTWLHLDLIGEVLRHCKAVFPTVDYCYTTIPTCPSGQIGFLMCSTTP  730
+
+
+
+
+
+
+
+		
+
+

@@ -1,0 +1,227 @@
+RID: F5FJXSNR014	
+Job Title:H Euglena SpdSyn				
+Program: TBLASTN 
+Database: tsa (4 databases) 
+Query #1: Tbrucei_spermidine_synthase Query ID: lcl|Query_5764939 Length: 298
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+TSA: Euglena gracilis EG_transcript_20956 transcribed RNA...                                      0          239    239   96%   2e-75 42.86  948        GEFR01020952.1   
+TSA: Euglena gracilis comp22495_c0_seq1 transcribed RNA sequence                                  0          238    238   96%   2e-74 42.51  1030       GDJR01022181.1   
+TSA: Euglena gracilis comp22795_c0_seq2 transcribed RNA sequence                                  0          134    134   66%   3e-33 38.31  1470       GDJR01022779.1   
+TSA: Euglena gracilis comp22795_c0_seq1 transcribed RNA sequence                                  0          134    134   66%   3e-33 38.31  1504       GDJR01022778.1   
+TSA: Euglena gracilis EG_transcript_14057 transcribed RNA...                                      0          114    114   54%   2e-26 38.65  1284       GEFR01014056.1   
+TSA: Euglena gracilis EG_transcript_15313 transcribed RNA...                                      0          107    107   79%   9e-24 29.88  1215       GEFR01015322.1   
+TSA: Euglena gracilis comp26403_c0_seq1 transcribed RNA sequence                                  0          107    107   79%   1e-23 29.88  1357       GDJR01032061.1   
+
+
+Alignments:
+
+>TSA: Euglena gracilis EG_transcript_20956 transcribed RNA sequence
+Sequence ID: GEFR01020952.1 Length: 948
+Range 1: 84 to 914
+
+Score:239 bits(611), Expect:2e-75, 
+Method:Compositional matrix adjust., 
+Identities:134/287(47%), Positives:188/287(65%), Gaps:12/287(4%)
+
+Query  7    LADGWFREENGQWPGQAMSFKVEEVLHDTPTKFQHLSIFETDPKGPWGTVMTLDGCIQLT  66
+            L  GW+ E +  WPGQA S +VEE+L +  + FQ + +F+T     WGTV TLDG IQ+T
+Sbjct  914  LIPGWYSEISSFWPGQAQSLEVEEILFEGKSDFQDVKVFKTKA---WGTVFTLDGAIQVT  744
+
+Query  67   DFDEFVYHEMLSHTPLCAHPDPvdvliigggdggvMREVLRHGTVKRCVLVDIDGDVIEA  126
+            D DEF YHE L+H  L +HP+P  VLIIGGGDGGVMREVL+H +V++C L D+D  V E 
+Sbjct  743  DKDEFSYHENLAHIALFSHPNPKQVLIIGGGDGGVMREVLKHESVEKCTLCDVDKMVPEI  564
+
+Query  127  SKKYFPQISSGFSDPRADVRVGDGVAFVREAASESFDVVIIDTTDPDGPAAELFGEKFYR  186
+            ++KYFP+ +    DPRA+V +GDG AF+ E     +DV+I+D++DP+GPA+ LFG++F+ 
+Sbjct  563  AEKYFPKCAVSLKDPRAEVHIGDGFAFL-EDKKNCYDVIIVDSSDPEGPASTLFGKEFFT  387
+
+Query  187  DVLRILKPRGICCNQGESVWLNRNLIEGMADFIKNKVGFASVKYAMIYTPTYPCGSIGSL  246
+                 L+  G    Q E +W++ +LI  M  FI+  +G+ +V+Y+ I  P+YP G IG  
+Sbjct  386  RCKDALREDGNLLTQAECMWIHLDLIAKMKTFIET-IGWKTVEYSYISIPSYPSGCIGFF  210
+
+Query  247  ICSKVAGVDVTQPVRPVESMPFA--GELKYYDSDVHKAAFVLPRFAR  291
+            +CSK           P+ S+P A    L+YYD  +H+AAF+LPRF R
+Sbjct  209  VCSKRGSCK-----EPLRSVPPAMLDTLQYYDETMHRAAFLLPRFVR  84
+
+
+
+
+>TSA: Euglena gracilis comp22495_c0_seq1 transcribed RNA sequence
+Sequence ID: GDJR01022181.1 Length: 1030
+Range 1: 40 to 870
+
+Score:238 bits(608), Expect:2e-74, 
+Method:Compositional matrix adjust., 
+Identities:133/287(46%), Positives:188/287(65%), Gaps:12/287(4%)
+
+Query  7    LADGWFREENGQWPGQAMSFKVEEVLHDTPTKFQHLSIFETDPKGPWGTVMTLDGCIQLT  66
+            L  GW+ E +  WPGQA S +VEE+L +  + FQ + +F+T     WGTV TLDG IQ+T
+Sbjct  40   LIPGWYSEISSFWPGQAQSLEVEEILFEGKSDFQDVKVFKTKA---WGTVFTLDGAIQVT  210
+
+Query  67   DFDEFVYHEMLSHTPLCAHPDPvdvliigggdggvMREVLRHGTVKRCVLVDIDGDVIEA  126
+            D DEF YHE L+H  L +HP+P  VLIIGGGDGGVMREVL+H +V++C L D+D  V E 
+Sbjct  211  DKDEFSYHENLAHIALFSHPNPKQVLIIGGGDGGVMREVLKHESVEKCTLCDVDKMVPEI  390
+
+Query  127  SKKYFPQISSGFSDPRADVRVGDGVAFVREAASESFDVVIIDTTDPDGPAAELFGEKFYR  186
+            ++KYFP+ +    +PRA+V +GDG AF+ E     +DV+I+D++DP+GPA+ LFG++F+ 
+Sbjct  391  AEKYFPKCAVSLKNPRAEVHIGDGFAFL-EDKKNCYDVIIVDSSDPEGPASTLFGKEFFT  567
+
+Query  187  DVLRILKPRGICCNQGESVWLNRNLIEGMADFIKNKVGFASVKYAMIYTPTYPCGSIGSL  246
+                 L+  G    Q E +W++ +LI  M  FI+  +G+ +V+Y+ I  P+YP G IG  
+Sbjct  568  RCKDALREDGNLLTQAECMWIHLDLIAKMKTFIET-IGWKTVEYSYISIPSYPSGCIGFF  744
+
+Query  247  ICSKVAGVDVTQPVRPVESMPFA--GELKYYDSDVHKAAFVLPRFAR  291
+            +CSK           P+ S+P A    L+YYD  +H+AAF+LPRF R
+Sbjct  745  VCSKRGSCK-----EPLRSVPPAMLDTLQYYDETMHRAAFLLPRFVR  870
+
+
+
+
+>TSA: Euglena gracilis comp22795_c0_seq2 transcribed RNA sequence
+Sequence ID: GDJR01022779.1 Length: 1470
+Range 1: 55 to 645
+
+Score:134 bits(337), Expect:3e-33, 
+Method:Compositional matrix adjust., 
+Identities:82/201(41%), Positives:114/201(56%), Gaps:7/201(3%)
+
+Query  15   ENGQWPGQAMSFKVEEVLHDTPTKFQHLSIFETDPKGPWGTVMTLDGCIQLTDFDEFVYH  74
+            E    PG    ++VEEVLH T T FQ +++  T     +G  + +DG +Q  D DE +YH
+Sbjct  55   EETLEPGLRFLYEVEEVLHSTKTPFQTVAVVRTKA---FGNALVIDGLMQSADCDERIYH  225
+
+Query  75   EMLSHTPLCAHPDPvdvliigggdggvMREVLRHGTVKRCVLVDIDGDVIEASKKYFPQI  134
+            E L H  +  HP P +V I G G+G   REVL+H TV+ CV+VDIDGDV++  K+  PQ 
+Sbjct  226  ECLVHPAMLLHPHPRNVFIGGAGEGSTAREVLKHNTVESCVMVDIDGDVVDFCKEVLPQN  405
+
+Query  135  SSGFSDPRADVRVGDGVAFVREAASESFDVVIIDTTDP--DGPAAELFGEKFYRDVLRIL  192
+            +  F DPR  + + D +  + EA +  FDV+I+D  DP   GP   L+ E+FY    + L
+Sbjct  406  TQAFKDPRLTLIIDDAMKQLEEATT-LFDVIIMDLDDPLEGGPCYLLYTEEFYTMCRQKL  582
+
+Query  193  KPRGICCNQGESVWL-NRNLI  212
+             P GI   Q  S  + N NL+
+Sbjct  583  APNGILVTQCSSAGVKNYNLV  645
+
+
+
+
+>TSA: Euglena gracilis comp22795_c0_seq1 transcribed RNA sequence
+Sequence ID: GDJR01022778.1 Length: 1504
+Range 1: 55 to 645
+
+Score:134 bits(337), Expect:3e-33, 
+Method:Compositional matrix adjust., 
+Identities:82/201(41%), Positives:114/201(56%), Gaps:7/201(3%)
+
+Query  15   ENGQWPGQAMSFKVEEVLHDTPTKFQHLSIFETDPKGPWGTVMTLDGCIQLTDFDEFVYH  74
+            E    PG    ++VEEVLH T T FQ +++  T     +G  + +DG +Q  D DE +YH
+Sbjct  55   EETLEPGLRFLYEVEEVLHSTKTPFQTVAVVRTKA---FGNALVIDGLMQSADCDERIYH  225
+
+Query  75   EMLSHTPLCAHPDPvdvliigggdggvMREVLRHGTVKRCVLVDIDGDVIEASKKYFPQI  134
+            E L H  +  HP P +V I G G+G   REVL+H TV+ CV+VDIDGDV++  K+  PQ 
+Sbjct  226  ECLVHPAMLLHPHPRNVFIGGAGEGSTAREVLKHNTVESCVMVDIDGDVVDFCKEVLPQN  405
+
+Query  135  SSGFSDPRADVRVGDGVAFVREAASESFDVVIIDTTDP--DGPAAELFGEKFYRDVLRIL  192
+            +  F DPR  + + D +  + EA +  FDV+I+D  DP   GP   L+ E+FY    + L
+Sbjct  406  TQAFKDPRLTLIIDDAMKQLEEATT-LFDVIIMDLDDPLEGGPCYLLYTEEFYTMCRQKL  582
+
+Query  193  KPRGICCNQGESVWL-NRNLI  212
+             P GI   Q  S  + N NL+
+Sbjct  583  APNGILVTQCSSAGVKNYNLV  645
+
+
+
+
+>TSA: Euglena gracilis EG_transcript_14057 transcribed RNA sequence
+Sequence ID: GEFR01014056.1 Length: 1284
+Range 1: 26 to 511
+
+Score:114 bits(286), Expect:2e-26, 
+Method:Compositional matrix adjust., 
+Identities:68/163(42%), Positives:96/163(58%), Gaps:4/163(2%)
+
+Query  53   WGTVMTLDGCIQLTDFDEFVYHEMLSHTPLCAHPDPvdvliigggdggvMREVLRHGTVK  112
+            +G  + +DG +Q  D DE +YHE L H  +  HP P +V I G G+G   REVL+H TV+
+Sbjct  26   FGNALVIDGLMQSADCDERIYHECLVHPAMLLHPHPRNVFIGGAGEGSTAREVLKHNTVE  205
+
+Query  113  RCVLVDIDGDVIEASKKYFPQISSGFSDPRADVRVGDGVAFVREAASESFDVVIIDTTDP  172
+             CV+VDIDGDV++  K+  PQ +  F DPR  + + D +  ++EA +  FDV+I+D  DP
+Sbjct  206  SCVMVDIDGDVVDFCKEVLPQNTQAFKDPRLTLIIDDAMKQLQEATT-LFDVIIMDLDDP  382
+
+Query  173  --DGPAAELFGEKFYRDVLRILKPRGICCNQGESVWL-NRNLI  212
+               GP   L+ E+FY    + L P GI   Q  S  + N NL+
+Sbjct  383  LEGGPCYLLYTEEFYTMCRQKLAPNGILVTQCSSAGVKNYNLV  511
+
+
+
+
+>TSA: Euglena gracilis EG_transcript_15313 transcribed RNA sequence
+Sequence ID: GEFR01015322.1 Length: 1215
+Range 1: 290 to 1003
+
+Score:107 bits(266), Expect:9e-24, 
+Method:Compositional matrix adjust., 
+Identities:82/251(33%), Positives:134/251(53%), Gaps:29/251(11%)
+
+Query  53    WGTVMTLDGCIQLTDFDEFVYHEMLSHTPLCAHPDPvdvliigggdggvMREVLRHGTVK  112
+             +G ++ +DG +Q+T+ DE  YHEM++H PL   P+    L++GGGDGG +  VL +  ++
+Sbjct  290   FGHILVIDGSLQITERDEMNYHEMMAHVPLVYMPNAAKALMVGGGDGGALARVLEYPQIR  469
+
+Query  113   RCVLVDIDGDVI-EASKKYFPQISSGFSDPRADVRVGDGVAFVREAASE-----SFDVVI  166
+             + VLVDID   + E S+KYFP +   ++DPR      DG A++RE  SE     S+D+V+
+Sbjct  470   QAVLVDIDMVAMRELSRKYFPSLYQAYADPRTTPYNRDGDAWLREQLSEESEVGSYDLVL  649
+
+Query  167   IDTTDPDGPAAELFGEKFYRDVLRILKPRG--ICCNQGESVWLNRNLIEGMADFIKNKVG  224
+             +D+TD  G A  LF + FY++  R+++     +  N     W N +++      ++ +  
+Sbjct  650   VDSTDY-GAAETLFTDHFYKNTKRLMRTEASVLIVNVDSPSW-NLDIV------VQVQRQ  805
+
+Query  225   FASV-KYAMIY---TPTYPCGSIGSLICSKVAGVDVTQPVRPVESMPFAGELK----YYD  276
+              A + ++A +Y    P++  G    L  S     D   P++     P   +L     YY 
+Sbjct  806   LAGLFRHAYLYQCHQPSFLSGHYSFLFAS-----DTIHPMKHPVDWPTWRQLDIPTYYYT  970
+
+Query  277   SDVHKAAFVLP  287
+              D+H AAF LP
+Sbjct  971   PDLHYAAFQLP  1003
+
+
+
+
+>TSA: Euglena gracilis comp26403_c0_seq1 transcribed RNA sequence
+Sequence ID: GDJR01032061.1 Length: 1357
+Range 1: 345 to 1058
+
+Score:107 bits(266), Expect:1e-23, 
+Method:Compositional matrix adjust., 
+Identities:82/251(33%), Positives:134/251(53%), Gaps:29/251(11%)
+
+Query  53    WGTVMTLDGCIQLTDFDEFVYHEMLSHTPLCAHPDPvdvliigggdggvMREVLRHGTVK  112
+             +G ++ +DG +Q+T+ DE  YHEM++H PL   P+    L++GGGDGG +  VL +  ++
+Sbjct  1058  FGHILVIDGSLQITERDEMNYHEMMAHVPLVYMPNAAKALMVGGGDGGALARVLEYPQIR  879
+
+Query  113   RCVLVDIDGDVI-EASKKYFPQISSGFSDPRADVRVGDGVAFVREAASE-----SFDVVI  166
+             + VLVDID   + E S+KYFP +   ++DPR      DG A++RE  SE     S+D+V+
+Sbjct  878   QAVLVDIDMVAMRELSRKYFPSLYQAYADPRTTPYNRDGDAWLREQLSEESEVGSYDLVL  699
+
+Query  167   IDTTDPDGPAAELFGEKFYRDVLRILKPRG--ICCNQGESVWLNRNLIEGMADFIKNKVG  224
+             +D+TD  G A  LF + FY++  R+++     +  N     W N +++      ++ +  
+Sbjct  698   VDSTDY-GAAETLFTDHFYKNTKRLMRTEASVLIVNVDSPSW-NLDIV------VQVQRQ  543
+
+Query  225   FASV-KYAMIY---TPTYPCGSIGSLICSKVAGVDVTQPVRPVESMPFAGELK----YYD  276
+              A + ++A +Y    P++  G    L  S     D   P++     P   +L     YY 
+Sbjct  542   LAGLFRHAYLYQCHQPSFLSGHYSFLFAS-----DTIHPMKHPVDWPTWRQLDIPTYYYT  378
+
+Query  277   SDVHKAAFVLP  287
+              D+H AAF LP
+Sbjct  377   PDLHYAAFQLP  345
+
+
+
+
+
+
+
+		
+
+
