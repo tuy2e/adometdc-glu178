@@ -185,6 +185,58 @@ Legend: `[x]` done · `[ ]` to do · ⛔ dead end / don't re-chase · ⏸ waitin
         - AU (7 trees): cryptophytes + kinetoplastids + *Euglena* (AdoMetDC group b exactly) **rejected**, p 0.016 (0.049 in the 9-Nov-style 5-tree set). Cryptophytes + kinetoplastids with *Euglena* free: p 0.48. Cryptophytes + all Euglenozoa: p 0.47. Group (a) p 0.0003; 4-group lineage p 3e-8.
         - → **The two genes disagree about euglenids.** This is more support for the AdoMetDC pattern belonging to that gene alone.
       - Not rerun with *Euglena*: H_crypto, H_dino, H_all, H_li/H_sar, the C60 runs.
+    - ✅ **BLAST searches A–H all checked (10–11 Nov).** Index of every RID, its settings and its verdict: `3_data/blast_results/BLAST_INDEX.md`. Reports are saved next to it (Download All → Text).
+      - D (defaults) was cut off at 100 hits, so it was replaced by D2 (Rhizaria) and D3 (haptophytes), both at 500 / 1e-20.
+      - Every other search was complete.
+      - **Katablepharid AdoMetDC not detected** (E, E2, E3; human query at E 0.05 and *Guillardia* query at 1e-5). Only a small *Roombia* transcriptome exists, so say "not detected".
+      - Centrohelids have AdoMetDC (E; Glu178 not yet checked).
+      - ⚠️ **Gap:** the plan for search E (Project Map) also listed **Telonemia and Picozoa**, but the run covered only katablepharids and centrohelids, so those two are still unsearched. The optional *Physarum* search (not putrescine-activated: does it keep Glu178?) wasn't run either.
+      - **Next:** add the new sampling to the trees:
+        - SpdSyn: A2 cryptophytes (+ *Roombia*, labelled separately), B euglenids/diplonemids, C dinos (dinotom screen), D2 Rhizaria, D3 haptophytes (filter out other aminopropyltransferases first).
+        - AdoMetDC: F *E. longa*, *Rhabdomonas* and diplonemids.
+    - ✅ **Round 4 (10 Nov): all the BLAST sampling added to both trees.** Record: `3_data/test_results/RESULTS_round4.md`. Figures: `2_figures/Fig_spdsyn_tree_round4.png` and `Fig_tree_Glu178_round4.png`. Working files: `8_full_workspace_backup/workspace_part4_round4.zip`.
+      - **Lost and redone:** the previous chat's sequence pull and its post-2:37 am log/report edits never reached the folder. All sequences were re-read from the saved BLAST reports instead (HSP regions, not full ORFs).
+      - **Spermidine synthase (245 seqs; LG+R6 again):** 598 candidates → 314 non-redundant → 163 classified as SpdSyn on the family tree → 21 dropped by the contamination rule (e.g. *Teleaulax* ↔ *Phaeocystis* 90%) → 102 added after 90% reduction.
+        - **Kinetoplastids + 12 photosynthetic cryptophytes now form a clade (93.5/90).** The group (b) pairing is now echoed in the partner gene. *Goniomonas* sits apart.
+        - Euglenids group with diplonemids (96.7/100), not with kinetoplastids.
+        - Group (a) and the 4-group lineage still absent.
+        - AU (7 trees):
+          - CR+KE (all 14 cryptophytes) p 0.457, and CR + all Euglenozoa p 0.485: both not rejected.
+          - CR+KE+euglenids (group b exactly) p 0.026, rejected.
+          - Group (a) p 0.001 and the 4-group lineage p 0.00006, both rejected.
+          - CR + red algae p 0.044 (borderline; the last three constrained runs used -nstop 30).
+      - **AdoMetDC (200):** + *E. longa*, *Rhabdomonas*, a 2nd *Eutreptiella* copy (69% to the first), 7 diplonemids, 2 centrohelids.
+        - Euglenids all sit in group (b) (99/100).
+        - **All 8 diplonemids keep Glu178**, grouping with heteroloboseans. Euglenozoa-together is rejected (p = 0.017).
+        - Centrohelids keep Glu178.
+        - ⚠️ *Blastocystis* (long branch) jumps out of the lineage (UFB 48), which drops lineage support to UFB 65. Putting it back is not rejected (p = 0.27), and then there is one E→N (0.994). Glu is never regained.
+        - **New:** *E. longa* = *E. gracilis* at the pocket (Q15 shared). **_Rhabdomonas_ has Lys178** (a positive charge, plant-like; a hypothesis only).
+    - ✅ **Activation papers read in full (10 Nov, in a separate chat on your PDFs):** Clyne 2002, Beswick 2006, Bennett 2002, Wells 2006, Williams 2011. Notes and data check: `5_literature/paper_notes_activation_mechanisms.md`. (Ndjonka 2003 ×2 not obtained.)
+      - *T. cruzi* needs **Asp174 only** to bind putrescine. Rebuilding the human Lys80/Glu178 pair does nothing. **Arg13 is a processing determinant**, not an activation residue.
+      - *Plasmodium* keeps Glu178 and the whole relay but has Lys at 174 plus built-in Arg/Lys, and is not activated. So **Glu178 is neither necessary nor sufficient**.
+      - **Our alignment:** Ochrophyta keep Asp174 (20/22 acidic), Glu15, Glu256 and Lys80, and lack *T. cruzi*'s Arg13/Gln176/Met113/Ile80. Their pocket is human-like except at 178 (Asn), 111 (Gly) and 109 (Trp).
+      - Oomycetes: Arg111 in 5/12 + His178 look plant-like. Cryptophytes have His285 (5/7).
+      - → **Prediction downgraded from "likely" to "plausible"**: the closest precedent is human E178Q, but Asp174 binding may persist. Oomycetes get a separate (plant-like) hypothesis. The cryptophyte "uncertain" reason changes (position 13 = processing). Docking (3B/3C) moves up the list.
+      - Reports and team doc still say "likely" in places; reword them when writing up.
+    - ✅ **Putrescine docking (10 Nov; to-do 3B/3C partly done).** Record: `3_data/test_results/RESULTS_docking.md`.
+      - Vina 1.2.5 on human 1MSV (+ E178Q in silico) and 13 FOLDTRACE AlphaFold models (read from the Downloads copy, unchanged).
+      - **Controls pass:** human redock 0.7 Å; *Acanthamoeba* and lamprey dock in the site; the plant doesn't (pocket filled, 5 Å³); *T. cruzi* docks 6 Å away (shifted site).
+      - **Test enzymes:** diatom, brown alga, cryptophyte and *Perkinsus* copy have 0 in-site poses (best 4–6 Å away, *T. cruzi*-like). 2 of 3 oomycetes have filled pockets (plant-like). *Cafeteria* and *Aphanomyces* dock in the site occasionally (2/9).
+      - → The pockets are remodelled, but docking can't tell "not activated" from "activated via a shifted site". **The prediction stays "plausible"**, and the oomycete plant-like hypothesis is supported.
+      - The haptophyte (keeps Glu) also has a filled model pocket, a caution about apo models.
+      - AD4 charge-aware scoring failed the control, so it isn't used. E178Q docks like wild type (signalling ≠ binding).
+      - **Bug caught:** the first model alignment applied the transform twice. It was fixed before any result was used.
+    - 📝 **Publication framing (10 Nov, discussion; Marc decides).** A computational-only paper is publishable if the prediction isn't the headline.
+      - Lead with the observation (Glu178 lost in all stramenopiles plus the other groups) and the evolution result (the Glu-less groups cluster against the species tree).
+      - The activation prediction goes in the discussion as a testable hypothesis ("plausible").
+      - A lab measurement (e.g. Lin lab PtSAMDC) would strengthen it but isn't required.
+      - A molecular evolution or protist journal fits better than JCIM. State one-vs-two losses as unresolved.
+    - 📄 **Model paper: Begg, Mason & Zimmer 2026, *J. Chem. Inf. Model.* 66:10266** (Luke and Maddie; open access). Computational only, built with Claude Code, untested hypotheses stated as such. Things to copy:
+      - An "AI-assisted computation" methods paragraph plus a supplementary note on an AI failure. Ours: the docking double transform, the AD4 failed control, the MAFFT version mismatch.
+      - Code on GitHub plus a per-entry data table.
+      - Explicit handling of over-represented groups (our 90% redundancy reduction).
+      - A blunt Limitations section.
+      - An AlphaFold-vs-crystal check (→ to-do 3D).
     - ⚠️ **Open item from this round:** the report said stramenopiles have "no prozyme". **That was never searched.** I've reworded it. Four unexamined low-identity "dead" class-2-like hits (3 *Cafeteria*, 1 *Schizochytrium*) need a quick look before we claim it.
   - [ ] 1D/1E: screen citers of Michael 2011 and Bale 2008 (+ Bennett 2002, Stanley 1994, Ndjonka 2003)
   - [ ] 1F: genome vs transcriptome origin of the key non-Glu sequences
@@ -196,7 +248,7 @@ Legend: `[x]` done · `[ ]` to do · ⛔ dead end / don't re-chase · ⏸ waitin
     - Note from the tree figure (6 Nov), to check in 1G: "ODC-fusion copy" labels appear in three places. Most are in the Gln clade with apicomplexans, but one *Durusdinium* fusion copy sits in the Asp clade and two *Alexandrium tamarense* fusion copies sit with green algae (Glu). These could be assembly or contamination problems, so they must be checked before saying anything about the fusion.
   - [x] 2A mixture model (C60 PMSF, 7 Nov) · [ ] 2B alternative alignment/trimming · [x] 2C Li 2019-style AU (7 Nov, not rejected) + ancestral reconstruction on the two-group trees (9 Nov) · [x] 2D spermidine-synthase tree (9 Nov: gene-specific pattern; doesn't settle one-vs-two; *Euglena* added 10 Nov: SpdSyn follows the species tree for euglenids)
     - 💡 **Add to 2C (from Li 2019):** an AU test of a "Li 2019-like" tree: kinetoplastids + cryptophytes kept together, but stramenopiles and the dinoflagellate/*Perkinsus* Asp copy moved out of their lineage. A reviewer who knows Li 2019 will ask for this test.
-  - [ ] 3A Trp109 figure · 3B docking validation on 1MSV · 3C docking into diatom, *Cafeteria* and oomycete pockets
+  - [ ] 3A Trp109 figure · [x] 3B docking validation on 1MSV (10 Nov) · [x] 3C docking into diatom, *Cafeteria* and oomycete pockets (10 Nov; plus cryptophyte, *Perkinsus*, haptophyte and controls) · [ ] 3D (optional) dock the AlphaFold model of human AdoMetDC (P17707) and compare with the 1MSV crystal, to test how far AlphaFold models can be trusted (as Begg et al. did)
 - [ ] Optional: composition-robust model (mixture model) as an extra artifact check
 - [ ] Redraw the structure figure with Trp109; paper "Figure 1"; 1-page summary for Marc
 - [ ] Cestode (tapeworm) cases: only *Rodentolepis* Gln holds up at sequence level; low priority

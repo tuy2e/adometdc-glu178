@@ -1,0 +1,378 @@
+[
+ {
+  "name": "human_1MSV",
+  "label": "human 1MSV crystal",
+  "vina_site_best": -4.423,
+  "vina_site_dist": 0.1,
+  "vina_site_n_in": 7,
+  "vina_contacts": [
+   "GLU15",
+   "ASP174",
+   "THR176",
+   "GLU256",
+   "TYR318"
+  ],
+  "ad4_best": -5.13,
+  "ad4_best_dist": 8.7,
+  "ad4_best_in_site": null,
+  "ad4_n_in": 0,
+  "ad4_contacts": [
+   "PHE110",
+   "THR161",
+   "LEU162",
+   "ASN316"
+  ]
+ },
+ {
+  "name": "humanE178Q",
+  "label": "human E178Q (in silico)",
+  "vina_site_best": -4.436,
+  "vina_site_dist": 0.1,
+  "vina_site_n_in": 7,
+  "vina_contacts": [
+   "GLU15",
+   "ASP174",
+   "THR176",
+   "TYR318"
+  ],
+  "ad4_best": -5.13,
+  "ad4_best_dist": 8.8,
+  "ad4_best_in_site": null,
+  "ad4_n_in": 0,
+  "ad4_contacts": [
+   "PHE110",
+   "THR161",
+   "LEU162",
+   "ASN316"
+  ]
+ },
+ {
+  "name": "A0AAJ7UEA7",
+  "label": "lamprey Petromyzon",
+  "vina_site_best": -4.04,
+  "vina_site_dist": 1.4,
+  "vina_site_n_in": 6,
+  "vina_contacts": [
+   "GLU50",
+   "THR208",
+   "GLU210"
+  ],
+  "ad4_best": -4.986,
+  "ad4_best_dist": 10.6,
+  "ad4_best_in_site": -4.248,
+  "ad4_n_in": 2,
+  "ad4_contacts": [
+   "GLU50",
+   "ASP206",
+   "THR208"
+  ]
+ },
+ {
+  "name": "L8GRS6",
+  "label": "Acanthamoeba",
+  "vina_site_best": -4.04,
+  "vina_site_dist": 0.5,
+  "vina_site_n_in": 8,
+  "vina_contacts": [
+   "GLU25",
+   "ASP198",
+   "THR200",
+   "GLU279"
+  ],
+  "ad4_best": -4.885,
+  "ad4_best_dist": 10.7,
+  "ad4_best_in_site": -4.404,
+  "ad4_n_in": 3,
+  "ad4_contacts": [
+   "GLU25",
+   "LYS101",
+   "ASP198",
+   "THR200",
+   "TYR262",
+   "GLU279"
+  ]
+ },
+ {
+  "name": "A0A2V2WHV6",
+  "label": "T. cruzi",
+  "vina_site_best": -3.648,
+  "vina_site_dist": 5.9,
+  "vina_site_n_in": 0,
+  "vina_contacts": [
+   "ILE268",
+   "ASP269",
+   "VAL309"
+  ],
+  "ad4_best": -3.791,
+  "ad4_best_dist": 8.2,
+  "ad4_best_in_site": null,
+  "ad4_n_in": 0,
+  "ad4_contacts": [
+   "THR149",
+   "ASN151",
+   "ASP152",
+   "ASP269"
+  ]
+ },
+ {
+  "name": "D8S2S4",
+  "label": "plant Selaginella",
+  "vina_site_best": -2.823,
+  "vina_site_dist": 4.9,
+  "vina_site_n_in": 0,
+  "vina_contacts": [
+   "GLU14",
+   "GLU16",
+   "LYS72",
+   "LYS105",
+   "THR290"
+  ],
+  "ad4_best": -4.202,
+  "ad4_best_dist": 10.9,
+  "ad4_best_in_site": null,
+  "ad4_n_in": 0,
+  "ad4_contacts": [
+   "GLU10",
+   "LYS76",
+   "MET180",
+   "TYR252",
+   "PHE255",
+   "GLU256"
+  ]
+ },
+ {
+  "name": "B7FPB8",
+  "label": "diatom Phaeodactylum",
+  "vina_site_best": -3.107,
+  "vina_site_dist": 6.1,
+  "vina_site_n_in": 0,
+  "vina_contacts": [
+   "ASP194",
+   "ASP320"
+  ],
+  "ad4_best": -4.25,
+  "ad4_best_dist": 11.0,
+  "ad4_best_in_site": null,
+  "ad4_n_in": 0,
+  "ad4_contacts": [
+   "ASP26",
+   "LEU27",
+   "SER28",
+   "ASP194"
+  ]
+ },
+ {
+  "name": "D7FY29",
+  "label": "brown alga Ectocarpus",
+  "vina_site_best": -4.509,
+  "vina_site_dist": 4.6,
+  "vina_site_n_in": 0,
+  "vina_contacts": [
+   "THR56",
+   "GLY148",
+   "TYR149",
+   "SER150",
+   "TYR196"
+  ],
+  "ad4_best": -4.549,
+  "ad4_best_dist": 5.9,
+  "ad4_best_in_site": null,
+  "ad4_n_in": 0,
+  "ad4_contacts": [
+   "GLU58",
+   "LYS115",
+   "ALA209",
+   "ASP210",
+   "ARG211",
+   "THR212",
+   "ASN294",
+   "ARG296"
+  ]
+ },
+ {
+  "name": "A0A5A8CY83",
+  "label": "Cafeteria (Bigyra)",
+  "vina_site_best": -3.849,
+  "vina_site_dist": 2.2,
+  "vina_site_n_in": 2,
+  "vina_contacts": [
+   "GLU34",
+   "THR189",
+   "GLU352"
+  ],
+  "ad4_best": -4.709,
+  "ad4_best_dist": 10.2,
+  "ad4_best_in_site": null,
+  "ad4_n_in": 0,
+  "ad4_contacts": [
+   "GLU30",
+   "LYS31",
+   "THR32",
+   "SER126",
+   "ARG127",
+   "TYR348"
+  ]
+ },
+ {
+  "name": "M4BIM5",
+  "label": "oomycete Hyaloperonospora",
+  "vina_site_best": -3.578,
+  "vina_site_dist": 6.2,
+  "vina_site_n_in": 0,
+  "vina_contacts": [
+   "GLU31",
+   "ASP33",
+   "LYS88",
+   "GLY196",
+   "GLU199",
+   "ASP313"
+  ],
+  "ad4_best": -4.299,
+  "ad4_best_dist": 3.6,
+  "ad4_best_in_site": -4.002,
+  "ad4_n_in": 1,
+  "ad4_contacts": [
+   "ASN29",
+   "GLU31",
+   "THR201",
+   "TYR265",
+   "GLU282",
+   "TYR354"
+  ]
+ },
+ {
+  "name": "T0REK4",
+  "label": "oomycete Saprolegnia",
+  "vina_site_best": -3.192,
+  "vina_site_dist": 4.5,
+  "vina_site_n_in": 0,
+  "vina_contacts": [
+   "GLU46",
+   "TYR139",
+   "SER140",
+   "TYR187",
+   "HIS211",
+   "SER318"
+  ],
+  "ad4_best": -4.239,
+  "ad4_best_dist": 4.5,
+  "ad4_best_in_site": null,
+  "ad4_n_in": 0,
+  "ad4_contacts": [
+   "SER140",
+   "TRP184",
+   "HIS211",
+   "SER318"
+  ]
+ },
+ {
+  "name": "A0A024TG05",
+  "label": "oomycete Aphanomyces",
+  "vina_site_best": -3.981,
+  "vina_site_dist": 2.4,
+  "vina_site_n_in": 2,
+  "vina_contacts": [
+   "ASN43",
+   "GLU45",
+   "ARG134",
+   "SER136",
+   "THR209"
+  ],
+  "ad4_best": -4.36,
+  "ad4_best_dist": 5.1,
+  "ad4_best_in_site": null,
+  "ad4_n_in": 0,
+  "ad4_contacts": [
+   "TYR135",
+   "SER182",
+   "TYR183",
+   "ASN184",
+   "SER318",
+   "SER355"
+  ]
+ },
+ {
+  "name": "L1JMA4",
+  "label": "cryptophyte Guillardia",
+  "vina_site_best": -3.872,
+  "vina_site_dist": 4.2,
+  "vina_site_n_in": 0,
+  "vina_contacts": [
+   "GLU21",
+   "TRP116",
+   "HIS333",
+   "ASP335"
+  ],
+  "ad4_best": -4.38,
+  "ad4_best_dist": 5.3,
+  "ad4_best_in_site": null,
+  "ad4_n_in": 0,
+  "ad4_contacts": [
+   "GLU21",
+   "ASP23",
+   "ARG85",
+   "ASP187",
+   "ASP335"
+  ]
+ },
+ {
+  "name": "C5LKE7",
+  "label": "Perkinsus (Asp copy)",
+  "vina_site_best": -4.084,
+  "vina_site_dist": 4.8,
+  "vina_site_n_in": 0,
+  "vina_contacts": [
+   "GLU44",
+   "ASP46",
+   "LYS102",
+   "ASP204",
+   "HIS205",
+   "VAL320",
+   "ALA321",
+   "ASP322"
+  ],
+  "ad4_best": -4.65,
+  "ad4_best_dist": 9.9,
+  "ad4_best_in_site": null,
+  "ad4_n_in": 0,
+  "ad4_contacts": [
+   "GLU40",
+   "LYS106",
+   "TRP187",
+   "ASP208",
+   "TYR285",
+   "THR318"
+  ]
+ },
+ {
+  "name": "A0A7S3TQM9",
+  "label": "haptophyte Emiliania",
+  "vina_site_best": -3.186,
+  "vina_site_dist": 5.0,
+  "vina_site_n_in": 0,
+  "vina_contacts": [
+   "LYS41",
+   "LEU42",
+   "GLU43",
+   "GLN133",
+   "TYR134",
+   "GLY135",
+   "TRP180",
+   "GLU218",
+   "THR339"
+  ],
+  "ad4_best": -4.491,
+  "ad4_best_dist": 11.3,
+  "ad4_best_in_site": null,
+  "ad4_n_in": 0,
+  "ad4_contacts": [
+   "PHE46",
+   "ARG47",
+   "ASP99",
+   "ARG100",
+   "GLU130",
+   "GLU214",
+   "ARG341"
+  ]
+ }
+]

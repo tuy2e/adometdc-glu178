@@ -1,6 +1,18 @@
 # Stramenopile AdoMetDCs lost the putrescine sensor (Glu178): results, steps 2–6 + wider sampling
 *Tui, 5 Nov 2026 (updated the same evening). This is my computational analysis, not Marc's protocol. I used your FOLDTRACE run read-only and changed nothing in your project folder. No wet lab. Step 1 is in `stramenopile_Glu178_step1_results.md`.*
 
+> **⚠️ Update, 10 Nov (rounds 3–4): *Euglena* and the full BLAST sampling added to both trees.** Full record: `3_data/test_results/RESULTS_euglena.md` and `RESULTS_round4.md`.
+> - **AdoMetDC (200 enzymes):**
+>   - *E. gracilis*, *E. longa*, *Rhabdomonas* and a second *Eutreptiella* copy all sit with kinetoplastids inside group (b) (99/100).
+>   - **All 8 diplonemids keep Glu178** and group with heteroloboseans. Forcing all Euglenozoa together is rejected (AU p = 0.017).
+>   - Centrohelids keep Glu178.
+>   - *Blastocystis* (a long branch) jumps out of the lineage in the best tree. Putting it back is not rejected (p = 0.27), and then there is one Glu→Asn. Glu is never regained. Lineage support without *Blastocystis* is UFBoot 65 (was 88–90).
+> - **Spermidine synthase (245 sequences):**
+>   - With 12 photosynthetic cryptophytes, **kinetoplastids + cryptophytes now form a clade (UFBoot 90)**: the group (b) pairing shows up in the partner gene too.
+>   - Euglenids pair with diplonemids instead. Forcing them into the cryptophyte–kinetoplastid group is rejected (p = 0.026).
+>   - Group (a) (p = 0.001) and the 4-group lineage (p = 0.00006) are still rejected.
+> - **Residues:** *E. longa* matches *E. gracilis* (R13, Q15, D174, Q176, N178). *Rhabdomonas* has **Lys178**. The clean prediction remains **stramenopiles only**; cryptophytes are uncertain.
+>
 > **⚠️ Update, 7 Nov: two harder tree tests changed one conclusion (details at the end of step 4).**
 > - **Still holds:** two Glu-less groups each break the species tree: (a) stramenopiles + the dinoflagellate/*Perkinsus* Asp copy, and (b) kinetoplastids/euglenid + cryptophytes. Moving any of them back to its species-tree place is rejected, now also under a C60 mixture model.
 > - **No longer claimed:** that (a) and (b) are *one* lineage with *one* Glu loss. The best tree still joins them (UFBoot 88 standard / 90 mixture). But a tree that keeps them apart, the arrangement in Li et al. 2019, **can't be rejected** (AU p = 0.18 standard, 0.37–0.39 mixture, 0.48 without pocket columns). So it's 1 or 2 losses, not settled.
@@ -181,7 +193,7 @@ Figures:
 
 *B. Spermidine synthase tree* (record: `/root/audit/spdsyn/RESULTS_spdsyn.md`):
 - **Data:** 142 enzymes (130 eukaryotic + 12 prokaryotic), 292 positions. Model LG+R6, UFBoot + SH-aLRT. Thermospermine synthases and animal spermine synthase were excluded using reference enzymes. Same contamination rule (4 dropped).
-- **Sampling gap:** NCBI BLAST, needed to catch unannotated transcriptome proteins, never ran (queued for more than 2.5 h). So only 2 cryptophytes, 0 euglenids, 3 dinoflagellates and 2 *Perkinsus*.
+- **Sampling gap:** NCBI BLAST, needed to catch unannotated transcriptome proteins, never ran (queued for more than 2.5 h). So only 2 cryptophytes, 0 euglenids, 3 dinoflagellates and 2 *Perkinsus*. *(Filled 10 Nov: see `RESULTS_round4.md`. With 245 sequences, kinetoplastids + cryptophytes form a clade (UFBoot 90); group (a) and the 4-group lineage are still rejected.)*
 
 | Arrangement forced on spermidine synthase | p (AU) |
 |---|---|
@@ -299,7 +311,7 @@ I looked up every AdoMetDC whose putrescine response has been measured, pulled i
 - **Prediction, not measurement.** No stramenopile AdoMetDC has had its putrescine response measured. *T. cruzi* shows that losing Glu178 doesn't guarantee losing the response.
 - **One-gene phylogeny.** Two Glu-less groups are well supported. Whether they are one lineage is **not settled** (7 Nov tests). Everything rests on one ~340-column alignment.
 - **Sequence sources.** Many sequences come from transcriptomes. I screened for contamination with a rule set in advance, but some risk remains (e.g. the *Blastocystis* "Blastoise" Asp sequence).
-- **Uneven taxon sampling.** Diatoms and oomycetes are heavily sampled; *Diplonema* and *Eutreptiella* are single sequences.
+- **Uneven taxon sampling.** Diatoms and oomycetes are heavily sampled. *(10 Nov: euglenids are now 5 sequences from 4 species and diplonemids 8; both came from transcriptome BLAST hits, not full ORFs.)*
 
 ## Where this leaves the paper
 **Core results, all computational:**
@@ -318,5 +330,5 @@ I looked up every AdoMetDC whose putrescine response has been measured, pulled i
 - [x] Mixture-model test (C60, 7 Nov): the two groups hold; their union is the best tree but not significant (see step 4, round 2)
 - [x] Ancestral reconstruction on the two-group trees (9 Nov): 2 Glu losses on those trees, 1 on the best tree; Glu never regained
 - [x] Spermidine-synthase tree (9 Nov): doesn't share AdoMetDC's grouping; doesn't settle one-vs-two
-- [ ] Retry NCBI BLAST for transcriptome-only spermidine synthases (cryptophytes, euglenids, dinoflagellates) if we want a fuller second-gene test
+- [x] Transcriptome BLAST for spermidine synthases and extra AdoMetDCs (10–11 Nov), added to both trees: see `RESULTS_round4.md`
 - [ ] One-page summary for Marc; then ask Luke/Maddie about the journal

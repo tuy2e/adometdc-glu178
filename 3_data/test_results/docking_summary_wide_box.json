@@ -1,0 +1,211 @@
+[
+ {
+  "name": "human_1MSV",
+  "label": "human 1MSV crystal",
+  "best": -4.437,
+  "best_dist": 0.1,
+  "best_in_site": -4.437,
+  "n_in_site": 17,
+  "n_poses": 27,
+  "rmsd_cryst": 0.68,
+  "contacts": [
+   "GLU15",
+   "ASP174",
+   "THR176",
+   "TYR318"
+  ],
+  "cavity": 33.9
+ },
+ {
+  "name": "humanE178Q",
+  "label": "human E178Q (in silico)",
+  "best": -4.433,
+  "best_dist": 0.1,
+  "best_in_site": -4.433,
+  "n_in_site": 17,
+  "n_poses": 27,
+  "rmsd_cryst": 0.74,
+  "contacts": [
+   "GLU15",
+   "ASP174",
+   "THR176",
+   "TYR318"
+  ],
+  "cavity": 33.9
+ },
+ {
+  "name": "A0AAJ7UEA7",
+  "label": "lamprey Petromyzon",
+  "best": -4.021,
+  "best_dist": 1.4,
+  "best_in_site": -4.021,
+  "n_in_site": 13,
+  "n_poses": 27,
+  "rmsd_cryst": 1.63,
+  "contacts": [
+   "GLU50",
+   "SER143",
+   "THR208"
+  ],
+  "cavity": 25.5
+ },
+ {
+  "name": "L8GRS6",
+  "label": "Acanthamoeba",
+  "best": -4.043,
+  "best_dist": 0.4,
+  "best_in_site": -4.043,
+  "n_in_site": 22,
+  "n_poses": 27,
+  "rmsd_cryst": 1.16,
+  "contacts": [
+   "GLU25",
+   "ASP198",
+   "THR200",
+   "GLU279"
+  ],
+  "cavity": 42.0
+ },
+ {
+  "name": "A0A2V2WHV6",
+  "label": "T. cruzi",
+  "best": -3.653,
+  "best_dist": 5.9,
+  "best_in_site": null,
+  "n_in_site": 0,
+  "n_poses": 27,
+  "rmsd_cryst": null,
+  "contacts": [],
+  "cavity": 70.2
+ },
+ {
+  "name": "D8S2S4",
+  "label": "plant Selaginella",
+  "best": -3.111,
+  "best_dist": 12.2,
+  "best_in_site": null,
+  "n_in_site": 0,
+  "n_poses": 27,
+  "rmsd_cryst": null,
+  "contacts": [],
+  "cavity": 4.6
+ },
+ {
+  "name": "B7FPB8",
+  "label": "diatom Phaeodactylum",
+  "best": -3.391,
+  "best_dist": 10.3,
+  "best_in_site": null,
+  "n_in_site": 0,
+  "n_poses": 26,
+  "rmsd_cryst": null,
+  "contacts": [],
+  "cavity": 50.5
+ },
+ {
+  "name": "D7FY29",
+  "label": "brown alga Ectocarpus",
+  "best": -4.493,
+  "best_dist": 4.5,
+  "best_in_site": null,
+  "n_in_site": 0,
+  "n_poses": 27,
+  "rmsd_cryst": null,
+  "contacts": [],
+  "cavity": 32.8
+ },
+ {
+  "name": "A0A5A8CY83",
+  "label": "Cafeteria (Bigyra)",
+  "best": -3.969,
+  "best_dist": 9.6,
+  "best_in_site": -3.845,
+  "n_in_site": 5,
+  "n_poses": 27,
+  "rmsd_cryst": 2.78,
+  "contacts": [
+   "GLU34",
+   "THR189",
+   "GLU352"
+  ],
+  "cavity": 32.6
+ },
+ {
+  "name": "M4BIM5",
+  "label": "oomycete Hyaloperonospora",
+  "best": -3.875,
+  "best_dist": 6.6,
+  "best_in_site": null,
+  "n_in_site": 0,
+  "n_poses": 27,
+  "rmsd_cryst": null,
+  "contacts": [],
+  "cavity": 9.6
+ },
+ {
+  "name": "T0REK4",
+  "label": "oomycete Saprolegnia",
+  "best": -3.465,
+  "best_dist": 8.6,
+  "best_in_site": null,
+  "n_in_site": 0,
+  "n_poses": 27,
+  "rmsd_cryst": null,
+  "contacts": [],
+  "cavity": 1.8
+ },
+ {
+  "name": "A0A024TG05",
+  "label": "oomycete Aphanomyces",
+  "best": -3.968,
+  "best_dist": 2.3,
+  "best_in_site": -3.968,
+  "n_in_site": 8,
+  "n_poses": 27,
+  "rmsd_cryst": 3.07,
+  "contacts": [
+   "ASN43",
+   "GLU45",
+   "ARG134",
+   "SER136",
+   "THR209"
+  ],
+  "cavity": 30.5
+ },
+ {
+  "name": "L1JMA4",
+  "label": "cryptophyte Guillardia",
+  "best": -4.001,
+  "best_dist": 5.2,
+  "best_in_site": null,
+  "n_in_site": 0,
+  "n_poses": 27,
+  "rmsd_cryst": null,
+  "contacts": [],
+  "cavity": 14.9
+ },
+ {
+  "name": "C5LKE7",
+  "label": "Perkinsus (Asp copy)",
+  "best": -4.143,
+  "best_dist": 4.8,
+  "best_in_site": null,
+  "n_in_site": 0,
+  "n_poses": 27,
+  "rmsd_cryst": null,
+  "contacts": [],
+  "cavity": 14.6
+ },
+ {
+  "name": "A0A7S3TQM9",
+  "label": "haptophyte Emiliania",
+  "best": -3.484,
+  "best_dist": 11.1,
+  "best_in_site": null,
+  "n_in_site": 0,
+  "n_poses": 27,
+  "rmsd_cryst": null,
+  "contacts": [],
+  "cavity": 1.0
+ }
+]
