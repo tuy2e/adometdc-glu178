@@ -237,6 +237,10 @@ Legend: `[x]` done · `[ ]` to do · ⛔ dead end / don't re-chase · ⏸ waitin
       - Explicit handling of over-represented groups (our 90% redundancy reduction).
       - A blunt Limitations section.
       - An AlphaFold-vs-crystal check (→ to-do 3D).
+    - ➡️ **Next direction (10 Nov, Tui's choice): pocket-chemistry survey**, computational only. Can structure-based pocket chemistry (electrostatics, pKa, H-bonds, filling, cavity, docking) separate the known activation types, and where do Glu-less lineages fall?
+      - Go/no-go on crystals plus enzymes with known responses first, then the 1,000 FOLDTRACE models.
+      - Plan and ground rules: `1_reports/HANDOFF_pocket_chemistry_survey.md`.
+      - The evolution paper stays the fallback (core claims: findings 1–3).
     - ⚠️ **Open item from this round:** the report said stramenopiles have "no prozyme". **That was never searched.** I've reworded it. Four unexamined low-identity "dead" class-2-like hits (3 *Cafeteria*, 1 *Schizochytrium*) need a quick look before we claim it.
   - [ ] 1D/1E: screen citers of Michael 2011 and Bale 2008 (+ Bennett 2002, Stanley 1994, Ndjonka 2003)
   - [ ] 1F: genome vs transcriptome origin of the key non-Glu sequences
