@@ -1,0 +1,74 @@
+sources (all 1,000): {'interpro': 674, 'uniparc_features': 266, 'replacement_record': 11, 'none': 49}
+excluded from position-based work: A0A8C5BDJ7
+no annotation: 49 (fold_ok: 0)
+== all annotated: 950 proteins, 61 distinct Pfam architectures, 54 rare (<= 5 proteins), 43 unique (1 protein)
+   AdoMetDC position: AdoMetDC only 723, AdoMetDC repeated 84, AdoMetDC last 61, AdoMetDC first 48, no AdoMetDC Pfam 18, no Pfam domain 15, AdoMetDC in the middle 1
+== InterPro-only set: 673 proteins, 50 distinct Pfam architectures, 43 rare (<= 5 proteins), 35 unique (1 protein)
+   AdoMetDC position: AdoMetDC only 497, AdoMetDC repeated 63, AdoMetDC last 52, AdoMetDC first 37, no AdoMetDC Pfam 14, no Pfam domain 9, AdoMetDC in the middle 1
+== fold-passers: 772 proteins, 48 distinct Pfam architectures, 43 rare (<= 5 proteins), 36 unique (1 protein)
+   AdoMetDC position: AdoMetDC only 590, AdoMetDC repeated 81, AdoMetDC last 54, AdoMetDC first 46, AdoMetDC in the middle 1
+== fold-passers, InterPro-only: 561 proteins, 40 distinct Pfam architectures, 35 rare (<= 5 proteins), 28 unique (1 protein)
+   AdoMetDC position: AdoMetDC only 417, AdoMetDC repeated 60, AdoMetDC last 47, AdoMetDC first 36, AdoMetDC in the middle 1
+
+Architectures (all annotated proteins; n / fold_ok / of which InterPro-source):
+   721 / 590 / 496  PF01536  [AdoMetDC only]
+    79 /  76 /  59  PF01536 > PF01536  [AdoMetDC repeated]
+    36 /  32 /  28  PF08132 > PF01536  [AdoMetDC last]
+    15 /   0 /   9  (no Pfam domain)  [no Pfam domain]
+    11 /  11 /   9  PF01536 > PF02784 > PF00278  [AdoMetDC first]
+     7 /   7 /   6  PF01536 > PF02784  [AdoMetDC first]
+     7 /   0 /   7  PF36262  [no AdoMetDC Pfam]
+     5 /   5 /   4  PF01536 > PF01536 > PF01536  [AdoMetDC repeated]
+     5 /   0 /   5  PF33883  [no AdoMetDC Pfam]
+     3 /   3 /   3  PF01536 > PF09335  [AdoMetDC first]
+     3 /   3 /   3  PF00566 > PF08132 > PF01536  [AdoMetDC last]
+     3 /   3 /   3  PF01536 > PF00278 > PF02784 > PF00278  [AdoMetDC first]
+     2 /   2 /   2  PF10609 > PF01536  [AdoMetDC last]
+     2 /   2 /   2  PF06441 > PF01536  [AdoMetDC last]
+     2 /   2 /   2  PF08132 > PF01536 > PF01536  [AdoMetDC last]
+     2 /   1 /   0  PF01536 > PF08132  [AdoMetDC first]  <- only in UniParc/replacement data
+     2 /   0 /   1  PF02675  [AdoMetDC only]
+     2 /   0 /   0  PF12092  [no AdoMetDC Pfam]  <- only in UniParc/replacement data
+     1 /   1 /   0  PF01536 > PF04427  [AdoMetDC first]  <- only in UniParc/replacement data
+     1 /   1 /   1  PF01536 > PF13517 > PF23122  [AdoMetDC first]
+     1 /   1 /   1  PF02214 > PF31093 > PF01536  [AdoMetDC last]
+     1 /   1 /   1  PF01536 > PF00219  [AdoMetDC first]
+     1 /   1 /   1  PF09011 > PF01536 > PF09335  [AdoMetDC in the middle]
+     1 /   1 /   0  PF25298 > PF01536  [AdoMetDC last]  <- only in UniParc/replacement data
+     1 /   1 /   1  PF01536 > PF01536 > PF00076 > PF00378  [AdoMetDC first]
+     1 /   1 /   1  PF01536 > PF01582  [AdoMetDC first]
+     1 /   1 /   1  PF18311 > PF21262 > PF15985 > PF01536  [AdoMetDC last]
+     1 /   1 /   1  PF00397 > PF00397 > PF00106 > PF01536  [AdoMetDC last]
+     1 /   1 /   1  PF01536 > PF13896 > PF13896  [AdoMetDC first]
+     1 /   1 /   1  PF01239 > PF01239 > PF01239 > PF01239 > PF01536  [AdoMetDC last]
+     1 /   1 /   1  PF00153 > PF00153 > PF00153 > PF01536 > PF01536  [AdoMetDC last]
+     1 /   1 /   1  PF01536 > PF01536 > PF01200  [AdoMetDC first]
+     1 /   1 /   1  PF01536 > PF01227  [AdoMetDC first]
+     1 /   1 /   1  PF01536 > PF27970  [AdoMetDC first]
+     1 /   1 /   0  PF01536 > PF00173  [AdoMetDC first]  <- only in UniParc/replacement data
+     1 /   1 /   1  PF02755 > PF01536  [AdoMetDC last]
+     1 /   1 /   0  PF01536 > PF04116 > PF12076  [AdoMetDC first]  <- only in UniParc/replacement data
+     1 /   1 /   1  PF01536 > PF01370  [AdoMetDC first]
+     1 /   1 /   1  PF01536 > PF04135  [AdoMetDC first]
+     1 /   1 /   1  PF02969 > PF07571 > PF01536  [AdoMetDC last]
+     1 /   1 /   0  PF01536 > PF01256  [AdoMetDC first]  <- only in UniParc/replacement data
+     1 /   1 /   1  PF00160 > PF01536  [AdoMetDC last]
+     1 /   1 /   1  PF01536 > PF07002  [AdoMetDC first]
+     1 /   1 /   1  PF06441 > PF00561 > PF01536  [AdoMetDC last]
+     1 /   1 /   0  PF01536 > PF00278 > PF02784  [AdoMetDC first]  <- only in UniParc/replacement data
+     1 /   1 /   1  PF01536 > PF00481  [AdoMetDC first]
+     1 /   1 /   1  PF01536 > PF01536 > PF00076  [AdoMetDC first]
+     1 /   1 /   0  PF01536 > PF13517  [AdoMetDC first]  <- only in UniParc/replacement data
+     1 /   1 /   1  PF01536 > PF00278  [AdoMetDC first]
+     1 /   1 /   1  PF27041 > PF27039 > PF14372 > PF05699 > PF01536  [AdoMetDC last]
+     1 /   1 /   1  PF01425 > PF01536  [AdoMetDC last]
+     1 /   0 /   1  PF00084 > PF01536  [AdoMetDC last]
+     1 /   1 /   1  PF07800 > PF01536  [AdoMetDC last]
+     1 /   0 /   1  PF01536 > PF25597  [AdoMetDC first]
+     1 /   0 /   1  PF07776 > PF00320 > PF01536  [AdoMetDC last]
+     1 /   0 /   1  PF07727 > PF01536  [AdoMetDC last]
+     1 /   1 /   1  PF01536 > PF20235  [AdoMetDC first]
+     1 /   0 /   1  PF40987  [no AdoMetDC Pfam]
+     1 /   0 /   1  PF47678  [no AdoMetDC Pfam]
+     1 /   0 /   0  PF00069  [no AdoMetDC Pfam]  <- only in UniParc/replacement data
+     1 /   0 /   0  PF01471  [no AdoMetDC Pfam]  <- only in UniParc/replacement data

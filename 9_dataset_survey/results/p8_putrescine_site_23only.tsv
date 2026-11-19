@@ -1,0 +1,185 @@
+accession	organism	group	architecture	source	tax_kingdom	tax_phylum	tm_norm_ref	human_pos	human_aa	call	cand_resnum	cand_aa	ca_offset	plddt	state	unresolved_reason	in_adometdc_pfam
+A0A7S1KLJ4	Percolomonas cosmopolitus	odc_fusion	PF01536 > PF02784 > PF00278	uniparc_features	Eukaryota (no kingdom)	Heterolobosea	0.9277	13	L	substituted	23	R	0.31	95.5	lost		True
+A0A7S1KLJ4	Percolomonas cosmopolitus	odc_fusion	PF01536 > PF02784 > PF00278	uniparc_features	Eukaryota (no kingdom)	Heterolobosea	0.9277	15	E	substituted	25	L	0.68	93.62	lost		True
+A0A7S1KLJ4	Percolomonas cosmopolitus	odc_fusion	PF01536 > PF02784 > PF00278	uniparc_features	Eukaryota (no kingdom)	Heterolobosea	0.9277	111	F	substituted	116	I	0.39	93.06	lost		True
+A0A7S1KLJ4	Percolomonas cosmopolitus	odc_fusion	PF01536 > PF02784 > PF00278	uniparc_features	Eukaryota (no kingdom)	Heterolobosea	0.9277	174	D	substituted	185	T	2.2	72.88	lost		True
+A0A7S1KLJ4	Percolomonas cosmopolitus	odc_fusion	PF01536 > PF02784 > PF00278	uniparc_features	Eukaryota (no kingdom)	Heterolobosea	0.9277	176	T	substituted	187	V	0.18	89.12	lost		True
+A0A7S1KLJ4	Percolomonas cosmopolitus	odc_fusion	PF01536 > PF02784 > PF00278	uniparc_features	Eukaryota (no kingdom)	Heterolobosea	0.9277	178	E	identical	189	E	0.47	92.75	kept		True
+A0A7S1KLJ4	Percolomonas cosmopolitus	odc_fusion	PF01536 > PF02784 > PF00278	uniparc_features	Eukaryota (no kingdom)	Heterolobosea	0.9277	256	E	identical	280	E	0.26	94.56	kept		True
+A0A7S1KLJ4	Percolomonas cosmopolitus	odc_fusion	PF01536 > PF02784 > PF00278	uniparc_features	Eukaryota (no kingdom)	Heterolobosea	0.9277	285	F	substituted	312	Y	1.11	86.88	lost		True
+A0A9C7PQ51	Galdieria partita	odc_fusion	PF01536 > PF02784	interpro	Eukaryota (no kingdom)	Rhodophyta	0.9344	13	L	substituted	27	N	0.54	96.31	lost		True
+A0A9C7PQ51	Galdieria partita	odc_fusion	PF01536 > PF02784	interpro	Eukaryota (no kingdom)	Rhodophyta	0.9344	15	E	identical	29	E	0.59	96.69	kept		True
+A0A9C7PQ51	Galdieria partita	odc_fusion	PF01536 > PF02784	interpro	Eukaryota (no kingdom)	Rhodophyta	0.9344	111	F	substituted	119	R	0.36	94.69	lost		True
+A0A9C7PQ51	Galdieria partita	odc_fusion	PF01536 > PF02784	interpro	Eukaryota (no kingdom)	Rhodophyta	0.9344	174	D	substituted	179	E	1.22	85.62	lost		True
+A0A9C7PQ51	Galdieria partita	odc_fusion	PF01536 > PF02784	interpro	Eukaryota (no kingdom)	Rhodophyta	0.9344	176	T	identical	181	T	0.19	92.38	kept		True
+A0A9C7PQ51	Galdieria partita	odc_fusion	PF01536 > PF02784	interpro	Eukaryota (no kingdom)	Rhodophyta	0.9344	178	E	identical	183	E	0.48	92.88	kept		True
+A0A9C7PQ51	Galdieria partita	odc_fusion	PF01536 > PF02784	interpro	Eukaryota (no kingdom)	Rhodophyta	0.9344	256	E	identical	264	E	0.3	95.5	kept		True
+A0A9C7PQ51	Galdieria partita	odc_fusion	PF01536 > PF02784	interpro	Eukaryota (no kingdom)	Rhodophyta	0.9344	285	F	identical	293	F	1.09	88.56	kept		True
+A0A1Y1HLG4	Klebsormidium nitens	odc_fusion	PF01536 > PF02784 > PF00278	interpro	Viridiplantae	Streptophyta	0.9274	13	L	substituted	14	R	0.5	96.0	lost		True
+A0A1Y1HLG4	Klebsormidium nitens	odc_fusion	PF01536 > PF02784 > PF00278	interpro	Viridiplantae	Streptophyta	0.9274	15	E	identical	16	E	0.83	96.38	kept		True
+A0A1Y1HLG4	Klebsormidium nitens	odc_fusion	PF01536 > PF02784 > PF00278	interpro	Viridiplantae	Streptophyta	0.9274	111	F	substituted	108	K	0.68	93.69	lost		True
+A0A1Y1HLG4	Klebsormidium nitens	odc_fusion	PF01536 > PF02784 > PF00278	interpro	Viridiplantae	Streptophyta	0.9274	174	D	substituted	176	T	2.37	85.12	lost		True
+A0A1Y1HLG4	Klebsormidium nitens	odc_fusion	PF01536 > PF02784 > PF00278	interpro	Viridiplantae	Streptophyta	0.9274	176	T	identical	178	T	0.69	91.75	kept		True
+A0A1Y1HLG4	Klebsormidium nitens	odc_fusion	PF01536 > PF02784 > PF00278	interpro	Viridiplantae	Streptophyta	0.9274	178	E	identical	180	E	1.16	94.69	kept		True
+A0A1Y1HLG4	Klebsormidium nitens	odc_fusion	PF01536 > PF02784 > PF00278	interpro	Viridiplantae	Streptophyta	0.9274	256	E	identical	258	E	0.47	95.69	kept		True
+A0A1Y1HLG4	Klebsormidium nitens	odc_fusion	PF01536 > PF02784 > PF00278	interpro	Viridiplantae	Streptophyta	0.9274	285	F	substituted	290	S	1.17	86.12	lost		True
+A0AAV8UZF7	Rhodosorus marinus	odc_fusion	PF01536 > PF02784 > PF00278	interpro	Eukaryota (no kingdom)	Rhodophyta	0.926	13	L	substituted	33	R	0.53	93.19	lost		True
+A0AAV8UZF7	Rhodosorus marinus	odc_fusion	PF01536 > PF02784 > PF00278	interpro	Eukaryota (no kingdom)	Rhodophyta	0.926	15	E	identical	35	E	0.49	92.94	kept		True
+A0AAV8UZF7	Rhodosorus marinus	odc_fusion	PF01536 > PF02784 > PF00278	interpro	Eukaryota (no kingdom)	Rhodophyta	0.926	111	F	substituted	131	Q	0.47	90.0	lost		True
+A0AAV8UZF7	Rhodosorus marinus	odc_fusion	PF01536 > PF02784 > PF00278	interpro	Eukaryota (no kingdom)	Rhodophyta	0.926	174	D	identical	191	D	1.65	76.44	kept		True
+A0AAV8UZF7	Rhodosorus marinus	odc_fusion	PF01536 > PF02784 > PF00278	interpro	Eukaryota (no kingdom)	Rhodophyta	0.926	176	T	substituted	193	G	2.03	86.19	lost		True
+A0AAV8UZF7	Rhodosorus marinus	odc_fusion	PF01536 > PF02784 > PF00278	interpro	Eukaryota (no kingdom)	Rhodophyta	0.926	178	E	identical	195	E	0.84	88.94	kept		True
+A0AAV8UZF7	Rhodosorus marinus	odc_fusion	PF01536 > PF02784 > PF00278	interpro	Eukaryota (no kingdom)	Rhodophyta	0.926	256	E	identical	281	E	0.47	92.88	kept		True
+A0AAV8UZF7	Rhodosorus marinus	odc_fusion	PF01536 > PF02784 > PF00278	interpro	Eukaryota (no kingdom)	Rhodophyta	0.926	285	F	substituted	310	H	1.21	78.19	lost		True
+A0AAW1PYA1	[Myrmecia] bisecta	odc_fusion	PF01536 > PF02784 > PF00278	interpro	Viridiplantae	Chlorophyta	0.9253	13	L	substituted	19	R	0.73	95.44	lost		True
+A0AAW1PYA1	[Myrmecia] bisecta	odc_fusion	PF01536 > PF02784 > PF00278	interpro	Viridiplantae	Chlorophyta	0.9253	15	E	identical	21	E	0.81	96.0	kept		True
+A0AAW1PYA1	[Myrmecia] bisecta	odc_fusion	PF01536 > PF02784 > PF00278	interpro	Viridiplantae	Chlorophyta	0.9253	111	F	substituted	112	K	0.77	94.31	lost		True
+A0AAW1PYA1	[Myrmecia] bisecta	odc_fusion	PF01536 > PF02784 > PF00278	interpro	Viridiplantae	Chlorophyta	0.9253	174	D	substituted	184	T	1.41	73.0	lost		True
+A0AAW1PYA1	[Myrmecia] bisecta	odc_fusion	PF01536 > PF02784 > PF00278	interpro	Viridiplantae	Chlorophyta	0.9253	176	T	identical	186	T	0.7	88.94	kept		True
+A0AAW1PYA1	[Myrmecia] bisecta	odc_fusion	PF01536 > PF02784 > PF00278	interpro	Viridiplantae	Chlorophyta	0.9253	178	E	identical	188	E	0.75	93.69	kept		True
+A0AAW1PYA1	[Myrmecia] bisecta	odc_fusion	PF01536 > PF02784 > PF00278	interpro	Viridiplantae	Chlorophyta	0.9253	256	E	identical	266	E	0.29	94.19	kept		True
+A0AAW1PYA1	[Myrmecia] bisecta	odc_fusion	PF01536 > PF02784 > PF00278	interpro	Viridiplantae	Chlorophyta	0.9253	285	F	substituted	298	S	1.26	87.0	lost		True
+A0A9D4ZGS2	Adiantum capillus-veneris	odc_fusion	PF01536 > PF02784	interpro	Viridiplantae	Streptophyta	0.9312	13	L	substituted	27	R	0.26	96.94	lost		True
+A0A9D4ZGS2	Adiantum capillus-veneris	odc_fusion	PF01536 > PF02784	interpro	Viridiplantae	Streptophyta	0.9312	15	E	substituted	29	Q	0.92	96.56	lost		True
+A0A9D4ZGS2	Adiantum capillus-veneris	odc_fusion	PF01536 > PF02784	interpro	Viridiplantae	Streptophyta	0.9312	111	F	substituted	120	K	0.8	94.44	lost		True
+A0A9D4ZGS2	Adiantum capillus-veneris	odc_fusion	PF01536 > PF02784	interpro	Viridiplantae	Streptophyta	0.9312	174	D	substituted	191	T	0.89	79.81	lost		True
+A0A9D4ZGS2	Adiantum capillus-veneris	odc_fusion	PF01536 > PF02784	interpro	Viridiplantae	Streptophyta	0.9312	176	T	identical	193	T	0.44	91.69	kept		True
+A0A9D4ZGS2	Adiantum capillus-veneris	odc_fusion	PF01536 > PF02784	interpro	Viridiplantae	Streptophyta	0.9312	178	E	identical	195	E	0.67	94.81	kept		True
+A0A9D4ZGS2	Adiantum capillus-veneris	odc_fusion	PF01536 > PF02784	interpro	Viridiplantae	Streptophyta	0.9312	256	E	identical	272	E	0.23	96.0	kept		True
+A0A9D4ZGS2	Adiantum capillus-veneris	odc_fusion	PF01536 > PF02784	interpro	Viridiplantae	Streptophyta	0.9312	285	F	substituted	304	H	1.14	88.75	lost		True
+A0ABD3ICG1	Riccia sorocarpa	odc_fusion	PF01536 > PF00278 > PF02784 > PF00278	interpro	Viridiplantae	Streptophyta	0.9196	13	L	substituted	27	R	0.39	94.69	lost		True
+A0ABD3ICG1	Riccia sorocarpa	odc_fusion	PF01536 > PF00278 > PF02784 > PF00278	interpro	Viridiplantae	Streptophyta	0.9196	15	E	identical	29	E	0.92	95.75	kept		True
+A0ABD3ICG1	Riccia sorocarpa	odc_fusion	PF01536 > PF00278 > PF02784 > PF00278	interpro	Viridiplantae	Streptophyta	0.9196	111	F	substituted	123	K	0.71	93.69	lost		True
+A0ABD3ICG1	Riccia sorocarpa	odc_fusion	PF01536 > PF00278 > PF02784 > PF00278	interpro	Viridiplantae	Streptophyta	0.9196	174	D	substituted	190	T	1.78	74.44	lost		True
+A0ABD3ICG1	Riccia sorocarpa	odc_fusion	PF01536 > PF00278 > PF02784 > PF00278	interpro	Viridiplantae	Streptophyta	0.9196	176	T	identical	192	T	0.77	89.69	kept		True
+A0ABD3ICG1	Riccia sorocarpa	odc_fusion	PF01536 > PF00278 > PF02784 > PF00278	interpro	Viridiplantae	Streptophyta	0.9196	178	E	identical	194	E	1.18	93.56	kept		True
+A0ABD3ICG1	Riccia sorocarpa	odc_fusion	PF01536 > PF00278 > PF02784 > PF00278	interpro	Viridiplantae	Streptophyta	0.9196	256	E	identical	272	E	0.62	94.31	kept		True
+A0ABD3ICG1	Riccia sorocarpa	odc_fusion	PF01536 > PF00278 > PF02784 > PF00278	interpro	Viridiplantae	Streptophyta	0.9196	285	F	identical	304	F	1.17	87.56	kept		True
+A0A2P6V5T4	Micractinium conductrix	odc_fusion	PF01536 > PF02784 > PF00278	interpro	Viridiplantae	Chlorophyta	0.9241	13	L	substituted	20	R	0.55	95.19	lost		True
+A0A2P6V5T4	Micractinium conductrix	odc_fusion	PF01536 > PF02784 > PF00278	interpro	Viridiplantae	Chlorophyta	0.9241	15	E	substituted	22	S	0.67	95.25	lost		True
+A0A2P6V5T4	Micractinium conductrix	odc_fusion	PF01536 > PF02784 > PF00278	interpro	Viridiplantae	Chlorophyta	0.9241	111	F	substituted	118	K	0.79	94.25	lost		True
+A0A2P6V5T4	Micractinium conductrix	odc_fusion	PF01536 > PF02784 > PF00278	interpro	Viridiplantae	Chlorophyta	0.9241	174	D	substituted	186	L	1.95	82.0	lost		True
+A0A2P6V5T4	Micractinium conductrix	odc_fusion	PF01536 > PF02784 > PF00278	interpro	Viridiplantae	Chlorophyta	0.9241	176	T	identical	188	T	0.62	91.19	kept		True
+A0A2P6V5T4	Micractinium conductrix	odc_fusion	PF01536 > PF02784 > PF00278	interpro	Viridiplantae	Chlorophyta	0.9241	178	E	identical	190	E	0.87	94.31	kept		True
+A0A2P6V5T4	Micractinium conductrix	odc_fusion	PF01536 > PF02784 > PF00278	interpro	Viridiplantae	Chlorophyta	0.9241	256	E	identical	268	E	0.4	94.38	kept		True
+A0A2P6V5T4	Micractinium conductrix	odc_fusion	PF01536 > PF02784 > PF00278	interpro	Viridiplantae	Chlorophyta	0.9241	285	F	substituted	300	S	1.31	88.19	lost		True
+A0A087SFF4	Auxenochlorella protothecoides	odc_fusion	PF01536 > PF02784 > PF00278	interpro	Viridiplantae	Chlorophyta	0.9294	13	L	substituted	17	R	0.6	95.38	lost		True
+A0A087SFF4	Auxenochlorella protothecoides	odc_fusion	PF01536 > PF02784 > PF00278	interpro	Viridiplantae	Chlorophyta	0.9294	15	E	substituted	19	S	0.73	95.56	lost		True
+A0A087SFF4	Auxenochlorella protothecoides	odc_fusion	PF01536 > PF02784 > PF00278	interpro	Viridiplantae	Chlorophyta	0.9294	111	F	substituted	110	K	0.59	95.44	lost		True
+A0A087SFF4	Auxenochlorella protothecoides	odc_fusion	PF01536 > PF02784 > PF00278	interpro	Viridiplantae	Chlorophyta	0.9294	174	D	substituted	183	L	1.71	86.06	lost		True
+A0A087SFF4	Auxenochlorella protothecoides	odc_fusion	PF01536 > PF02784 > PF00278	interpro	Viridiplantae	Chlorophyta	0.9294	176	T	identical	185	T	0.37	92.69	kept		True
+A0A087SFF4	Auxenochlorella protothecoides	odc_fusion	PF01536 > PF02784 > PF00278	interpro	Viridiplantae	Chlorophyta	0.9294	178	E	identical	187	E	0.81	95.12	kept		True
+A0A087SFF4	Auxenochlorella protothecoides	odc_fusion	PF01536 > PF02784 > PF00278	interpro	Viridiplantae	Chlorophyta	0.9294	256	E	identical	265	E	0.27	95.12	kept		True
+A0A087SFF4	Auxenochlorella protothecoides	odc_fusion	PF01536 > PF02784 > PF00278	interpro	Viridiplantae	Chlorophyta	0.9294	285	F	substituted	297	S	1.36	90.25	lost		True
+A0AAW1RFQ0	Apatococcus lobatus	odc_fusion	PF01536 > PF02784 > PF00278	interpro	Viridiplantae	Chlorophyta	0.9311	13	L	substituted	18	R	0.56	95.69	lost		True
+A0AAW1RFQ0	Apatococcus lobatus	odc_fusion	PF01536 > PF02784 > PF00278	interpro	Viridiplantae	Chlorophyta	0.9311	15	E	identical	20	E	0.52	95.44	kept		True
+A0AAW1RFQ0	Apatococcus lobatus	odc_fusion	PF01536 > PF02784 > PF00278	interpro	Viridiplantae	Chlorophyta	0.9311	111	F	substituted	115	K	0.67	93.94	lost		True
+A0AAW1RFQ0	Apatococcus lobatus	odc_fusion	PF01536 > PF02784 > PF00278	interpro	Viridiplantae	Chlorophyta	0.9311	174	D	substituted	185	G	0.58	78.44	lost		True
+A0AAW1RFQ0	Apatococcus lobatus	odc_fusion	PF01536 > PF02784 > PF00278	interpro	Viridiplantae	Chlorophyta	0.9311	176	T	substituted	187	S	0.39	89.25	lost		True
+A0AAW1RFQ0	Apatococcus lobatus	odc_fusion	PF01536 > PF02784 > PF00278	interpro	Viridiplantae	Chlorophyta	0.9311	178	E	identical	189	E	0.78	93.69	kept		True
+A0AAW1RFQ0	Apatococcus lobatus	odc_fusion	PF01536 > PF02784 > PF00278	interpro	Viridiplantae	Chlorophyta	0.9311	256	E	identical	269	E	0.16	93.38	kept		True
+A0AAW1RFQ0	Apatococcus lobatus	odc_fusion	PF01536 > PF02784 > PF00278	interpro	Viridiplantae	Chlorophyta	0.9311	285	F	substituted	307	S	0.95	88.25	lost		True
+A0A1D2AC22	Auxenochlorella protothecoides	odc_fusion	PF01536 > PF02784	uniparc_features	Viridiplantae	Chlorophyta	0.9376	13	L	substituted	17	R	0.3	97.62	lost		True
+A0A1D2AC22	Auxenochlorella protothecoides	odc_fusion	PF01536 > PF02784	uniparc_features	Viridiplantae	Chlorophyta	0.9376	15	E	substituted	19	S	0.47	96.62	lost		True
+A0A1D2AC22	Auxenochlorella protothecoides	odc_fusion	PF01536 > PF02784	uniparc_features	Viridiplantae	Chlorophyta	0.9376	111	F	substituted	110	K	0.52	96.56	lost		True
+A0A1D2AC22	Auxenochlorella protothecoides	odc_fusion	PF01536 > PF02784	uniparc_features	Viridiplantae	Chlorophyta	0.9376	174	D	substituted	183	L	1.83	86.69	lost		True
+A0A1D2AC22	Auxenochlorella protothecoides	odc_fusion	PF01536 > PF02784	uniparc_features	Viridiplantae	Chlorophyta	0.9376	176	T	identical	185	T	0.35	94.19	kept		True
+A0A1D2AC22	Auxenochlorella protothecoides	odc_fusion	PF01536 > PF02784	uniparc_features	Viridiplantae	Chlorophyta	0.9376	178	E	identical	187	E	0.63	97.25	kept		True
+A0A1D2AC22	Auxenochlorella protothecoides	odc_fusion	PF01536 > PF02784	uniparc_features	Viridiplantae	Chlorophyta	0.9376	256	E	identical	265	E	0.24	97.94	kept		True
+A0A1D2AC22	Auxenochlorella protothecoides	odc_fusion	PF01536 > PF02784	uniparc_features	Viridiplantae	Chlorophyta	0.9376	285	F	substituted	297	S	1.05	90.94	lost		True
+A0AAE0FQH6	Cymbomonas tetramitiformis	odc_fusion	PF01536 > PF02784	interpro	Viridiplantae	Chlorophyta	0.9229	13	L	substituted	23	R	0.49	94.88	lost		True
+A0AAE0FQH6	Cymbomonas tetramitiformis	odc_fusion	PF01536 > PF02784	interpro	Viridiplantae	Chlorophyta	0.9229	15	E	identical	25	E	0.73	95.06	kept		True
+A0AAE0FQH6	Cymbomonas tetramitiformis	odc_fusion	PF01536 > PF02784	interpro	Viridiplantae	Chlorophyta	0.9229	111	F	substituted	117	K	0.83	95.0	lost		True
+A0AAE0FQH6	Cymbomonas tetramitiformis	odc_fusion	PF01536 > PF02784	interpro	Viridiplantae	Chlorophyta	0.9229	174	D	substituted	186	R	1.02	74.62	lost		True
+A0AAE0FQH6	Cymbomonas tetramitiformis	odc_fusion	PF01536 > PF02784	interpro	Viridiplantae	Chlorophyta	0.9229	176	T	identical	188	T	0.49	88.88	kept		True
+A0AAE0FQH6	Cymbomonas tetramitiformis	odc_fusion	PF01536 > PF02784	interpro	Viridiplantae	Chlorophyta	0.9229	178	E	identical	190	E	0.81	92.5	kept		True
+A0AAE0FQH6	Cymbomonas tetramitiformis	odc_fusion	PF01536 > PF02784	interpro	Viridiplantae	Chlorophyta	0.9229	256	E	identical	272	E	0.14	91.62	kept		True
+A0AAE0FQH6	Cymbomonas tetramitiformis	odc_fusion	PF01536 > PF02784	interpro	Viridiplantae	Chlorophyta	0.9229	285	F	substituted	302	S	1.32	88.12	lost		True
+A0A061RZV3	Tetraselmis sp. GSL018	odc_fusion	PF01536 > PF00278 > PF02784	uniparc_features	Viridiplantae	Chlorophyta	0.9176	13	L	substituted	24	R	0.86	95.81	lost		True
+A0A061RZV3	Tetraselmis sp. GSL018	odc_fusion	PF01536 > PF00278 > PF02784	uniparc_features	Viridiplantae	Chlorophyta	0.9176	15	E	identical	26	E	0.75	96.06	kept		True
+A0A061RZV3	Tetraselmis sp. GSL018	odc_fusion	PF01536 > PF00278 > PF02784	uniparc_features	Viridiplantae	Chlorophyta	0.9176	111	F	substituted	118	K	0.83	95.38	lost		True
+A0A061RZV3	Tetraselmis sp. GSL018	odc_fusion	PF01536 > PF00278 > PF02784	uniparc_features	Viridiplantae	Chlorophyta	0.9176	174	D	substituted	185	T	1.82	85.31	lost		True
+A0A061RZV3	Tetraselmis sp. GSL018	odc_fusion	PF01536 > PF00278 > PF02784	uniparc_features	Viridiplantae	Chlorophyta	0.9176	176	T	identical	187	T	0.64	91.81	kept		True
+A0A061RZV3	Tetraselmis sp. GSL018	odc_fusion	PF01536 > PF00278 > PF02784	uniparc_features	Viridiplantae	Chlorophyta	0.9176	178	E	identical	189	E	0.5	95.12	kept		True
+A0A061RZV3	Tetraselmis sp. GSL018	odc_fusion	PF01536 > PF00278 > PF02784	uniparc_features	Viridiplantae	Chlorophyta	0.9176	256	E	identical	267	E	0.46	95.69	kept		True
+A0A061RZV3	Tetraselmis sp. GSL018	odc_fusion	PF01536 > PF00278 > PF02784	uniparc_features	Viridiplantae	Chlorophyta	0.9176	285	F	substituted	299	S	1.2	89.31	lost		True
+C1E5E7	Micromonas commoda	odc_fusion	PF01536 > PF02784 > PF00278	interpro	Viridiplantae	Chlorophyta	0.917	13	L	substituted	112	R	0.82	94.88	lost		True
+C1E5E7	Micromonas commoda	odc_fusion	PF01536 > PF02784 > PF00278	interpro	Viridiplantae	Chlorophyta	0.917	15	E	identical	114	E	1.06	95.5	kept		True
+C1E5E7	Micromonas commoda	odc_fusion	PF01536 > PF02784 > PF00278	interpro	Viridiplantae	Chlorophyta	0.917	111	F	substituted	203	K	0.93	93.12	lost		True
+C1E5E7	Micromonas commoda	odc_fusion	PF01536 > PF02784 > PF00278	interpro	Viridiplantae	Chlorophyta	0.917	174	D	substituted	296	T	1.23	86.31	lost		True
+C1E5E7	Micromonas commoda	odc_fusion	PF01536 > PF02784 > PF00278	interpro	Viridiplantae	Chlorophyta	0.917	176	T	substituted	298	S	0.5	92.12	lost		True
+C1E5E7	Micromonas commoda	odc_fusion	PF01536 > PF02784 > PF00278	interpro	Viridiplantae	Chlorophyta	0.917	178	E	identical	300	E	0.4	94.69	kept		True
+C1E5E7	Micromonas commoda	odc_fusion	PF01536 > PF02784 > PF00278	interpro	Viridiplantae	Chlorophyta	0.917	256	E	identical	378	E	0.44	95.44	kept		True
+C1E5E7	Micromonas commoda	odc_fusion	PF01536 > PF02784 > PF00278	interpro	Viridiplantae	Chlorophyta	0.917	285	F	substituted	410	S	1.4	89.69	lost		True
+A0A9P3J9N9	Closterium sp. NIES-68	odc_fusion	PF01536 > PF02784 > PF00278	uniparc_features	Viridiplantae	Streptophyta	0.92	13	L	substituted	18	R	0.41	96.25	lost		True
+A0A9P3J9N9	Closterium sp. NIES-68	odc_fusion	PF01536 > PF02784 > PF00278	uniparc_features	Viridiplantae	Streptophyta	0.92	15	E	substituted	20	D	0.8	95.19	lost		True
+A0A9P3J9N9	Closterium sp. NIES-68	odc_fusion	PF01536 > PF02784 > PF00278	uniparc_features	Viridiplantae	Streptophyta	0.92	111	F	substituted	115	R	0.66	92.25	lost		True
+A0A9P3J9N9	Closterium sp. NIES-68	odc_fusion	PF01536 > PF02784 > PF00278	uniparc_features	Viridiplantae	Streptophyta	0.92	174	D	substituted	198	V	1.18	78.56	lost		True
+A0A9P3J9N9	Closterium sp. NIES-68	odc_fusion	PF01536 > PF02784 > PF00278	uniparc_features	Viridiplantae	Streptophyta	0.92	176	T	identical	200	T	0.85	89.31	kept		True
+A0A9P3J9N9	Closterium sp. NIES-68	odc_fusion	PF01536 > PF02784 > PF00278	uniparc_features	Viridiplantae	Streptophyta	0.92	178	E	identical	202	E	0.92	93.88	kept		True
+A0A9P3J9N9	Closterium sp. NIES-68	odc_fusion	PF01536 > PF02784 > PF00278	uniparc_features	Viridiplantae	Streptophyta	0.92	256	E	identical	280	E	0.33	95.31	kept		True
+A0A9P3J9N9	Closterium sp. NIES-68	odc_fusion	PF01536 > PF02784 > PF00278	uniparc_features	Viridiplantae	Streptophyta	0.92	285	F	substituted	322	H	1.57	84.56	lost		True
+A0A5B8MZ45	Chloropicon primus	odc_fusion	PF01536 > PF00278 > PF02784 > PF00278	interpro	Viridiplantae	Chlorophyta	0.9159	13	L	substituted	17	R	0.61	92.94	lost		True
+A0A5B8MZ45	Chloropicon primus	odc_fusion	PF01536 > PF00278 > PF02784 > PF00278	interpro	Viridiplantae	Chlorophyta	0.9159	15	E	identical	19	E	0.99	92.94	kept		True
+A0A5B8MZ45	Chloropicon primus	odc_fusion	PF01536 > PF00278 > PF02784 > PF00278	interpro	Viridiplantae	Chlorophyta	0.9159	111	F	substituted	128	K	0.83	91.5	lost		True
+A0A5B8MZ45	Chloropicon primus	odc_fusion	PF01536 > PF00278 > PF02784 > PF00278	interpro	Viridiplantae	Chlorophyta	0.9159	174	D	substituted	201	L	1.12	74.31	lost		True
+A0A5B8MZ45	Chloropicon primus	odc_fusion	PF01536 > PF00278 > PF02784 > PF00278	interpro	Viridiplantae	Chlorophyta	0.9159	176	T	identical	203	T	0.28	85.75	kept		True
+A0A5B8MZ45	Chloropicon primus	odc_fusion	PF01536 > PF00278 > PF02784 > PF00278	interpro	Viridiplantae	Chlorophyta	0.9159	178	E	identical	205	E	0.41	91.12	kept		True
+A0A5B8MZ45	Chloropicon primus	odc_fusion	PF01536 > PF00278 > PF02784 > PF00278	interpro	Viridiplantae	Chlorophyta	0.9159	256	E	identical	287	E	0.16	90.62	kept		True
+A0A5B8MZ45	Chloropicon primus	odc_fusion	PF01536 > PF00278 > PF02784 > PF00278	interpro	Viridiplantae	Chlorophyta	0.9159	285	F	substituted	320	T	1.35	83.38	lost		True
+A0AAD9ING6	Prototheca wickerhamii	odc_fusion	PF01536 > PF02784 > PF00278	interpro	Viridiplantae	Chlorophyta	0.9088	13	L	substituted	20	R	0.18	93.25	lost		True
+A0AAD9ING6	Prototheca wickerhamii	odc_fusion	PF01536 > PF02784 > PF00278	interpro	Viridiplantae	Chlorophyta	0.9088	15	E	substituted	22	S	0.77	91.69	lost		True
+A0AAD9ING6	Prototheca wickerhamii	odc_fusion	PF01536 > PF02784 > PF00278	interpro	Viridiplantae	Chlorophyta	0.9088	111	F	substituted	114	K	0.66	87.38	lost		True
+A0AAD9ING6	Prototheca wickerhamii	odc_fusion	PF01536 > PF02784 > PF00278	interpro	Viridiplantae	Chlorophyta	0.9088	174	D	displaced	173	L	5.0	60.53	unresolved	displaced;plddt_below_70	True
+A0AAD9ING6	Prototheca wickerhamii	odc_fusion	PF01536 > PF02784 > PF00278	interpro	Viridiplantae	Chlorophyta	0.9088	176	T	identical	175	T	1.22	84.0	kept		True
+A0AAD9ING6	Prototheca wickerhamii	odc_fusion	PF01536 > PF02784 > PF00278	interpro	Viridiplantae	Chlorophyta	0.9088	178	E	identical	177	E	0.91	91.44	kept		True
+A0AAD9ING6	Prototheca wickerhamii	odc_fusion	PF01536 > PF02784 > PF00278	interpro	Viridiplantae	Chlorophyta	0.9088	256	E	identical	255	E	0.39	93.69	kept		True
+A0AAD9ING6	Prototheca wickerhamii	odc_fusion	PF01536 > PF02784 > PF00278	interpro	Viridiplantae	Chlorophyta	0.9088	285	F	substituted	287	S	1.46	79.62	lost		True
+A0AAW1T1C3	Apatococcus fuscideae	odc_fusion	PF01536 > PF02784 > PF00278	interpro	Viridiplantae	Chlorophyta	0.8985	13	L	substituted	17	R	0.63	94.25	lost		True
+A0AAW1T1C3	Apatococcus fuscideae	odc_fusion	PF01536 > PF02784 > PF00278	interpro	Viridiplantae	Chlorophyta	0.8985	15	E	identical	19	E	0.6	94.06	kept		True
+A0AAW1T1C3	Apatococcus fuscideae	odc_fusion	PF01536 > PF02784 > PF00278	interpro	Viridiplantae	Chlorophyta	0.8985	111	F	substituted	113	K	0.62	91.75	lost		True
+A0AAW1T1C3	Apatococcus fuscideae	odc_fusion	PF01536 > PF02784 > PF00278	interpro	Viridiplantae	Chlorophyta	0.8985	174	D	substituted	183	S	1.3	75.38	lost		True
+A0AAW1T1C3	Apatococcus fuscideae	odc_fusion	PF01536 > PF02784 > PF00278	interpro	Viridiplantae	Chlorophyta	0.8985	176	T	substituted	185	S	0.39	87.62	lost		True
+A0AAW1T1C3	Apatococcus fuscideae	odc_fusion	PF01536 > PF02784 > PF00278	interpro	Viridiplantae	Chlorophyta	0.8985	178	E	identical	187	E	0.45	91.0	kept		True
+A0AAW1T1C3	Apatococcus fuscideae	odc_fusion	PF01536 > PF02784 > PF00278	interpro	Viridiplantae	Chlorophyta	0.8985	256	E	identical	267	E	0.11	92.69	kept		True
+A0AAW1T1C3	Apatococcus fuscideae	odc_fusion	PF01536 > PF02784 > PF00278	interpro	Viridiplantae	Chlorophyta	0.8985	285	F	substituted	305	S	0.9	83.25	lost		True
+A0A2V3IZY9	Gracilariopsis chorda	odc_fusion	PF01536 > PF00278	interpro	Eukaryota (no kingdom)	Rhodophyta	0.9065	13	L	substituted	33	K	0.45	95.56	lost		True
+A0A2V3IZY9	Gracilariopsis chorda	odc_fusion	PF01536 > PF00278	interpro	Eukaryota (no kingdom)	Rhodophyta	0.9065	15	E	substituted	35	S	0.38	94.75	lost		True
+A0A2V3IZY9	Gracilariopsis chorda	odc_fusion	PF01536 > PF00278	interpro	Eukaryota (no kingdom)	Rhodophyta	0.9065	111	F	substituted	127	S	0.26	92.56	lost		True
+A0A2V3IZY9	Gracilariopsis chorda	odc_fusion	PF01536 > PF00278	interpro	Eukaryota (no kingdom)	Rhodophyta	0.9065	174	D	identical	199	D	3.03	65.06	unresolved	plddt_below_70	True
+A0A2V3IZY9	Gracilariopsis chorda	odc_fusion	PF01536 > PF00278	interpro	Eukaryota (no kingdom)	Rhodophyta	0.9065	176	T	identical	201	T	0.2	87.19	kept		True
+A0A2V3IZY9	Gracilariopsis chorda	odc_fusion	PF01536 > PF00278	interpro	Eukaryota (no kingdom)	Rhodophyta	0.9065	178	E	identical	203	E	0.27	91.88	kept		True
+A0A2V3IZY9	Gracilariopsis chorda	odc_fusion	PF01536 > PF00278	interpro	Eukaryota (no kingdom)	Rhodophyta	0.9065	256	E	identical	287	E	0.48	93.12	kept		True
+A0A2V3IZY9	Gracilariopsis chorda	odc_fusion	PF01536 > PF00278	interpro	Eukaryota (no kingdom)	Rhodophyta	0.9065	285	F	substituted	316	V	0.75	81.19	lost		True
+A0A830HJR7	Pycnococcus provasolii	odc_fusion	PF01536 > PF02784	interpro	Viridiplantae	Chlorophyta	0.8442	13	L	substituted	14	R	0.88	92.62	lost		True
+A0A830HJR7	Pycnococcus provasolii	odc_fusion	PF01536 > PF02784	interpro	Viridiplantae	Chlorophyta	0.8442	15	E	identical	16	E	1.07	94.38	kept		True
+A0A830HJR7	Pycnococcus provasolii	odc_fusion	PF01536 > PF02784	interpro	Viridiplantae	Chlorophyta	0.8442	111	F	substituted	108	R	1.33	90.75	lost		True
+A0A830HJR7	Pycnococcus provasolii	odc_fusion	PF01536 > PF02784	interpro	Viridiplantae	Chlorophyta	0.8442	174	D	substituted	179	G	2.04	81.19	lost		True
+A0A830HJR7	Pycnococcus provasolii	odc_fusion	PF01536 > PF02784	interpro	Viridiplantae	Chlorophyta	0.8442	176	T	identical	181	T	0.33	85.94	kept		True
+A0A830HJR7	Pycnococcus provasolii	odc_fusion	PF01536 > PF02784	interpro	Viridiplantae	Chlorophyta	0.8442	178	E	identical	183	E	0.33	87.5	kept		True
+A0A830HJR7	Pycnococcus provasolii	odc_fusion	PF01536 > PF02784	interpro	Viridiplantae	Chlorophyta	0.8442	256	E	identical	265	E	0.4	92.69	kept		True
+A0A830HJR7	Pycnococcus provasolii	odc_fusion	PF01536 > PF02784	interpro	Viridiplantae	Chlorophyta	0.8442	285	F	substituted	313	T	0.41	69.88	unresolved	plddt_below_70	False
+A0A8T2T6R3	Ceratopteris richardii	odc_fusion	PF01536 > PF00278 > PF02784 > PF00278	interpro	Viridiplantae	Streptophyta	0.7123	13	L	deleted					unresolved	no_residue_aligned	
+A0A8T2T6R3	Ceratopteris richardii	odc_fusion	PF01536 > PF00278 > PF02784 > PF00278	interpro	Viridiplantae	Streptophyta	0.7123	15	E	deleted					unresolved	no_residue_aligned	
+A0A8T2T6R3	Ceratopteris richardii	odc_fusion	PF01536 > PF00278 > PF02784 > PF00278	interpro	Viridiplantae	Streptophyta	0.7123	111	F	substituted	31	M	0.7	90.12	lost		True
+A0A8T2T6R3	Ceratopteris richardii	odc_fusion	PF01536 > PF00278 > PF02784 > PF00278	interpro	Viridiplantae	Streptophyta	0.7123	174	D	substituted	101	I	2.12	80.81	lost		True
+A0A8T2T6R3	Ceratopteris richardii	odc_fusion	PF01536 > PF00278 > PF02784 > PF00278	interpro	Viridiplantae	Streptophyta	0.7123	176	T	identical	103	T	0.66	91.31	kept		True
+A0A8T2T6R3	Ceratopteris richardii	odc_fusion	PF01536 > PF00278 > PF02784 > PF00278	interpro	Viridiplantae	Streptophyta	0.7123	178	E	identical	105	E	0.59	94.69	kept		True
+A0A8T2T6R3	Ceratopteris richardii	odc_fusion	PF01536 > PF00278 > PF02784 > PF00278	interpro	Viridiplantae	Streptophyta	0.7123	256	E	identical	182	E	0.52	94.62	kept		True
+A0A8T2T6R3	Ceratopteris richardii	odc_fusion	PF01536 > PF00278 > PF02784 > PF00278	interpro	Viridiplantae	Streptophyta	0.7123	285	F	substituted	214	H	1.22	91.25	lost		True
+A0A0G4EYD2	Vitrella brassicaformis CCMP3155	odc_fusion	PF01536 > PF02784	interpro	(unknown)	(unknown)	0.8534	13	L	substituted	22	R	0.45	86.69	lost		False
+A0A0G4EYD2	Vitrella brassicaformis CCMP3155	odc_fusion	PF01536 > PF02784	interpro	(unknown)	(unknown)	0.8534	15	E	substituted	24	V	1.09	84.06	lost		False
+A0A0G4EYD2	Vitrella brassicaformis CCMP3155	odc_fusion	PF01536 > PF02784	interpro	(unknown)	(unknown)	0.8534	111	F	substituted	208	L	0.44	85.62	lost		True
+A0A0G4EYD2	Vitrella brassicaformis CCMP3155	odc_fusion	PF01536 > PF02784	interpro	(unknown)	(unknown)	0.8534	174	D	substituted	340	V	3.71	54.94	unresolved	plddt_below_70	True
+A0A0G4EYD2	Vitrella brassicaformis CCMP3155	odc_fusion	PF01536 > PF02784	interpro	(unknown)	(unknown)	0.8534	176	T	substituted	342	L	1.17	68.88	unresolved	plddt_below_70	True
+A0A0G4EYD2	Vitrella brassicaformis CCMP3155	odc_fusion	PF01536 > PF02784	interpro	(unknown)	(unknown)	0.8534	178	E	identical	344	E	0.35	74.44	kept		True
+A0A0G4EYD2	Vitrella brassicaformis CCMP3155	odc_fusion	PF01536 > PF02784	interpro	(unknown)	(unknown)	0.8534	256	E	identical	433	E	0.26	79.44	kept		True
+A0A0G4EYD2	Vitrella brassicaformis CCMP3155	odc_fusion	PF01536 > PF02784	interpro	(unknown)	(unknown)	0.8534	285	F	substituted	467	I	1.78	72.75	lost		False
+A0AAW1STH3	Apatococcus fuscideae	odc_fusion	PF01536 > PF02784	interpro	Viridiplantae	Chlorophyta	0.7141	13	L	substituted	18	R	0.12	95.19	lost		True
+A0AAW1STH3	Apatococcus fuscideae	odc_fusion	PF01536 > PF02784	interpro	Viridiplantae	Chlorophyta	0.7141	15	E	identical	20	E	0.65	95.19	kept		True
+A0AAW1STH3	Apatococcus fuscideae	odc_fusion	PF01536 > PF02784	interpro	Viridiplantae	Chlorophyta	0.7141	111	F	substituted	115	K	0.48	94.44	lost		True
+A0AAW1STH3	Apatococcus fuscideae	odc_fusion	PF01536 > PF02784	interpro	Viridiplantae	Chlorophyta	0.7141	174	D	substituted	185	G	1.43	56.0	unresolved	plddt_below_70	True
+A0AAW1STH3	Apatococcus fuscideae	odc_fusion	PF01536 > PF02784	interpro	Viridiplantae	Chlorophyta	0.7141	176	T	substituted	187	S	0.81	66.69	unresolved	plddt_below_70	True
+A0AAW1STH3	Apatococcus fuscideae	odc_fusion	PF01536 > PF02784	interpro	Viridiplantae	Chlorophyta	0.7141	178	E	identical	189	E	0.84	71.69	kept		True
+A0AAW1STH3	Apatococcus fuscideae	odc_fusion	PF01536 > PF02784	interpro	Viridiplantae	Chlorophyta	0.7141	256	E	deleted					unresolved	no_residue_aligned	
+A0AAW1STH3	Apatococcus fuscideae	odc_fusion	PF01536 > PF02784	interpro	Viridiplantae	Chlorophyta	0.7141	285	F	deleted					unresolved	no_residue_aligned	

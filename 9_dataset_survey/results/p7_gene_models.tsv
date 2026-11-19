@@ -1,0 +1,24 @@
+accession	organism	taxid	uniprot_status	uniparc	records	evidence_type	n_exons	intron_positions_protein	adometdc_end	plp_start	junction_vs_introns
+A0A7S1KLJ4	Percolomonas cosmopolitus	63605	inactive	UPI001700802D	CAD9077615.1:transcriptome (TSA); CAB9676836.1:transcriptome (TSA)	transcriptome (TSA)		[]	317	389	
+A0A9C7PQ51	Galdieria partita	83374	active	UPI0021C4E813	GJQ08405.1:genome	genome	9	127.7,191.0,285.0,364.0,455.7,517.0,589.0,634.7	319	434	intron(s) at residue 364.0,455.7 within 30 aa of the junction
+A0A1Y1HLG4	Klebsormidium nitens	105231	active	UPI000B57D578	GAQ79455.1:genome	genome	6	88.0,120.0,377.0,460.3,663.0	334	440	intron(s) at residue 377.0,460.3 within 30 aa of the junction
+A0AAV8UZF7	Rhodosorus marinus	101924	active	UPI00249746ED	KAJ8907449.1:genome	genome	5	13.0,112.0,139.7,393.0	315	440	intron(s) at residue 393.0 within 30 aa of the junction
+A0AAW1PYA1	[Myrmecia] bisecta	41462	active	UPI0032E08F4C	KAK9814356.1:genome	genome	8	124.0,316.3,531.0,596.3,655.7,717.7,760.0	303	485	intron(s) at residue 316.3 within 30 aa of the junction
+A0A9D4ZGS2	Adiantum capillus-veneris	13818	active	UPI0021736709	KAI5074903.1:genome	genome	1		348	448	single-exon CDS
+A0ABD3ICG1	Riccia sorocarpa	122646	active	UPI00390349D7	KAL3700229.1:genome	genome	2	851.3	349	446	junction inside one exon
+A0A2P6V5T4	Micractinium conductrix	554055	active	UPI000D26EF97	PSC69452.1:genome	genome	20	48.0,83.3,139.0,173.3,229.3,259.0,279.3,333.0,420.0,452.0,472.0,529.0,571.0,604.0,665.0,704.3,786.0,807.7,847.0	343	481	intron(s) at residue 333.0,420.0,452.0,472.0 within 30 aa of the junction
+A0A087SFF4	Auxenochlorella protothecoides	3075	active	UPI0004FC8AB4	KFM24458.1:genome	genome	3	226.3,501.0	342	505	intron(s) at residue 501.0 within 30 aa of the junction
+A0AAW1RFQ0	Apatococcus lobatus	904363	active	UPI0032E1092C	KAK9832371.1:genome	genome	8	127.0,324.3,585.0,656.7,710.7,764.3,837.3	347	539	intron(s) at residue 324.3 within 30 aa of the junction
+A0A1D2AC22	Auxenochlorella protothecoides	3075	inactive	UPI00086482F8	JAT76708.1:transcriptome (TSA)	transcriptome (TSA)		[]	342	508	
+A0AAE0FQH6	Cymbomonas tetramitiformis	36881	active	UPI0029632B62	KAK3264187.1:genome	genome	3	38.3,129.0	308	445	junction inside one exon
+A0A061RZV3	Tetraselmis sp. GSL018	582737	inactive	UPI0004A1EC45	CAE2713086.1:transcriptome (TSA); JAC75932.1:transcriptome (TSA); JAC77513.1:transcriptome (TSA); JAC75932.1:transcriptome (TSA); JAC77513.1:transcriptome (TSA); CAB8895290.1:transcriptome (TSA)	transcriptome (TSA)		[]	303	462	
+C1E5E7	Micromonas commoda	296587	active	UPI000199AEDB	ACO63617.1:genome	genome	3	54.0,124.3	453	634	junction inside one exon
+A0A9P3J9N9	Closterium sp. NIES-68	2019903	inactive	UPI0022C4F35C	GJP49097.1:genome; GJP77412.1:genome	genome	2	884.0	367	501	junction inside one exon
+A0A5B8MZ45	Chloropicon primus	1764295	active	UPI0011B14B4A	QDZ25843.1:genome	genome	1		326	471	single-exon CDS
+A0AAD9ING6	Prototheca wickerhamii	3111	active	UPI00287EBBC9	KAK2080770.1:genome	genome	4	166.0,444.0,595.7	333	466	intron(s) at residue 444.0 within 30 aa of the junction
+A0AAW1T1C3	Apatococcus fuscideae	2026836	active	UPI0032E2653D	KAK9863123.1:genome	genome	9	125.0,322.3,338.3,398.0,469.7,523.7,577.3,650.3	310	352	intron(s) at residue 322.3,338.3 within 30 aa of the junction
+A0A2V3IZY9	Gracilariopsis chorda	448386	active	UPI000D9BD423	PXF47711.1:genome	genome	1		318	399	single-exon CDS
+A0A830HJR7	Pycnococcus provasolii	41880	active	UPI0019FB6FA2	GHP05811.1:genome	genome	1		273	463	single-exon CDS
+A0A8T2T6R3	Ceratopteris richardii	49495	active	UPI001E81E003	KAH7405402.1:genome	genome	1		258	369	single-exon CDS
+A0A0G4EYD2	Vitrella brassicaformis CCMP3155	1169539	active	UPI000658FDD5	CEM03971.1:genome	genome	14	55.3,97.0,154.7,230.0,471.0,523.7,668.0,688.0,718.0,764.0,893.0,958.7,992.0	465	668	intron(s) at residue 471.0,523.7,668.0,688.0 within 30 aa of the junction
+A0AAW1STH3	Apatococcus fuscideae	2026836	active	UPI0032E1B637	KAK9855777.1:genome	genome	6	127.0,222.7,256.3,280.3,340.0	223	294	intron(s) at residue 222.7,256.3,280.3 within 30 aa of the junction

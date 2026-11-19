@@ -1,0 +1,161 @@
+Putrescine-site positions in the AdoMetDC half (p8_putrescine_site.py)
+Human residues: L13, E15, F111, D174, T176, E178, E256, F285. kept = identical & pLDDT>=70; lost = substituted & pLDDT>=70; unresolved = pLDDT<70, displaced >4 A, or nothing aligned.
+
+[1] The 23 AdoMetDC-PLP-decarboxylase fusions (residue / pLDDT; lower case = unresolved)
+  accession    organism                           L13      E15      F111     D174     T176     E178     E256     F285    
+  A0A7S1KLJ4   Percolomonas cosmopolitus          R/96     L/94     I/93     T/73     V/89     E/93     E/95     Y/87    
+  A0A9C7PQ51   Galdieria partita                  N/96     E/97     R/95     E/86     T/92     E/93     E/96     F/89    
+  A0A1Y1HLG4   Klebsormidium nitens               R/96     E/96     K/94     T/85     T/92     E/95     E/96     S/86    
+  A0AAV8UZF7   Rhodosorus marinus                 R/93     E/93     Q/90     D/76     G/86     E/89     E/93     H/78    
+  A0AAW1PYA1   [Myrmecia] bisecta                 R/95     E/96     K/94     T/73     T/89     E/94     E/94     S/87    
+  A0A9D4ZGS2   Adiantum capillus-veneris          R/97     Q/97     K/94     T/80     T/92     E/95     E/96     H/89    
+  A0ABD3ICG1   Riccia sorocarpa                   R/95     E/96     K/94     T/74     T/90     E/94     E/94     F/88    
+  A0A2P6V5T4   Micractinium conductrix            R/95     S/95     K/94     L/82     T/91     E/94     E/94     S/88    
+  A0A087SFF4   Auxenochlorella protothecoides     R/95     S/96     K/95     L/86     T/93     E/95     E/95     S/90    
+  A0AAW1RFQ0   Apatococcus lobatus                R/96     E/95     K/94     G/78     S/89     E/94     E/93     S/88    
+  A0A1D2AC22   Auxenochlorella protothecoides     R/98     S/97     K/97     L/87     T/94     E/97     E/98     S/91    
+  A0AAE0FQH6   Cymbomonas tetramitiformis         R/95     E/95     K/95     R/75     T/89     E/92     E/92     S/88    
+  A0A061RZV3   Tetraselmis sp. GSL018             R/96     E/96     K/95     T/85     T/92     E/95     E/96     S/89    
+  C1E5E7       Micromonas commoda                 R/95     E/96     K/93     T/86     S/92     E/95     E/95     S/90    
+  A0A9P3J9N9   Closterium sp. NIES-68             R/96     D/95     R/92     V/79     T/89     E/94     E/95     H/85    
+  A0A5B8MZ45   Chloropicon primus                 R/93     E/93     K/92     L/74     T/86     E/91     E/91     T/83    
+  A0AAD9ING6   Prototheca wickerhamii             R/93     S/92     K/87     l/61     T/84     E/91     E/94     S/80    
+  A0AAW1T1C3   Apatococcus fuscideae              R/94     E/94     K/92     S/75     S/88     E/91     E/93     S/83    
+  A0A2V3IZY9   Gracilariopsis chorda              K/96     S/95     S/93     d/65     T/87     E/92     E/93     V/81    
+  A0A830HJR7   Pycnococcus provasolii             R/93     E/94     R/91     G/81     T/86     E/88     E/93     t/70    
+  A0A8T2T6R3   Ceratopteris richardii             -/       -/       M/90     I/81     T/91     E/95     E/95     H/91    
+  A0A0G4EYD2   Vitrella brassicaformis CCMP3155   R/87     V/84     L/86     v/55     l/69     E/74     E/79     I/73    
+  A0AAW1STH3   Apatococcus fuscideae              R/95     E/95     K/94     g/56     s/67     E/72     -/       -/      
+  mapped residues falling outside the AdoMetDC Pfam match: 4 (A0A830HJR7:285, A0A0G4EYD2:13, A0A0G4EYD2:15, A0A0G4EYD2:285)
+
+[2] Counts and tests, set = all (kept / lost / unresolved; tests on kept vs lost)
+  E178
+    standalone  n 590: kept 514  lost  65  unresolved  11   lost as {'N': 30, 'Q': 13, 'H': 4, 'D': 6, 'S': 3, 'R': 3, 'V': 1, 'K': 1, 'G': 1, 'T': 1, 'I': 2}
+    odc_fusion  n  23: kept  23  lost   0  unresolved   0
+    fused_all   n 101: kept  93  lost   3  unresolved   5   lost as {'N': 1, 'D': 1, 'C': 1}
+    fused_other n  78: kept  70  lost   3  unresolved   5   lost as {'N': 1, 'D': 1, 'C': 1}
+    odc_fusion vs standalone: Fisher p = 0.159; within-phylum permutation p = 0.517 (5 phyla hold both groups)
+    fused_all vs standalone: Fisher p = 0.0103; within-phylum permutation p = 0.769 (18 phyla hold both groups)
+    fused_other vs standalone: Fisher p = 0.0668; within-phylum permutation p = 0.934 (14 phyla hold both groups)
+  L13
+    standalone  n 590: kept 226  lost 231  unresolved 133   lost as {'R': 133, 'H': 1, 'K': 58, 'V': 5, 'T': 19, 'A': 2, 'N': 7, 'I': 3, 'F': 1, 'P': 1, 'E': 1}
+    odc_fusion  n  23: kept   0  lost  22  unresolved   1   lost as {'R': 20, 'N': 1, 'K': 1}
+    fused_all   n 101: kept  26  lost  61  unresolved  14   lost as {'R': 56, 'N': 1, 'I': 1, 'A': 1, 'Q': 1, 'K': 1}
+    fused_other n  78: kept  26  lost  39  unresolved  13   lost as {'I': 1, 'R': 36, 'A': 1, 'Q': 1}
+    odc_fusion vs standalone: Fisher p = 5.46e-07; within-phylum permutation p = 0.667 (5 phyla hold both groups)
+    fused_all vs standalone: Fisher p = 0.000948; within-phylum permutation p = 0.856 (17 phyla hold both groups)
+    fused_other vs standalone: Fisher p = 0.185; within-phylum permutation p = 0.931 (13 phyla hold both groups)
+  E15
+    standalone  n 590: kept 424  lost  35  unresolved 131   lost as {'F': 2, 'L': 2, 'C': 2, 'D': 3, 'S': 3, 'V': 6, 'A': 4, 'Q': 3, 'K': 2, 'R': 4, 'H': 2, 'Y': 1, 'T': 1}
+    odc_fusion  n  23: kept  13  lost   9  unresolved   1   lost as {'L': 1, 'Q': 1, 'S': 5, 'D': 1, 'V': 1}
+    fused_all   n 101: kept  75  lost  12  unresolved  14   lost as {'L': 2, 'Q': 2, 'S': 5, 'Y': 1, 'D': 1, 'V': 1}
+    fused_other n  78: kept  62  lost   3  unresolved  13   lost as {'Q': 1, 'L': 1, 'Y': 1}
+    odc_fusion vs standalone: Fisher p = 4.05e-05; within-phylum permutation p = 0.0055 (5 phyla hold both groups)
+    fused_all vs standalone: Fisher p = 0.0919; within-phylum permutation p = 0.0745 (17 phyla hold both groups)
+    fused_other vs standalone: Fisher p = 0.607; within-phylum permutation p = 0.647 (13 phyla hold both groups)
+  F111
+    standalone  n 590: kept 273  lost 282  unresolved  35   lost as {'L': 13, 'Y': 41, 'G': 22, 'S': 21, 'I': 26, 'Q': 11, 'N': 7, 'R': 53, 'M': 1, 'K': 61, 'H': 4, 'T': 8, 'V': 11, 'C': 2, 'W': 1}
+    odc_fusion  n  23: kept   0  lost  23  unresolved   0   lost as {'I': 1, 'R': 3, 'K': 15, 'Q': 1, 'S': 1, 'M': 1, 'L': 1}
+    fused_all   n 101: kept  23  lost  73  unresolved   5   lost as {'Y': 6, 'I': 2, 'R': 21, 'L': 4, 'K': 33, 'Q': 1, 'S': 2, 'T': 1, 'C': 1, 'M': 1, 'V': 1}
+    fused_other n  78: kept  23  lost  50  unresolved   5   lost as {'Y': 6, 'L': 3, 'K': 18, 'R': 18, 'S': 1, 'T': 1, 'C': 1, 'I': 1, 'V': 1}
+    odc_fusion vs standalone: Fisher p = 2.93e-07; within-phylum permutation p = 0.671 (5 phyla hold both groups)
+    fused_all vs standalone: Fisher p = 4.03e-06; within-phylum permutation p = 0.101 (18 phyla hold both groups)
+    fused_other vs standalone: Fisher p = 0.00578; within-phylum permutation p = 0.139 (14 phyla hold both groups)
+  D174
+    standalone  n 590: kept 371  lost 184  unresolved  35   lost as {'E': 29, 'Q': 3, 'N': 7, 'G': 15, 'T': 17, 'K': 2, 'F': 7, 'L': 14, 'V': 49, 'S': 4, 'M': 13, 'I': 8, 'R': 3, 'P': 7, 'A': 5, 'C': 1}
+    odc_fusion  n  23: kept   1  lost  18  unresolved   4   lost as {'T': 7, 'E': 1, 'L': 4, 'G': 2, 'R': 1, 'V': 1, 'S': 1, 'I': 1}
+    fused_all   n 101: kept  25  lost  56  unresolved  20   lost as {'T': 9, 'E': 3, 'L': 9, 'M': 7, 'G': 3, 'V': 17, 'I': 5, 'R': 1, 'S': 2}
+    fused_other n  78: kept  24  lost  38  unresolved  16   lost as {'T': 2, 'E': 2, 'L': 5, 'M': 7, 'G': 1, 'V': 16, 'I': 4, 'S': 1}
+    odc_fusion vs standalone: Fisher p = 5.36e-08; within-phylum permutation p = 0.532 (4 phyla hold both groups)
+    fused_all vs standalone: Fisher p = 1.17e-09; within-phylum permutation p = 0.492 (16 phyla hold both groups)
+    fused_other vs standalone: Fisher p = 2.14e-05; within-phylum permutation p = 0.623 (13 phyla hold both groups)
+  T176
+    standalone  n 590: kept 483  lost  96  unresolved  11   lost as {'R': 5, 'S': 13, 'C': 4, 'K': 7, 'M': 2, 'V': 17, 'N': 17, 'L': 1, 'G': 4, 'I': 7, 'Q': 12, 'F': 2, 'A': 3, 'H': 1, 'D': 1}
+    odc_fusion  n  23: kept  16  lost   5  unresolved   2   lost as {'V': 1, 'G': 1, 'S': 3}
+    fused_all   n 101: kept  84  lost  10  unresolved   7   lost as {'V': 1, 'F': 1, 'G': 1, 'N': 3, 'I': 1, 'S': 3}
+    fused_other n  78: kept  68  lost   5  unresolved   5   lost as {'F': 1, 'N': 3, 'I': 1}
+    odc_fusion vs standalone: Fisher p = 0.375; within-phylum permutation p = 0.998 (4 phyla hold both groups)
+    fused_all vs standalone: Fisher p = 0.17; within-phylum permutation p = 0.146 (17 phyla hold both groups)
+    fused_other vs standalone: Fisher p = 0.0376; within-phylum permutation p = 0.177 (14 phyla hold both groups)
+  E256
+    standalone  n 590: kept 521  lost   7  unresolved  62   lost as {'K': 3, 'D': 3, 'C': 1}
+    odc_fusion  n  23: kept  22  lost   0  unresolved   1
+    fused_all   n 101: kept  93  lost   0  unresolved   8
+    fused_other n  78: kept  71  lost   0  unresolved   7
+    odc_fusion vs standalone: Fisher p = 1; within-phylum permutation p = 1 (5 phyla hold both groups)
+    fused_all vs standalone: Fisher p = 0.602; within-phylum permutation p = 0.344 (18 phyla hold both groups)
+    fused_other vs standalone: Fisher p = 1; within-phylum permutation p = 0.503 (14 phyla hold both groups)
+  F285
+    standalone  n 590: kept 302  lost 210  unresolved  78   lost as {'L': 12, 'I': 16, 'Y': 17, 'M': 19, 'T': 65, 'Q': 2, 'H': 38, 'S': 17, 'V': 10, 'D': 3, 'E': 1, 'R': 2, 'C': 8}
+    odc_fusion  n  23: kept   2  lost  19  unresolved   2   lost as {'Y': 1, 'S': 11, 'H': 4, 'T': 1, 'V': 1, 'I': 1}
+    fused_all   n 101: kept  30  lost  60  unresolved  11   lost as {'Y': 1, 'T': 27, 'S': 11, 'H': 17, 'E': 1, 'L': 1, 'V': 1, 'I': 1}
+    fused_other n  78: kept  28  lost  41  unresolved   9   lost as {'T': 26, 'E': 1, 'H': 13, 'L': 1}
+    odc_fusion vs standalone: Fisher p = 5.4e-06; within-phylum permutation p = 0.883 (5 phyla hold both groups)
+    fused_all vs standalone: Fisher p = 9.69e-06; within-phylum permutation p = 0.821 (18 phyla hold both groups)
+    fused_other vs standalone: Fisher p = 0.00434; within-phylum permutation p = 0.789 (14 phyla hold both groups)
+
+[2] Counts and tests, set = interpro_only (kept / lost / unresolved; tests on kept vs lost)
+  E178
+    standalone  n 417: kept 376  lost  32  unresolved   9   lost as {'N': 18, 'Q': 5, 'H': 4, 'D': 3, 'R': 1, 'S': 1}
+    odc_fusion  n  19: kept  19  lost   0  unresolved   0
+    fused_all   n  84: kept  76  lost   3  unresolved   5   lost as {'N': 1, 'D': 1, 'C': 1}
+    fused_other n  65: kept  57  lost   3  unresolved   5   lost as {'N': 1, 'D': 1, 'C': 1}
+    odc_fusion vs standalone: Fisher p = 0.383; within-phylum permutation p = 0.372 (4 phyla hold both groups)
+    fused_all vs standalone: Fisher p = 0.242; within-phylum permutation p = 0.784 (15 phyla hold both groups)
+    fused_other vs standalone: Fisher p = 0.601; within-phylum permutation p = 0.95 (12 phyla hold both groups)
+  L13
+    standalone  n 417: kept 182  lost 140  unresolved  95   lost as {'R': 96, 'H': 1, 'K': 16, 'T': 15, 'N': 5, 'V': 2, 'I': 2, 'F': 1, 'A': 1, 'P': 1}
+    odc_fusion  n  19: kept   0  lost  18  unresolved   1   lost as {'N': 1, 'R': 16, 'K': 1}
+    fused_all   n  84: kept  23  lost  49  unresolved  12   lost as {'N': 1, 'I': 1, 'R': 45, 'Q': 1, 'K': 1}
+    fused_other n  65: kept  23  lost  31  unresolved  11   lost as {'I': 1, 'R': 29, 'Q': 1}
+    odc_fusion vs standalone: Fisher p = 5.9e-07; within-phylum permutation p = 0.501 (4 phyla hold both groups)
+    fused_all vs standalone: Fisher p = 0.000225; within-phylum permutation p = 0.695 (14 phyla hold both groups)
+    fused_other vs standalone: Fisher p = 0.0757; within-phylum permutation p = 0.847 (11 phyla hold both groups)
+  E15
+    standalone  n 417: kept 301  lost  22  unresolved  94   lost as {'F': 2, 'L': 1, 'D': 2, 'S': 2, 'V': 4, 'A': 2, 'Q': 3, 'R': 3, 'H': 2, 'Y': 1}
+    odc_fusion  n  19: kept  12  lost   6  unresolved   1   lost as {'Q': 1, 'S': 4, 'V': 1}
+    fused_all   n  84: kept  64  lost   8  unresolved  12   lost as {'Q': 2, 'S': 4, 'Y': 1, 'V': 1}
+    fused_other n  65: kept  52  lost   2  unresolved  11   lost as {'Q': 1, 'Y': 1}
+    odc_fusion vs standalone: Fisher p = 0.00166; within-phylum permutation p = 0.0431 (4 phyla hold both groups)
+    fused_all vs standalone: Fisher p = 0.221; within-phylum permutation p = 0.218 (14 phyla hold both groups)
+    fused_other vs standalone: Fisher p = 0.552; within-phylum permutation p = 0.638 (11 phyla hold both groups)
+  F111
+    standalone  n 417: kept 210  lost 182  unresolved  25   lost as {'L': 8, 'Y': 32, 'G': 14, 'S': 12, 'I': 6, 'Q': 4, 'N': 7, 'R': 43, 'M': 1, 'K': 45, 'H': 1, 'T': 5, 'V': 2, 'C': 1, 'W': 1}
+    odc_fusion  n  19: kept   0  lost  19  unresolved   0   lost as {'R': 2, 'K': 13, 'Q': 1, 'S': 1, 'M': 1, 'L': 1}
+    fused_all   n  84: kept  19  lost  60  unresolved   5   lost as {'Y': 6, 'R': 17, 'L': 4, 'K': 25, 'Q': 1, 'S': 2, 'T': 1, 'C': 1, 'M': 1, 'I': 1, 'V': 1}
+    fused_other n  65: kept  19  lost  41  unresolved   5   lost as {'Y': 6, 'L': 3, 'K': 12, 'S': 1, 'R': 15, 'T': 1, 'C': 1, 'I': 1, 'V': 1}
+    odc_fusion vs standalone: Fisher p = 7.94e-07; within-phylum permutation p = 0.497 (4 phyla hold both groups)
+    fused_all vs standalone: Fisher p = 1.87e-06; within-phylum permutation p = 0.121 (15 phyla hold both groups)
+    fused_other vs standalone: Fisher p = 0.0021; within-phylum permutation p = 0.196 (12 phyla hold both groups)
+  D174
+    standalone  n 417: kept 259  lost 135  unresolved  23   lost as {'E': 18, 'Q': 3, 'N': 5, 'G': 10, 'T': 11, 'F': 5, 'L': 11, 'V': 41, 'S': 4, 'I': 7, 'M': 11, 'A': 4, 'C': 1, 'P': 2, 'K': 1, 'R': 1}
+    odc_fusion  n  19: kept   1  lost  14  unresolved   4   lost as {'E': 1, 'T': 5, 'L': 3, 'G': 2, 'R': 1, 'S': 1, 'I': 1}
+    fused_all   n  84: kept  20  lost  44  unresolved  20   lost as {'T': 7, 'E': 3, 'L': 7, 'M': 4, 'G': 3, 'V': 12, 'I': 5, 'R': 1, 'S': 2}
+    fused_other n  65: kept  19  lost  30  unresolved  16   lost as {'T': 2, 'E': 2, 'L': 4, 'M': 4, 'G': 1, 'V': 12, 'I': 4, 'S': 1}
+    odc_fusion vs standalone: Fisher p = 4.94e-06; within-phylum permutation p = 0.709 (3 phyla hold both groups)
+    fused_all vs standalone: Fisher p = 3.25e-07; within-phylum permutation p = 0.45 (13 phyla hold both groups)
+    fused_other vs standalone: Fisher p = 0.000453; within-phylum permutation p = 0.484 (11 phyla hold both groups)
+  T176
+    standalone  n 417: kept 350  lost  58  unresolved   9   lost as {'R': 3, 'S': 9, 'C': 2, 'K': 5, 'M': 1, 'V': 12, 'N': 12, 'L': 1, 'G': 3, 'F': 1, 'Q': 5, 'A': 2, 'I': 1, 'H': 1}
+    odc_fusion  n  19: kept  13  lost   4  unresolved   2   lost as {'G': 1, 'S': 3}
+    fused_all   n  84: kept  69  lost   8  unresolved   7   lost as {'F': 1, 'G': 1, 'N': 3, 'S': 3}
+    fused_other n  65: kept  56  lost   4  unresolved   5   lost as {'F': 1, 'N': 3}
+    odc_fusion vs standalone: Fisher p = 0.29; within-phylum permutation p = 1 (3 phyla hold both groups)
+    fused_all vs standalone: Fisher p = 0.469; within-phylum permutation p = 0.723 (14 phyla hold both groups)
+    fused_other vs standalone: Fisher p = 0.151; within-phylum permutation p = 0.204 (12 phyla hold both groups)
+  E256
+    standalone  n 417: kept 367  lost   6  unresolved  44   lost as {'D': 3, 'K': 2, 'C': 1}
+    odc_fusion  n  19: kept  18  lost   0  unresolved   1
+    fused_all   n  84: kept  77  lost   0  unresolved   7
+    fused_other n  65: kept  59  lost   0  unresolved   6
+    odc_fusion vs standalone: Fisher p = 1; within-phylum permutation p = 1 (4 phyla hold both groups)
+    fused_all vs standalone: Fisher p = 0.596; within-phylum permutation p = 0.359 (15 phyla hold both groups)
+    fused_other vs standalone: Fisher p = 1; within-phylum permutation p = 0.509 (12 phyla hold both groups)
+  F285
+    standalone  n 417: kept 212  lost 150  unresolved  55   lost as {'L': 7, 'I': 13, 'Y': 11, 'M': 12, 'T': 46, 'Q': 1, 'H': 33, 'S': 10, 'V': 7, 'D': 2, 'E': 1, 'R': 2, 'C': 5}
+    odc_fusion  n  19: kept   2  lost  15  unresolved   2   lost as {'S': 9, 'H': 3, 'T': 1, 'V': 1, 'I': 1}
+    fused_all   n  84: kept  26  lost  48  unresolved  10   lost as {'T': 21, 'S': 9, 'H': 15, 'L': 1, 'V': 1, 'I': 1}
+    fused_other n  65: kept  24  lost  33  unresolved   8   lost as {'T': 20, 'H': 12, 'L': 1}
+    odc_fusion vs standalone: Fisher p = 0.00018; within-phylum permutation p = 0.999 (4 phyla hold both groups)
+    fused_all vs standalone: Fisher p = 0.000297; within-phylum permutation p = 0.956 (15 phyla hold both groups)
+    fused_other vs standalone: Fisher p = 0.0219; within-phylum permutation p = 0.843 (12 phyla hold both groups)

@@ -242,7 +242,21 @@ Legend: `[x]` done · `[ ]` to do · ⛔ dead end / don't re-chase · ⏸ waitin
       - Plan and ground rules: `1_reports/HANDOFF_pocket_chemistry_survey.md`.
       - The evolution paper stays the fallback (core claims: findings 1–3).
     - ⚠️ **Open item from this round:** the report said stramenopiles have "no prozyme". **That was never searched.** I've reworded it. Four unexamined low-identity "dead" class-2-like hits (3 *Cafeteria*, 1 *Schizochytrium*) need a quick look before we claim it.
-  - [ ] 1D/1E: screen citers of Michael 2011 and Bale 2008 (+ Bennett 2002, Stanley 1994, Ndjonka 2003)
+      - ✅ **Looked at, 11 Nov.** Not prozymes. The 3 *Cafeteria* copies are 85–89% identical to each other (recent triplication or assembly redundancy) and read Gly or another non-functional residue at **every** diagnostic column (S68→G, C82→V, D174→L, E178→A, S229→G, H243→G/gap, E256→G) at 20–22% identity — the signature of a bad alignment, not of a dead paralog that keeps the fold. *Schizochytrium* CAE0742880.1 (660 aa, 25%) looks unrelated or fused. **Wording stays "not searched"**: a profile/HMM search built from trypanosomatid prozymes is still the proper test. A Europe PMC search finds no prozyme reported outside kinetoplastids. Details: `1_reports/BACKGROUND_factors_pocket_chemistry_survey.md` §6.
+  - ✅ **Pocket-chemistry survey, Stage 1 started (10–11 Nov).** Pre-registration (measurements + gate, fixed before any structure was measured): `1_reports/PREREG_pocket_chemistry_measurements.md`. Test-set design and the four-quadrant rationale: artifact "AdoMetDC Stage 1 Test Set". Scripts: `4_scripts/stage1_fetch_structures.py`, `stage1_prep.py`, `stage1_measure.py`, `stage1_charge_control.py`.
+    - ✅ **Literature check (step 1) done**: nobody has computed or compared AdoMetDC pocket chemistry across species. Nearest prior art is **Bale & Ealick 2009** (*Amino Acids* 38:451, open access) — descriptive, no computation, only the species with crystals. Notes: `5_literature/litcheck_pocket_chemistry_survey.md`. **Not yet read in full; should be before writing up.**
+    - ✅ **Trypanosome crystals exist after all**: **5TVO** (*T. brucei* monomer, 1.48 Å) and **5TVF** (+ prozyme heterodimer, 2.42 Å), Volkov 2016. Plus extra human crystals with putrescine (1JL0, 1I7B) and an **apo** human crystal (**1JEN**).
+    - ✅ **Pipeline validated against the 10 Nov round**: cavity volumes reproduce exactly (human 33.9 Å³, *Selaginella* 4.6 Å³) and docking agrees to within one pose.
+    - 🔶 **Early signal (6 structures, not the gate):** potential at the putrescine position separates activated (human −29, *Acanthamoeba* −37, lamprey −39, *T. brucei* full-length −25 kT/e) from the plant (**+13 kT/e**, i.e. the opposite sign). **Electrostatics sees what docking could not**: human E178Q shifts −29 → −18 although it docks identically to wild type.
+    - ⚠️ **The truncated *T. cruzi* model was distorting the 10 Nov result.** The full-length *T. brucei* model (Q587A7, site pLDDT 98) gives −25.1 kT/e, cavity 29.5 Å³, 2/9 in site, versus the truncated *T. cruzi* model's −9.7, 70.1 Å³, 0/9. The missing ~20 N-terminal residues are exactly the **autoinhibitory** segment (Volkov 2016, Velez 2013).
+    - ✅ **Bulk-charge confound ruled out** (`stage1_charge_control.py`): net charge varies by 18 e across the set but solvent-shell potentials stay within ±1.4 kT/e, and *Selaginella* is the **second most negative protein** in the set while having a **positive** site. The separation is local pocket chemistry, not amino-acid composition.
+    - 🆕 **New result — the signalling relay is intact everywhere; the lid is not.** Bale 2008's relay (**Glu11, Lys80, Ser229, His243**) is invariant across all 19 lineages, **stramenopiles included** (22/22 at K80/S229/H243 in Ochrophyta). So stramenopiles kept the *wire* and lost the *sensor*. Two further points: **Lys80 is lost only in cryptophytes (L 7/7) and kinetoplastids (I 6/6)** — both members of group (b), a shared derived character the project had not noticed, worth testing against the ancestral reconstruction; and **ochrophytes have replaced the whole aromatic lid** (human F285/F315/Y318/F320 → M/V/C/C), a second independent change to the sensing apparatus. Lid calls are consensus-level on a trimmed alignment and need per-sequence checking.
+    - 📄 **Amendment 1 to the pre-registration (11 Nov, before any measurement):** 5TVO/5TVF removed from the G2 noise estimate (they are autoinhibited vs activated **states**, not replicates); **1JEN added** so that lid closure is separated from crystal-vs-model. The six measurements and the gate are unchanged; the relay/lid positions are deliberately **not** added to the gate.
+    - 💡 **Functional hypothesis for the loss (for the discussion, labelled as a hypothesis):** diatoms run a high, constitutive demand for decarboxylated AdoMet to build long-chain polyamines for biosilica (Kröger 1999/2000/2001; Michael 2011, already read; Knott 2007 on thermospermine). An enzyme serving constitutive bulk biosynthesis has little use for feedback activation, so losing the sensor may be adaptive rather than merely tolerated — the same endpoint plants reach by filling the pocket. **Also raises a question to settle from Michael 2011: is the eukaryotic class-2 copy the main flux enzyme in diatoms at all?**
+    - 🧪 **Wet-lab partner lead, now concrete: Lin HY et al. 2024, *Biomolecules* 14:372** (open access). The Lin lab cloned **PtSAMDC** with PtSDS1/PtSDS2 from *Phaeodactylum*, localised them, and showed PtSAMDC overexpression alone does nothing while co-overexpression with PtSDS1 raises spermidine. They have the enzyme and the system and **did not test putrescine activation** — that is the experiment that would fill the empty quadrant.
+    - ⚠️ **The empty quadrant.** No enzyme has ever been measured that both **lacks Glu178 and fails to respond to putrescine** — which is exactly where the stramenopile prediction sits. Stage 1 can only show the measurements behave sensibly on the three populated quadrants; that is necessary, not sufficient.
+  - [x] **1D: citers of Bale 2008 screened (11 Nov, 36 papers).** Nothing pre-empts the survey. Four that matter are in `BACKGROUND_factors_pocket_chemistry_survey.md`: Volkov 2016 (autoinhibition/prozyme), Velez 2013 (N-terminus essential), Patel 2025 (mobile loops 20–28 and 164–174 by multi-temperature crystallography), Lin 2024 (PtSAMDC).
+  - [ ] 1E: screen citers of Michael 2011 (+ Bennett 2002, Stanley 1994, Ndjonka 2003)
   - [ ] 1F: genome vs transcriptome origin of the key non-Glu sequences
   - [ ] **1G (added 6 Nov, agreed with you): background check on the dinoflagellate AdoMetDC–ODC fusion.** Is it already reported, or just inherited from the ancestor shared with *Plasmodium*?
     - (a) PubMed / Europe PMC search: dinoflagellate (and *Perkinsus*, chromerid) AdoMetDC–ODC fusion, including dinoflagellate genome papers.
@@ -261,11 +275,76 @@ Legend: `[x]` done · `[ ]` to do · ⛔ dead end / don't re-chase · ⏸ waitin
 
 ---
 
+## Thread 6 — Broad survey of the 1,000-hit run 🔬 (ACTIVE — current lead)
+
+**Scope change (15 Nov, Tui's call):** stop building on the single Glu178 hypothesis and survey all 1,000 hits with no prior. Work lives in `9_dataset_survey/` (scripts `p1`–`p8`, results in `results/`, script table in `9_dataset_survey/README.md`). Marc's `aim1_settings_used.json` untouched throughout; `models/` read only.
+
+- **773 of 1,000 pass the fold gate** (TM ≥ 0.5 vs 1MSV chain A). Everything below uses those.
+- ✅ **Annotation rescue (p2, p2b).** 326 UniProt accessions had been deleted since the models were built — 319 "not part of a reference proteome", 4 redundant sequence, 3 deleted from ENSEMBL. **211 of them are fold-passers**, and all 211 recovered domain annotation through UniParc (sequences identical to the models). **Nothing was dropped.** ⚠️ The deleted set skews toward under-studied organisms, so "no standalone copy in UniProt" arguments can only ever mean "none among *active* entries".
+- ✅ **Architecture census (p2c).** 61 distinct Pfam architectures across 950 annotated proteins; 43 layouts held by a single protein. Of the fold-passers: **590 standalone · 81 with two PF01536 matches · 54 partner-then-AdoMetDC · 46 AdoMetDC-then-partner · 1 sandwiched** (`A0A8S1GM37`, HMG-box > AdoMetDC > VTT, *Caenorhabditis auricularia*). Every architecture with ≥3 proteins also appears in the InterPro-only subset, so the rescued annotation is not inventing patterns.
+
+### Track A — fusion vs site loss ⛔ REFUTED (17 Nov)
+Hypothesis: fused proteins lose the five prespecified catalytic/processing sites more often than standalone ones.
+
+- An earlier pass using a **length-based proxy** for "fused" gave 31/523 vs 1/151, p = 0.0041. **That was an artefact.** The proxy counted long N-terminal extensions with no partner domain as fusions.
+- With the proper Pfam definition: standalone **25/590 (4.2%)** vs fused **3/101 (3.0%)**, Fisher **p = 0.785**; within-phylum permutation **p = 0.717**; MH odds ratio 0.96. InterPro-only: 3.6% vs 3.6%, p = 1.
+- Confounded anyway: fused models have **lower** pLDDT than standalone (75.1 vs 83.5, p = 4e-21).
+- Losses concentrate in Euglenozoa (7 of 11) — the known kinetoplastid story, not a new pattern.
+- 🔶 Side observation: the **81 two-PF01536 proteins lose sites at 16%**, the highest of any class. Probably circular (a degraded domain is more likely to be split into two Pfam matches). Handed to lead 3.
+- ⛔ **Do not re-chase.** Full numbers: `9_dataset_survey/results/p5_loss_vs_fusion_report.txt`.
+
+### Track B — the AdoMetDC–ODC fusion 🆕 (the current finding)
+- **23 proteins are AdoMetDC fused to an ODC-family PLP decarboxylase.** The fusion is described in *Plasmodium* (Muller 2000, Krause 2000, Wrenger 2001, Birkholtz 2004, Hart 2016) and reported once in *Micromonas* (Green 2011, sequence only — and **that exact protein, `C1E5E7`, is in this set**).
+- **The other 22 were not found in the literature.** Spread: green algae (*Myrmecia*, *Micractinium*, *Apatococcus* ×2 spp., *Cymbomonas*, *Tetraselmis*, *Chloropicon*, *Prototheca*, *Pycnococcus*, *Auxenochlorella*), streptophytes (*Klebsormidium*, *Closterium*, *Adiantum*, *Ceratopteris*, *Riccia*), red algae (*Galdieria*, *Rhodosorus*, *Gracilariopsis*), plus ***Percolomonas*** (Heterolobosea) and ***Vitrella*** (chromerid).
+- **16 of 23 partners are confidently ODC** by alignment: 44–54% identity, Lys69 and Cys360 both present.
+- Michael-lab papers checked specifically (the main pre-emption risk): Green 2011, Li 2023 *JBC*, Li 2026 *JBC*, Li 2023 *PNAS*, Lin & Lin 2018, Fuell 2010. Also four non-polyamine partners, all unreported, 2–3 proteins each: Rab-GAP TBC (plants), VTT (nematodes), NUBPL (Sordariomycetes), epoxide hydrolase N-terminus (Dothideomycetes).
+- 🔗 Partly answers standing to-do **1G** (the dinoflagellate AdoMetDC–ODC fusion question, raised 6 Nov) from a different direction.
+- Files: `results/trackB_fusion_partners.md`, `results/p6_decarboxylase_partner.tsv`.
+
+### Track B validation (p7, 17 Nov) — survives
+- **19 of 22 are genome gene models**; 3 transcriptome-only (*Percolomonas*, *Tetraselmis* GSL018, *Auxenochlorella* `A0A1D2AC22`) and set aside.
+- **9 of the 19 have ≥1 predicted intron in the linker** between the two domains — a spliced junction is hard to produce by mis-joining neighbouring genes.
+- **Multiple copies in one genome:** *Ceratopteris richardii* **8**; *Galdieria*, *Riccia*, *Apatococcus fuscideae* 2 each. An assembler does not repeat the same mis-join eight times.
+- In every taxon except *Adiantum*, *Ceratopteris* and *Rhodosorus*, **the fusion is the only AdoMetDC-Pfam protein among active UniProt entries** — the same situation as *Plasmodium*.
+- ⚠️ Weaker half: 10 of 19 have no intron at the junction, 5 of those are single-exon genes.
+- 🆕 **Four partners are structurally complete but catalytically gutted:** *Percolomonas* 2/13 ODC functional residues, *Galdieria* 1/13 (Cys360→Gly), *Rhodosorus* 2/13, *Gracilariopsis* 3/13 — against **AZIN1 9/13** (a known dead ODC paralogue) and *T. brucei* ODC 13/13. Fold TM and pLDDT (75–79) comparable to the intact partners. A dead enzyme domain fused to a live one; possibly a separate finding. ⚠️ Two of the four score nearest to AZIN1 by sequence, but that probably just means "divergent" — the antizyme system is not known outside animals, so do not read them as antizyme inhibitors.
+- Linkers 41–202 aa (median 133), mostly low pLDDT. *P. falciparum* Q8IJ77 measured the same way: 359 aa.
+- ⚠️ **Open pre-emption risk:** Woo et al. 2015 (*eLife*, PMC4501334, chromerid genomes) says chromerids share polyamine synthesis with *Plasmodium*; **Figure 2 supplement 3 not checked**. *Vitrella* is the organism that could be pre-empted. Also unread: Lee 2018 (*Gracilariopsis* genome), 2018 *Micractinium* genome, 2009 *Micromonas* genomes paper — all paywalled.
+- File: `results/trackB_fusion_validation.md`, tables `results/p7_*.tsv`.
+
+### p8 — does the fused AdoMetDC half keep the putrescine site? (19 Nov) — mostly NEGATIVE
+Eight positions in human 1MSV numbering (13, 15, 111, 174, 176, 178, 256, 285) mapped onto 23 ODC fusions, 78 other fused, 590 standalone. Same TM-align method as p3; pLDDT ≥ 70 or the call is unresolved.
+
+- **Glu178 is kept in all 23** (pLDDT 71–97, Cα offsets 0.27–1.18 Å). But standalone keeps it **514/579 (89%)** anyway, so there is no room for a difference: Fisher p = 0.159, permutation **p = 0.517**.
+- ⚠️ **Leu13→Arg (20 of 23) and Phe111→Lys (15 of 23) are NOT a fusion signal.** Standalone proteins do the same: **133 Arg + 58 Lys at position 13** among 590. Fisher p = 5.5e-07 collapses to permutation **p = 0.667** once compared within phylum. Same for Phe111 (0.671), Phe285 (0.883), Asp174 (0.709), Thr176 (0.998). The basic "filled pocket" is a plant/algal trait, not a consequence of fusion.
+- 🆕 **One survivor — Glu15.** Standalone **424/459 kept (92%)**; the 23 fusions **13/22 (59%)**, five of the nine losses to Ser. Fisher p = 4.05e-05, **within-phylum permutation p = 0.0055**. The other 78 fused proteins show nothing (p = 0.647), so it is specific to *this* fusion rather than to fusion in general. Holds in the InterPro-only subset (p = 0.043).
+- ⚠️ **Lead, not a result.** Only 5 phyla contain both groups, and eight positions were tested — it barely clears correction for eight, and not for everything run that day. Needs confirmation before it is stated anywhere.
+- 💡 **For the original project:** of the 65 standalone proteins that lost Glu178, **30 went to Asn** — the diatom "stuck-on" pattern from Thread 5, sitting untouched in the control group.
+- Files: `results/p8_putrescine_site.tsv`, `p8_putrescine_site_tests.tsv`, `p8_putrescine_site_report.txt`.
+
+### Marc's directions (verbal, 19 Nov, relayed by Tui)
+Phylogeny: yes · look at putrescine sensing nearby, and whether anything else plays that role in other AdoMetDCs · the fusion presumably arose because it helped, so work out how · how common is fusion generally · **use a fusion structure as the reference structure** for a new comparison · look at the important parts of the structure.
+
+### Next on this thread
+- [ ] **Thorough literature search (Marc's ask).** The fusion as a concept rather than organism by organism; Michael's complete publication list and his pathway-diversity reviews; the 23 accessions as literal strings; UniProt cross-references; preprints; Woo 2015 figure supplements; abstracts and supplementary data of the three paywalled genome papers. Report the query list, not just the findings.
+- [ ] **Does the AdoMetDC half still self-process?** Ser68, Ser229, His243, Cys82, Glu247 across all 23. If it is dead, the whole story reads differently. Cheap — reuses the p8 alignments.
+- [ ] **Geometric putrescine-site scan** (Marc's "sensing nearby"). Any acidic side chain within a fixed distance of the 1MSV putrescine position after superposition, **regardless of sequence position** — the test p8 could not do. *T. cruzi* is the positive control (shifted site). Fix the cutoff before looking.
+- [ ] **Fusion base rate** (Marc's "how common"). Same census on ODC, spermidine synthase and SAM synthetase. Without it, "13% fused" has nothing to compare against.
+- [ ] **Inter-domain PAE from AFDB first**, then — only where PAE supports it — distance from the partner's Schiff-base lysine to the putrescine position, buried interface area, and whether the orientation is the same across all 23. Same-orientation vs different answers the one-fusion-or-many question structurally.
+- [ ] **Phylogeny of each half separately** (Marc's ask); compare with the orientation result above.
+- [ ] **New FOLDTRACE run with a fusion as the query** — its own run with its own settings file, **never** under the locked aim1 protocol.
+- ➡️ **Lead 1 (the sandwich protein) and lead 3 (the 81 two-PF01536 proteins) handed to a separate chat:** `1_reports/HANDOFF_81_double_domain.md`. Prefix `q`, results in `9_dataset_survey/results_81/`. Never run two Claude Code jobs against the repo at once. Whatever it concludes about the 81 comes back here, since they are their own class in the Track A statistics.
+
+**Status:** ACTIVE. Track B is the finding; Track A refuted; p8 negative with one lead. The literature search gates everything else.
+
+---
+
 ## ⛔ Dead ends & resolved — do NOT re-chase
 - ⛔ **Overclaiming Bodo as fully novel** → corrected to honest incremental framing. (Settled; keep the honest line.)
 - ⛔ **Full Pcon sequences via UniProt/NCBI** → not there; TriTrypDB only.
 - ⛔ **Running AlphaFold / ColabFold / homology modeling in this workspace** → no GPU, no modeller/pymol, folding APIs blocked. Use AF Server.
 - ⛔ **My α/β pyruvoyl-chain mix-up** → fixed; verified absent from reports and GitHub.
+- ⛔ **Fusion → catalytic-site loss (Track A, 17 Nov):** the p = 0.004 result came from a length-based proxy for "fused". With the Pfam definition it is p = 0.785 (permutation 0.717). Settled; see Thread 6.
 - ⛔ **WOW #3, eukaryote-type (class-2) AdoMetDC in bacteria:** already published (Li et al. 2019 *Biochem J*, PMID 31467246). Found 5 Nov in chunk 1A. Don't pursue as new.
 - 🔻 **Low-priority WOW ideas** (not dead, but not lead projects): *Palpitomonas* single-point engine loss (risky); HGT trio; invariant Gly83/Pro246 (supporting figure only).
 

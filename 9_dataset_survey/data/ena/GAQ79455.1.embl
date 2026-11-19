@@ -1,0 +1,138 @@
+ID   GAQ79455; SV 1; linear; genomic DNA; CON; PLN; 2595 BP.
+XX
+PA   DF236980.1
+XX
+PR   Project:PRJDB718;
+XX
+DT   07-JUL-2014 (Rel. 121, Created)
+DT   23-JUN-2017 (Rel. 133, Last updated, Version 5)
+XX
+DE   Klebsormidium nitens Ornithine decarboxylase-like protein
+XX
+KW   HIGH_QUALITY_DRAFT.
+XX
+OS   Klebsormidium nitens
+OC   Eukaryota; Viridiplantae; Streptophyta; Klebsormidiophyceae;
+OC   Klebsormidiales; Klebsormidiaceae; Klebsormidium.
+XX
+RN   [1]
+RC   DOI:10.1038/ncomms4978 Publication Status: Online-Only
+RX   DOI; 10.1038/ncomms4978.
+RX   PUBMED; 24865297.
+RA   Hori K., Maruyama F., Fujisawa T., Togashi T., Yamamoto N., Seo M.,
+RA   Sato S., Yamada T., Mori H., Tajima N., Moriyama T., Ikeuchi M.,
+RA   Watanabe M., Wada H., Kobayashi K., Saito M., Masuda T.,
+RA   Sasaki-Sekimoto Y., Mashiguchi K., Awai K., Shimojima M., Masuda S.,
+RA   Iwai M., Nobusawa T., Narise T., Kondo S., Saito H., Sato R., Murakawa M.,
+RA   Ihara Y., Oshima-Yamada Y., Ohtaka K., Satoh M., Sonobe K., Ishii M.,
+RA   Ohtani R., Kanamori-Sato M., Honoki R., Miyazaki D., Mochizuki H.,
+RA   Umetsu J., Higashi K., Shibata D., Kamiya Y., Sato N., Nakamura Y.,
+RA   Tabata S., Ida S., Kurokawa K., Ohta H.;
+RT   "Klebsormidium flaccidum genome reveals primary factors for plant
+RT   terrestrial adaptation";
+RL   Nat Commun 5:3978-3978(2014).
+XX
+RN   [2]
+RG   CGA2
+RA   Hori K., Fujisawa T., Ohta H.;
+RT   ;
+RL   Submitted (11-APR-2013) to the INSDC.
+RL   Contact:Hiroyuki Ohta Tokyo Institute of Technology, Center for Biological
+RL   Resources and Informatics; 4259 Nagatsuta, Midori-ku, Yokohama, Kanagawa
+RL   226-8501, Japan
+XX
+DR   MD5; a9ff659615b8406894601211a47115dc.
+DR   BioSample; SAMD00000399.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..2595
+FT                   /organism="Klebsormidium nitens"
+FT                   /strain="NIES-2285"
+FT                   /mol_type="genomic DNA"
+FT                   /db_xref="taxon:105231"
+FT                   /culture_collection="NIES:2285"
+FT   CDS             complement(join(DF236980.1:34761..35366,
+FT                   DF236980.1:35614..36221,DF236980.1:36581..36830,
+FT                   DF236980.1:37186..37956,DF236980.1:38447..38542,
+FT                   DF236980.1:38776..39039))
+FT                   /codon_start=1
+FT                   /locus_tag="KFL_000310060"
+FT                   /product="Ornithine decarboxylase-like protein"
+FT                   /note="prediction v1.10 kfl00031_0060"
+FT                   /db_xref="GOA:A0A1Y1HLG4"
+FT                   /db_xref="InterPro:IPR000183"
+FT                   /db_xref="InterPro:IPR001985"
+FT                   /db_xref="InterPro:IPR002433"
+FT                   /db_xref="InterPro:IPR009006"
+FT                   /db_xref="InterPro:IPR016067"
+FT                   /db_xref="InterPro:IPR018166"
+FT                   /db_xref="InterPro:IPR022643"
+FT                   /db_xref="InterPro:IPR022644"
+FT                   /db_xref="InterPro:IPR022653"
+FT                   /db_xref="InterPro:IPR022657"
+FT                   /db_xref="InterPro:IPR029066"
+FT                   /db_xref="UniProtKB/TrEMBL:A0A1Y1HLG4"
+FT                   /protein_id="GAQ79455.1"
+FT                   /translation="MMLPAPGFEGFEKRLEVEFSPASAACSPRGLRNMPRAKIDELLTL
+FT                   AECTIVSQLSNELFDSYVLSESSLFIHPFKLVIKTCGTTALLKAVPTLLKHAAELDLKE
+FT                   HRVKYTRGTFNFPAVQPYPHGSFAQEIEFLEQHFGHLGAGGKAYVLGAPDQFPNWHVYE
+FT                   AASSGNQAGAEPTFTLEMCMQKLDSTKAAQFFKAAGFADAKAMTVASGIDTILPGSEID
+FT                   AFDFEPCGYSMNGIENRAFSTIHITPEDAFSYASFEASGYAPQEQSPHEMVQKVLGVFN
+FT                   PGRFSLALSADGKVGAAGAGAWGVSPAFAGYVCDGTIRQEMAFGAALVFHTFKAVGSAP
+FT                   AEVEVCVPEPLFADREVEKLYALAAKKRAAFAKEKLQKLHGGSGDLWEALAPLGDEVAT
+FT                   AVASFKPTLASVGSPRDVDKYAQNFIKQNGQEAPFMMFDLGMVARLYDAWTTTMPRVEP
+FT                   FYAVKCNGDPALLAVLAALGANFDCASLAEMQAVAAAGVGPERIIYANPCKLESHLRHA
+FT                   VSTGVKLTVFDAEDELYKIKKVHPGAELLLRIRADDVGAQCPLGSKYGAEFDECEPLLR
+FT                   VAKRLGLSCVGVSFHVGSGAASAQSFVEAIKAAKLVFEMAEGLGMPKMKVLDIGGGLSV
+FT                   GGKLTFSAAGAAINKALEKFFPEEEGVKVIAEPGRYFAEAPATLAALVFGRRLRGLRHA
+FT                   HTKANEYYINDGVYGSMNCLLYDHATISARPLRVSGGLRLLDEKMYRSTVFGPTCDGLD
+FT                   QVLTDVWLPKLEVGDWLLFPNMGAYTLAAGTSFNGFATSDIKTHYLWSEGDRLPFGEEE
+FT                   PGSDSDSHFGDAAMDSSDTGSDGGEFQSEGEAAKEESDETASLSGSDDDAYY"
+XX
+SQ   Sequence 2595 BP; 435 A; 821 C; 857 G; 482 T; 0 other;
+     atgatgctcc ctgcccctgg gtttgagggt ttcgagaagc gcctggaagt ggagttttct        60
+     cctgccagtg cagcatgctc tcctcgcggt ctgcgcaaca tgccccgcgc caagattgac       120
+     gagctcctca ctttggctga gtgcactatc gtgtctcagc tcagcaacga gctgtttgac       180
+     tcgtacgtgc tctcagagtc cagcctcttc atccacccct tcaagctggt cattaagacc       240
+     tgcggcacga ctgctctgct caaggccgtt cccaccctcc tcaagcatgc tgctgagctt       300
+     gacctgaagg aacatcgcgt caagtacacc cgggggacct tcaacttccc tgcagttcag       360
+     ccctaccccc acggcagctt cgctcaggag attgagttcc tggagcagca ctttggccac       420
+     ctgggggccg gcggcaaggc ctacgtcctc ggcgcaccgg accagtttcc caactggcat       480
+     gtctacgagg ccgcctcctc gggaaaccag gccggcgccg agccgacctt caccctggag       540
+     atgtgcatgc agaagctgga cagcaccaag gctgctcagt tcttcaaggc cgccggcttc       600
+     gccgacgcca aggccatgac cgtcgcctct gggatcgaca ccattctccc cgggtccgag       660
+     attgacgcct ttgactttga gccctgcggc tactccatga acggcatcga gaaccgggca       720
+     ttcagcacga ttcacatcac gcccgaggac gccttctcct atgccagctt tgaggcgagc       780
+     gggtacgccc cccaggagca gtccccccac gagatggtcc agaaggtgct cggggtgttc       840
+     aacccggggc gcttctcgct tgcgctctct gctgacggca aggtcggtgc agccggggcg       900
+     ggtgcctggg gcgtatcccc ggccttcgct ggttacgtct gcgacggcac catccgccag       960
+     gagatggcct ttggagcggc cctggtgttc cacactttca aggccgtcgg cagtgcacca      1020
+     gctgaggtgg aggtgtgcgt ccctgagccg ctgtttgctg accgcgaggt ggagaagctg      1080
+     tacgcgctgg ctgccaagaa gagggctgcc ttcgccaagg agaagctgca gaagctgcac      1140
+     ggcgggtctg gcgatttgtg ggaggccctg gcccccttgg gtgacgaggt ggctactgcc      1200
+     gtcgcgtcct tcaagcctac cctggcatca gtgggaagtc ccagggacgt ggacaagtac      1260
+     gcgcagaact tcatcaagca gaacggccag gaggcgccct tcatgatgtt cgacctggga      1320
+     atggtggcgc gcctgtacga cgcatggacg accaccatgc ctcgcgtgga gcccttctat      1380
+     gctgtcaagt gcaacggcga ccccgccctg ctggccgtcc tcgccgccct cggcgccaac      1440
+     ttcgactgcg cctcgctcgc cgagatgcag gccgttgccg ccgccggcgt cgggcctgag      1500
+     cgcatcatct acgccaaccc gtgcaagctg gagtcgcacc tgcgccacgc tgtctctacc      1560
+     ggcgtcaagc tcaccgtctt cgacgccgag gacgagctct acaagatcaa gaaggtgcac      1620
+     ccgggcgcgg agcttctgct gcgcatccgc gcggacgacg ttggcgcgca gtgccccctc      1680
+     gggtccaagt acggcgccga gttcgacgag tgcgagccgc tgctgagggt tgcgaagcgc      1740
+     ctggggctga gctgcgtcgg ggtgtcgttc cacgtgggca gcggcgctgc gagcgcgcag      1800
+     tcgttcgtgg aggcgatcaa ggcggcgaag ttggtgtttg agatggcgga ggggctgggt      1860
+     atgcccaaga tgaaggtgct ggacattgga ggcgggctct cggttggcgg gaagctgacg      1920
+     ttctcggcgg cgggggctgc gatcaacaag gcgctggaga agttcttccc cgaggaggag      1980
+     ggggtcaagg tcatcgccga gcctgggcgc tacttcgccg aggcgcctgc tacgctggcc      2040
+     gcgctcgtct ttgggcgccg cctgcgtggg ctgcgccacg cgcacaccaa ggccaacgag      2100
+     tactacatca acgacggcgt gtacgggtcc atgaactgcc tcctctacga ccacgctacc      2160
+     atctccgctc gcccactgcg cgtgtccggc ggcctgcgcc tgctcgatga gaagatgtac      2220
+     cgttcgacgg tcttcgggcc gacgtgcgac gggctggacc aggtcctgac cgacgtgtgg      2280
+     ctgccgaagc tggaggtcgg cgactggctg ctgttcccca acatgggggc gtataccctc      2340
+     gcggcgggca cgagcttcaa cgggttcgcg acttcggaca tcaagacgca ctacctgtgg      2400
+     tccgagggcg accgcctgcc gtttggggag gaggagccgg gcagtgactc cgactcgcac      2460
+     tttggtgatg cggcgatgga ctcgagcgac acgggctcgg atggcgggga gtttcagagt      2520
+     gagggggagg cggccaagga ggagagtgat gagaccgcta gcctgtctgg gagcgatgac      2580
+     gatgcgtact actag                                                       2595
+//

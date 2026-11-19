@@ -1,0 +1,156 @@
+ID   ACO63617; SV 1; linear; genomic DNA; STD; PLN; 3120 BP.
+XX
+PA   CP001326.1
+XX
+PR   Project:PRJNA15676;
+XX
+DT   11-APR-2009 (Rel. 100, Created)
+DT   02-OCT-2014 (Rel. 122, Last updated, Version 3)
+XX
+DE   Micromonas commoda adenosylmethionine/pyridoxal dependant decarboxylase
+DE   fusion protein
+XX
+KW   .
+XX
+OS   Micromonas commoda
+OC   Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales;
+OC   Mamiellaceae; Micromonas.
+XX
+RN   [1]
+RX   DOI; 10.1126/science.1167222.
+RX   PUBMED; 19359590.
+RA   Worden A.Z., Lee J.H., Mock T., Rouze P., Simmons M.P., Aerts A.L.,
+RA   Allen A.E., Cuvelier M.L., Derelle E., Everett M.V., Foulon E.,
+RA   Grimwood J., Gundlach H., Henrissat B., Napoli C., McDonald S.M.,
+RA   Parker M.S., Rombauts S., Salamov A., Von Dassow P., Badger J.H.,
+RA   Coutinho P.M., Demir E., Dubchak I., Gentemann C., Eikrem W., Gready J.E.,
+RA   John U., Lanier W., Lindquist E.A., Lucas S., Mayer K.F., Moreau H.,
+RA   Not F., Otillar R., Panaud O., Pangilinan J., Paulsen I., Piegu B.,
+RA   Poliakov A., Robbens S., Schmutz J., Toulza E., Wyss T., Zelensky A.,
+RA   Zhou K., Armbrust E.V., Bhattacharya D., Goodenough U.W., Van de Peer Y.,
+RA   Grigoriev I.V.;
+RT   "Green evolution and dynamic adaptations revealed by genomes of the marine
+RT   picoeukaryotes Micromonas";
+RL   Science, e1252229 324(5924):268-272(2009).
+XX
+RN   [2]
+RG   Micromonas genome consortium
+RA   Grigoriev I.V., Aerts A.L., Rombauts S., Van de Peer Y., Grimwood J.,
+RA   Salamov A., Zhou K., Lucas S., Glavina del Rio T., Tice H., Bruce D.,
+RA   Pitluck S., Lindquist E., Cuvelier M.L., Worden A.Z.;
+RT   ;
+RL   Submitted (23-DEC-2008) to the INSDC.
+RL   US DOE Joint Genome Institute, 2800 Mitchell Drive B100, Walnut Creek, CA
+RL   94598-1698, USA
+XX
+DR   MD5; e26df39f948ae63ba16b411e0d3c31a0.
+DR   BioSample; SAMN03081421.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..3120
+FT                   /organism="Micromonas commoda"
+FT                   /chromosome="5"
+FT                   /strain="RCC299"
+FT                   /mol_type="genomic DNA"
+FT                   /db_xref="taxon:296587"
+FT   CDS             complement(join(CP001326.1:39709..42455,
+FT                   CP001326.1:42594..42804,CP001326.1:42936..43097))
+FT                   /codon_start=1
+FT                   /locus_tag="MICPUN_58289"
+FT                   /product="adenosylmethionine/pyridoxal dependant
+FT                   decarboxylase fusion protein"
+FT                   /note="Fusion of two domains. At 5 prime have
+FT                   Adenosylmethionine decarboxylase. This is a family of
+FT                   S-adenosylmethionine decarboxylase (SAMDC) proenzymes;
+FT                   GO_function: GO:3824; adenosylmethionine decarboxylase
+FT                   activity - catalytic activity [PMID 4014]; GO_process:
+FT                   GO:6597; spermidine biosynthetic process - spermine
+FT                   biosynthetic process [PMID 8295]"
+FT                   /db_xref="GOA:C1E5E7"
+FT                   /db_xref="InterPro:IPR000183"
+FT                   /db_xref="InterPro:IPR001985"
+FT                   /db_xref="InterPro:IPR002433"
+FT                   /db_xref="InterPro:IPR009006"
+FT                   /db_xref="InterPro:IPR016067"
+FT                   /db_xref="InterPro:IPR018166"
+FT                   /db_xref="InterPro:IPR022643"
+FT                   /db_xref="InterPro:IPR022644"
+FT                   /db_xref="InterPro:IPR022653"
+FT                   /db_xref="InterPro:IPR022657"
+FT                   /db_xref="InterPro:IPR029066"
+FT                   /db_xref="UniProtKB/TrEMBL:C1E5E7"
+FT                   /protein_id="ACO63617.1"
+FT                   /translation="MSESIESDSSDNRYNFHSIDTNVEVETTWTPFEDVADLRPWGYVG
+FT                   NKRAPAIADRTDLTHAFFHTNTNFFELAATSPAFDAPVAVASLNVTMNNTNDTNVLPCP
+FT                   HFEGVEKRIEIDFHAGGLQRGLRSLPRDILDDAMTAAECLIVSKRTCAAFDAYVLSESS
+FT                   LFVYPTKVVLKTCGTTKLLNAIPMFIEEAAKLGMQPRRAKYTRSTFMWPDEQPLEGNFD
+FT                   KEVEFLERHFGALGDGGNAFVLGSKTKGVQWHVYLADDNSGAFVDGNGTEGSECSTGFE
+FT                   THSAPAARANLPDPTVSLEVCMTDLDREHSKHFFRDDTYESCQKTTDNCGITDLFPQFD
+FT                   IDPYVFEPCGYSMNALSGSEYATIHITPEDGFSYCSVERSNIPVSAADPEDYLRRVAST
+FT                   FKPGKFSFAVSTDAALPDAANIRRVPTLPGYRRIQASHQEVDASGGAVSFYTFERLPDV
+FT                   HVPVPTLPAVNLAAFKPGFEAGHDSDRNTDSEEDAPDRKKFRPLVETPDITREVRPSSI
+FT                   VSSHVAESGFELNRCPSVNHMEAPVHEHEPSTLSNHMTEYAGIATLRTPLPTSFPLARA
+FT                   FAGYDSEVINTLIGQHCKPLVGSGGKTIDNFCLDIIENGLALPTTDRLARFCVVDLGVV
+FT                   MRRWRYWRATIPRAMPHYAVKCNPDTGVLAILAALGSSFDCASATEVDMVMALGVTPDR
+FT                   IIYANPCKMPAHLARVRDCGVGLTTFDSVAELHKIYELAPEMKVVLRLRADDPDARCVL
+FT                   GNKFGAEPPEIEPLLTAAKHLGIHVEGVAFHVGSGATNPRAFRVALERARLAFDIAERV
+FT                   GLPPLKLVDIGGGFSGSVRTVAATNDSDVTLTEVAKTVNAALEEFFPESSGVRIISEPG
+FT                   RYFAEATTTLATMVFSRRIRSEEDGSVAKGGDTHQYFVSDGLYGMMNCLLYDHASITAR
+FT                   ILPVSTNAAALAGGDLNGIVPRGVYSNEEDTNGLTKYPSTVFGPTCDGIDKVLENTLLP
+FT                   EVSIGDWLLFPHMGAYTVSAGSNFNGFDCAGVRKYYVASIVDGDPDEIRR"
+XX
+SQ   Sequence 3120 BP; 551 A; 1147 C; 848 G; 574 T; 0 other;
+     atgtccgagt ctattgagag cgacagtagc gacaatcgtt acaatttcca ttccatcgac        60
+     accaacgtcg aagtagagac cacctggacg ccctttgagg acgttgccga tctccgtccc       120
+     tggggatacg taggaaacaa gagagcaccc gccatcgcag acagaacgga tttgactcac       180
+     gcgtttttcc acacgaacac caactttttc gagcttgccg ccacgtcgcc ggcctttgac       240
+     gctccagtag ccgtggcttc actgaacgtg accatgaaca acaccaacga taccaacgtg       300
+     cttccctgcc ctcatttcga gggcgttgag aagcgcatcg agatcgactt ccacgccgga       360
+     gggttgcagc gcggcctgcg ctcccttcct cgcgacatcc tcgacgatgc catgaccgcc       420
+     gccgagtgcc tcatcgtctc caagaggacc tgcgccgcct ttgacgcgta cgtcctctcc       480
+     gagtcgtcgc tctttgtcta cccgaccaag gtggtcctca agacgtgcgg caccaccaag       540
+     ctcctgaacg ccatccccat gttcatcgag gaggcggcca agctcgggat gcagcccagg       600
+     cgcgccaagt acacccgctc caccttcatg tggcccgacg agcagccgct cgagggtaac       660
+     tttgacaagg aggttgagtt tctcgagcgg cactttggcg cgcttggcga cggcggcaac       720
+     gcctttgtcc tcggctccaa gaccaagggc gtccagtggc acgtgtacct cgcggacgac       780
+     aactccggtg cttttgtcga cggcaacggc accgagggca gcgagtgctc caccggcttt       840
+     gagacgcact ccgccccggc ggctcgcgcc aacctgccgg atcccaccgt gtccctcgag       900
+     gtgtgcatga cggacctcga ccgcgagcac tctaagcact tcttccgcga cgacacctac       960
+     gagtcttgcc agaagaccac cgataactgc ggcatcacgg acctgttccc ccagtttgac      1020
+     atcgacccct acgtctttga gccctgcggc tactccatga acgccctctc tggctcggag      1080
+     tacgccacca tccacatcac ccccgaggat ggcttctcct actgctccgt ggagaggtcc      1140
+     aacatccccg tgtccgcggc tgaccccgag gactacctca ggcgcgttgc gtccaccttc      1200
+     aagcccggca agttttcctt tgccgtctcc accgacgccg cgctcccgga cgccgcaaac      1260
+     atccgccgcg tcccgaccct cccgggctac cgccgcatcc aggcgtccca ccaggaggtt      1320
+     gacgcctcgg gcggagcggt gtccttctac acctttgaac gtctccccga tgttcacgtg      1380
+     cccgtgccca ccctgccggc ggtgaacttg gcggcgttca agcccggctt tgaggctggc      1440
+     cacgactcgg acaggaacac cgactcggaa gaggatgcgc cggatcgcaa gaagttcagg      1500
+     cccttggtcg agacccccga tatcacccgg gaggtcagac cctcgtccat cgtgtcctcg      1560
+     cacgtcgcgg agtctggttt tgaactgaac aggtgcccca gcgtgaacca catggaggcg      1620
+     cccgtgcacg agcacgagcc ctctacgctc agcaaccaca tgactgagta tgcgggcatc      1680
+     gccacgctga ggactccgct ccccacctcg tttcccctcg ccagggcgtt cgcggggtac      1740
+     gactctgagg ttatcaacac cctcatcggt cagcactgca agcccctcgt cggctcgggc      1800
+     ggcaagacca tcgacaactt ctgcctcgac atcatcgaga acggtctcgc gcttcccacc      1860
+     actgatcgcc tcgcgcgctt ctgcgtcgtc gacctcggcg tcgtgatgcg ccgctggcgc      1920
+     tactggcgcg cgaccatccc cagggctatg ccgcactacg ccgtcaagtg caaccccgac      1980
+     accggggtgc tcgccatcct cgcggcgctc ggatcttcct ttgactgcgc ctctgccacc      2040
+     gaggttgaca tggtgatggc gctcggcgtc acccccgacc gcatcatcta cgccaacccg      2100
+     tgcaagatgc ccgcgcacct cgcgagggtg cgcgactgcg gcgtgggcct gaccaccttc      2160
+     gactcggtcg ccgagctcca caagatttac gagctcgccc ccgagatgaa ggttgtcctc      2220
+     cgcctccgcg cggatgaccc ggatgccagg tgcgtcctcg gcaacaagtt tggcgccgag      2280
+     ccacccgaga ttgagcccct gctcaccgcg gcgaagcacc tcggcattca cgtcgagggt      2340
+     gtcgccttcc acgtgggatc cggtgccacc aacccccgcg cgttccgagt ggctctggag      2400
+     agggctcgcc tcgccttcga catcgccgag cgcgtcggcc tgccccctct caagctcgtc      2460
+     gacatcggcg gcggcttctc cggctccgtc aggactgtgg cggccaccaa cgactccgat      2520
+     gtgaccctca ccgaggttgc caagacggtc aacgcggccc tggaggagtt cttccccgag      2580
+     tcctccggcg tccgcatcat ctcggagccc ggcaggtact ttgccgaggc caccaccacc      2640
+     ctggccacga tggtcttctc ccgtcgcatc cgctccgagg aggacggctc tgtggccaag      2700
+     ggcggagaca cccaccagta cttcgtgtct gatggtctct acggcatgat gaactgcctc      2760
+     ctctacgacc acgcctccat caccgctcgc atcctccccg tgtccaccaa cgcggcggcg      2820
+     ctcgccggcg gtgacctcaa cggcatcgtt ccccgcggcg tctactccaa tgaggaagac      2880
+     accaacggcc tcaccaagta cccatccacc gtctttggtc ccacctgcga cggcatcgac      2940
+     aaggtgctcg agaacaccct gctccccgag gtgagcattg gcgactggct cctcttcccc      3000
+     cacatgggcg cctacaccgt ctccgccgga tccaacttta acggattcga ctgcgccggc      3060
+     gtgcgcaagt actacgttgc ctctatcgtc gacggcgacc ccgatgaaat tcgccgctag      3120
+//

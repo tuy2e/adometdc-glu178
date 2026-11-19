@@ -1,0 +1,138 @@
+ID   KAK3264187; SV 1; linear; genomic DNA; WGS; PLN; 2424 BP.
+XX
+PA   LGRX02014731.1
+XX
+PR   Project:PRJNA286761;
+XX
+DE   Cymbomonas tetramitiformis Mitochondrial 2-oxoadipate and 2-oxoglutarate
+DE   transporter
+XX
+KW   WGS.
+XX
+OS   Cymbomonas tetramitiformis
+OC   Eukaryota; Viridiplantae; Chlorophyta; Pyramimonadophyceae;
+OC   Pyramimonadales; Pyramimonadaceae; Cymbomonas.
+XX
+RN   [1]
+RC   Publication Status: Online-Only
+RX   PUBMED; 26224703.
+RA   Burns J.A., Paasch A., Narechania A., Kim E.;
+RT   "Comparative Genomics of a Bacterivorous Green Alga Reveals Evolutionary
+RT   Causalities and Consequences of Phago-Mixotrophic Mode of Nutrition";
+RL   Genome Biol Evol 7(11):3047-3061(2015).
+XX
+RN   [2]
+RA   Gyaltshen Y., Rozenberg A., Paasch A., Burns J.A., Warring S., Larson R.,
+RA   Maurer-Alcala X., Dacks J., Kim E.;
+RT   "Long-read-based genome assembly of the green algal bacterivore Cymbomonas
+RT   tetramitiformis";
+RL   Unpublished.
+XX
+RN   [3]
+RA   Burns J.A., Paasch A., Narechania A., Kim E.;
+RT   ;
+RL   Submitted (10-JUL-2015) to the INSDC.
+RL   Sackler Institute for Comparative Genomics, American Museum of Natural
+RL   History, Central Park W & 79th St, New York, NY 10024, USA
+XX
+RN   [4]
+RA   Gyaltshen Y., Rozenberg A., Paasch A., Burns J.A., Warring S., Larson R.,
+RA   Maurer-Alcala X., Dacks J., Kim E.;
+RT   ;
+RL   Submitted (09-JUN-2023) to the INSDC.
+RL   Faculty of Biology, Technion - Israel Institute of Technology, Technion
+RL   City, Haifa 3200003, Israel
+XX
+DR   MD5; c57e46b261cc679ef886b4a5c14950be.
+DR   BioSample; SAMN03799721.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..2424
+FT                   /organism="Cymbomonas tetramitiformis"
+FT                   /isolate="PLY_AMNH"
+FT                   /mol_type="genomic DNA"
+FT                   /country="United Kingdom: English Channel"
+FT                   /isolation_source="English Channel"
+FT                   /collection_date="1961-06-02"
+FT                   /db_xref="taxon:36881"
+FT                   /submitter_seqid="jcf7180000157260"
+FT   CDS             join(LGRX02014731.1:10473..10587,
+FT                   LGRX02014731.1:10723..10994,LGRX02014731.1:11109..13145)
+FT                   /codon_start=1
+FT                   /locus_tag="CYMTET_27057"
+FT                   /product="Mitochondrial 2-oxoadipate and 2-oxoglutarate
+FT                   transporter"
+FT                   /note="EggNog:ENOG5037JRD; COG:E"
+FT                   /db_xref="InterPro:IPR000183"
+FT                   /db_xref="InterPro:IPR001985"
+FT                   /db_xref="InterPro:IPR002433"
+FT                   /db_xref="InterPro:IPR009006"
+FT                   /db_xref="InterPro:IPR016067"
+FT                   /db_xref="InterPro:IPR018166"
+FT                   /db_xref="InterPro:IPR022643"
+FT                   /db_xref="InterPro:IPR022644"
+FT                   /db_xref="InterPro:IPR022653"
+FT                   /db_xref="InterPro:IPR029066"
+FT                   /db_xref="PFAM:PF00278"
+FT                   /db_xref="PFAM:PF01536"
+FT                   /db_xref="PFAM:PF02784"
+FT                   /protein_id="KAK3264187.1"
+FT                   /translation="MTVHLAYNDAPDTLPGFEGSEKRIEIDFYPSPQQPATGGLRQLSK
+FT                   DQLDELMTLAECEIVSERHSFDFDAYVLSESSLFVYPTKFVLKTCGTTRLLNCVKKLID
+FT                   MTSTLDMRLRRFKFTRASYKYPQVQPAPHQSFEQEVDTIEKSIGDHVPPGCSYTLGDGR
+FT                   QGLQWFVYVTDADRINPYMDRSRVTVEVCMTELKEEKAEAFYHLEASGKGSTDAYAATT
+FT                   NSGISAIFPRTKIDDFLFEPCGYSMNGLQDDAFSTIHITPEPEFSYASVELCGYSSDDL
+FT                   QSVVADAAAVFKPGQLVVSMSSADATSFAFESSPLTPSDMYLIDVTKQFFSCGGGVVFY
+FT                   RYASVGPEEQICKGVPVPIEDKFSCSTPPQCYEPGHNMGLFQEPEEKDQLGGLQPALKQ
+FT                   SATSTVIERYCQQLPSSSDKDMDIFLRSAIEKHGFDEVFYAVDLGVVYRMWQSWVKNLP
+FT                   RVEPFYAVKCFGDKAVLALLAAMGAGFDCASPAEMESVLSLGVGPERIVYANPCKKIKH
+FT                   LKYAQDKRVGLMTFDTEAELRKIALHFPAAQIMLRIRADDPAARCPLGDKYGAEECEVE
+FT                   KLILLARELDLDLMGISFHVGSGATDPSSIPRAISVAKNAFLCGSQLGFHMKVLDIGGG
+FT                   FSGGADGVALETVASSINTALETHFPAVEGVKIISEPGRFFAEACATLCANVFGKRVRQ
+FT                   SAEPHLDTHAYWIPDGLYSSFNCLLYDHATVTARPLPMVDEEKKSVKLWQSTVFGPTCD
+FT                   GLDQVLRSVPLPELETGDWLVFKNMGAYTACAGSNFNGFESPSANTVYVFSEQQ"
+XX
+SQ   Sequence 2424 BP; 546 A; 663 C; 629 G; 586 T; 0 other;
+     atgaccgttc atctcgctta caacgacgca ccagacacgc tcccggggtt cgagggctcc        60
+     gagaaacgaa tcgaaataga cttttacccc tcccctcagc aaccagccac cggaggcctg       120
+     agacagctaa gcaaagacca actggatgag ttgatgactc tagcagaatg cgagatcgtg       180
+     tcagaacgtc actcctttga ctttgacgcg tatgttctct ccgagtcgag tcttttcgtt       240
+     tatccgacga agtttgtgct gaagacctgc gggactactc gcctgttaaa ctgcgtcaaa       300
+     aagctgattg acatgaccag cacgctggat atgcgccttc gaagattcaa atttacgcgc       360
+     gccagctaca agtacccaca agtgcagcct gcccctcatc agtccttcga gcaagaggtc       420
+     gacacaattg agaagagcat cggagaccac gttccacctg gctgttctta cacgttgggc       480
+     gacggtcgac aaggtcttca gtggttcgtt tacgtaactg atgcggatcg gattaacccc       540
+     tacatggacc gttctcgcgt aaccgttgaa gtgtgcatga ctgaacttaa ggaagagaag       600
+     gccgaagcgt tctaccacct agaggcttct ggtaaaggct caactgatgc ctacgctgcc       660
+     accacgaata gtggaatttc agctatattc ccacggacta aaattgacga ctttctattc       720
+     gagccgtgcg gatactctat gaacggcctt caggacgacg cattctccac cattcacatc       780
+     acacctgagc cagagtttag ctatgctagt gtagagcttt gtgggtactc atcggatgat       840
+     ttgcagtctg ttgtggccga cgccgccgct gtattcaagc caggtcagct cgttgtatcg       900
+     atgtcttccg ccgatgccac ctcctttgcc ttcgagtcga gcccactgac cccttccgat       960
+     atgtatctca ttgacgttac caaacaattt ttttcctgcg gcggtggcgt ggtattctac      1020
+     cgttatgcgt ccgtcggtcc cgaagaacag atatgcaagg gggtgcctgt cccaatagag      1080
+     gataagttct cgtgctccac gccgccccag tgctacgagc ctgggcacaa catgggcttg      1140
+     tttcaagagc cggaagaaaa agatcaactc ggtggcctcc agccggcctt aaagcagtct      1200
+     gcaacctcga ccgtaatcga aagatattgc cagcaactcc cgtcctccag cgacaaggac      1260
+     atggacatct ttctgcggtc agcaatcgag aagcatggat tcgacgaggt gttctatgct      1320
+     gtggatctcg gggttgtgta ccgcatgtgg caaagttggg tgaagaacct tcctcgtgtc      1380
+     gagccctttt atgccgtgaa atgtttcggt gacaaggcag tcctcgcgct cttggcggcc      1440
+     atgggagcag gttttgactg tgcctctccc gctgagatgg agagtgtgct gagcttggga      1500
+     gtcggccctg agagaatcgt atatgcgaac ccctgcaaga aaatcaagca ccttaaatat      1560
+     gcacaggaca aaagagtcgg actgatgacg ttcgacactg aggctgaact gaggaaaata      1620
+     gcgctgcact tccccgcagc tcagatcatg cttcggatcc gcgcagacga ccctgcggct      1680
+     cgttgtcctc ttggtgacaa atacggggct gaggaatgcg aagtagagaa gctcatcctc      1740
+     cttgcacgag aactcgatct agacttgatg ggtataagct tccacgttgg cagtggggca      1800
+     actgacccca gctcaattcc ccgtgctata tcggttgcca agaacgcttt cctctgcggc      1860
+     tctcagcttg gctttcacat gaaggtgctc gatatcggcg gcgggttctc tggcggagcc      1920
+     gacggcgtgg ccctcgagac cgttgcctcc tccatcaaca ccgctcttga gacgcacttt      1980
+     ccagccgtcg agggagtcaa aatcatctcc gagcctggtc gcttctttgc agaggcttgc      2040
+     gcaaccctct gtgccaatgt tttcggaaag cgcgtccgcc agtctgctga gcctcacctc      2100
+     gatacccatg cctactggat tccggacggc ctctattcgt ctttcaactg tttgctgtat      2160
+     gatcacgcta ccgttacagc acgacctctg cctatggtgg atgaagagaa aaagtctgtc      2220
+     aagttgtggc agagtactgt ctttggtcct acctgtgacg gcttggacca ggtgctcagg      2280
+     agcgtgcccc ttccagagct agagacaggc gactggctcg tgttcaaaaa tatgggtgcc      2340
+     tacactgctt gtgctggttc taacttcaat ggttttgaga gtccaagtgc caacactgtg      2400
+     tacgtctttt ccgagcaaca gtag                                             2424
+//

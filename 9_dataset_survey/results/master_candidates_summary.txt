@@ -1,0 +1,10 @@
+candidates: 1000   fold_ok: 773   fold-failing: 227
+verdict (fold_ok): {'retained': 509, 'altered': 68, 'unresolved': 176, 'lost': 20}
+fragment in name: 184
+mean pLDDT < 70: 111
+>= 100 residues outside the Foldseek hit (possible fusions): 208
+Ser68 (fold_ok): states {'retained': 659, 'unresolved': 103, 'lost': 11}; unresolved reasons {'no_aligned_residue': 99, 'aligned_residue_too_far': 4}
+Ser229 (fold_ok): states {'retained': 699, 'lost': 17, 'unresolved': 56, 'altered': 1}; unresolved reasons {'no_aligned_residue': 55, 'aligned_residue_too_far': 1}
+His243 (fold_ok): states {'retained': 688, 'unresolved': 65, 'lost': 20}; unresolved reasons {'no_aligned_residue': 64, 'aligned_residue_too_far': 1}
+Cys82 (fold_ok): states {'retained': 697, 'unresolved': 63, 'lost': 13}; unresolved reasons {'no_aligned_residue': 58, 'aligned_residue_too_far': 5}
+Glu247 (fold_ok): states {'retained': 609, 'altered': 75, 'unresolved': 75, 'lost': 14}; unresolved reasons {'no_aligned_residue': 63, 'aligned_residue_too_far': 12}

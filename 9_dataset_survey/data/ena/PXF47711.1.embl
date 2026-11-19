@@ -1,0 +1,114 @@
+ID   PXF47711; SV 1; linear; genomic DNA; WGS; PLN; 2193 BP.
+XX
+PA   NBIV01000020.1
+XX
+PR   Project:PRJNA361418;
+XX
+DT   12-JUN-2018 (Rel. 137, Created)
+DT   12-JUN-2018 (Rel. 137, Last updated, Version 1)
+XX
+DE   Gracilariopsis chorda S-adenosylmethionine decarboxylase proenzyme
+XX
+KW   WGS.
+XX
+OS   Gracilariopsis chorda
+OC   Eukaryota; Rhodophyta; Florideophyceae; Rhodymeniophycidae; Gracilariales;
+OC   Gracilariaceae; Gracilariopsis.
+XX
+RN   [1]
+RC   Publication Status: Available-Online prior to print
+RX   DOI; .1093/molbev/msy081.
+RX   PUBMED; 29688518.
+RA   Lee J., Yang E.C., Graf L., Yang J.H., Qiu H., Zel Zion U., Chan C.X.,
+RA   Stephens T.G., Weber A.P.M., Boo G.H., Boo S.M., Kim K.M., Shin Y.,
+RA   Jung M., Lee S.J., Yim H.S., Lee J.H., Bhattacharya D., Yoon H.S.;
+RT   "Analysis of the Draft Genome of the Red Seaweed Gracilariopsis chorda
+RT   Provides Insights into Genome Size Evolution in Rhodophyta";
+RL   Mol. Biol. Evol. 35(8):1869-1886(2018).
+XX
+RN   [2]
+RA   Yoon H.S.;
+RT   ;
+RL   Submitted (28-NOV-2017) to the INSDC.
+RL   Biological Sciences, Sungkyunkwan University, Cheoncheon-dong, Suwon-si,
+RL   Gyeonggi-do 440-746, South Korea
+XX
+DR   MD5; cb1a58bdb3c2b086dfa56fadf2710d42.
+DR   BioSample; SAMN06233403.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..2193
+FT                   /organism="Gracilariopsis chorda"
+FT                   /isolate="SKKU-2015"
+FT                   /mol_type="genomic DNA"
+FT                   /country="South Korea:coastal farm at Jangheung, Jeonnam"
+FT                   /tissue_type="whole body"
+FT                   /db_xref="taxon:448386"
+FT   CDS             NBIV01000020.1:91521..93713
+FT                   /codon_start=1
+FT                   /locus_tag="BWQ96_02393"
+FT                   /product="S-adenosylmethionine decarboxylase proenzyme"
+FT                   /db_xref="GOA:A0A2V3IZY9"
+FT                   /db_xref="InterPro:IPR001985"
+FT                   /db_xref="InterPro:IPR002433"
+FT                   /db_xref="InterPro:IPR009006"
+FT                   /db_xref="InterPro:IPR016067"
+FT                   /db_xref="InterPro:IPR018166"
+FT                   /db_xref="InterPro:IPR022643"
+FT                   /db_xref="InterPro:IPR029066"
+FT                   /db_xref="UniProtKB/TrEMBL:A0A2V3IZY9"
+FT                   /protein_id="PXF47711.1"
+FT                   /translation="MPDIVPYEKPPPTPPHQEQQQQMDTPFEGPEKKLSLHFIPKCNRE
+FT                   EARSLRSLSRECIDHILSAAACSILSFSRNEHIDAYVLSESSLFIKDRSFTIKTCGTTT
+FT                   LLNALPTILHYANTLYLTPLSLSFSRVAYRFPDAQPFPHDCFENEVRSIDDALQSTRCG
+FT                   FDKRVHCWNDWYMYDARFDESGERNEETEGGTDCADTTLEMFMFDVDETQMSHYDFTAR
+FT                   EHLVGSDESHKVTKESGIKHFLYDCDVIDAFNFAPCGYSMNALSKQTYMTMHITPEVEA
+FT                   SYVSFEISGEVHNVAVVVAKVTRLFKPGRMTVVLVGGIALQHEQMGMVPKMFEREYVHD
+FT                   VSAGEWCTGGAKICVSSFSRERGAAYGIGKRFGAIEVGEGVGSFEVGEIAGADEGCESL
+FT                   MIVDLKAVERGFEEVQERFGKGVDIRYEVRTNRAEGIVALLDCMGSRFEAEGEEDLEAL
+FT                   ERAGVEKERIVLAGAVGERGLVERVECVAVFEDGALLQTAVECGACVEIRVVDGVVSGI
+FT                   WGLLKRIVAAGGRVRGVGFEGGVEMELQRKVVQMVLDSGCRLCEEFVVVVVGKGAAGRG
+FT                   AEEVEREVGQWGGYGGGRVKGGVVVGAEMVRKAVWMRVQVVGRKARWDGGMAYYVSDGV
+FT                   YGGATCAIMGGERVGAVCGGCGGGGGGGRGRGDAVKRSVVYGPTCDALDVVWSGEMEIV
+FT                   QVGEWLVLEGVGVQSGGACEFNGFGGSRAVRYVVCG"
+XX
+SQ   Sequence 2193 BP; 443 A; 407 C; 862 G; 481 T; 0 other;
+     atgcccgaca tcgttccata cgagaagccg ccgccgacgc cgccacacca ggaacagcag        60
+     cagcagatgg acacgccctt tgaaggtccc gagaaaaaac tcagcttgca ctttattcca       120
+     aagtgcaatc gagaggaggc gcgatccttg cgctctcttt cccgagagtg catagatcac       180
+     attctgtctg ccgcggcgtg ttccatacta tcgttttctc gaaacgagca tatcgatgcg       240
+     tacgtactgt ccgagtcttc gctgttcatc aaggatcggt cgttcaccat caagacgtgt       300
+     ggaacgacga cacttctcaa cgcccttcca acaattctac actatgcaaa tacgctgtac       360
+     ctcacgccgc tgtcactttc attctcacgt gttgcatacc ggttcccgga cgcgcagccg       420
+     tttcctcacg actgtttcga gaacgaggtg cgtagtattg acgacgcttt gcaaagcacg       480
+     cgctgtggct ttgacaaacg tgtacactgc tggaatgact ggtatatgta cgacgctcgg       540
+     tttgacgaga gtggcgaacg gaacgaggag actgaaggtg gtacagattg tgctgatact       600
+     acgttggaga tgttcatgtt tgacgtggat gagacgcaaa tgtcgcacta tgatttcaca       660
+     gcgcgtgagc acttggtcgg ttcagatgaa tcgcacaagg tgactaaaga aagcggtata       720
+     aaacactttc tgtacgactg tgacgtgatt gatgctttca acttcgcacc gtgcgggtac       780
+     tctatgaacg cgctatcgaa gcagacgtac atgacgatgc acatcacgcc cgaggtggag       840
+     gcgtcttatg tgtcgtttga aatcagcggt gaggtacata acgttgccgt agtggtggcg       900
+     aaggtgacgc gtctgttcaa accgggtcgc atgacggtgg ttctggtggg gggtatcgcg       960
+     ctacaacacg agcagatggg catggtacca aagatgtttg agagggaata tgtgcatgac      1020
+     gtgagtgcag gggagtggtg cacggggggt gcgaagatat gtgtaagcag ctttagcagg      1080
+     gagaggggag ctgcttatgg gattgggaag cgatttggcg ctattgaagt cggggagggg      1140
+     gttgggtcgt ttgaagtggg cgagattgca ggcgcggatg agggctgtga gagcttgatg      1200
+     attgtggact tgaaggcggt ggaacgggga tttgaagagg ttcaagagcg gtttggaaaa      1260
+     ggggtggata ttcgatatga ggttcggacg aaccgggctg agggcattgt ggcactgttg      1320
+     gactgcatgg gaagccgatt cgaggcggag ggagaggagg atttggaggc gttggaaagg      1380
+     gctggagtgg agaaggaacg gattgtgctg gcgggggcgg tgggggagcg cgggttggtc      1440
+     gaacgtgtgg agtgtgtggc ggtgtttgag gacggggcgc tgttgcagac ggctgtagag      1500
+     tgcggagctt gcgttgagat tcgcgtagtt gatggcgtgg tgtcggggat ttgggggctg      1560
+     ttgaagcgaa ttgtggcggc gggcgggcgg gtaaggggcg tggggtttga agggggggtt      1620
+     gaaatggagc tgcaacgaaa ggttgtgcag atggttctgg acagtgggtg caggctgtgc      1680
+     gaggagtttg ttgtggtggt ggtgggcaag ggcgcggcgg gacgtggggc ggaggaagtt      1740
+     gagagggagg ttgggcagtg gggggggtat ggagggggaa gagtgaaagg tggggtggtg      1800
+     gtgggtgcgg agatggtgag aaaggcggtg tggatgcgcg tgcaagtggt cggacgcaag      1860
+     gcgcgttggg acggcggaat ggcgtactac gtgagtgacg gcgtgtatgg cggcgccact      1920
+     tgcgcgatca tgggggggga gcgcgtggga gctgtgtgcg gcggctgtgg ggggggcggg      1980
+     ggcgggggca ggggcagggg cgacgcggtg aaacggtcgg tggtgtacgg accgacttgc      2040
+     gacgcgctgg acgttgtgtg gagcggggag atggagattg tgcaagttgg agagtggctg      2100
+     gtgctggagg gggtgggcgt gcagagtggc ggcgcgtgcg agtttaacgg ctttggcggc      2160
+     tctcgtgcgg tgaggtacgt tgtgtgcggc tga                                   2193
+//

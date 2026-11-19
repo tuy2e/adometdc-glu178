@@ -1,0 +1,93 @@
+ID   KAK9855777; SV 1; linear; genomic DNA; WGS; PLN; 1235 BP.
+XX
+PA   JALJOV010001043.1
+XX
+PR   Project:PRJNA790449;
+XX
+DT   12-JUN-2024 (Created)
+DT   12-JUN-2024 (Last updated)
+XX
+DE   Apatococcus fuscideae partial hypothetical protein
+XX
+KW   WGS.
+XX
+OS   Apatococcus fuscideae
+OC   Eukaryota; Viridiplantae; Chlorophyta; core chlorophytes; Trebouxiophyceae;
+OC   Chlorellales; Chlorellaceae; Apatococcus.
+XX
+RN   [1]
+RC   Publication Status: Online-Only
+RX   PUBMED; 38789482.
+RA   Puginier C., Libourel C., Otte J., Skaloud P., Haon M., Grisel S.,
+RA   Petersen M., Berrin J.G., Delaux P.M., Dal Grande F., Keller J.;
+RT   "Phylogenomics reveals the evolutionary origins of lichenization in
+RT   chlorophyte algae";
+RL   Nat Commun 15(1):.
+XX
+RN   [2]
+RA   Dal Grande F., Keller J., Delaux P.-M.;
+RT   ;
+RL   Submitted (23-APR-2024) to the INSDC.
+RL   Biodiversity and Climate Research Centre (BIK-F), Senckenberg,
+RL   Senckenberganlage 25, Frankfurt am Main 60325, Germany
+XX
+DR   MD5; 739a593ab9af0eb6bf300aacfe436f6c.
+DR   BioSample; SAMN24199001.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..1235
+FT                   /organism="Apatococcus fuscideae"
+FT                   /host="Fuscidea kochiana"
+FT                   /strain="SAG 2523"
+FT                   /mol_type="genomic DNA"
+FT                   /lat_lon="46.849999 N 15.016581 E"
+FT                   /isolation_source="phycobiont of crustose lichen Fuscia
+FT                   kochiana (Hepp) V. Wirth & Vezda, on a vertical,
+FT                   south-facing rock, about 1.5 m above the ground"
+FT                   /collection_date="1998-08"
+FT                   /db_xref="taxon:2026836"
+FT                   /type_material="culture from holotype of Apatococcus
+FT                   fuscideae"
+FT                   /submitter_seqid="Apafus_SAG2523_v1_Scf1043"
+FT                   /geo_loc_name=Austria: Styria, Handalpe (1730 m alt.)
+FT   CDS             complement(join(JALJOV010001043.1:806..1020,
+FT                   JALJOV010001043.1:2113..2291,JALJOV010001043.1:2823..2894,
+FT                   JALJOV010001043.1:3350..3450,JALJOV010001043.1:3655..3941,
+FT                   JALJOV010001043.1:4503..>4883))
+FT                   /codon_start=1
+FT                   /locus_tag="WJX84_010316"
+FT                   /product="hypothetical protein"
+FT                   /protein_id="KAK9855777.1"
+FT                   /translation="MLAPDIFPAPAFEGSEKRLELDWAALGRPVLPVPARGLRALTRQQ
+FT                   IATLLEATGCCIVSSRSCVTFDAYVLSESSLFLYETKFVIKTCGTTKTLALVPQLLRFA
+FT                   ADLGLAPTRCKYSRATFLFPAAQPAPYNAWEGEVELLNQLFGHLGSSHACTLGQPSAGC
+FT                   LQWHLFVAQAQVPPAQPATPTGCSIEICSTGLCPRQALSFHRADSNFVSAAQTTAKTGI
+FT                   RGAASIFRPRHMAVAVSWSGGQSASYSNSSGLLTGYHQMGTWTEALPDGGSVTFTQFAQ
+FT                   HGLEDPVWVADLGAVKRLYEAWVEAMPRVRPFYAAKCNMDPGLLAALSSLGAGFDCASE
+FT                   AELRAAVQAGASPGKDIVFANACKRPRDIRAAASMGVNLTTFDTPCEVQKLAQYHPGTA
+FT                   ALLRIRADDPDA"
+XX
+SQ   Sequence 1235 BP; 220 A; 395 C; 351 G; 269 T; 0 other;
+     atgctggctc ccgacatctt tccggcgcca gcctttgaag gctctgagaa gcggcttgag        60
+     ctcgactggg cggcgctcgg ccgacccgtc ctccccgtgc cagcacgtgg tcttcgagcc       120
+     cttacccggc agcaaatcgc aaccttgctg gaagccacag gctgctgcat cgtctcgtcg       180
+     cgcagttgcg tgacttttga cgcatatgtt ttgtcagagt cgagtctgtt cttgtacgag       240
+     acaaaattcg tcatcaagac ctgcgggacc accaagacgc tggccttggt gccacagttg       300
+     ctgcgctttg ctgctgatct gggcctggct cccacacgct gcaaatactc tcgcgccacc       360
+     ttccttttcc ctgcagctca gcctgcacca tacaatgcat gggagggaga ggtggagctc       420
+     ttgaaccagc tctttggcca cctgggcagc agccatgcct gcaccctggg acagccttcc       480
+     gcaggctgcc ttcaatggca tctgtttgtt gcccaagcac aggttccccc tgcccagcct       540
+     gctaccccca caggctgctc cattgagatc tgctcaacag gcctctgccc taggcaggcc       600
+     ctgagcttcc acagggctga cagcaacttt gtcagcgcgg cgcagaccac ggccaagaca       660
+     ggcatcagag gtgctgccag catcttccgg ccgcggcata tggcggttgc tgtctcttgg       720
+     tcaggtggtc agagtgcctc ctatagcaac tcctcggggt tgctgacagg ctaccatcaa       780
+     atgggcacct ggactgaggc cttgccagat ggaggcagtg tgactttcac ccagtttgct       840
+     cagcatgggc tggaggaccc tgtctgggta gctgaccttg gggccgtgaa acgattgtac       900
+     gaggcctggg ttgaggccat gccccgcgtc cgccccttct atgcagccaa gtgcaatatg       960
+     gatcctgggc ttcttgctgc gctgtccagc cttggcgctg ggtttgactg tgcctctgag      1020
+     gctgagttga gagcagcagt acaggctggt gccagtcctg gcaaggacat cgtgtttgcc      1080
+     aatgcctgca agcgcccacg ggatatcagg gcggcagctt ccatgggtgt caacctaacc      1140
+     accttcgaca caccctgcga ggtccaaaag ctcgcccagt accaccccgg cactgctgcg      1200
+     cttctgcgca tccgtgcaga tgacccagat gccag                                 1235
+//

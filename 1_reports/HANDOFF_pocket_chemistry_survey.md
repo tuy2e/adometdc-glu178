@@ -15,6 +15,29 @@ So the new question is chemical and answerable by computer: **can pocket chemist
 
 The model is Begg, Mason & Zimmer 2026, *J. Chem. Inf. Model.* 66:10266 (Luke and Maddie's paper). It is a systematic structure survey, computational only, validated against known data, with honest limits. Their code: github.com/headsparkle/gfp-barrel-geometry.
 
+## Template: Marc's HEPN paper (follow its methods)
+
+Zimmer M. 2026, "Recurrent catalytic-site change and electrostatic remodeling across the HEPN ribonuclease fold", *J. Mol. Biol.* 439:170055, doi:10.1016/j.jmb.2026.170055. FOLDTRACE v0.2.0, Zenodo doi:10.5281/zenodo.22081699. Tui has the PDF; it is not in the repo (copyright).
+
+His question was what happens to the old active site when evolution removes the catalytic His: does it decay, or is it physicochemically remodelled? **Ours is the same question for a regulatory site:** when Glu178 is lost, does the putrescine pocket decay, fill (plant-like), or get electrostatically remodelled?
+
+| His method | Our version |
+|---|---|
+| FOLDTRACE fold search + 3D mapping of the chemistry-defining residues (Arg97/His102) | The existing `stuy__adometdc` run (1,000 models); functional centre = 1MSV putrescine centroid; residues 13/15/111/174/176/178/256/285 |
+| Pocket retention: fpocket 4.0. The canonical cleft is the fpocket call nearest the functional centre. The distance cutoff is the 95th percentile from intact controls (leave-one-control-out); volume ≥ 80 Å³; lining pLDDT ≥ 70 | The same, with Glu178-retaining enzymes as controls |
+| Electrostatics: PDB2PQR 3.6.1 (AMBER, pH 7.0) → APBS 3.4.1 (97³ grid), interpolated at the fpocket alpha-sphere points, reported as the median per pocket | The same |
+| Classes: active-like / inverted / decay-like / remodelled-unresolved, using control median ± 3.5 robust SD plus cleft, Arg/Lys and pLDDT gates | human-like / filled (plant-type) / remodelled-shifted (*T. cruzi*-type) / decayed / unresolved |
+| Statistics: 50% and 70% identity cluster reduction with bootstrap CIs; one-to-one patristic matching with an exact sign-flip test; spread across 1,000 UFBoot topologies | The same (Glu-less vs nearest Glu-retaining enzyme) |
+| Phylogeny: Fitch minimum H/non-H changes, Mk2 model, range across UFBoot trees, 80% taxon jackknife. Reports "repeated changes, range X–Y", never an exact count | Glu/non-Glu changes on the 200-enzyme tree. **This is how to report the unresolved one-vs-two-losses question.** |
+| Dimer check: AF-Multimer, 4 seeds. Monomer calls can flip once the dimer is built | Human AdoMetDC is an (αβ)₂ dimer, potato a monomer. Check whether the putrescine site touches the interface; if it does, model dimers for key cases (AF Server, Tui can run it) |
+| Discordant-locus check: introns and spliced neighbours to rule out contamination | Ties to to-do 1F (genome vs transcriptome) for the cross-supergroup sequences |
+
+**What's new compared with his paper:**
+
+- The site is allosteric, not catalytic.
+- The controls are biochemical (enzymes with measured putrescine responses), not only structural.
+- AdoMetDC has known precedents for each outcome: human E178Q, plant filled pocket, *T. cruzi* shifted site, *Plasmodium* Lys-filled pocket.
+
 ## Stage 1 = go/no-go (do this first, 1–2 sessions)
 
 1. **Literature check.** Has anyone compared AdoMetDC putrescine-site electrostatics across species? Start with Bale 2008, Bennett 2002, Clyne 2002, Beswick 2006, Wells 2006 / Williams 2011 (notes in `5_literature/paper_notes_activation_mechanisms.md`).

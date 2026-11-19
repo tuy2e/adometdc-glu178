@@ -1,0 +1,125 @@
+ID   CAB8895290; SV 1; linear; transcribed RNA; TSA; PLN; 2508 BP.
+XX
+PA   HASE01019159.1
+XX
+PR   Project:PRJEB37117;
+XX
+DT   20-JUL-2020 (Rel. 144, Created)
+DT   20-JUL-2020 (Rel. 144, Last updated, Version 1)
+XX
+DE   Tetraselmis sp. GSL018 hypothetical protein
+XX
+KW   TSA; Transcriptome Shotgun Assembly.
+XX
+OS   Tetraselmis sp. GSL018
+OC   Eukaryota; Viridiplantae; Chlorophyta; core chlorophytes;
+OC   Chlorodendrophyceae; Chlorodendrales; Chlorodendraceae; Tetraselmis;
+OC   unclassified Tetraselmis.
+XX
+RN   [1]
+RA   Corre E., Pelletier E., Niang G., Scheremetjew M., Finn R., Kale V.,
+RA   Holt S., Cochrane G., Meng A., Brown T., Johnson (cohen) L.;
+RT   ;
+RL   Submitted (01-JUN-2020) to the INSDC.
+RL   ELIXIR Workflow Implementation Study, CNRS / Sorbonne Universite, STATION
+RL   BIOLOGIQUE DE ROSCOFF, Place Georges Teissier, 29680 Roscoff, France
+XX
+DR   MD5; 4713713f4e7843d3b383087069c309bc.
+DR   BioSample; SAMN02729510.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..2508
+FT                   /organism="Tetraselmis sp. GSL018"
+FT                   /strain="GSL1"
+FT                   /cultivar="GSL018"
+FT                   /mol_type="transcribed RNA"
+FT                   /db_xref="taxon:582737"
+FT   CDS             HASE01019159.1:661..3168
+FT                   /codon_start=1
+FT                   /transl_table=1
+FT                   /locus_tag="TSP0419_LOCUS9083"
+FT                   /note="source:transdecoder"
+FT                   /note="ID:cds.MMETSP0419-doi:10.5281-zenodo.249982-Transcri
+FT                   pt-2724.p1"
+FT                   /inference="protein motif:InterPro:IPR001985"
+FT                   /inference="protein motif:GO:0006596"
+FT                   /inference="protein motif:GO:0006597"
+FT                   /inference="protein motif:InterPro:IPR022653"
+FT                   /inference="protein motif:InterPro:IPR022644"
+FT                   /inference="protein motif:InterPro:IPR018166"
+FT                   /inference="protein motif:InterPro:IPR016067"
+FT                   /inference="protein motif:KEGG:00330+4.1.1.50"
+FT                   /inference="protein motif:KEGG:00270+4.1.1.50"
+FT                   /inference="protein motif:GO:0003824"
+FT                   /inference="protein motif:MetaCyc:PWY-6834"
+FT                   /inference="protein motif:InterPro:IPR022643"
+FT                   /inference="protein motif:Reactome:R-HSA-351202"
+FT                   /inference="protein motif:InterPro:IPR000183"
+FT                   /inference="protein motif:InterPro:IPR029066"
+FT                   /inference="protein motif:GO:0004014"
+FT                   /inference="protein motif:GO:0008295"
+FT                   /inference="protein motif:InterPro:IPR002433"
+FT                   /inference="protein motif:InterPro:IPR009006"
+FT                   /inference="ab initio prediction:InterProScan:5.28-67.0"
+FT                   /protein_id="CAB8895290.1"
+FT                   /translation="MAAADIHGSASDLPCPVFEGSEKRLEVDFTLCPSDTSQLGLRAVQ
+FT                   RQKLDSLLEKAACSIVSVRSNPHFDAYVLSESSLFVYPRKWVLKTCGTTKLLASVPGLL
+FT                   EYADELGMMAVRVKYSRASYLFPDKQPEDHKFFSDEAAFLEGHFGHIGLSGGRAQVLGD
+FT                   PLRGLQWHVYTAGADIPPHRATQTLEVCMTGLNTAKAACFHRGPDFRGVEELTRSCGIR
+FT                   ALAPFADMDAILFDPCGYSLNGLEGPGFLTIHITPEEACSYASVEFCGFTVGSYSPTEL
+FT                   VSRIADIFEPRALAVCMSTDATVCDQVWNAELELPPLFAESADRSSVALNIGGQLSYIT
+FT                   GVRAPGKEMGSPPGETCAGTPPRGSMHRSLSFASTMSCDTVTGALQHVPPSSDAQSGSA
+FT                   SAGEDSDLVSVLMGYAGGNNDLAAVLASHGVVPSTCSSIRANMREKAAAVIAASDPEAL
+FT                   DVFYLYDLGVVRRLYAAWSEALPRVHAHYAVKCNSNPALISTLSALGAGFDCASRAELD
+FT                   LVLGLGVPPERVVYANCCKLPREMRYALHRGVSVSVVDSRSELEKSAAMTPDASLLLRI
+FT                   RADDPSARCQLGNKYGIEMEDVPELLTYAAELGLNLVGVSFHVGSGSKNPAAFEEAIFK
+FT                   SRKVFDAAEKHGFSFTMLDIGGGMASCISDVGEVSFVGDFPGAINSALDRWFPPESGTT
+FT                   IIAEPGRFFAEPAAMMATAVFGYRERQGPPGGRPKDYYITDGLYGSFNAILYDHANVSC
+FT                   EPLRSPLLPPVEDAPPSAWSRSVVFGPTCDGLDTVLENFPLPDLRNGDWLLFPNMGAYT
+FT                   IAGATNFNGINVTHLPTFYTYTC"
+XX
+SQ   Sequence 2508 BP; 429 A; 773 C; 764 G; 542 T; 0 other;
+     atggcagcag ctgatataca cggatcagcc tccgatcttc cctgccctgt gttcgagggc        60
+     tccgagaagc gcctggaggt cgacttcacg ctttgtccct ccgatacttc gcagctgggc       120
+     ttgcgcgcag tgcagcgcca gaaacttgac agcctgctag agaaagcagc ttgctccatt       180
+     gtgagtgtac ggtcgaaccc ccactttgat gcgtatgtgc tgtccgagtc aagcctgttc       240
+     gtatatccac gcaagtgggt actaaagact tgtggtacaa ccaagctcct tgcgtctgtc       300
+     cctggtttgc ttgagtatgc tgatgagctc ggcatgatgg ctgtgagagt caagtactca       360
+     agggctagct accttttccc agacaaacag cctgaggatc acaagttctt ctctgacgag       420
+     gctgccttcc tcgaggggca ttttgggcac attggccttt ctgggggccg agctcaggtc       480
+     ctgggggatc cgctccgtgg attgcagtgg catgtgtaca ctgctggcgc agatatcccc       540
+     ccgcatcgtg ccacccagac ccttgaggtc tgcatgacgg gcctcaacac tgccaaggct       600
+     gcatgcttcc atcgtgggcc tgacttcagg ggtgtcgaag agctgacaag atcctgcggc       660
+     attagggctc tggcgccgtt tgctgacatg gatgccatcc tcttcgaccc ctgcggatac       720
+     tctctgaatg ggcttgaggg ccccggcttc ctcaccatcc acatcacccc cgaggaggca       780
+     tgcagctacg cgagcgtcga gttttgcggc ttcaccgtcg ggtcctacag cccaaccgag       840
+     cttgtgtctc ggatcgccga catctttgag ccccgcgccc ttgcagtgtg catgtcgaca       900
+     gacgccactg tctgcgacca ggtctggaac gctgagctgg aactcccgcc tctgtttgcg       960
+     gagtcggcgg accgcagcag cgttgccctg aacatcggcg gccagctctc gtacatcacg      1020
+     ggcgtccggg ctcctggcaa ggaaatgggg agccccccgg gggagacctg cgcagggact      1080
+     cccccgcggg gcagcatgca ccggtccctc agctttgcct cgaccatgtc ctgcgacacc      1140
+     gtgacggggg cgctccagca tgtgcccccc tcgtcggatg ctcaatcggg ctcggcctct      1200
+     gcgggcgagg actcggacct cgtcagtgtc ctcatggggt atgccggtgg gaacaacgac      1260
+     ctcgctgcgg tactcgcgtc ccacggcgtt gtcccgagca cctgcagcag catccgggcc      1320
+     aacatgcgcg agaaggctgc tgcagtgatc gcggcgtcgg atcctgaggc gctcgacgtg      1380
+     ttctacctgt acgacctcgg cgtcgttcgg cgcctctatg ctgcctggag cgaggcgctg      1440
+     cctcgcgtgc acgcgcacta tgcagtgaag tgcaacagca accctgcact catctcgacg      1500
+     ctctcggcgc ttggcgcagg gtttgactgc gcctcgcggg cagagcttga cctcgtcctc      1560
+     ggccttggtg tcccgccgga gcgcgtggtt tatgccaact gctgcaagct cccgcgggaa      1620
+     atgaggtatg cgctgcaccg cggtgtttcg gtcagcgtgg tcgacagccg aagcgagctc      1680
+     gagaagtcgg cggcaatgac tccggatgcc tcgctgctgc tgcggatccg cgccgatgat      1740
+     ccctctgcgc gttgtcagct tgggaacaag tatggtattg agatggagga tgtccccgag      1800
+     ctcctcactt atgcggcgga gctcggcctc aacctcgtgg gggtgtcctt ccacgtcggg      1860
+     agtggctcga agaaccctgc agcatttgag gaggccatct tcaagtcgcg gaaggtgttt      1920
+     gatgcggctg agaagcatgg gttttccttc accatgcttg acatcggggg cgggatggca      1980
+     tcttgcatca gtgatgtagg tgaggtgagc tttgtcggcg actttccggg cgccatcaat      2040
+     tcggcgctcg accggtggtt cccacccgag agcgggacca ccatcatcgc ggagcccggc      2100
+     aggttctttg cggagcccgc agcgatgatg gccaccgcgg tctttgggta ccgtgagcgg      2160
+     cagggccccc cgggcgggag accgaaggac tactacatta cggatgggtt atatggctcg      2220
+     ttcaacgcca tcttatacga tcatgcgaat gtctcttgtg agccgctgcg gtcgccgctg      2280
+     ctcccgcccg tggaggacgc ccctccctcg gcgtggagcc gctcggttgt ctttggaccc      2340
+     acatgtgacg gccttgacac tgtgctcgag aacttccctc ttccagatct aaggaatggg      2400
+     gattggctcc tatttcccaa catgggagcg tacaccattg cgggtgcaac caatttcaat      2460
+     ggcatcaacg tgacacatct gccaaccttc tacacctaca cctgctga                   2508
+//

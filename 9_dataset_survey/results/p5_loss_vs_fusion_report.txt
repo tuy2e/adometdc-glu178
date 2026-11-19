@@ -1,0 +1,212 @@
+Track A: site loss vs fusion. 772 fold-passers (A0A8C5BDJ7 excluded). Taxonomy: UniProt taxonomy API, cached in data/taxonomy.json. Permutations: 10000, seed 1.
+
+====================================================================================================
+ALL SOURCES (interpro + replacement_record + uniparc_features)
+====================================================================================================
+classes: {'standalone': 590, 'fused': 101, 'repeated': 81}
+
+[1] Loss of >= 1 site, standalone vs fused (architecture-based)
+  A: all proteins                                                standalone 25/590 (4.2%)    fused 3/101 (3.0%)   Fisher p = 0.785
+  B: all five sites resolved                                     standalone 14/456 (3.1%)    fused 1/85 (1.2%)    Fisher p = 0.486
+  sensitivity:
+  repeated PF01536 counted as standalone                         standalone 38/671 (5.7%)    fused 3/101 (3.0%)   Fisher p = 0.344
+  fused excluding leader-peptide-only (PF08132)                  standalone 25/590 (4.2%)    fused 2/66 (3.0%)    Fisher p = 1
+  leader-peptide-only fusions vs standalone                      standalone 25/590 (4.2%)    fused 1/35 (2.9%)    Fisher p = 1
+  repeated PF01536 class on its own: 13/81 (16.0%)
+
+[5] Each site separately (resolved calls only: lost vs retained+altered)
+  Ser68    standalone 10/512 (2.0%)    fused 0/90 (0.0%)    Fisher p = 0.372
+  Ser229   standalone 10/548 (1.8%)    fused 1/98 (1.0%)    Fisher p = 1
+  His243   standalone 13/539 (2.4%)    fused 1/96 (1.0%)    Fisher p = 0.706
+  Cys82    standalone 9/539 (1.7%)     fused 1/94 (1.1%)    Fisher p = 1
+  Glu247   standalone 12/531 (2.3%)    fused 1/96 (1.0%)    Fisher p = 0.703
+
+[2] Relatedness
+  proteins with a loss (28) fall in 27 distinct genus
+  proteins with a loss (28) fall in 22 distinct family
+  proteins with a loss (28) fall in 21 distinct order
+  proteins with a loss (28) fall in 11 distinct class
+  proteins with a loss (28) fall in 9 distinct phylum
+  losses by order: Trypanosomatida: 5; Poales: 2; Fabales: 2; Malvales: 2; Perciformes: 1; Candidatus Eiseniibacteriota (no order): 1; Acidobacteriota (no order): 1; Artiodactyla: 1; Alteromonadales: 1; Proboscidea: 1; Myxococcales: 1; Apusomonadida: 1; Eukaryota (no order): 1; Ericales: 1; Phasmatodea: 1; Eubodonida: 1; Lepidoptera: 1; Saxifragales: 1; Neobodonida: 1; Diptera: 1; Marchantiales: 1
+  proteins with a loss: A0A8C9YNV1 Sander lucioperca [standalone] lost Ser229,His243 (pLDDT 41.88,37.75); A0A7Y2E840 Candidatus Eiseniibacteriota bacterium [standalone] lost Glu247 (pLDDT 94.56); A0AA43CE50 Acidobacteriota bacterium [standalone] lost Glu247 (pLDDT 90.56); A0A4U1ESQ4 Monodon monoceros [standalone] lost Cys82 (pLDDT 89.81); Q0HW77 Shewanella sp. MR-7 [standalone] lost Glu247 (pLDDT 85.06); G3UBI2 Loxodonta africana [standalone] lost Glu247 (pLDDT 81.25); A0A956AJ92 Myxococcales bacterium [standalone] lost Glu247 (pLDDT 87.0); A0A0L0D250 Thecamonas trahens ATCC 50062 [standalone] lost Glu247 (pLDDT 81.44); A0A7S3GBT7 Palpitomonas bilix [standalone] lost Ser68,His243,Cys82,Glu247 (pLDDT 88.12,90.69,82.5,73.25); A0A8R7TK29 Triticum urartu [standalone] lost Glu247 (pLDDT 56.62); A0A7J0H5K9 Actinidia rufa [standalone] lost Ser68 (pLDDT 50.22); A0A8R7PHM5 Triticum urartu [standalone] lost His243,Glu247 (pLDDT 41.94,36.72); A0A7R9J501 Timema californicum [standalone] lost Ser229 (pLDDT 73.12); A0A0S4JRG8 Bodo saltans [standalone] lost Ser68,Ser229,His243,Cys82 (pLDDT 95.44,91.25,92.56,90.25); G0TXA5 Trypanosoma vivax Y486 [standalone] lost Ser229,His243,Cys82 (pLDDT 91.5,92.75,89.44); A0A8S4SDF2 Pararge aegeria aegeria [standalone] lost His243 (pLDDT 81.25); A0A8B8LW03 Abrus precatorius [standalone] lost Ser68 (pLDDT 79.88); W6KKF7 Phytomonas sp. EM1 [standalone] lost Ser68,Ser229,His243,Cys82,Glu247 (pLDDT 96.5,90.81,93.56,92.5,80.94); A0AAP0X3W0 Liquidambar formosana [standalone] lost Ser68,His243,Glu247 (pLDDT 82.69,64.75,54.84); S9VCY8 Angomonas deanei [standalone] lost Ser68,Ser229,His243,Cys82,Glu247 (pLDDT 95.62,90.06,94.25,91.06,86.75); A0A7S1R469 Neobodo designis [standalone] lost Ser68,Ser229,His243,Cys82 (pLDDT 95.38,90.44,93.31,93.88); E9B186 Leishmania mexicana MHOM/GT/2001/U1103 [standalone] lost Ser68,Ser229,His243,Cys82 (pLDDT 94.75,90.56,93.31,92.38); A0A182S7A7 Anopheles maculatus [standalone] lost His243 (pLDDT 50.97); A0AAV0Z7Y9 Vicia faba [standalone] lost Ser229 (pLDDT 98.25); S9UUR4 Strigomonas culicis [standalone] lost Ser68,Ser229,His243,Cys82 (pLDDT 95.81,84.94,91.25,91.06); A0ABD3ICG1 Riccia sorocarpa [fused] lost Ser229 (pLDDT 91.56); A0AAV5LYH6 Rubroshorea leprosula [fused] lost Cys82 (pLDDT 33.41); A0A6A3C354 Hibiscus syriacus [fused] lost His243,Glu247 (pLDDT 34.69,28.05)
+  collapsed to one unit per genus  : standalone 24/432 (5.6%)    fused 3/82 (3.7%)    Fisher p = 0.599
+  collapsed to one unit per family : standalone 19/349 (5.4%)    fused 3/69 (4.3%)    Fisher p = 1
+  collapsed to one unit per order  : standalone 19/243 (7.8%)    fused 2/60 (3.3%)    Fisher p = 0.392
+  collapsed to one unit per class  : standalone 10/131 (7.6%)    fused 2/36 (5.6%)    Fisher p = 1
+  within-phylum permutation: observed difference 1.27 points, p = 0.717; MH odds ratio 0.961; 18 phylum contain both classes (558 proteins, 17 with a loss)
+  within-class  permutation: observed difference 1.27 points, p = 0.704; MH odds ratio 0.977; 27 class contain both classes (381 proteins, 13 with a loss)
+  within-order  permutation: observed difference 1.27 points, p = 0.668; MH odds ratio 1.07; 40 order contain both classes (256 proteins, 9 with a loss)
+
+[3] pLDDT, standalone vs fused (Mann-Whitney, two-sided)
+  plddt_model              standalone mean 83.5 median 84.8 (n 590); fused mean 75.1 median 76.8 (n 101); p = 4e-21
+  plddt_adometdc_domain    standalone mean 90.1 median 91.4 (n 590); fused mean 86.0 median 87.1 (n 101); p = 1.63e-10
+  plddt_sites              standalone mean 93.7 median 94.7 (n 589); fused mean 89.1 median 90.8 (n 101); p = 5.08e-16
+  pLDDT at the lost sites themselves: 58 calls, 12 below 70, median 90.25
+  loss test restricted to mean site pLDDT >= 70                  standalone 22/584 (3.8%)    fused 2/97 (2.1%)    Fisher p = 0.558
+
+[4] Taxonomic makeup
+  by domain:
+    Eukaryota                                     standalone  529 (loss 21)   fused 100 (loss 3)
+    Bacteria                                      standalone   59 (loss  4)   fused   0 (loss 0)
+    (unknown)                                     standalone    2 (loss  0)   fused   1 (loss 0)
+  by kingdom:
+    Metazoa                                       standalone  209 (loss  6)   fused  13 (loss 0)
+    Viridiplantae                                 standalone  140 (loss  6)   fused  64 (loss 3)
+    Fungi                                         standalone  106 (loss  0)   fused  16 (loss 0)
+    Eukaryota (no kingdom)                        standalone   74 (loss  9)   fused   7 (loss 0)
+    Pseudomonadati                                standalone   57 (loss  3)   fused   0 (loss 0)
+    (unknown)                                     standalone    2 (loss  0)   fused   1 (loss 0)
+    Bacteria (no kingdom)                         standalone    1 (loss  1)   fused   0 (loss 0)
+    Bacillati                                     standalone    1 (loss  0)   fused   0 (loss 0)
+  by phylum:
+    Streptophyta                                  standalone  125 (loss  6)   fused  51 (loss 3)
+    Chordata                                      standalone   73 (loss  3)   fused   1 (loss 0)
+    Arthropoda                                    standalone   70 (loss  3)   fused   3 (loss 0)
+    Ascomycota                                    standalone   47 (loss  0)   fused   8 (loss 0)
+    Nematoda                                      standalone   33 (loss  0)   fused   4 (loss 0)
+    Basidiomycota                                 standalone   31 (loss  0)   fused   1 (loss 0)
+    Chlorophyta                                   standalone   15 (loss  0)   fused  13 (loss 0)
+    Eukaryota (no phylum)                         standalone   25 (loss  2)   fused   2 (loss 0)
+    Pseudomonadota                                standalone   17 (loss  1)   fused   0 (loss 0)
+    Bdellovibrionota                              standalone   16 (loss  0)   fused   0 (loss 0)
+    Euglenozoa                                    standalone   11 (loss  7)   fused   0 (loss 0)
+    Platyhelminthes                               standalone   10 (loss  0)   fused   0 (loss 0)
+    Rotifera                                      standalone    6 (loss  0)   fused   3 (loss 0)
+    Kickxellomycota                               standalone    9 (loss  0)   fused   0 (loss 0)
+    Bacillariophyta                               standalone    8 (loss  0)   fused   0 (loss 0)
+    Chytridiomycota                               standalone    6 (loss  0)   fused   2 (loss 0)
+    Rhodophyta                                    standalone    4 (loss  0)   fused   3 (loss 0)
+    Myxococcota                                   standalone    7 (loss  1)   fused   0 (loss 0)
+    Acidobacteriota                               standalone    7 (loss  1)   fused   0 (loss 0)
+    Cnidaria                                      standalone    5 (loss  0)   fused   1 (loss 0)
+    Oomycota                                      standalone    6 (loss  0)   fused   0 (loss 0)
+    Glomeromycota                                 standalone    3 (loss  0)   fused   3 (loss 0)
+    Haptophyta                                    standalone    6 (loss  0)   fused   0 (loss 0)
+    Mucoromycota                                  standalone    5 (loss  0)   fused   1 (loss 0)
+    Thermodesulfobacteriota                       standalone    6 (loss  0)   fused   0 (loss 0)
+    Mollusca                                      standalone    4 (loss  0)   fused   1 (loss 0)
+    Perkinsozoa                                   standalone    5 (loss  0)   fused   0 (loss 0)
+    Heterolobosea                                 standalone    3 (loss  0)   fused   1 (loss 0)
+    (unknown)                                     standalone    2 (loss  0)   fused   1 (loss 0)
+    Bryozoa                                       standalone    2 (loss  0)   fused   0 (loss 0)
+    Cercozoa                                      standalone    2 (loss  0)   fused   0 (loss 0)
+    Porifera                                      standalone    2 (loss  0)   fused   0 (loss 0)
+    Planctomycetota                               standalone    2 (loss  0)   fused   0 (loss 0)
+    Evosea                                        standalone    1 (loss  0)   fused   1 (loss 0)
+    Brachiopoda                                   standalone    1 (loss  0)   fused   0 (loss 0)
+    Basidiobolomycota                             standalone    1 (loss  0)   fused   0 (loss 0)
+    Parabasalia                                   standalone    1 (loss  0)   fused   0 (loss 0)
+    Zoopagomycota                                 standalone    1 (loss  0)   fused   0 (loss 0)
+    Mortierellomycota                             standalone    0 (loss  0)   fused   1 (loss 0)
+    Entomophthoromycota                           standalone    1 (loss  0)   fused   0 (loss 0)
+    Echinodermata                                 standalone    1 (loss  0)   fused   0 (loss 0)
+    Endomyxa                                      standalone    1 (loss  0)   fused   0 (loss 0)
+    Chloroflexota                                 standalone    1 (loss  0)   fused   0 (loss 0)
+    Candidatus Eiseniibacteriota                  standalone    1 (loss  1)   fused   0 (loss 0)
+    Tardigrada                                    standalone    1 (loss  0)   fused   0 (loss 0)
+    Monoblepharomycota                            standalone    1 (loss  0)   fused   0 (loss 0)
+    Discosea                                      standalone    1 (loss  0)   fused   0 (loss 0)
+    Annelida                                      standalone    1 (loss  0)   fused   0 (loss 0)
+    Neocallimastigomycota                         standalone    1 (loss  0)   fused   0 (loss 0)
+    Pseudomonadati (no phylum)                    standalone    1 (loss  0)   fused   0 (loss 0)
+    Elusimicrobiota                               standalone    1 (loss  0)   fused   0 (loss 0)
+
+====================================================================================================
+INTERPRO-ONLY SET
+====================================================================================================
+classes: {'standalone': 417, 'repeated': 60, 'fused': 84}
+
+[1] Loss of >= 1 site, standalone vs fused (architecture-based)
+  A: all proteins                                                standalone 15/417 (3.6%)    fused 3/84 (3.6%)    Fisher p = 1
+  B: all five sites resolved                                     standalone 8/322 (2.5%)     fused 1/71 (1.4%)    Fisher p = 1
+  sensitivity:
+  repeated PF01536 counted as standalone                         standalone 27/477 (5.7%)    fused 3/84 (3.6%)    Fisher p = 0.601
+  fused excluding leader-peptide-only (PF08132)                  standalone 15/417 (3.6%)    fused 2/56 (3.6%)    Fisher p = 1
+  leader-peptide-only fusions vs standalone                      standalone 15/417 (3.6%)    fused 1/28 (3.6%)    Fisher p = 1
+  repeated PF01536 class on its own: 12/60 (20.0%)
+
+[5] Each site separately (resolved calls only: lost vs retained+altered)
+  Ser68    standalone 7/360 (1.9%)     fused 0/75 (0.0%)    Fisher p = 0.61
+  Ser229   standalone 6/388 (1.5%)     fused 1/81 (1.2%)    Fisher p = 1
+  His243   standalone 9/381 (2.4%)     fused 1/80 (1.2%)    Fisher p = 1
+  Cys82    standalone 4/382 (1.0%)     fused 1/78 (1.3%)    Fisher p = 1
+  Glu247   standalone 6/376 (1.6%)     fused 1/80 (1.2%)    Fisher p = 1
+
+[2] Relatedness
+  proteins with a loss (18) fall in 17 distinct genus
+  proteins with a loss (18) fall in 14 distinct family
+  proteins with a loss (18) fall in 13 distinct order
+  proteins with a loss (18) fall in 7 distinct class
+  proteins with a loss (18) fall in 5 distinct phylum
+  losses by order: Trypanosomatida: 3; Poales: 2; Fabales: 2; Malvales: 2; Perciformes: 1; Proboscidea: 1; Apusomonadida: 1; Ericales: 1; Eubodonida: 1; Lepidoptera: 1; Saxifragales: 1; Diptera: 1; Marchantiales: 1
+  proteins with a loss: A0A8C9YNV1 Sander lucioperca [standalone] lost Ser229,His243 (pLDDT 41.88,37.75); G3UBI2 Loxodonta africana [standalone] lost Glu247 (pLDDT 81.25); A0A0L0D250 Thecamonas trahens ATCC 50062 [standalone] lost Glu247 (pLDDT 81.44); A0A8R7TK29 Triticum urartu [standalone] lost Glu247 (pLDDT 56.62); A0A7J0H5K9 Actinidia rufa [standalone] lost Ser68 (pLDDT 50.22); A0A8R7PHM5 Triticum urartu [standalone] lost His243,Glu247 (pLDDT 41.94,36.72); A0A0S4JRG8 Bodo saltans [standalone] lost Ser68,Ser229,His243,Cys82 (pLDDT 95.44,91.25,92.56,90.25); A0A8S4SDF2 Pararge aegeria aegeria [standalone] lost His243 (pLDDT 81.25); A0A8B8LW03 Abrus precatorius [standalone] lost Ser68 (pLDDT 79.88); A0AAP0X3W0 Liquidambar formosana [standalone] lost Ser68,His243,Glu247 (pLDDT 82.69,64.75,54.84); S9VCY8 Angomonas deanei [standalone] lost Ser68,Ser229,His243,Cys82,Glu247 (pLDDT 95.62,90.06,94.25,91.06,86.75); E9B186 Leishmania mexicana MHOM/GT/2001/U1103 [standalone] lost Ser68,Ser229,His243,Cys82 (pLDDT 94.75,90.56,93.31,92.38); A0A182S7A7 Anopheles maculatus [standalone] lost His243 (pLDDT 50.97); A0AAV0Z7Y9 Vicia faba [standalone] lost Ser229 (pLDDT 98.25); S9UUR4 Strigomonas culicis [standalone] lost Ser68,Ser229,His243,Cys82 (pLDDT 95.81,84.94,91.25,91.06); A0ABD3ICG1 Riccia sorocarpa [fused] lost Ser229 (pLDDT 91.56); A0AAV5LYH6 Rubroshorea leprosula [fused] lost Cys82 (pLDDT 33.41); A0A6A3C354 Hibiscus syriacus [fused] lost His243,Glu247 (pLDDT 34.69,28.05)
+  collapsed to one unit per genus  : standalone 14/345 (4.1%)    fused 3/70 (4.3%)    Fisher p = 1
+  collapsed to one unit per family : standalone 11/284 (3.9%)    fused 3/60 (5.0%)    Fisher p = 0.718
+  collapsed to one unit per order  : standalone 11/199 (5.5%)    fused 2/51 (3.9%)    Fisher p = 1
+  collapsed to one unit per class  : standalone 6/107 (5.6%)     fused 2/32 (6.2%)    Fisher p = 1
+  within-phylum permutation: observed difference 0.03 points, p = 1; MH odds ratio 0.847; 15 phylum contain both classes (378 proteins, 12 with a loss)
+  within-class  permutation: observed difference 0.03 points, p = 1; MH odds ratio 1.19; 22 class contain both classes (279 proteins, 10 with a loss)
+  within-order  permutation: observed difference 0.03 points, p = 1; MH odds ratio 1.38; 29 order contain both classes (183 proteins, 7 with a loss)
+
+[3] pLDDT, standalone vs fused (Mann-Whitney, two-sided)
+  plddt_model              standalone mean 82.6 median 83.9 (n 417); fused mean 74.3 median 76.6 (n 84); p = 2.12e-16
+  plddt_adometdc_domain    standalone mean 89.6 median 91.1 (n 417); fused mean 85.4 median 85.8 (n 84); p = 8.93e-08
+  plddt_sites              standalone mean 93.6 median 94.8 (n 416); fused mean 88.6 median 90.7 (n 84); p = 9.39e-14
+  pLDDT at the lost sites themselves: 36 calls, 12 below 70, median 86.75
+  loss test restricted to mean site pLDDT >= 70                  standalone 12/411 (2.9%)    fused 2/80 (2.5%)    Fisher p = 1
+
+[4] Taxonomic makeup
+  by domain:
+    Eukaryota                                     standalone  405 (loss 15)   fused  83 (loss 3)
+    Bacteria                                      standalone   11 (loss  0)   fused   0 (loss 0)
+    (unknown)                                     standalone    1 (loss  0)   fused   1 (loss 0)
+  by kingdom:
+    Metazoa                                       standalone  157 (loss  4)   fused  10 (loss 0)
+    Viridiplantae                                 standalone  114 (loss  6)   fused  52 (loss 3)
+    Fungi                                         standalone   90 (loss  0)   fused  15 (loss 0)
+    Eukaryota (no kingdom)                        standalone   44 (loss  5)   fused   6 (loss 0)
+    Pseudomonadati                                standalone   11 (loss  0)   fused   0 (loss 0)
+    (unknown)                                     standalone    1 (loss  0)   fused   1 (loss 0)
+  by phylum:
+    Streptophyta                                  standalone  107 (loss  6)   fused  41 (loss 3)
+    Chordata                                      standalone   58 (loss  2)   fused   0 (loss 0)
+    Arthropoda                                    standalone   51 (loss  2)   fused   2 (loss 0)
+    Ascomycota                                    standalone   38 (loss  0)   fused   8 (loss 0)
+    Nematoda                                      standalone   27 (loss  0)   fused   4 (loss 0)
+    Basidiomycota                                 standalone   26 (loss  0)   fused   1 (loss 0)
+    Chlorophyta                                   standalone    7 (loss  0)   fused  11 (loss 0)
+    Eukaryota (no phylum)                         standalone   15 (loss  1)   fused   2 (loss 0)
+    Pseudomonadota                                standalone    9 (loss  0)   fused   0 (loss 0)
+    Kickxellomycota                               standalone    8 (loss  0)   fused   0 (loss 0)
+    Chytridiomycota                               standalone    5 (loss  0)   fused   2 (loss 0)
+    Rhodophyta                                    standalone    3 (loss  0)   fused   3 (loss 0)
+    Bacillariophyta                               standalone    6 (loss  0)   fused   0 (loss 0)
+    Mucoromycota                                  standalone    5 (loss  0)   fused   1 (loss 0)
+    Cnidaria                                      standalone    4 (loss  0)   fused   1 (loss 0)
+    Oomycota                                      standalone    5 (loss  0)   fused   0 (loss 0)
+    Euglenozoa                                    standalone    5 (loss  4)   fused   0 (loss 0)
+    Mollusca                                      standalone    4 (loss  0)   fused   1 (loss 0)
+    Glomeromycota                                 standalone    3 (loss  0)   fused   2 (loss 0)
+    Platyhelminthes                               standalone    5 (loss  0)   fused   0 (loss 0)
+    Heterolobosea                                 standalone    3 (loss  0)   fused   0 (loss 0)
+    Perkinsozoa                                   standalone    3 (loss  0)   fused   0 (loss 0)
+    (unknown)                                     standalone    1 (loss  0)   fused   1 (loss 0)
+    Bryozoa                                       standalone    2 (loss  0)   fused   0 (loss 0)
+    Rotifera                                      standalone    0 (loss  0)   fused   2 (loss 0)
+    Porifera                                      standalone    2 (loss  0)   fused   0 (loss 0)
+    Evosea                                        standalone    1 (loss  0)   fused   1 (loss 0)
+    Brachiopoda                                   standalone    1 (loss  0)   fused   0 (loss 0)
+    Basidiobolomycota                             standalone    1 (loss  0)   fused   0 (loss 0)
+    Parabasalia                                   standalone    1 (loss  0)   fused   0 (loss 0)
+    Zoopagomycota                                 standalone    1 (loss  0)   fused   0 (loss 0)
+    Mortierellomycota                             standalone    0 (loss  0)   fused   1 (loss 0)
+    Entomophthoromycota                           standalone    1 (loss  0)   fused   0 (loss 0)
+    Echinodermata                                 standalone    1 (loss  0)   fused   0 (loss 0)
+    Tardigrada                                    standalone    1 (loss  0)   fused   0 (loss 0)
+    Monoblepharomycota                            standalone    1 (loss  0)   fused   0 (loss 0)
+    Haptophyta                                    standalone    1 (loss  0)   fused   0 (loss 0)
+    Discosea                                      standalone    1 (loss  0)   fused   0 (loss 0)
+    Acidobacteriota                               standalone    1 (loss  0)   fused   0 (loss 0)
+    Thermodesulfobacteriota                       standalone    1 (loss  0)   fused   0 (loss 0)
+    Annelida                                      standalone    1 (loss  0)   fused   0 (loss 0)
+    Neocallimastigomycota                         standalone    1 (loss  0)   fused   0 (loss 0)

@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/
+.idea/
+
+# NOTE: the cached API responses under 9_dataset_survey/data/ are deliberately
+# NOT ignored. UniProt entries get deleted over time (326 of this run's
+# accessions already were), so the cached records are the only proof of what
+# the annotation looked like when the analysis was done. Keep them.

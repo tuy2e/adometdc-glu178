@@ -1,0 +1,327 @@
+accession	fold_ok	uniprot_status	reason_type	deleted_reason	uniprot_named_replacement	same_sequence_uniprot_accessions	replacement_used	replacement_kind	replacement_seq_equals_model	replacement_protein_name	replacement_organism	replacement_interpro	uniparc_id	uniparc_found	uniparc_seq_equals_model	common_taxon	n_uniparc_features	annotation_recovered	uniprot_release	uniparc_release	downloaded_utc
+L8HYJ9	true	inactive	DELETED	Not part of a reference proteome									UPI0002B37282	True	True	Bos mutus	11	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:23Z
+A0AAJ7QG12	true	inactive	DELETED	Not part of a reference proteome									UPI000873BB79	True	True	Carangaria	13	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A6F9BWD9	true	inactive	DELETED	Not part of a reference proteome									UPI0013E4C558	True	True	Coregonus sp. 'balchen'	15	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:23Z
+Q4TB87	true	inactive	DELETED	Not part of a reference proteome									UPI0000273B14	True	True	Tetraodon nigroviridis	11	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A6A4RST6	true	inactive	DELETED	Not part of a reference proteome									UPI00132AC2CD	True	True	Scophthalmus maximus	13	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:23Z
+Q4TB86	true	inactive	DELETED	Not part of a reference proteome									UPI00002736EB	True	True	Tetraodon nigroviridis	11	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A8B9REQ3	true	inactive	DELETED	Not part of a reference proteome									UPI0013336F4D	True	True	Astyanax mexicanus	12	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A2D4PGG8	true	inactive	DELETED	Not part of a reference proteome									UPI000C6AF385	True	True	Micrurus surinamensis	11	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:23Z
+A0AAJ7UEA7	true	inactive	DELETED	Not part of a reference proteome									UPI001403653A	True	True	Petromyzon marinus	12	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A817VP00	true	inactive	DELETED	Redundant sequence									UPI001A70FA39	True	True	Rotaria sp. Silwood2	11	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:24Z
+A0A6M2DTS0	true	inactive	DELETED	Not part of a reference proteome									UPI00156D015F	True	True	Xenopsylla cheopis	11	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A8C1UK45	true	inactive	DELETED	Not part of a reference proteome									UPI0013398ECC	True	True	Cyprinus carpio	10	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A813MU04	true	inactive	DELETED	Not part of a reference proteome									UPI001A688925	True	True	Adineta steineri	10	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:24Z
+A0AAW2I192	true	inactive	DELETED	Not part of a reference proteome									UPI00335327A6	True	True	Menopon gallinae	12	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:25Z
+A0A0J9R0X2	true	inactive	DELETED	Not part of a reference proteome									UPI0006702238	True	True	Drosophila simulans	13	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A8D8RPG3	true	inactive	DELETED	Not part of a reference proteome									UPI001BE2DA3E	True	True	Cacopsylla melanoneura	12	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:24Z
+A0A4D5S256	true	inactive	DELETED	Not part of a reference proteome									UPI0010C6B55F	True	True	Ixodes scapularis	10	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A818WK36	true	inactive	DELETED	Not part of a reference proteome									UPI001A73C7FB	True	True	Rotaria sp. Silwood1	11	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:24Z
+A0A8D1A3D0	true	inactive	DELETED	Not part of a reference proteome									UPI00134ED61E	True	True	Sus scrofa	10	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A814WM76	true	inactive	DELETED	Not part of a reference proteome									UPI001A694D6A	True	True	Adineta ricciae	10	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:24Z
+A0A0K2TJT2	true	inactive	DELETED	Not part of a reference proteome									UPI000672ECB7	True	True	Lepeophtheirus salmonis	12	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A9P1MLY0	true	inactive	DELETED	Not part of a reference proteome									UPI00225DCC3A	True	True	Auanema sp. JU1783	12	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:25Z
+A0A818S1J9	true	inactive	DELETED	Not part of a reference proteome									UPI001A6B51BE	True	True	Adineta steineri	11	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:24Z
+A0A2J8PUD3	true	inactive	DELETED	Not part of a reference proteome									UPI000CAC570D	True	True	Pan troglodytes	10	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A336LU59	true	inactive	DELETED	Not part of a reference proteome									UPI000DE63CC0	True	True	Culicoides sonorensis	7	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A9P1AT65	true	inactive	DELETED	Not part of a reference proteome									UPI0021836AC8	True	True	Caenorhabditis sp. 36 PRJEB53466	12	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:25Z
+A0A0H5S2Y1	true	inactive	DELETED	Not part of a reference proteome									UPI000341D3CF	True	True	Brugia malayi	12	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A7S2XIB0	true	inactive	DELETED	Not part of a reference proteome									UPI00196F235D	True	True	Lotharella oceanica	11	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:24Z
+A0AAF5Q1V8	true	inactive	DELETED	Not part of a reference proteome									UPI002E8E7FC6	True	True	Wuchereria bancrofti	12	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:25Z
+A0A814M7L7	true	inactive	DELETED	Not part of a reference proteome									UPI001A65C83C	True	True	Adineta ricciae	11	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:24Z
+A0A7S0H6L0	true	inactive	DELETED	Not part of a reference proteome									UPI0016E34E90	True	True	Amorphochlora amoebiformis	10	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A7S1PE01	true	inactive	DELETED	Not part of a reference proteome									UPI0016F05814	True	True	Alveolata	13	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:24Z
+A0A0R3SFV5	true	inactive	DELETED	Not part of a reference proteome									UPI0006108E20	True	True	Hymenolepis diminuta	11	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A7R9HZN2	true	inactive	DELETED	Not part of a reference proteome									UPI00193757F0	True	True	Timema bartmani	11	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:24Z
+A0A6H5KT37	true	inactive	DELETED	Not part of a reference proteome									UPI0013CA3CB2	True	True	Ectocarpus sp. CCAP 1310/34	12	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A4T0J5C3	true	inactive	DELETED	Not part of a reference proteome									UPI00113E073B	True	True	Wallemia ichthyophaga	11	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A177W760	true	inactive	DELETED	Not part of a reference proteome									UPI0007C9F63E	True	True	Batrachochytrium dendrobatidis	11	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A7S1XYU7	true	inactive	DELETED	Not part of a reference proteome									UPI00173C0625	True	True	Phaeomonas parva	11	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:24Z
+A0A7S2HLM3	true	inactive	DELETED	Not part of a reference proteome									UPI00173019E3	True	True	Octactis speculum	11	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:24Z
+A0A7S0C0C1	true	inactive	DELETED	Not part of a reference proteome									UPI00171C86E5	True	True	Proboscia inermis	11	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:24Z
+A0A1Y5I9G0	true	inactive	DELETED	Not part of a reference proteome									UPI000B5754A5	True	True	Ostreococcus tauri	12	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A8J5BQQ2	true	inactive	DELETED	Not part of a reference proteome									UPI001B2D680C	True	True	Yarrowia sp. E02	9	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:24Z
+A0A9W8FC87	true	inactive	DELETED	Not part of a reference proteome									UPI0022D77F07	True	True	unclassified Coemansia	8	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:25Z
+A0A7S1KLJ4	true	inactive	DELETED	Not part of a reference proteome									UPI001700802D	True	True	Percolomonas cosmopolitus	19	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:24Z
+J9FES8	true	inactive	DELETED	Not part of a reference proteome									UPI00027FD7C9	True	True	Wuchereria bancrofti	12	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:23Z
+A0AAF6C0Z4	true	inactive	DELETED	Not part of a reference proteome		A0A2R6WE84	A0A2R6WE84	same_sequence_active_entry	True	adenosylmethionine decarboxylase	Marchantia polymorpha	ok	UPI000D23C78B	True	True	Marchantia polymorpha	13	full (replacement UniProt + InterPro)	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A7S0R6E5	true	inactive	DELETED	Not part of a reference proteome									UPI0017426F4A	True	True	Chlamydomonas leiostraca	13	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:24Z
+A0A8D6ZUC7	true	inactive	DELETED	Not part of a reference proteome									UPI0002957670	True	True	Musa acuminata subsp. malaccensis	13	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A8J6GFZ7	true	inactive	DELETED	Not part of a reference proteome		A0ACS1WHV5	A0ACS1WHV5	same_sequence_active_entry	True	S-adenosylmethionine decarboxylase proenzyme 1	Microtus ochrogaster	ok	UPI001D530935	True	True	Microtus ochrogaster	6	full (replacement UniProt + InterPro)	2026_04	2026_04	2026-11-17T18:29:24Z
+A0A6V7P430	true	inactive	DELETED	Not part of a reference proteome									UPI0015E4ADAD	True	True	Ananas comosus var. bracteatus	15	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A9P6SEJ7	true	inactive	DELETED	Not part of a reference proteome									UPI001E0D4D04	True	True	Mortierella sp. AD032	8	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:24Z
+A0A8D0Z278	true	inactive	DELETED	Not part of a reference proteome									UPI00133F9DA1	True	True	Sus scrofa	7	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A369RU54	true	inactive	DELETED	Not part of a reference proteome									UPI000E131ACF	True	True	Trichoplax sp. H2	9	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A7S0RQX6	true	inactive	DELETED	Not part of a reference proteome									UPI0016CDDA09	True	True	Pyramimonas obovata	12	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A8S4GYX5	true	inactive	DELETED	Not part of a reference proteome									UPI001F983BC5	True	True	Pedinophyceae sp. YPF-701	12	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:25Z
+A0A427AH09	true	inactive	DELETED	Not part of a reference proteome									UPI001001AB51	True	True	Ensete ventricosum	19	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A7S4BFL3	true	inactive	DELETED	Not part of a reference proteome									UPI001702132F	True	True	Chrysotila carterae	10	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:24Z
+A0A9D4SK96	true	inactive	DELETED	Not part of a reference proteome									UPI0020783737	True	True	Dermatophagoides farinae	10	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:25Z
+U5KLR5	true	inactive	DELETED	Not part of a reference proteome									UPI0003BDD08B	True	True	Crithidia acanthocephali	13	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A7R9VAB0	true	inactive	DELETED	Not part of a reference proteome									UPI0017004407	True	True	Chlamydomonas euryale	13	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:24Z
+A0A7J6NZI2	true	inactive	DELETED	Not part of a reference proteome									UPI0016B849C1	True	True	Perkinsus olseni	11	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A094HS56	true	inactive	DELETED	Not part of a reference proteome									UPI000501A508	True	True	Pseudogymnoascus sp. VKM F-4520 (FW-2644)	9	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A816J952	true	inactive	DELETED	Not part of a reference proteome									UPI001AF0548D	True	True	Brassica napus	15	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:24Z
+A0A6H5KVY3	true	inactive	DELETED	Not part of a reference proteome									UPI0013C7CDE3	True	True	Ectocarpus sp. CCAP 1310/34	12	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A1D1YCN8	true	inactive	DELETED	Not part of a reference proteome									UPI0008705E8D	True	True	Anthurium amnicola	18	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A7S1NHJ9	true	inactive	DELETED	Not part of a reference proteome									UPI0016DBF433	True	True	Eutreptiella gymnastica	10	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A7S2HLL7	true	inactive	DELETED	Not part of a reference proteome									UPI0017048FF0	True	True	Octactis speculum	11	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:24Z
+A0A8D7AYQ7	true	inactive	DELETED	Not part of a reference proteome									UPI001AF54C8D	True	True	Musa acuminata subsp. malaccensis	16	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:24Z
+A0A8J1VMI2	true	inactive	DELETED	Not part of a reference proteome									UPI001AA6B464	True	True	Tremellales sp. Tagirdzhanova-0007	10	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:24Z
+I7HIN8	true	inactive	DELETED	Not part of a reference proteome									UPI00006E1DEF	True	True	Oryza sativa	15	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A523ECC8	true	inactive	DELETED	Not part of a reference proteome									UPI00122914E0	True	True	Acidobacteriota bacterium	9	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A2N9HM08	true	inactive	DELETED	Not part of a reference proteome									UPI000CE0BBA7	True	True	Fagus sylvatica	14	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:23Z
+M8AS70	true	inactive	DELETED	Not part of a reference proteome									UPI0002C800C3	True	True	Aegilops tauschii	15	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A161ZWL5	true	inactive	DELETED	Not part of a reference proteome									UPI0007B290C3	True	True	Daucus carota subsp. sativus	13	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A9P8E7Z8	true	inactive	DELETED	Not part of a reference proteome									UPI001DF11AA9	True	True	Aureobasidium melanogenum	10	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:24Z
+G5BXQ0	true	inactive	DELETED	Not part of a reference proteome									UPI000236D65D	True	True	Heterocephalus glaber	8	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A0X3PY31	true	inactive	DELETED	Not part of a reference proteome									UPI00077B4DB4	True	True	Schistocephalus solidus	11	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A7V5C8L4	true	inactive	DELETED	Not part of a reference proteome									UPI0018541330	True	True	Desulfobacterales bacterium	10	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:24Z
+A0A8H3QX94	true	inactive	DELETED	Not part of a reference proteome									UPI0019F79EBC	True	True	Rhizophagus clarus	18	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:24Z
+A0A1D2AC22	true	inactive	DELETED	Not part of a reference proteome									UPI00086482F8	True	True	Auxenochlorella protothecoides	15	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A958LMC4	true	inactive	DELETED	Not part of a reference proteome									UPI001DAE9E43	True	True	Bdellovibrionales	10	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:24Z
+A0A061ICB5	true	inactive	DELETED	Not part of a reference proteome									UPI00049C0E29	True	True	Cricetulus griseus	5	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A958NY25	true	inactive	DELETED	Not part of a reference proteome									UPI001DAC483C	True	True	Bdellovibrionales bacterium	11	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:24Z
+A0A849WBL8	true	inactive	DELETED	Not part of a reference proteome									UPI0018457C76	True	True	Candidatus Brocadiia bacterium	10	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:24Z
+A0A7S3EXJ6	true	inactive	DELETED	Not part of a reference proteome									UPI0017235D73	True	True	Haptolina ericina	8	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:24Z
+A0A4Y0BGC1	true	inactive	DELETED	Not part of a reference proteome									UPI00112546C0	True	True	Anopheles funestus	5	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A1E4ZPX2	true	inactive	DELETED	Not part of a reference proteome									UPI000869E198	True	True	PVC group bacterium (ex Bugula neritina AB1)	9	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A6T6CWQ1	true	inactive	DELETED	Not part of a reference proteome									UPI00171CC022	True	True	Compsopogon caeruleus	13	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:24Z
+A0A958N316	true	inactive	DELETED	Not part of a reference proteome									UPI001DF0B028	True	True	Bdellovibrionales bacterium	10	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:24Z
+A0A960KMN9	true	inactive	DELETED	Not part of a reference proteome									UPI001D9F4AAA	True	True	Acidobacteriota bacterium	10	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:24Z
+A0A061RZV3	true	inactive	DELETED	Not part of a reference proteome									UPI0004A1EC45	True	True	Tetraselmis sp. GSL018	25	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A438HV63	true	inactive	DELETED	Not part of a reference proteome		A0ACT1JLA2	A0ACT1JLA2	same_sequence_active_entry	True	S-adenosylmethionine decarboxylase proenzyme	Vitis vinifera	ok	UPI001006CAEC	True	True	Vitis vinifera	13	full (replacement UniProt + InterPro)	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A0S8EYC3	true	inactive	DELETED	Not part of a reference proteome									UPI0007265136	True	True	Myxococcales bacterium SG8_38_1	9	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A7S3TQM9	true	inactive	DELETED	Not part of a reference proteome									UPI001973D0B1	True	True	Emiliania huxleyi	11	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:24Z
+A0A7S2JC55	true	inactive	DELETED	Not part of a reference proteome									UPI00171910F5	True	True	Haptolina brevifila	9	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:24Z
+A0A2D6JKZ9	true	inactive	DELETED	Not part of a reference proteome									UPI000C93DAB4	True	True	Pseudobdellovibrionaceae bacterium	10	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A2D6ETJ2	true	inactive	DELETED	Not part of a reference proteome									UPI000C97DE7D	True	True	Desulfobacter sp.	9	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:23Z
+A0AAV5Q2X6	true	inactive	DELETED	Not part of a reference proteome									UPI002AFA79B7	True	True	Martiniozyma asiatica (nom. inval.)	12	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:25Z
+A0A1J3I8B7	true	inactive	DELETED	Not part of a reference proteome									UPI0008F6CA2B	True	True	Noccaea caerulescens	15	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:23Z
+C3ZXE0	true	inactive	DELETED	Not part of a reference proteome									UPI000186859C	True	True	Branchiostoma floridae	9	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A8H8NWF4	true	inactive	DELETED	Not part of a reference proteome									UPI001AFAC277	True	True	Rhizoctonia solani	10	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:24Z
+A0A958PF55	true	inactive	DELETED	Not part of a reference proteome									UPI001D1BF00F	True	True	Bdellovibrionales bacterium	9	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:24Z
+A0A0F2MEI7	true	inactive	DELETED	Not part of a reference proteome									UPI00061E95B8	True	True	Sporothrix schenckii 1099-18	8	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A9P3J9N9	true	inactive	DELETED	Not part of a reference proteome									UPI0022C4F35C	True	True	unclassified Closterium peracerosum-strigosum-littorale complex	26	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:25Z
+A0A2G6HZI1	true	inactive	DELETED	Not part of a reference proteome									UPI000C3E5309	True	True	Acidobacteriota bacterium	10	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A0S8BHN0	true	inactive	DELETED	Not part of a reference proteome									UPI0007258DEB	True	True	Anaerolineae bacterium SG8_19	10	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A932JPK8	true	inactive	DELETED	Not part of a reference proteome									UPI001D29407F	True	True	Elusimicrobiota bacterium	9	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:24Z
+A0A7C0Z9L7	true	inactive	DELETED	Not part of a reference proteome									UPI000F1604D9	True	True	Pseudomonadati	9	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A8H6B5Z9	true	inactive	DELETED	Not part of a reference proteome									UPI0017BA2F82	True	True	Brettanomyces bruxellensis	12	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:24Z
+A0A356KY66	true	inactive	DELETED	Not part of a reference proteome									UPI000E7D8B5C	True	True	Planctomycetota bacterium	10	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A7Y2E840	true	inactive	DELETED	Not part of a reference proteome									UPI0017C14FA0	True	True	Eiseniibacteriota bacterium	9	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:24Z
+A0AA43CE50	true	inactive	DELETED	Not part of a reference proteome									UPI00245C7008	True	True	Acidobacteriota bacterium	9	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:25Z
+A0A5D3CX49	true	inactive	DELETED	Not part of a reference proteome		A0ACS1S860	A0ACS1S860	same_sequence_active_entry	True	S-adenosylmethionine decarboxylase proenzyme 4-like	Cucumis melo var. makuwa	ok	UPI0011E3E7BE	True	True	Cucumis melo var. makuwa	13	full (replacement UniProt + InterPro)	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A6V7KGM7	true	inactive	DELETED	Not part of a reference proteome									UPI0013AA24DA	True	True	Bracon brevicornis	4	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A2S5KXK5	true	inactive	DELETED	Not part of a reference proteome									UPI000CE33853	True	True	Pseudomonadota	9	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A2E4Y5B3	true	inactive	DELETED	Not part of a reference proteome									UPI000C5FC1C0	True	True	Halobacteriovoraceae bacterium	9	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A9D5UJF6	true	inactive	DELETED	Not part of a reference proteome									UPI001ECE1854	True	True	Shewanella sp.	9	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:25Z
+A0AAD0T6M5	true	inactive	DELETED	Not part of a reference proteome		A0ABY0ID00	A0ABY0ID00	same_sequence_active_entry	True	Adenosylmethionine decarboxylase	Halobacteriovorax vibrionivorans	ok	UPI000E1BC5DF	True	True	Halobacteriovorax	9	full (replacement UniProt + InterPro)	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A1F3V8E0	true	inactive	DELETED	Not part of a reference proteome									UPI0008D163FB	True	True	unclassified Bdellovibrionales	9	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A1U7VUC3	true	inactive	DELETED	Not part of a reference proteome									UPI000520642B	True	True	Nicotiana sylvestris	13	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A9E1DWM2	true	inactive	DELETED	Not part of a reference proteome									UPI001BBB91A4	True	True	Desulfobacterales bacterium	10	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:24Z
+A0A4U1ESQ4	true	inactive	DELETED	Not part of a reference proteome									UPI00113ED16E	True	True	Monodon monoceros	8	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A3M1C127	true	inactive	DELETED	Not part of a reference proteome									UPI000F19445B	True	True	Bdellovibrio sp.	9	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A059CKT5	true	inactive	DELETED	Not part of a reference proteome		A0ACC3LBA9	A0ACC3LBA9	same_sequence_active_entry	True	adenosylmethionine decarboxylase	Eucalyptus grandis	ok	UPI000457B24F	True	True	Eucalyptus grandis	14	full (replacement UniProt + InterPro)	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A2E7US95	true	inactive	DELETED	Not part of a reference proteome									UPI000C0F4642	True	True	Deltaproteobacteria bacterium	10	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A976JI81	true	inactive	DELETED	Not part of a reference proteome									UPI001E1348D1	True	True	Deltaproteobacteria bacterium	9	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:24Z
+A0A059LLS1	true	inactive	DELETED	Not part of a reference proteome									UPI00045D28D9	True	True	Helicosporidium sp. ATCC 50920	12	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A819RVV5	true	inactive	DELETED	Not part of a reference proteome									UPI001A6C2298	True	True	Rotaria sordida	7	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:24Z
+A0A7S3H9T9	true	inactive	DELETED	Not part of a reference proteome									UPI00197814AA	True	True	Spumella elongata	9	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:24Z
+A0A2V2WHV6	true	inactive	DELETED	Not part of a reference proteome									UPI000D993055	True	True	Trypanosoma cruzi	12	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A2E1Q6Q2	true	inactive	DELETED	Not part of a reference proteome									UPI000C4CA0F1	True	True	Bdellovibrionales	11	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A0L6WY00	true	inactive	DELETED	Not part of a reference proteome									UPI0006A3243D	True	True	Termitomyces sp. J132	9	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A9W7AQ06	true	inactive	DELETED	Not part of a reference proteome									UPI00253F0E7E	True	True	Triparma laevis f. inornata	9	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:25Z
+A0A5K1C1R2	true	inactive	DELETED	Not part of a reference proteome									UPI0012A155C5	True	True	Nymphaea colorata	15	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A928UIQ5	true	inactive	DELETED	Not part of a reference proteome									UPI001DCD8307	True	True	Pseudobdellovibrionaceae bacterium	9	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:24Z
+A0A2E3XPS9	true	inactive	DELETED	Not part of a reference proteome									UPI000C36E026	True	True	Halobacteriovoraceae bacterium	9	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A0C4F8Q0	true	inactive	DELETED	Deleted from sequence source (ENSEMBL)									UPI000222437D	True	True	Puccinia triticina (isolate 1-1 / race 1 (BBBD))	9	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A2H0QP72	true	inactive	DELETED	Not part of a reference proteome									UPI000C6084F3	True	True	unclassified Bdellovibrio	9	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:23Z
+Q0HW77	true	inactive	DELETED	Not part of a reference proteome									UPI00005E180B	True	True	Shewanella sp. (strain MR-7)	9	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A0C3LM77	true	inactive	DELETED	Not part of a reference proteome									UPI0005A22594	True	True	Shewanella sp. cp20	9	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A099P0P7	true	inactive	DELETED	Not part of a reference proteome									UPI00051DE13B	True	True	Pichia kudriavzevii	11	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A955YM59	true	inactive	DELETED	Not part of a reference proteome									UPI001DDFDAA7	True	True	Myxococcales bacterium	10	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:24Z
+A0AAJ4ANX2	true	inactive	DELETED	Not part of a reference proteome		A0ABX6V7F2	A0ABX6V7F2	same_sequence_active_entry	True	Adenosylmethionine decarboxylase	Shewanella eurypsychrophilus	ok	UPI00115CD8E9	True	True	Shewanella	9	full (replacement UniProt + InterPro)	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A960L2X5	true	inactive	DELETED	Not part of a reference proteome									UPI001DCCC736	True	True	Acidobacteriota bacterium	9	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:24Z
+A0A182GY49	true	inactive	DELETED	Deleted from sequence source (ENSEMBL)									UPI0007D320F1	True	True	Aedes albopictus	4	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A7S1VYK4	true	inactive	DELETED	Not part of a reference proteome									UPI0016F8A670	True	True	Alexandrium catenella	9	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:24Z
+A0A1B8CY79	true	inactive	DELETED	Not part of a reference proteome									UPI0007FA7F3F	True	True	Pseudogymnoascus sp. 24MN13	9	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:23Z
+G3I9J8	false	inactive	DELETED	Not part of a reference proteome									UPI000228C09D	True	True	Cricetulus griseus	4	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A6L5NWG7	true	inactive	DELETED	Not part of a reference proteome		A0ABS5I1T6	A0ABS5I1T6	same_sequence_active_entry	True	Adenosylmethionine decarboxylase	Shewanella intestini	ok	UPI00129A0965	True	True	Shewanella intestini	9	full (replacement UniProt + InterPro)	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A958KI97	true	inactive	DELETED	Not part of a reference proteome									UPI001D450150	True	True	Bdellovibrionales bacterium	8	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:24Z
+A0A1Y1MYM0	true	inactive	DELETED	Not part of a reference proteome									UPI000B55E3D6	True	True	Photinus pyralis	10	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A5K3FWM5	true	inactive	DELETED	Not part of a reference proteome									UPI0011C6D39A	True	True	Mesocestoides corti	4	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A3P3Y7K6	true	inactive	DELETED	Not part of a reference proteome									UPI000F1477B7	True	True	Plasmodiophora brassicae	9	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A813LKE1	true	inactive	DELETED	Not part of a reference proteome									UPI001A4E183E	True	True	Polarella glacialis	8	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:24Z
+A0AAW2MUA7	true	inactive	DELETED	Not part of a reference proteome									UPI00334EDFA7	True	True	Sesamum angustifolium	11	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:25Z
+A0A7C1AG17	true	inactive	DELETED	Not part of a reference proteome									UPI00175F19B8	True	True	Desulfobacteraceae bacterium	9	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:24Z
+A0A7S2PX74	true	inactive	DELETED	Not part of a reference proteome									UPI00170DA45F	True	True	Zooxanthella nutricula	8	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:24Z
+A0A2H1WKU2	true	inactive	DELETED	Not part of a reference proteome									UPI000C5F08EF	True	True	Spodoptera frugiperda	8	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A7R9AWZ4	true	inactive	DELETED	Not part of a reference proteome									UPI0018DAD192	True	True	Timema shepardi	4	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:24Z
+A0A662X2J7	true	inactive	DELETED	Not part of a reference proteome									UPI000F2C2542	True	True	Peronosporaceae	4	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A956AJ92	true	inactive	DELETED	Not part of a reference proteome									UPI001E13F67B	True	True	Myxococcales bacterium	9	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:24Z
+A0AAN6E757	true	inactive	DELETED	Not part of a reference proteome									UPI0022D876B0	True	True	unclassified Coemansia	10	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:25Z
+A0A958PQC6	true	inactive	DELETED	Not part of a reference proteome									UPI001DCF1441	True	True	Bdellovibrionales bacterium	9	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:24Z
+A0A654F863	true	inactive	DELETED	Not part of a reference proteome									UPI0012C73CB8	True	True	Arabidopsis thaliana	6	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:23Z
+A0AAW2YD43	true	inactive	DELETED	Not part of a reference proteome									UPI00334B9C34	True	True	Sesamum latifolium	11	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:25Z
+A0A293LT01	true	inactive	DELETED	Not part of a reference proteome									UPI000BDE2F42	True	True	Ornithodoros erraticus	9	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A914T0V9	true	inactive	DELETED	Not part of a reference proteome									UPI001870F229	True	True	Panagrolaimus sp. PS1159	9	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:24Z
+A0A6G3MI07	true	inactive	DELETED	Not part of a reference proteome									UPI00144A4964	True	True	Henneguya salminicola	9	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A0D6EM53	true	inactive	DELETED	Not part of a reference proteome									UPI00061BF5F9	True	True	Sporidiobolus salmonicolor	4	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:23Z
+A0AAW2RKS2	true	inactive	DELETED	Not part of a reference proteome									UPI00334ED49F	True	True	Sesamum angustifolium	10	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:25Z
+A0A7S1CXK8	true	inactive	DELETED	Not part of a reference proteome									UPI0016DC2AC1	True	True	Cyclophora tenuis	4	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A4Y6IBM5	true	inactive	DELETED	Not part of a reference proteome									UPI00112771C5	True	True	Shewanella sp. SNU WT4	9	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A8D8J8A0	true	inactive	DELETED	Not part of a reference proteome									UPI0018FBDD5D	True	True	Culex pipiens	9	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:24Z
+A0A2E5JKU5	true	inactive	DELETED	Not part of a reference proteome									UPI000C4247FA	True	True	Halobacteriovorax sp.	9	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A7R9CVE6	true	inactive	DELETED	Not part of a reference proteome									UPI001936458C	True	True	Timema cristinae	4	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:24Z
+A0A1Y1MCT1	true	inactive	DELETED	Not part of a reference proteome									UPI000B56F86D	True	True	Photinus pyralis	4	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A7S3GBT7	true	inactive	DELETED	Not part of a reference proteome									UPI00196E30FC	True	True	Palpitomonas bilix	4	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:24Z
+A0A438F6B9	true	inactive	DELETED	Not part of a reference proteome		A0ACT1GYC3	A0ACT1GYC3	same_sequence_active_entry	True	S-adenosylmethionine decarboxylase proenzyme 4	Vitis vinifera	ok	UPI001006E435	True	True	Vitis vinifera	10	full (replacement UniProt + InterPro)	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A3B9YJ81	true	inactive	DELETED	Not part of a reference proteome									UPI000EC48AF1	True	True	Elusimicrobiota bacterium	7	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:23Z
+A0AAW2N1Z0	true	inactive	DELETED	Not part of a reference proteome									UPI00334D0A5E	True	True	Sesamum calycinum	11	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:25Z
+A0A1Z5LFN3	false	inactive	DELETED	Not part of a reference proteome									UPI000B76AB91	True	True	Ornithodoros moubata	9	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:23Z
+M4UAE0	true	inactive	DELETED	Not part of a reference proteome									UPI00006E427C	True	True	Psychromonas sp. CNPT3	9	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A397ZZN3	true	inactive	DELETED	Not part of a reference proteome									UPI000EB79B81	True	True	Brassica campestris	14	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A4Y8A1I9	true	inactive	DELETED	Not part of a reference proteome									UPI001067E523	True	True	Psychromonas algarum	9	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A7S4F0J5	true	inactive	DELETED	Not part of a reference proteome									UPI0016EFFFAC	True	True	Chrysotila carterae	4	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:24Z
+A0AAW2S8J8	true	inactive	DELETED	Not part of a reference proteome									UPI00334D15CE	True	True	Sesamum radiatum	8	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:25Z
+A0A8S9JTL7	true	inactive	DELETED	Not part of a reference proteome									UPI001D518F4D	True	True	Brassica cretica	4	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:24Z
+A0A661SUE2	true	inactive	DELETED	Not part of a reference proteome									UPI000F298C4C	True	True	Deltaproteobacteria bacterium	4	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A7R9J501	true	inactive	DELETED	Not part of a reference proteome									UPI001AD1E7DB	True	True	Timema californicum	4	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:24Z
+A0A847F5F4	true	inactive	DELETED	Not part of a reference proteome									UPI0016B1867F	True	True	Sandaracinaceae bacterium	10	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A7X6A7U4	true	inactive	DELETED	Not part of a reference proteome									UPI001695CDD0	True	True	Acidobacteriota bacterium	4	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A146MD19	false	inactive	DELETED	Not part of a reference proteome									UPI00079ED927	True	True	Lygus hesperus	8	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A131ZXQ5	true	inactive	DELETED	Not part of a reference proteome									UPI00077F4D68	True	True	Sarcoptes scabiei	8	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:23Z
+A6QT49	true	inactive	DELETED	Not part of a reference proteome		A0ACE4JU26	A0ACE4JU26	same_sequence_active_entry	True	Uncharacterized protein	Histoplasma mississippiense	ok	UPI000157B6DC	True	True	Histoplasma mississippiense	8	full (replacement UniProt + InterPro)	2026_04	2026_04	2026-11-17T18:29:23Z
+G5B405	false	inactive	DELETED	Not part of a reference proteome									UPI0002370D93	True	True	Heterocephalus glaber	4	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A972DB31	true	inactive	DELETED	Not part of a reference proteome									UPI0016A1A3CA	True	True	Myxococcales bacterium	9	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A7S2KK72	false	inactive	DELETED	Not part of a reference proteome									UPI0016EB187E	True	True	Bigelowiella natans	4	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:24Z
+D6PPT7	true	inactive	DELETED	Not part of a reference proteome									UPI0001D277B4	True	True	Capsella grandiflora	6	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A5K3FRB4	true	inactive	DELETED	Not part of a reference proteome									UPI0011C5B352	True	True	Mesocestoides corti	4	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:23Z
+G0TXA5	true	inactive	DELETED	Not part of a reference proteome									UPI000218BEF2	True	True	Trypanosoma vivax	6	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A7R8Z4G3	true	inactive	DELETED	Not part of a reference proteome									UPI0018C0315A	True	True	Timema douglasi	7	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:24Z
+W6KKF7	true	inactive	DELETED	Not part of a reference proteome									UPI0003ED3426	True	True	Phytomonas sp. EM1	4	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A7S1DS26	false	inactive	DELETED	Not part of a reference proteome									UPI001739D1A5	True	True	Hemiselmis andersenii	7	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:24Z
+A0A7S0RZ56	true	inactive	DELETED	Not part of a reference proteome									UPI00172C8D4F	True	True	Pyramimonas obovata	9	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:24Z
+M9MDP4	false	inactive	DELETED	Not part of a reference proteome									UPI0002C2C4B1	True	True	Moesziomyces antarcticus (strain T-34)	8	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A7J6TQC4	true	inactive	DELETED	Not part of a reference proteome									UPI00180C20B7	True	True	Perkinsus olseni	8	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:24Z
+A0A5K0VKC0	true	inactive	DELETED	Not part of a reference proteome									UPI0012A06B60	True	True	Nymphaea colorata	4	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A8S2QMD3	false	inactive	DELETED	Not part of a reference proteome									UPI001A6F86C9	True	True	Didymodactylos carnosus	7	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:24Z
+W5NV78	false	inactive	DELETED	Deleted from sequence source (ENSEMBL)									UPI0003CD1C07	True	True	Ovis aries	4	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A8H7N0Q0	false	inactive	DELETED	Not part of a reference proteome									UPI001A1A42FD	True	True	Clonostachys rosea	8	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:24Z
+A0AAW2P100	false	inactive	DELETED	Not part of a reference proteome									UPI00336031E6	True	True	Sesamum angustifolium	10	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:25Z
+A0A0X3NIR9	true	inactive	DELETED	Not part of a reference proteome									UPI00077B6046	True	True	Schistocephalus solidus	8	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A093ZSI7	true	inactive	DELETED	Not part of a reference proteome									UPI0005064FD4	True	True	Pseudogymnoascus sp. (strain VKM F-3775)	9	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A958L730	false	inactive	DELETED	Not part of a reference proteome									UPI001D2666E1	True	True	Bdellovibrionales bacterium	4	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:24Z
+A0A093XLL8	false	inactive	DELETED	Not part of a reference proteome									UPI0004FF6AA2	True	True	Pseudogymnoascus sp. VKM F-3557	8	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A821UAL7	false	inactive	DELETED	Not part of a reference proteome									UPI001A7ABF8E	True	True	Rotaria socialis	4	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:24Z
+A0AAW2QIJ5	true	inactive	DELETED	Not part of a reference proteome									UPI00335AAD50	True	True	Sesamum radiatum	10	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:25Z
+A0A7R9UWB9	false	inactive	DELETED	Not part of a reference proteome									UPI00173E5D98	True	True	Diacronema lutheri	8	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:24Z
+A0A7S1R469	true	inactive	DELETED	Not part of a reference proteome									UPI00170AF953	True	True	Neobodo designis	5	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:24Z
+A0A958MW20	false	inactive	DELETED	Not part of a reference proteome									UPI001D398FF6	True	True	Bdellovibrionales bacterium	4	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:24Z
+A0A1Y1MHQ2	false	inactive	DELETED	Not part of a reference proteome									UPI000B5543F6	True	True	Photinus pyralis	8	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A396H0Y8	true	inactive	DELETED	Not part of a reference proteome									UPI000EE4F423	True	True	Medicago truncatula	11	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A7S0VS19	true	inactive	DELETED	Not part of a reference proteome									UPI0016DE5DDF	True	True	Hemiselmis tepida	7	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A2D4N5Z0	false	inactive	DELETED	Not part of a reference proteome									UPI000C5963FC	True	True	Micrurus spixii	4	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A8S9MBI9	true	inactive	DELETED	Not part of a reference proteome									UPI001DD778E0	True	True	Brassica cretica	14	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:24Z
+A0A7S1GHS3	true	inactive	DELETED	Not part of a reference proteome									UPI0016EB10B4	True	True	Picochlorum oklahomense	9	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:24Z
+A0A178VB49	false	inactive	DELETED	Not part of a reference proteome									UPI0007E1CD34	True	True	Arabidopsis thaliana	4	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A6B2GBV3	false	inactive	DELETED	Not part of a reference proteome									UPI0013A18A87	True	True	Myxobolus squamalis	8	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A958MRI6	false	inactive	DELETED	Not part of a reference proteome									UPI001E1643C3	True	True	Bdellovibrionales bacterium	8	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:24Z
+A0A662XC11	false	inactive	DELETED	Not part of a reference proteome									UPI000F2520AC	True	True	Peronosporaceae	9	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:23Z
+A0AAW2P7G6	false	inactive	DELETED	Not part of a reference proteome									UPI00335FCBA2	True	True	Sesamum radiatum	11	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:25Z
+A0A7S0LR59	false	inactive	DELETED	Not part of a reference proteome									UPI0016E41D59	True	True	Coccolithus braarudii	4	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A396U6E1	false	inactive	DELETED	Not part of a reference proteome									UPI000E5830B9	True	True	Colwellia sp. RSH04	8	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A1Z8JIV7	true	inactive	DELETED	Not part of a reference proteome									UPI000B623F57	True	True	Pichia kudriavzevii	4	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A6B2G293	false	inactive	DELETED	Not part of a reference proteome									UPI0013A16E72	True	True	Myxobolus squamalis	4	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A8S9GGD4	false	inactive	DELETED	Not part of a reference proteome									UPI001CDE6B36	True	True	Brassica cretica	4	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:24Z
+A0A7W4C6V0	false	inactive	DELETED	Not part of a reference proteome									UPI00183A91F9	True	True	Shewanella sp. SG41-4	4	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:24Z
+A0A7S2KIP4	false	inactive	DELETED	Not part of a reference proteome									UPI0016FFFCB9	True	True	Bigelowiella natans	8	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:24Z
+A0A0N7ZDG2	false	inactive	DELETED	Not part of a reference proteome									UPI0006D87AD9	True	True	Scylla olivacea	8	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A820MDL9	false	inactive	DELETED	Not part of a reference proteome									UPI001A6F24FE	True	True	Rotaria sordida	7	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:24Z
+A0A1Z5LCX7	false	inactive	DELETED	Not part of a reference proteome									UPI000B769E81	True	True	Ornithodoros moubata	8	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:23Z
+A0AAW2X9B7	true	inactive	DELETED	Not part of a reference proteome									UPI003351F431	True	True	Sesamum latifolium	10	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:25Z
+A0A7S0JYZ1	false	inactive	DELETED	Not part of a reference proteome									UPI0017240F87	True	True	Cafeteria roenbergensis	9	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:24Z
+A0A5K0VIU2	false	inactive	DELETED	Not part of a reference proteome									UPI0012A30613	True	True	Nymphaea colorata	10	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A8S9GGD8	false	inactive	DELETED	Not part of a reference proteome									UPI001CDF8C40	True	True	Brassica cretica	6	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:24Z
+S4NTL7	false	inactive	DELETED	Not part of a reference proteome									UPI00035BB2A1	True	True	Pararge aegeria	8	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A7V3CCH8	true	inactive	DELETED	Not part of a reference proteome									UPI0018382331	True	True	Deltaproteobacteria bacterium	7	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:24Z
+A0A293M4Q3	false	inactive	DELETED	Not part of a reference proteome									UPI000BDE4DC4	True	True	Ornithodoros erraticus	8	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A7S0TQ48	false	inactive	DELETED	Not part of a reference proteome									UPI0017029293	True	True	Hemiselmis andersenii	4	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:24Z
+A0A4U1EBN2	false	inactive	DELETED	Not part of a reference proteome									UPI001133EFB7	True	True	Monodon monoceros	4	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A1B6EGI5	false	inactive	DELETED	Not part of a reference proteome									UPI0008573527	True	True	Clastoptera arizonana	4	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:23Z
+C6HEF6	false	inactive	DELETED	Not part of a reference proteome									UPI0001AA3123	True	True	Ajellomyces capsulatus (strain H143)	8	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A396GVV7	false	inactive	DELETED	Not part of a reference proteome									UPI000EEA1C37	True	True	Medicago truncatula	4	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A7S3U340	false	inactive	DELETED	Not part of a reference proteome									UPI00197935B8	True	True	Strombidinopsis acuminata	7	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:24Z
+A0A0G4M9X1	false	inactive	DELETED	Not part of a reference proteome									UPI00063E19DE	True	True	Verticillium longisporum	8	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A438GXQ0	false	inactive	DELETED	Not part of a reference proteome		A0ACT1IPD1	A0ACT1IPD1	same_sequence_active_entry	True	S-adenosylmethionine decarboxylase proenzyme 4	Vitis vinifera	ok	UPI001005D007	True	True	Vitis vinifera	7	full (replacement UniProt + InterPro)	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A7S0YSB2	false	inactive	DELETED	Not part of a reference proteome									UPI001709E0DB	True	True	Hemiselmis tepida	4	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:24Z
+A0A7S0BUF8	false	inactive	DELETED	Not part of a reference proteome									UPI0016F758ED	True	True	Rhodosorus marinus	8	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:24Z
+A0A958QV99	false	inactive	DELETED	Not part of a reference proteome									UPI001D271F39	True	True	Bdellovibrionales bacterium	8	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:24Z
+A0A0B6Y7C0	false	inactive	DELETED	Not part of a reference proteome									UPI0005AE2EA4	True	True	Arion vulgaris	8	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A7V7WKX8	false	inactive	DELETED	Not part of a reference proteome									UPI00135FE083	True	True	bacterium	7	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:23Z
+A4D233	false	inactive	DELETED	Not part of a reference proteome									UPI0000251F82	True	True	Homo sapiens	4	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A835V132	false	inactive	DELETED	Not part of a reference proteome									UPI001A286692	True	True	Vanilla planifolia	8	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:24Z
+A0A3L6DY35	false	inactive	DELETED	Not part of a reference proteome									UPI000F99BE9C	True	True	Zea mays	11	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A816R1F7	false	inactive	DELETED	Not part of a reference proteome									UPI001AF4D275	True	True	Brassica napus	8	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:24Z
+A0A5K0VKJ0	false	inactive	DELETED	Not part of a reference proteome									UPI00129F0A03	True	True	Nymphaea colorata	8	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A7C4VBC3	false	inactive	DELETED	Not part of a reference proteome									UPI001757A564	True	True	Armatimonadota bacterium	0	none	2026_04	2026_04	2026-11-17T18:29:24Z
+A0A7X9J3E4	false	inactive	DELETED	Not part of a reference proteome									UPI0017BFBA27	True	True	Armatimonadota bacterium	0	none	2026_04	2026_04	2026-11-17T18:29:24Z
+A0A847MBT3	false	inactive	DELETED	Not part of a reference proteome									UPI0016A88736	True	True	Atribacteria	0	none	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A497HS17	false	inactive	DELETED	Not part of a reference proteome									UPI000F112F70	True	True	Thermoplasmata archaeon	0	none	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A6B1CGJ5	false	inactive	DELETED	Redundant sequence									UPI0013FCABE0	True	True	Gemmatimonadota bacterium	0	none	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A7Y7NFQ2	false	inactive	DELETED	Not part of a reference proteome									UPI0017D08CC8	True	True	Bacteroidota bacterium	0	none	2026_04	2026_04	2026-11-17T18:29:24Z
+A0A930T1I1	false	inactive	DELETED	Not part of a reference proteome									UPI0019E98423	True	True	Cyanobacterium sp. T60_A2020_053	0	none	2026_04	2026_04	2026-11-17T18:29:24Z
+A0A6P2EU22	false	inactive	DELETED	Not part of a reference proteome									UPI001317762F	True	True	Variovorax sp. PBL-H6	0	none	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A532CVR7	false	inactive	DELETED	Not part of a reference proteome									UPI00121A23DF	True	True	Nitrospira sp.	0	none	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A7W8PHB5	false	inactive	DELETED	Not part of a reference proteome									UPI001610022D	True	True	unclassified Paraburkholderia	0	none	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A955BYF7	false	inactive	DELETED	Not part of a reference proteome									UPI001D1E909A	True	True	Phycisphaerales bacterium	0	none	2026_04	2026_04	2026-11-17T18:29:24Z
+A0A1J5I2P1	false	inactive	DELETED	Not part of a reference proteome									UPI000919F2A2	True	True	Thermodesulfobacteriota	0	none	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A8B3CKY2	false	inactive	DELETED	Not part of a reference proteome									UPI000E59CCCE	True	True	Leptospira stimsonii	0	none	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A6P1IGD2	false	inactive	DELETED	Not part of a reference proteome									UPI00131F6710	True	True	Hydrogenophaga sp. PBL-H3	0	none	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A928V7Q3	false	inactive	DELETED	Not part of a reference proteome									UPI001A0263AB	True	True	Pseudanabaenaceae cyanobacterium LEGE 13415	0	none	2026_04	2026_04	2026-11-17T18:29:24Z
+A0A353GQM6	false	inactive	DELETED	Not part of a reference proteome									UPI000E83216E	True	True	Bacillota bacterium	3	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A966CCD2	false	inactive	DELETED	Not part of a reference proteome									UPI001D72EEDA	True	True	unclassified Cyanobacteriota	0	none	2026_04	2026_04	2026-11-17T18:29:24Z
+A0A7W2JFL9	false	inactive	DELETED	Not part of a reference proteome									UPI0015F791A3	True	True	Pseudomonas juntendi	0	none	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A6L7SRH5	false	inactive	DELETED	Not part of a reference proteome									UPI001414BBEF	True	True	Gammaproteobacteria bacterium	0	none	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A2V8MPJ3	false	inactive	DELETED	Not part of a reference proteome									UPI000D808558	True	True	Acidobacteriota bacterium	0	none	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A962T315	false	inactive	DELETED	Redundant sequence									UPI001D820280	True	True	Candidatus Competibacteraceae bacterium	0	none	2026_04	2026_04	2026-11-17T18:29:24Z
+A0A2M7N638	false	inactive	DELETED	Not part of a reference proteome									UPI000CCAEB94	True	True	Bacteroidetes bacterium CG_4_10_14_3_um_filter_31_20	0	none	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A953NU64	false	inactive	DELETED	Not part of a reference proteome									UPI001D1C14E0	True	True	Terriglobia bacterium	0	none	2026_04	2026_04	2026-11-17T18:29:24Z
+A0AAV6B2N9	false	inactive	DELETED	Not part of a reference proteome									UPI002CFE305B	True	True	Candidatus Methylomirabilota bacterium	0	none	2026_04	2026_04	2026-11-17T18:29:25Z
+A0A6L7MVH5	false	inactive	DELETED	Redundant sequence									UPI0013AD3AB1	True	True	Gammaproteobacteria bacterium	0	none	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A5C6CZ86	false	inactive	DELETED	Not part of a reference proteome									UPI00054434B1	True	True	Candidatus Brocadiales	0	none	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A521LY77	false	inactive	DELETED	Not part of a reference proteome									UPI00120D27D5	True	True	Reyranella sp.	0	none	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A9E3PPC0	false	inactive	DELETED	Not part of a reference proteome									UPI001ECCA495	True	True	Sphingomonas sp.	1	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:25Z
+A0A846HQ95	false	inactive	DELETED	Not part of a reference proteome									UPI00142BF953	True	True	Halochromatium sp.	0	none	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A1N7B6D7	false	inactive	DELETED	Not part of a reference proteome									UPI0009549C1B	True	True	Microbacterium sp. RURRCA19A	0	none	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A1Y0V3D8	false	inactive	DELETED	Not part of a reference proteome									UPI000B56751D	True	True	Acetobacter ascendens	0	none	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A2W4JJ07	false	inactive	DELETED	Not part of a reference proteome									UPI000DB091B7	True	True	Pseudomonadota bacterium	0	none	2026_04	2026_04	2026-11-17T18:29:23Z
+A0AA90VEG9	false	inactive	DELETED	Not part of a reference proteome									UPI0012928B8B	True	True	Segatella copri	0	none	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A7X7KRE7	false	inactive	DELETED	Not part of a reference proteome									UPI0016ABAD84	True	True	Lentisphaerota bacterium	2	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A933AFK8	false	inactive	DELETED	Not part of a reference proteome									UPI001DD2FDAA	True	True	Omnitrophica bacterium	0	none	2026_04	2026_04	2026-11-17T18:29:24Z
+A0A6N2CR50	false	inactive	DELETED	Not part of a reference proteome									UPI00141686AF	True	True	Puniceicoccaceae bacterium	2	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A952CUN7	false	inactive	DELETED	Not part of a reference proteome									UPI001C6BBC77	True	True	Trueperaceae bacterium	0	none	2026_04	2026_04	2026-11-17T18:29:24Z
+A0A7J5BUX9	false	inactive	DELETED	Not part of a reference proteome									UPI001301368D	True	True	Pseudoclavibacter sp. CFCC 11306	0	none	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A165HU81	false	inactive	DELETED	Not part of a reference proteome									UPI0007AC1B75	True	True	Microbacterium sp. T32	1	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A2J8IJ87	false	inactive	DELETED	Not part of a reference proteome									UPI000C9DF376	True	True	Arthrobacter sp. AFG7.2	0	none	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A653S681	false	inactive	DELETED	Not part of a reference proteome									UPI0012F20A41	True	True	Arthrobacter sp. 9AX	0	none	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A1H0M2U7	false	inactive	DELETED	Not part of a reference proteome									UPI00089155EE	True	True	Microbacterium testaceum	0	none	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A7S1BS53	false	inactive	DELETED	Not part of a reference proteome									UPI001736C957	True	True	Corethron hystrix	1	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:24Z
+A0A2P6WEH4	false	inactive	DELETED	Not part of a reference proteome									UPI000D26D39E	True	True	Acidobacteriota bacterium	0	none	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A525CA37	false	inactive	DELETED	Not part of a reference proteome									UPI00121E062A	True	True	Desulfovibrio sp.	0	none	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A061M0Y9	false	inactive	DELETED	Not part of a reference proteome									UPI00035C9342	True	True	Leucobacter sp. UCD-THU	0	none	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A974ZA85	false	inactive	DELETED	Not part of a reference proteome									UPI0019524662	True	True	Amycolatopsis sp. FDAARGOS 1241	34	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:24Z
+A0A924G868	false	inactive	DELETED	Not part of a reference proteome									UPI001991A670	True	True	Salinibacterium sp.	1	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:24Z
+A0A328Q3K5	false	inactive	DELETED	Not part of a reference proteome		Q2NHK3	Q2NHK3	same_sequence_active_entry	True	Hypothetical membrane-spanning protein	Methanosphaera stadtmanae (strain ATCC 43021 / DSM 3091 / JCM 11832 / MCB-3)	no_matches	UPI0000674B1B	True	True	Methanosphaera	0	replacement UniProt record	2026_04	2026_04	2026-11-17T18:29:23Z
+A0AAJ2T0W7	false	inactive	DELETED	Not part of a reference proteome									UPI002A6B3D5D	True	True	Frigoribacterium sp. CFBP9030	0	none	2026_04	2026_04	2026-11-17T18:29:25Z
+A0A2R9UF47	false	inactive	DELETED	Not part of a reference proteome									UPI00086F5DA7	True	True	unclassified Microbacterium	0	none	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A0Q5MN95	false	inactive	DELETED	Not part of a reference proteome									UPI0006FE825F	True	True	Frigoribacterium sp. Leaf172	0	none	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A147DPE9	false	inactive	DELETED	Not part of a reference proteome									UPI0007362E94	True	True	Curtobacterium oceanosedimentum	0	none	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A0Q4EBZ8	false	inactive	DELETED	Not part of a reference proteome									UPI0006FF412F	True	True	Sphingomonas sp. Leaf208	0	none	2026_04	2026_04	2026-11-17T18:29:23Z
+A0AB39MAW3	false	inactive	DELETED	Not part of a reference proteome									UPI0034DE0A17	True	True	Streptomyces sp. R08	0	none	2026_04	2026_04	2026-11-17T18:29:25Z
+A0A959ZZW5	false	inactive	DELETED	Not part of a reference proteome									UPI001D1DDDEF	True	True	Thermoleophilia bacterium	3	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:24Z
+A0AAC9I9D4	false	inactive	DELETED	Not part of a reference proteome									UPI0008928EC5	True	True	Microbacterium sp. BH-3-3-3	0	none	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A4P8SN07	false	inactive	DELETED	Not part of a reference proteome									UPI0010CD12FF	True	True	unclassified Curtobacterium	1	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A328HKR7	false	inactive	DELETED	Not part of a reference proteome									UPI000DC3BA83	True	True	Arthrobacter globiformis	1	domains only (UniParc features)	2026_04	2026_04	2026-11-17T18:29:23Z
+A0A4P8SRD7	false	inactive	DELETED	Not part of a reference proteome									UPI0010CD0E2B	True	True	Curtobacterium sp. SGAir0471	0	none	2026_04	2026_04	2026-11-17T18:29:23Z

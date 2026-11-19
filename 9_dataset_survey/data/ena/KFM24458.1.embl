@@ -1,0 +1,124 @@
+ID   KFM24458; SV 1; linear; genomic DNA; CON; PLN; 2421 BP.
+XX
+PA   KL662107.1
+XX
+PR   Project:PRJNA182710;
+XX
+DT   05-AUG-2014 (Rel. 121, Created)
+DT   01-SEP-2014 (Rel. 122, Last updated, Version 2)
+XX
+DE   Auxenochlorella protothecoides S-adenosylmethionine decarboxylase proenzyme
+XX
+KW   .
+XX
+OS   Auxenochlorella protothecoides
+OC   Eukaryota; Viridiplantae; Chlorophyta; core chlorophytes; Trebouxiophyceae;
+OC   Chlorellales; Chlorellaceae; Auxenochlorella.
+XX
+RN   [1]
+RC   Publication Status: Online-Only
+RX   PUBMED; 25012212.
+RA   Gao C., Wang Y., Shen Y., Yan D., He X., Dai J., Wu Q.;
+RT   "Oil accumulation mechanisms of the oleaginous microalga Chlorella
+RT   protothecoides revealed through its genome, transcriptomes, and proteomes";
+RL   BMC Genomics 15(1):582-582(2014).
+XX
+RN   [2]
+RA   Gao C.;
+RT   ;
+RL   Submitted (12-MAR-2013) to the INSDC.
+RL   School of Life Sciences, Tsinghua University, Room 241, New Building,
+RL   Haidian District, Beijing 100084, China
+XX
+DR   MD5; f36362597f77bf1f7df3efb7b82fabe9.
+DR   BioSample; SAMN02433493.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..2421
+FT                   /organism="Auxenochlorella protothecoides"
+FT                   /chromosome="Unknown"
+FT                   /strain="0710"
+FT                   /mol_type="genomic DNA"
+FT                   /db_xref="taxon:3075"
+FT   CDS             join(KL662107.1:462618..463296,KL662107.1:463572..464395,
+FT                   KL662107.1:464618..465535)
+FT                   /codon_start=1
+FT                   /locus_tag="F751_3176"
+FT                   /product="S-adenosylmethionine decarboxylase proenzyme"
+FT                   /note="GO_function: GO:0003824 - catalytic activity
+FT                   [Evidence IEA]; GO_function: GO:0004014 -adenosylmethionine
+FT                   decarboxylase activity [Evidence IEA]; GO_process:
+FT                   GO:0006596 - polyamine biosynthetic process [Evidence IEA];
+FT                   GO_process: GO:0006597 - spermine biosynthetic process
+FT                   [Evidence IEA]; GO_process: GO:0008295 - spermidine
+FT                   biosynthetic process [Evidence IEA]"
+FT                   /db_xref="GOA:A0A087SFF4"
+FT                   /db_xref="InterPro:IPR000183"
+FT                   /db_xref="InterPro:IPR001985"
+FT                   /db_xref="InterPro:IPR002433"
+FT                   /db_xref="InterPro:IPR009006"
+FT                   /db_xref="InterPro:IPR016067"
+FT                   /db_xref="InterPro:IPR022643"
+FT                   /db_xref="InterPro:IPR022644"
+FT                   /db_xref="InterPro:IPR029066"
+FT                   /db_xref="UniProtKB/TrEMBL:A0A087SFF4"
+FT                   /protein_id="KFM24458.1"
+FT                   /translation="MCVAALPCPAFEGSEKRISVSFSSRAGAVGAGLRALTRAELDALM
+FT                   DSAACLIVSVRHHASHDAYVLSESSCFVYPDRIVVKTCGTTRLLACVPLLLRLAAGLGL
+FT                   EPAAVKYSRASFLFPAAQPEEHASFEAETAVLRAAFAALPLASAYVLGDALAGLQWHVF
+FT                   AAGVARGAAAVAQAPPPPPLHTLELCMTGLCPRKAANFFRTEAFVDSRRVTCDSGIQDL
+FT                   LPKAEIDDYVFEPCGYSMNAVEAGSFSTIHITPEDGFSYASFELCGYDPATMDVPDLVA
+FT                   RVAAVFRPRHMAVALSVDAPAGACVGDVDGATWRARRSLPAGYACHAGSFQELRAGGHV
+FT                   AFFGLDLEEGEAFDGQAEDLPHAADEALGAAGQLQADCAAKAMELALEATAGVLGGHAV
+FT                   AACDAGAGSSDGGSPRGVVSRDTLSSVLTDLDSLGEGAGEWGGGRATPSSTASEDARPV
+FT                   GPRPLGEVLALHGAHPLPDGSRASLDAHAAALIASRGLEDTFYRPRDLRAGAELGCPLT
+FT                   TFDSVDELRKVARAWPGARLLLRVRADAPAARCPLGNKYGAETWEWAALAAEATRLGLP
+FT                   VDGVAFHVGSGAGADAAGAYENAIAVAADAAEVLRAAGHAVSILDIGGGFPGGALGGIA
+FT                   PAINAALEARFPGVEVVAEPGRFFAERIATLATAVFGARERSAGGDARDVDAIATPTVE
+FT                   DPTLHPTTRELFVTDGIYGSMNCMLYDHASPLPRALATDDRARGALVPTTVFGPTCDGL
+FT                   DTLVRGHPLPAGLGVGSWLVWPDMGAYTICGASAFNGMDAVNVPRFYVWSVKP"
+XX
+SQ   Sequence 2421 BP; 263 A; 960 C; 847 G; 351 T; 0 other;
+     atgtgcgtcg ccgccctgcc ctgccccgcc ttcgaggggt ctgagaagcg catcagcgtc        60
+     agcttctcct cccgtgcggg cgccgtcggc gccggcctgc gcgcgctgac ccgcgccgag       120
+     ctggacgcgc tgatggacag cgccgcctgc ctcatcgtgt cggtgcgcca ccacgccagc       180
+     cacgacgcct acgtcctgtc tgagtcctcc tgcttcgtct accctgaccg catcgtggtc       240
+     aagacctgcg gcaccacccg cctgctggcc tgcgtccccc tgctcctccg cctcgctgcc       300
+     ggtctgggcc tggagccggc cgcggtcaag tactcccgcg ccagtttcct cttccctgcc       360
+     gcgcagcccg aggagcacgc cagcttcgag gccgagaccg ccgtcctgcg cgccgctttt       420
+     gccgcgctgc ccctggcctc cgcctacgtc ctgggcgacg cgctggcggg cctgcagtgg       480
+     cacgtcttcg ccgcgggcgt tgcgcgcggc gcggccgcag tggcgcaggc cccccctccg       540
+     cccccgctgc acaccctgga gctgtgcatg accggcctgt gcccgcgcaa ggccgccaac       600
+     ttcttccgca ccgaggcatt tgtggacagc cgccgcgtga catgcgactc gggcatccag       660
+     gacctcctcc ccaaggccga gatcgatgac tatgtgttcg agccctgcgg ctactccatg       720
+     aacgcagtgg aggcggggtc cttctccacc atccacatca cgcccgagga cggcttctcc       780
+     tacgcctcct tcgagctttg cggctacgac cccgccacca tggacgtgcc cgacctggtg       840
+     gcgcgcgtgg cggccgtctt ccgcccccgc cacatggcgg tggcactgtc ggtggacgcc       900
+     ccagctggcg cctgcgtcgg cgacgtggac ggcgccacct ggcgcgcacg gcgctcgctg       960
+     ccggccggct atgcctgcca cgcggggtcc ttccaggagc tgcgcgcggg cgggcacgtc      1020
+     gccttcttcg gcctggacct ggaggaaggg gaggcgtttg acggccaggc cgaggacctc      1080
+     ccgcacgccg ccgacgaggc cctgggcgcc gccggccagc tgcaggccga ctgcgccgcc      1140
+     aaagccatgg agctggcgct ggaggccacg gccggcgtgc tgggagggca cgcggtggcc      1200
+     gcctgcgacg ccggcgcggg cagctccgac ggcgggtcgc cgcgcggcgt ggtgtctcgg      1260
+     gacaccctct cctccgtcct caccgacctc gactcgctgg gcgagggcgc gggcgagtgg      1320
+     ggcggcggcc gcgccacgcc ttcctccacc gcctcggagg acgcgcggcc cgtggggcct      1380
+     cgccccctgg gcgaggtcct ggccctgcac ggcgcccacc cgctgcccga cggctcgcgt      1440
+     gcctcgctgg acgcgcacgc ggcggccctg atcgcctcgc gcggcctgga ggacaccttc      1500
+     taccgcccgc gcgacctgcg cgccggcgcg gagctgggct gcccgctgac cacctttgac      1560
+     agcgtggacg agctgcgcaa ggtcgcccgc gcctggcccg gcgcgcgcct gctcctgcgc      1620
+     gtgcgggccg acgcgcccgc cgcacgctgc ccgctgggca acaaatacgg cgcggagacc      1680
+     tgggagtggg cggcgctggc cgcggaggcc acgcgcctgg gcctgcccgt cgacggcgtc      1740
+     gccttccacg tcgggtccgg ggcgggggct gacgcggcgg gggcttacga gaacgccatc      1800
+     gccgtcgccg ccgacgcggc cgaggtcctg cgcgccgcgg ggcacgccgt ctccatcctc      1860
+     gacatcggcg gcgggttccc gggcggcgcg ctgggcggca tcgcgccggc catcaacgcc      1920
+     gcgctggagg cgcgcttccc gggcgtggag gtggtggccg agccgggacg cttcttcgcg      1980
+     gagcgcatcg ccacgcttgc caccgccgtg tttggcgcgc gcgagcgcag cgcgggcggt      2040
+     gacgccaggg acgtggacgc catcgccacc cccaccgtcg aggaccccac cctccacccc      2100
+     accacgcgcg agctcttcgt gaccgatggc atctacggct ccatgaactg catgctgtac      2160
+     gaccacgcca gccccctgcc gcgtgcgctg gccaccgacg accgcgcgcg cggcgctctg      2220
+     gtccccacca ccgtgtttgg gcccacctgc gacgggctgg acacgctggt gcggggccac      2280
+     ccgctgcctg ccgggctggg cgtcggctcg tggctggtgt ggcccgacat gggggcctac      2340
+     accatctgcg gcgcctcggc cttcaacggc atggacgcgg tgaatgttcc ccgtttctac      2400
+     gtctggtccg tgaagccgtg a                                                2421
+//

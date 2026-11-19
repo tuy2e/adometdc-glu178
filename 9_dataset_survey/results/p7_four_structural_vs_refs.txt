@@ -1,0 +1,21 @@
+TM-align of partner region (from p7 partner_from) to AlphaFold models; TM normalised by partner length / by reference length
+
+A0A7S1KLJ4 Percolomonas cosmopolitus (partner 435 aa)
+  structure: ODC human: 0.80/0.76; ODC T. brucei: 0.79/0.81; AZIN1 human: 0.79/0.77; ADC1 Arabidopsis: 0.76/0.49; SpeA ADC E. coli: 0.76/0.52; LysA DAPDC E. coli: 0.74/0.76
+  sequence (p6, score/identity): AZIN1 human (inactive ODC paralog)=371/0.32; ODC human=354/0.36; ODC Trypanosoma brucei=351/0.32; ODC tobacco (plant)=336/0.34; AZIN2 human (ODC-like)=325/0.28; ODC yeast=278/0.32; ADC chlorella virus PBCV-1 (ODC-fold)=264/0.30; AdoMetDC/ODC Plasmodium falciparum=185/0.27; ADC2 Arabidopsis=105/0.29; ADC1 Arabidopsis=102/0.26; DAPDC LysA E. coli=70/0.25; ADC SpeA E. coli=52/0.22; CANSDC Campylobacter jejuni=46/0.26; CANSDC Vibrio alginolyticus=42/0.19
+
+A0A9C7PQ51 Galdieria partita (partner 354 aa)
+  structure: ODC human: 0.83/0.65; ODC T. brucei: 0.84/0.71; AZIN1 human: 0.83/0.67; ADC1 Arabidopsis: 0.78/0.43; SpeA ADC E. coli: 0.78/0.45; LysA DAPDC E. coli: 0.80/0.69
+  sequence (p6, score/identity): AZIN1 human (inactive ODC paralog)=218/0.29; ODC yeast=199/0.31; ODC human=192/0.25; AZIN2 human (ODC-like)=192/0.25; ODC Trypanosoma brucei=168/0.25; ODC tobacco (plant)=159/0.24; ADC chlorella virus PBCV-1 (ODC-fold)=135/0.25; AdoMetDC/ODC Plasmodium falciparum=98/0.27; ADC1 Arabidopsis=45/0.41; ADC2 Arabidopsis=41/0.32; DAPDC LysA E. coli=41/0.24; CANSDC Vibrio alginolyticus=40/0.34; CANSDC Campylobacter jejuni=36/0.29; ADC SpeA E. coli=34/0.25
+
+A0AAV8UZF7 Rhodosorus marinus (partner 395 aa)
+  structure: ODC human: 0.80/0.70; ODC T. brucei: 0.80/0.75; AZIN1 human: 0.81/0.72; ADC1 Arabidopsis: 0.78/0.47; SpeA ADC E. coli: 0.76/0.49; LysA DAPDC E. coli: 0.77/0.73
+  sequence (p6, score/identity): ODC human=243/0.28; ODC Trypanosoma brucei=229/0.27; AZIN1 human (inactive ODC paralog)=229/0.28; ODC tobacco (plant)=218/0.28; AZIN2 human (ODC-like)=192/0.27; ODC yeast=170/0.29; ADC chlorella virus PBCV-1 (ODC-fold)=132/0.25; DAPDC LysA E. coli=69/0.28; AdoMetDC/ODC Plasmodium falciparum=68/0.20; CANSDC Vibrio alginolyticus=50/0.28; ADC1 Arabidopsis=42/0.37; CANSDC Campylobacter jejuni=38/0.31; ADC2 Arabidopsis=36/0.53; ADC SpeA E. coli=34/0.21
+
+A0A2V3IZY9 Gracilariopsis chorda (partner 357 aa)
+  structure: ODC human: 0.80/0.64; ODC T. brucei: 0.80/0.69; AZIN1 human: 0.81/0.66; ADC1 Arabidopsis: 0.77/0.42; SpeA ADC E. coli: 0.77/0.45; LysA DAPDC E. coli: 0.80/0.69
+  sequence (p6, score/identity): ODC human=141/0.29; ODC tobacco (plant)=137/0.26; ODC Trypanosoma brucei=134/0.30; ODC yeast=98/0.25; AZIN1 human (inactive ODC paralog)=86/0.26; ADC chlorella virus PBCV-1 (ODC-fold)=80/0.31; AZIN2 human (ODC-like)=63/0.24; AdoMetDC/ODC Plasmodium falciparum=61/0.34; ADC SpeA E. coli=51/0.28; DAPDC LysA E. coli=49/0.41; ADC1 Arabidopsis=37/0.44; CANSDC Vibrio alginolyticus=37/0.38; CANSDC Campylobacter jejuni=35/0.25; ADC2 Arabidopsis=32/0.26
+
+A0A1Y1HLG4 Klebsormidium nitens (partner 450 aa)
+  structure: ODC human: 0.83/0.81; ODC T. brucei: 0.82/0.88; AZIN1 human: 0.79/0.80; ADC1 Arabidopsis: 0.76/0.50; SpeA ADC E. coli: 0.75/0.53; LysA DAPDC E. coli: 0.76/0.81
+  sequence (p6, score/identity): ODC tobacco (plant)=1013/0.54; ODC Trypanosoma brucei=885/0.50; ODC human=847/0.47; ODC yeast=821/0.48; AZIN2 human (ODC-like)=687/0.42; ADC chlorella virus PBCV-1 (ODC-fold)=670/0.42; AZIN1 human (inactive ODC paralog)=643/0.40; AdoMetDC/ODC Plasmodium falciparum=370/0.37; DAPDC LysA E. coli=169/0.29; ADC1 Arabidopsis=116/0.30; CANSDC Campylobacter jejuni=116/0.29; ADC2 Arabidopsis=106/0.30; ADC SpeA E. coli=97/0.30; CANSDC Vibrio alginolyticus=80/0.28
