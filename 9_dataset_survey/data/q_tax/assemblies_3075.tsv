@@ -1,0 +1,7 @@
+accession	assembly_name	version	assembly_level	strain	study_accession	wgs_set	last_updated	scientific_name
+GCA_003709365	ASM370936v1	1	scaffold	UTEX 25	PRJNA476562	QOKY01	2018-11-01	Auxenochlorella protothecoides
+GCA_000733215	ASM73321v1	1	scaffold	0710	PRJNA182710	APJO01	2022-12-11	Auxenochlorella protothecoides
+GCA_002154875	AuxProt1.0	1	scaffold	UTEX 2341	PRJNA362700	MUYL01	2022-12-26	Auxenochlorella protothecoides
+GCA_036987955	ASM3698795v1	1	scaffold	ATCC 30407	PRJNA936934	JAZBJY01	2024-03-04	Auxenochlorella protothecoides
+GCA_052819035	UTEX_25_H1.V1	1	complete genome		PRJNA1328465	JBRAST01	2025-09-23	Auxenochlorella protothecoides
+GCA_052818955	UTEX 2341_H1.V1	1	complete genome		PRJNA1328465	JBRASU01	2025-09-23	Auxenochlorella protothecoides

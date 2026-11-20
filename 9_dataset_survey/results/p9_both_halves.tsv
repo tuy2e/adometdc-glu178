@@ -1,0 +1,24 @@
+accession	organism	Ser68	Ser229	His243	Cys82	Glu247	adometdc_sites_kept_or_altered	adometdc_half	odc_p7_identical_in_place	odc_half_p7_ungated	odc_kept	odc_lost	odc_unresolved	odc_TM_to_human_ODC	odc_partner_len	odc_half	both_halves	borderline_sites	verdict_depends_on_borderline
+A0A7S1KLJ4	Percolomonas cosmopolitus	S (86)	S (92)	H (93)	C (89)	E (78)	5/5	intact	2/13	not intact	2	6	5	0.823	435	not intact	AdoMetDC half only		
+A0A9C7PQ51	Galdieria partita	S (87)	S (95)	H (94)	C (92)	E (86)	5/5	intact	1/13	not intact	1	7	5	0.71	354	not intact	AdoMetDC half only	ODC C360 G pLDDT 70.2: lost -> unresolved; verdict unchanged	
+A0A1Y1HLG4	Klebsormidium nitens	S (86)	S (94)	H (93)	C (87)	E (79)	5/5	intact	13/13	intact	13	0	0	0.876	450	intact	both intact		
+A0AAV8UZF7	Rhodosorus marinus	S (81)	S (94)	H (92)	C (85)	E (87)	5/5	intact	2/13	not intact	2	5	6	0.753	395	not intact	AdoMetDC half only	ODC K69 Q pLDDT 69.1: unresolved -> lost; verdict unchanged	
+A0AAW1PYA1	[Myrmecia] bisecta	S (86)	S (93)	H (93)	C (88)	E (84)	5/5	intact	11/13	not intact	10	0	3	0.834	372	undetermined	AdoMetDC intact; ODC undetermined		
+A0A9D4ZGS2	Adiantum capillus-veneris	S (89)	S (96)	H (95)	C (93)	E (92)	5/5	intact	13/13	intact	13	0	0	0.863	389	intact	both intact		
+A0ABD3ICG1	Riccia sorocarpa	S (84)	F (92) lost	H (91)	C (86)	E (81)	4/5	not intact	13/13	intact	13	0	0	0.888	484	intact	ODC half only		
+A0A2P6V5T4	Micractinium conductrix	S (81)	S (91)	H (91)	C (86)	E (84)	5/5	intact	13/13	intact	13	0	0	0.865	431	intact	both intact		
+A0A087SFF4	Auxenochlorella protothecoides	S (82)	S (89)	H (91)	C (87)	E (85)	5/5	intact	12/13	not intact	12	0	1	0.687	327	undetermined	AdoMetDC intact; ODC undetermined		
+A0AAW1RFQ0	Apatococcus lobatus	S (88)	S (94)	H (94)	C (89)	E (87)	5/5	intact	13/13	intact	13	0	0	0.862	399	intact	both intact		
+A0A1D2AC22	Auxenochlorella protothecoides	S (84)	S (92)	H (95)	C (91)	E (85)	5/5	intact	1/13	not intact	0	0	13	0.146	65	undetermined	AdoMetDC intact; ODC undetermined		
+A0AAE0FQH6	Cymbomonas tetramitiformis	S (86)	S (93)	H (92)	C (87)	E (90)	5/5	intact	13/13	intact	13	0	0	0.874	388	intact	both intact		
+A0A061RZV3	Tetraselmis sp. GSL018	S (85)	S (92)	H (93)	C (85)	E (85)	5/5	intact	13/13	intact	13	0	0	0.862	399	intact	both intact		
+C1E5E7	Micromonas commoda	S (87)	S (93)	H (92)	C (87)	E (88)	5/5	intact	13/13	intact	13	0	0	0.876	431	intact	both intact		
+A0A9P3J9N9	Closterium sp. NIES-68	S (89)	S (94)	H (94)	C (89)	E (83)	5/5	intact	13/13	intact	12	0	1	0.864	489	undetermined	AdoMetDC intact; ODC undetermined	ODC D361 D pLDDT 68.6: unresolved -> kept; verdict would be 'both intact'	yes
+A0A5B8MZ45	Chloropicon primus	S (84)	S (89)	H (90)	C (84)	E (80)	5/5	intact	13/13	intact	13	0	0	0.867	389	intact	both intact		
+A0AAD9ING6	Prototheca wickerhamii	S (88)	S (95)	H (96)	C (92)	E (92)	5/5	intact	5/13	not intact	1	0	12	0.526	254	undetermined	AdoMetDC intact; ODC undetermined	ODC K69 K pLDDT 71.1: kept -> unresolved; verdict unchanged	
+A0AAW1T1C3	Apatococcus fuscideae	S (88)	S (95)	H (94)	C (88)	E (86)	5/5	intact	13/13	intact	13	0	0	0.844	401	intact	both intact		
+A0A2V3IZY9	Gracilariopsis chorda	S (85)	S (94)	H (93)	C (91)	E (85)	5/5	intact	3/13	not intact	3	5	5	0.688	357	not intact	AdoMetDC half only	ODC Y389 Q pLDDT 69.5: unresolved -> lost; verdict unchanged	
+A0A830HJR7	Pycnococcus provasolii	S (86)	S (92)	H (91)	C (86)	E (80)	5/5	intact	13/13	intact	13	0	0	0.871	419	intact	both intact		
+A0A8T2T6R3	Ceratopteris richardii	- unresolved	S (95)	H (95)	C (63) unresolved	E (92)	3/5	undetermined	13/13	intact	13	0	0	0.873	392	intact	AdoMetDC undetermined; ODC intact		
+A0A0G4EYD2	Vitrella brassicaformis CCMP3155	S (72)	S (79)	H (80)	C (73)	E (61) unresolved	4/5	undetermined	13/13	intact	12	0	1	0.872	387	undetermined	AdoMetDC undetermined; ODC undetermined	ODC S200 S pLDDT 69.2: unresolved -> kept; verdict would be 'AdoMetDC undetermined; ODC intact'	yes
+A0AAW1STH3	Apatococcus fuscideae	S (73)	S (37) unresolved	- unresolved	C (86)	- unresolved	2/5	undetermined	1/13	not intact	1	0	12	0.298	143	undetermined	AdoMetDC undetermined; ODC undetermined		

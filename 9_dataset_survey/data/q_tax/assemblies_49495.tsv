@@ -1,0 +1,4 @@
+accession	assembly_name	version	assembly_level	strain	study_accession	wgs_set	last_updated	scientific_name
+GCA_009866685	CFernv1.1	1	scaffold		PRJNA511033	WXVY01	2020-01-14	Ceratopteris richardii
+GCA_011386875	ASM1138687v1	1	scaffold		PRJNA511033	WXVS01	2020-03-17	Ceratopteris richardii
+GCA_020310875	C.richardii_v2	1	chromosome		PRJNA729743	JAIKUY01	2023-02-09	Ceratopteris richardii

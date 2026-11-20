@@ -1,0 +1,16 @@
+[ {
+  "taxId" : "105231",
+  "scientificName" : "Klebsormidium nitens",
+  "formalName" : "true",
+  "rank" : "species",
+  "division" : "PLN",
+  "lineage" : "Eukaryota; Viridiplantae; Streptophyta; Klebsormidiophyceae; Klebsormidiales; Klebsormidiaceae; Klebsormidium; ",
+  "geneticCode" : "1",
+  "mitochondrialGeneticCode" : "1",
+  "plastIdGeneticCode" : "11",
+  "submittable" : "true",
+  "binomial" : "true",
+  "authority" : "(Meneghini) Lokhorst",
+  "otherNames" : [ "Klebsormidium nitens (Meneghini) Lokhorst:authority", "Ulothrix nitens Kutzing, 1849:authority", "Klebsormidium sp. 'Innsbruck':includes", "Ulothrix nitens:synonym" ],
+  "metagenome" : "false"
+} ]

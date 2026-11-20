@@ -1,0 +1,16 @@
+[ {
+  "taxId" : "448386",
+  "scientificName" : "Gracilariopsis chorda",
+  "formalName" : "true",
+  "rank" : "species",
+  "division" : "PLN",
+  "lineage" : "Eukaryota; Rhodophyta; Florideophyceae; Rhodymeniophycidae; Gracilariales; Gracilariaceae; Gracilariopsis; ",
+  "geneticCode" : "1",
+  "mitochondrialGeneticCode" : "4",
+  "plastIdGeneticCode" : "11",
+  "submittable" : "true",
+  "binomial" : "true",
+  "authority" : "(Holmes) Ohmi 1958",
+  "otherNames" : [ "Gracilaria chorda Holmes, 1896:authority", "Gracilariopsis chorda (Holmes) Ohmi 1958:authority", "Gracilaria chorda:synonym" ],
+  "metagenome" : "false"
+} ]

@@ -59,8 +59,8 @@ def adometdc_spans(row):
     return out
 
 
-def map_sites(acc, ref, ref_idx, human):
-    mpath = RUN / "models" / f"{acc}.pdb"
+def map_sites(acc, ref, ref_idx, human, mpath=None):
+    mpath = mpath or RUN / "models" / f"{acc}.pdb"
     cand = load_structure(str(mpath))
     pl = plddt_by_resnum(mpath)
     a = align(acc, ref, cand)

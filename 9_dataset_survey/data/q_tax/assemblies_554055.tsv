@@ -1,0 +1,4 @@
+accession	assembly_name	version	assembly_level	strain	study_accession	wgs_set	last_updated	scientific_name
+GCA_002245815	ASM224581v1	1	contig	SAG 241.80	PRJNA290385	LHPF01	2017-08-23	Micractinium conductrix
+GCA_002245815	ASM224581v2	2	contig	SAG 241.80	PRJNA290385	LHPF02	2022-12-31	Micractinium conductrix
+GCA_977927315	MC186B	1	contig		PRJEB104497	CDWRBR01	2026-02-06	Micractinium conductrix

@@ -1,0 +1,24 @@
+accession	organism	group	odc_status	adometdc_half	linker_len	linker_plddt_mean	protein_len	putrescine_sites	gene_model_evidence	n_exons	junction_vs_introns
+A0A7S1KLJ4	Percolomonas cosmopolitus	Heterolobosea	degraded	intact	71	76.8	798	13R 15L 111I 174T 176V 178E 256E 285Y	transcriptome (TSA)		
+A0A9C7PQ51	Galdieria partita	Rhodophyta	degraded	intact	114	63.4	762	13N 15E 111R 174E 176T 178E 256E 285F	genome	9	intron(s) at residue 364.0,455.7 within 30 aa of the junction
+A0A1Y1HLG4	Klebsormidium nitens	Viridiplantae	intact	intact	105	60.6	864	13R 15E 111K 174T 176T 178E 256E 285S	genome	6	intron(s) at residue 377.0,460.3 within 30 aa of the junction
+A0AAV8UZF7	Rhodosorus marinus	Rhodophyta	degraded	intact	124	65.0	809	13R 15E 111Q 174D 176G 178E 256E 285H	genome	5	intron(s) at residue 393.0 within 30 aa of the junction
+A0AAW1PYA1	[Myrmecia] bisecta	Viridiplantae	undetermined	intact	181	52.3	831	13R 15E 111K 174T 176T 178E 256E 285S	genome	8	intron(s) at residue 316.3 within 30 aa of the junction
+A0A9D4ZGS2	Adiantum capillus-veneris	Viridiplantae	intact	intact	99	57.0	811	13R 15Q 111K 174T 176T 178E 256E 285H	genome	1	single-exon CDS
+A0ABD3ICG1	Riccia sorocarpa	Viridiplantae	intact	not intact	96	48.8	904	13R 15E 111K 174T 176T 178E 256E 285F	genome	2	junction inside one exon
+A0A2P6V5T4	Micractinium conductrix	Viridiplantae	intact	intact	137	50.6	886	13R 15S 111K 174L 176T 178E 256E 285S	genome	20	intron(s) at residue 333.0,420.0,452.0,472.0 within 30 aa of the junction
+A0A087SFF4	Auxenochlorella protothecoides	Viridiplantae	undetermined	intact	162	38.8	806	13R 15S 111K 174L 176T 178E 256E 285S	genome	3	intron(s) at residue 501.0 within 30 aa of the junction
+A0AAW1RFQ0	Apatococcus lobatus	Viridiplantae	intact	intact	191	46.1	912	13R 15E 111K 174G 176S 178E 256E 285S	genome	8	intron(s) at residue 324.3 within 30 aa of the junction
+A0A1D2AC22	Auxenochlorella protothecoides	Viridiplantae	incomplete	intact	165	49.2	547	13R 15S 111K 174L 176T 178E 256E 285S	transcriptome (TSA)		
+A0AAE0FQH6	Cymbomonas tetramitiformis	Viridiplantae	intact	intact	136	61.7	807	13R 15E 111K 174R 176T 178E 256E 285S	genome	3	junction inside one exon
+A0A061RZV3	Tetraselmis sp. GSL018	Viridiplantae	intact	intact	158	56.7	835	13R 15E 111K 174T 176T 178E 256E 285S	transcriptome (TSA)		
+C1E5E7	Micromonas commoda	Viridiplantae	intact	intact	180	41.9	1039	13R 15E 111K 174T 176S 178E 256E 285S	genome	3	junction inside one exon
+A0A9P3J9N9	Closterium sp. NIES-68	Viridiplantae	undetermined	intact	133	52.3	964	13R 15D 111R 174V 176T 178E 256E 285H	genome	2	junction inside one exon
+A0A5B8MZ45	Chloropicon primus	Viridiplantae	intact	intact	144	53.2	834	13R 15E 111K 174L 176T 178E 256E 285T	genome	1	single-exon CDS
+A0AAD9ING6	Prototheca wickerhamii	Viridiplantae	incomplete	intact	132	39.6	694	13R 15S 111K 174L? 176T 178E 256E 285S	genome	4	intron(s) at residue 444.0 within 30 aa of the junction
+A0AAW1T1C3	Apatococcus fuscideae	Viridiplantae	intact	intact	41	67.2	727	13R 15E 111K 174S 176S 178E 256E 285S	genome	9	intron(s) at residue 322.3,338.3 within 30 aa of the junction
+A0A2V3IZY9	Gracilariopsis chorda	Rhodophyta	degraded	intact	80	48.0	730	13K 15S 111S 174D? 176T 178E 256E 285V	genome	1	single-exon CDS
+A0A830HJR7	Pycnococcus provasolii	Viridiplantae	intact	intact	189	47.4	856	13R 15E 111R 174G 176T 178E 256E 285T?	genome	1	single-exon CDS
+A0A8T2T6R3	Ceratopteris richardii	Viridiplantae	intact	undetermined	110	52.2	735	13? 15? 111M 174I 176T 178E 256E 285H	genome	1	single-exon CDS
+A0A0G4EYD2	Vitrella brassicaformis CCMP3155	Alveolata	undetermined	undetermined	202	46.7	1029	13R 15V 111L 174V? 176L? 178E 256E 285I	genome	14	intron(s) at residue 471.0,523.7,668.0,688.0 within 30 aa of the junction
+A0AAW1STH3	Apatococcus fuscideae	Viridiplantae	incomplete	undetermined	70	36.7	411	13R 15E 111K 174G? 176S? 178E 256? 285?	genome	6	intron(s) at residue 222.7,256.3,280.3 within 30 aa of the junction

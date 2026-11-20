@@ -1,0 +1,15 @@
+[ {
+  "taxId" : "122646",
+  "scientificName" : "Riccia sorocarpa",
+  "formalName" : "true",
+  "rank" : "species",
+  "division" : "PLN",
+  "lineage" : "Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Marchantiophyta; Marchantiopsida; Marchantiidae; Marchantiales; Ricciaceae; Riccia; ",
+  "geneticCode" : "1",
+  "mitochondrialGeneticCode" : "1",
+  "plastIdGeneticCode" : "11",
+  "submittable" : "true",
+  "binomial" : "true",
+  "otherNames" : [ "Riccia sorocarpa Bisch., 1835:authority" ],
+  "metagenome" : "false"
+} ]

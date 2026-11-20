@@ -1,0 +1,16 @@
+[ {
+  "taxId" : "101924",
+  "scientificName" : "Rhodosorus marinus",
+  "formalName" : "true",
+  "rank" : "species",
+  "division" : "PLN",
+  "lineage" : "Eukaryota; Rhodophyta; Stylonematophyceae; Stylonematales; Stylonemataceae; Rhodosorus; ",
+  "geneticCode" : "1",
+  "mitochondrialGeneticCode" : "4",
+  "plastIdGeneticCode" : "11",
+  "submittable" : "true",
+  "binomial" : "true",
+  "authority" : "Geitler, 1930",
+  "otherNames" : [ "Rhodosorus marinus Geitler, 1930:authority" ],
+  "metagenome" : "false"
+} ]

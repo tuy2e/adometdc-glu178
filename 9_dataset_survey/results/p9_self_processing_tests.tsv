@@ -1,0 +1,11 @@
+set	site	group	vs	group_kept	group_altered	group_lost	group_unresolved	vs_kept	vs_altered	vs_lost	vs_unresolved	group_lost_as	vs_lost_as	loss_rate_diff_pts	fisher_p	perm_within_phylum_p	mh_odds_ratio_standalone_vs_group	phyla_with_both_groups	note
+all	Ser68	odc_fusion	standalone	22	0	0	1	501	0	9	80		{'G': 2, 'C': 2, 'M': 1, 'T': 1, 'A': 2, 'V': 1}	-1.76	1	1	inf	5	
+all	Ser229	odc_fusion	standalone	21	0	1	1	537	1	9	43	{'F': 1}	{'L': 1, 'Q': 6, 'P': 1, 'H': 1}	2.9	0.328	0.0842	0.036	5	
+all	His243	odc_fusion	standalone	22	0	0	1	524	0	9	57		{'S': 1, 'R': 6, 'D': 1, 'K': 1}	-1.69	1	1		5	
+all	Cys82	odc_fusion	standalone	22	0	0	1	528	0	9	53		{'R': 1, 'A': 1, 'S': 1, 'T': 1, 'N': 1, 'D': 3, 'V': 1}	-1.68	1	1		5	
+all	Glu247	odc_fusion	standalone	21	0	0	2	453	64	9	64		{'N': 3, 'S': 1, 'G': 1, 'D': 2, 'V': 1, 'H': 1}	-1.71	1	1		4	
+interpro_only	Ser68	odc_fusion	standalone	18	0	0	1	352	0	6	59		{'C': 2, 'M': 1, 'A': 2, 'V': 1}	-1.68	1	1	inf	4	
+interpro_only	Ser229	odc_fusion	standalone	17	0	1	1	382	0	5	30	{'F': 1}	{'Q': 3, 'P': 1, 'H': 1}	4.26	0.24	0.077	0.0312	4	
+interpro_only	His243	odc_fusion	standalone	18	0	0	1	371	0	5	41		{'R': 3, 'D': 1, 'K': 1}	-1.33	1	1		4	
+interpro_only	Cys82	odc_fusion	standalone	18	0	0	1	376	0	4	37		{'S': 1, 'D': 2, 'V': 1}	-1.05	1	1		4	
+interpro_only	Glu247	odc_fusion	standalone	17	0	0	2	341	28	3	45		{'G': 1, 'N': 1, 'H': 1}	-0.81	1	1		3	

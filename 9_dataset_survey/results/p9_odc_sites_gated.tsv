@@ -1,0 +1,300 @@
+accession	organism	odc_site	human_odc_pos	human_aa	call	cand_resnum	cand_aa	ca_offset	plddt	state	unresolved_reason
+A0A7S1KLJ4	Percolomonas cosmopolitus	K69	69	K	substituted	411	S	1.3	82.12	lost	
+A0A7S1KLJ4	Percolomonas cosmopolitus	H197	197	H	substituted	540	V	3.1	76.0	lost	
+A0A7S1KLJ4	Percolomonas cosmopolitus	S200	200	S	displaced	543	F	8.3	52.22	unresolved	displaced;plddt_below_70
+A0A7S1KLJ4	Percolomonas cosmopolitus	G237	237	G	substituted	587	S	2.6	59.19	unresolved	plddt_below_70
+A0A7S1KLJ4	Percolomonas cosmopolitus	E274	274	E	substituted	634	T	1.5	86.75	lost	
+A0A7S1KLJ4	Percolomonas cosmopolitus	P275	275	P	substituted	636	S	0.7	82.56	lost	
+A0A7S1KLJ4	Percolomonas cosmopolitus	G276	276	G	substituted	637	A	1.6	81.69	lost	
+A0A7S1KLJ4	Percolomonas cosmopolitus	R277	277	R	substituted	638	S	0.3	76.81	lost	
+A0A7S1KLJ4	Percolomonas cosmopolitus	Y331	331	Y	displaced	692	V	9.1	34.75	unresolved	displaced;plddt_below_70
+A0A7S1KLJ4	Percolomonas cosmopolitus	D332	332	D	displaced	693	M	6.6	30.09	unresolved	displaced;plddt_below_70
+A0A7S1KLJ4	Percolomonas cosmopolitus	C360	360	C	identical	748	C	0.6	75.31	kept	
+A0A7S1KLJ4	Percolomonas cosmopolitus	D361	361	D	identical	749	D	0.6	74.25	kept	
+A0A7S1KLJ4	Percolomonas cosmopolitus	Y389	389	Y	substituted	778	V	2.1	63.25	unresolved	plddt_below_70
+A0A9C7PQ51	Galdieria partita	K69	69	K	substituted	441	R	0.6	83.69	lost	
+A0A9C7PQ51	Galdieria partita	H197	197	H	substituted	566	S	2.6	80.75	lost	
+A0A9C7PQ51	Galdieria partita	S200	200	S	no_residue_aligned					unresolved	no_residue_aligned
+A0A9C7PQ51	Galdieria partita	G237	237	G	substituted	597	S	3.7	62.75	unresolved	plddt_below_70
+A0A9C7PQ51	Galdieria partita	E274	274	E	substituted	632	N	1.7	87.56	lost	
+A0A9C7PQ51	Galdieria partita	P275	275	P	substituted	633	V	1.2	84.94	lost	
+A0A9C7PQ51	Galdieria partita	G276	276	G	substituted	634	D	1.4	82.69	lost	
+A0A9C7PQ51	Galdieria partita	R277	277	R	substituted	635	S	1.3	78.19	lost	
+A0A9C7PQ51	Galdieria partita	Y331	331	Y	substituted	682	T	2.4	62.19	unresolved	plddt_below_70
+A0A9C7PQ51	Galdieria partita	D332	332	D	substituted	683	E	2.9	61.0	unresolved	plddt_below_70
+A0A9C7PQ51	Galdieria partita	C360	360	C	substituted	710	G	3.5	70.19	lost	
+A0A9C7PQ51	Galdieria partita	D361	361	D	identical	711	D	2.5	78.31	kept	
+A0A9C7PQ51	Galdieria partita	Y389	389	Y	substituted	738	F	1.0	61.47	unresolved	plddt_below_70
+A0A1Y1HLG4	Klebsormidium nitens	K69	69	K	identical	463	K	0.3	97.25	kept	
+A0A1Y1HLG4	Klebsormidium nitens	H197	197	H	identical	591	H	0.2	98.0	kept	
+A0A1Y1HLG4	Klebsormidium nitens	S200	200	S	identical	594	S	1.3	88.94	kept	
+A0A1Y1HLG4	Klebsormidium nitens	G237	237	G	identical	632	G	0.6	89.81	kept	
+A0A1Y1HLG4	Klebsormidium nitens	E274	274	E	identical	667	E	0.2	98.62	kept	
+A0A1Y1HLG4	Klebsormidium nitens	P275	275	P	identical	668	P	0.2	97.94	kept	
+A0A1Y1HLG4	Klebsormidium nitens	G276	276	G	identical	669	G	0.3	97.38	kept	
+A0A1Y1HLG4	Klebsormidium nitens	R277	277	R	identical	670	R	0.7	94.69	kept	
+A0A1Y1HLG4	Klebsormidium nitens	Y331	331	Y	identical	716	Y	0.3	88.88	kept	
+A0A1Y1HLG4	Klebsormidium nitens	D332	332	D	identical	717	D	0.2	89.94	kept	
+A0A1Y1HLG4	Klebsormidium nitens	C360	360	C	identical	749	C	0.5	94.88	kept	
+A0A1Y1HLG4	Klebsormidium nitens	D361	361	D	identical	750	D	0.4	93.75	kept	
+A0A1Y1HLG4	Klebsormidium nitens	Y389	389	Y	identical	778	Y	0.4	96.06	kept	
+A0AAV8UZF7	Rhodosorus marinus	K69	69	K	substituted	457	Q	1.5	69.06	unresolved	plddt_below_70
+A0AAV8UZF7	Rhodosorus marinus	H197	197	H	substituted	580	Q	1.1	82.12	lost	
+A0AAV8UZF7	Rhodosorus marinus	S200	200	S	substituted	583	E	2.2	65.38	unresolved	plddt_below_70
+A0AAV8UZF7	Rhodosorus marinus	G237	237	G	substituted	629	S	1.3	58.97	unresolved	plddt_below_70
+A0AAV8UZF7	Rhodosorus marinus	E274	274	E	substituted	667	D	3.3	83.31	lost	
+A0AAV8UZF7	Rhodosorus marinus	P275	275	P	identical	668	P	3.5	77.69	kept	
+A0AAV8UZF7	Rhodosorus marinus	G276	276	G	identical	669	G	2.5	73.19	kept	
+A0AAV8UZF7	Rhodosorus marinus	R277	277	R	substituted	670	S	1.7	73.19	lost	
+A0AAV8UZF7	Rhodosorus marinus	Y331	331	Y	displaced	712	D	4.4	80.38	unresolved	displaced
+A0AAV8UZF7	Rhodosorus marinus	D332	332	D	displaced	714	A	7.4	74.81	unresolved	displaced
+A0AAV8UZF7	Rhodosorus marinus	C360	360	C	displaced	741	C	4.4	78.38	unresolved	displaced
+A0AAV8UZF7	Rhodosorus marinus	D361	361	D	substituted	742	E	3.0	83.0	lost	
+A0AAV8UZF7	Rhodosorus marinus	Y389	389	Y	substituted	769	T	3.0	72.56	lost	
+A0AAW1PYA1	[Myrmecia] bisecta	K69	69	K	identical	508	K	0.4	95.12	kept	
+A0AAW1PYA1	[Myrmecia] bisecta	H197	197	H	identical	636	H	0.3	96.44	kept	
+A0AAW1PYA1	[Myrmecia] bisecta	S200	200	S	identical	639	S	1.2	80.94	kept	
+A0AAW1PYA1	[Myrmecia] bisecta	G237	237	G	identical	676	G	0.9	86.75	kept	
+A0AAW1PYA1	[Myrmecia] bisecta	E274	274	E	identical	715	E	0.3	98.38	kept	
+A0AAW1PYA1	[Myrmecia] bisecta	P275	275	P	identical	716	P	0.5	97.19	kept	
+A0AAW1PYA1	[Myrmecia] bisecta	G276	276	G	identical	717	G	0.6	95.88	kept	
+A0AAW1PYA1	[Myrmecia] bisecta	R277	277	R	identical	718	R	1.2	93.12	kept	
+A0AAW1PYA1	[Myrmecia] bisecta	Y331	331	Y	no_residue_aligned					unresolved	no_residue_aligned
+A0AAW1PYA1	[Myrmecia] bisecta	D332	332	D	no_residue_aligned					unresolved	no_residue_aligned
+A0AAW1PYA1	[Myrmecia] bisecta	C360	360	C	identical	775	C	0.1	82.5	kept	
+A0AAW1PYA1	[Myrmecia] bisecta	D361	361	D	identical	776	D	0.2	65.69	unresolved	plddt_below_70
+A0AAW1PYA1	[Myrmecia] bisecta	Y389	389	Y	identical	804	Y	0.5	87.75	kept	
+A0A9D4ZGS2	Adiantum capillus-veneris	K69	69	K	identical	469	K	0.8	96.69	kept	
+A0A9D4ZGS2	Adiantum capillus-veneris	H197	197	H	identical	597	H	0.6	94.75	kept	
+A0A9D4ZGS2	Adiantum capillus-veneris	S200	200	S	identical	600	S	1.2	80.62	kept	
+A0A9D4ZGS2	Adiantum capillus-veneris	G237	237	G	identical	638	G	0.9	88.38	kept	
+A0A9D4ZGS2	Adiantum capillus-veneris	E274	274	E	identical	675	E	0.3	98.31	kept	
+A0A9D4ZGS2	Adiantum capillus-veneris	P275	275	P	identical	676	P	0.5	97.5	kept	
+A0A9D4ZGS2	Adiantum capillus-veneris	G276	276	G	identical	677	G	0.6	96.5	kept	
+A0A9D4ZGS2	Adiantum capillus-veneris	R277	277	R	identical	678	R	1.1	95.12	kept	
+A0A9D4ZGS2	Adiantum capillus-veneris	Y331	331	Y	identical	722	Y	0.8	91.12	kept	
+A0A9D4ZGS2	Adiantum capillus-veneris	D332	332	D	identical	723	D	0.8	91.5	kept	
+A0A9D4ZGS2	Adiantum capillus-veneris	C360	360	C	identical	756	C	0.4	94.31	kept	
+A0A9D4ZGS2	Adiantum capillus-veneris	D361	361	D	identical	757	D	0.5	93.81	kept	
+A0A9D4ZGS2	Adiantum capillus-veneris	Y389	389	Y	identical	785	Y	1.0	96.0	kept	
+A0ABD3ICG1	Riccia sorocarpa	K69	69	K	identical	475	K	0.6	96.56	kept	
+A0ABD3ICG1	Riccia sorocarpa	H197	197	H	identical	603	H	0.3	96.69	kept	
+A0ABD3ICG1	Riccia sorocarpa	S200	200	S	identical	606	S	1.3	85.38	kept	
+A0ABD3ICG1	Riccia sorocarpa	G237	237	G	identical	644	G	0.7	91.12	kept	
+A0ABD3ICG1	Riccia sorocarpa	E274	274	E	identical	681	E	0.2	98.25	kept	
+A0ABD3ICG1	Riccia sorocarpa	P275	275	P	identical	682	P	0.2	97.44	kept	
+A0ABD3ICG1	Riccia sorocarpa	G276	276	G	identical	683	G	0.2	96.44	kept	
+A0ABD3ICG1	Riccia sorocarpa	R277	277	R	identical	684	R	0.6	94.44	kept	
+A0ABD3ICG1	Riccia sorocarpa	Y331	331	Y	identical	728	Y	0.7	91.5	kept	
+A0ABD3ICG1	Riccia sorocarpa	D332	332	D	identical	729	D	0.5	90.62	kept	
+A0ABD3ICG1	Riccia sorocarpa	C360	360	C	identical	763	C	0.7	95.94	kept	
+A0ABD3ICG1	Riccia sorocarpa	D361	361	D	identical	764	D	0.8	95.56	kept	
+A0ABD3ICG1	Riccia sorocarpa	Y389	389	Y	identical	792	Y	0.6	95.56	kept	
+A0A2P6V5T4	Micractinium conductrix	K69	69	K	identical	504	K	0.3	95.44	kept	
+A0A2P6V5T4	Micractinium conductrix	H197	197	H	identical	632	H	0.4	96.38	kept	
+A0A2P6V5T4	Micractinium conductrix	S200	200	S	identical	635	S	1.6	83.94	kept	
+A0A2P6V5T4	Micractinium conductrix	G237	237	G	identical	672	G	1.1	87.25	kept	
+A0A2P6V5T4	Micractinium conductrix	E274	274	E	identical	712	E	0.2	98.12	kept	
+A0A2P6V5T4	Micractinium conductrix	P275	275	P	identical	713	P	0.4	96.62	kept	
+A0A2P6V5T4	Micractinium conductrix	G276	276	G	identical	714	G	0.4	95.56	kept	
+A0A2P6V5T4	Micractinium conductrix	R277	277	R	identical	715	R	0.9	93.56	kept	
+A0A2P6V5T4	Micractinium conductrix	Y331	331	Y	identical	800	Y	0.3	90.12	kept	
+A0A2P6V5T4	Micractinium conductrix	D332	332	D	identical	801	D	0.3	90.94	kept	
+A0A2P6V5T4	Micractinium conductrix	C360	360	C	identical	831	C	0.8	92.19	kept	
+A0A2P6V5T4	Micractinium conductrix	D361	361	D	identical	832	D	0.8	91.69	kept	
+A0A2P6V5T4	Micractinium conductrix	Y389	389	Y	identical	860	Y	0.6	95.06	kept	
+A0A087SFF4	Auxenochlorella protothecoides	K69	69	K	no_residue_aligned					unresolved	no_residue_aligned
+A0A087SFF4	Auxenochlorella protothecoides	H197	197	H	identical	583	H	0.4	91.94	kept	
+A0A087SFF4	Auxenochlorella protothecoides	S200	200	S	identical	586	S	1.3	72.75	kept	
+A0A087SFF4	Auxenochlorella protothecoides	G237	237	G	identical	625	G	0.5	80.44	kept	
+A0A087SFF4	Auxenochlorella protothecoides	E274	274	E	identical	654	E	0.2	76.94	kept	
+A0A087SFF4	Auxenochlorella protothecoides	P275	275	P	identical	655	P	0.3	72.75	kept	
+A0A087SFF4	Auxenochlorella protothecoides	G276	276	G	identical	656	G	0.3	76.75	kept	
+A0A087SFF4	Auxenochlorella protothecoides	R277	277	R	identical	657	R	0.8	80.0	kept	
+A0A087SFF4	Auxenochlorella protothecoides	Y331	331	Y	identical	720	Y	0.5	83.12	kept	
+A0A087SFF4	Auxenochlorella protothecoides	D332	332	D	identical	721	D	0.3	84.31	kept	
+A0A087SFF4	Auxenochlorella protothecoides	C360	360	C	identical	750	C	1.2	89.44	kept	
+A0A087SFF4	Auxenochlorella protothecoides	D361	361	D	identical	751	D	1.1	83.69	kept	
+A0A087SFF4	Auxenochlorella protothecoides	Y389	389	Y	identical	780	Y	0.6	84.06	kept	
+A0AAW1RFQ0	Apatococcus lobatus	K69	69	K	identical	562	K	1.1	96.0	kept	
+A0AAW1RFQ0	Apatococcus lobatus	H197	197	H	identical	691	H	0.7	96.25	kept	
+A0AAW1RFQ0	Apatococcus lobatus	S200	200	S	identical	694	S	1.4	81.62	kept	
+A0AAW1RFQ0	Apatococcus lobatus	G237	237	G	identical	731	G	1.0	83.19	kept	
+A0AAW1RFQ0	Apatococcus lobatus	E274	274	E	identical	771	E	0.7	98.19	kept	
+A0AAW1RFQ0	Apatococcus lobatus	P275	275	P	identical	772	P	0.8	96.19	kept	
+A0AAW1RFQ0	Apatococcus lobatus	G276	276	G	identical	773	G	1.0	95.44	kept	
+A0AAW1RFQ0	Apatococcus lobatus	R277	277	R	identical	774	R	1.3	92.31	kept	
+A0AAW1RFQ0	Apatococcus lobatus	Y331	331	Y	identical	819	Y	0.8	81.06	kept	
+A0AAW1RFQ0	Apatococcus lobatus	D332	332	D	identical	820	D	0.7	82.56	kept	
+A0AAW1RFQ0	Apatococcus lobatus	C360	360	C	identical	854	C	0.2	93.75	kept	
+A0AAW1RFQ0	Apatococcus lobatus	D361	361	D	identical	855	D	0.3	86.5	kept	
+A0AAW1RFQ0	Apatococcus lobatus	Y389	389	Y	identical	883	Y	1.0	94.81	kept	
+A0A1D2AC22	Auxenochlorella protothecoides	K69	69	K	identical	529	K	0.7	52.62	unresolved	plddt_below_70
+A0A1D2AC22	Auxenochlorella protothecoides	H197	197	H	no_residue_aligned					unresolved	no_residue_aligned
+A0A1D2AC22	Auxenochlorella protothecoides	S200	200	S	no_residue_aligned					unresolved	no_residue_aligned
+A0A1D2AC22	Auxenochlorella protothecoides	G237	237	G	no_residue_aligned					unresolved	no_residue_aligned
+A0A1D2AC22	Auxenochlorella protothecoides	E274	274	E	no_residue_aligned					unresolved	no_residue_aligned
+A0A1D2AC22	Auxenochlorella protothecoides	P275	275	P	no_residue_aligned					unresolved	no_residue_aligned
+A0A1D2AC22	Auxenochlorella protothecoides	G276	276	G	no_residue_aligned					unresolved	no_residue_aligned
+A0A1D2AC22	Auxenochlorella protothecoides	R277	277	R	no_residue_aligned					unresolved	no_residue_aligned
+A0A1D2AC22	Auxenochlorella protothecoides	Y331	331	Y	no_residue_aligned					unresolved	no_residue_aligned
+A0A1D2AC22	Auxenochlorella protothecoides	D332	332	D	no_residue_aligned					unresolved	no_residue_aligned
+A0A1D2AC22	Auxenochlorella protothecoides	C360	360	C	no_residue_aligned					unresolved	no_residue_aligned
+A0A1D2AC22	Auxenochlorella protothecoides	D361	361	D	no_residue_aligned					unresolved	no_residue_aligned
+A0A1D2AC22	Auxenochlorella protothecoides	Y389	389	Y	no_residue_aligned					unresolved	no_residue_aligned
+A0AAE0FQH6	Cymbomonas tetramitiformis	K69	69	K	identical	467	K	0.5	96.75	kept	
+A0AAE0FQH6	Cymbomonas tetramitiformis	H197	197	H	identical	595	H	0.5	97.5	kept	
+A0AAE0FQH6	Cymbomonas tetramitiformis	S200	200	S	identical	598	S	1.3	86.81	kept	
+A0AAE0FQH6	Cymbomonas tetramitiformis	G237	237	G	identical	635	G	1.1	85.38	kept	
+A0AAE0FQH6	Cymbomonas tetramitiformis	E274	274	E	identical	671	E	0.3	98.25	kept	
+A0AAE0FQH6	Cymbomonas tetramitiformis	P275	275	P	identical	672	P	0.5	96.38	kept	
+A0AAE0FQH6	Cymbomonas tetramitiformis	G276	276	G	identical	673	G	0.7	95.69	kept	
+A0AAE0FQH6	Cymbomonas tetramitiformis	R277	277	R	identical	674	R	1.1	93.25	kept	
+A0AAE0FQH6	Cymbomonas tetramitiformis	Y331	331	Y	identical	720	Y	0.8	93.44	kept	
+A0AAE0FQH6	Cymbomonas tetramitiformis	D332	332	D	identical	721	D	0.6	93.5	kept	
+A0AAE0FQH6	Cymbomonas tetramitiformis	C360	360	C	identical	752	C	0.5	95.56	kept	
+A0AAE0FQH6	Cymbomonas tetramitiformis	D361	361	D	identical	753	D	0.5	95.88	kept	
+A0AAE0FQH6	Cymbomonas tetramitiformis	Y389	389	Y	identical	781	Y	0.9	95.0	kept	
+A0A061RZV3	Tetraselmis sp. GSL018	K69	69	K	identical	490	K	0.4	97.69	kept	
+A0A061RZV3	Tetraselmis sp. GSL018	H197	197	H	identical	618	H	0.4	98.31	kept	
+A0A061RZV3	Tetraselmis sp. GSL018	S200	200	S	identical	621	S	1.4	92.81	kept	
+A0A061RZV3	Tetraselmis sp. GSL018	G237	237	G	identical	658	G	0.9	93.06	kept	
+A0A061RZV3	Tetraselmis sp. GSL018	E274	274	E	identical	698	E	0.3	98.69	kept	
+A0A061RZV3	Tetraselmis sp. GSL018	P275	275	P	identical	699	P	0.5	98.5	kept	
+A0A061RZV3	Tetraselmis sp. GSL018	G276	276	G	identical	700	G	0.5	98.25	kept	
+A0A061RZV3	Tetraselmis sp. GSL018	R277	277	R	identical	701	R	1.0	97.5	kept	
+A0A061RZV3	Tetraselmis sp. GSL018	Y331	331	Y	identical	746	Y	0.8	94.0	kept	
+A0A061RZV3	Tetraselmis sp. GSL018	D332	332	D	identical	747	D	0.4	95.12	kept	
+A0A061RZV3	Tetraselmis sp. GSL018	C360	360	C	identical	782	C	1.0	94.75	kept	
+A0A061RZV3	Tetraselmis sp. GSL018	D361	361	D	identical	783	D	1.0	95.19	kept	
+A0A061RZV3	Tetraselmis sp. GSL018	Y389	389	Y	identical	811	Y	0.7	97.69	kept	
+C1E5E7	Micromonas commoda	K69	69	K	identical	656	K	0.4	96.0	kept	
+C1E5E7	Micromonas commoda	H197	197	H	identical	784	H	0.4	93.81	kept	
+C1E5E7	Micromonas commoda	S200	200	S	identical	787	S	1.3	78.5	kept	
+C1E5E7	Micromonas commoda	G237	237	G	identical	825	G	0.9	83.44	kept	
+C1E5E7	Micromonas commoda	E274	274	E	identical	869	E	0.2	98.12	kept	
+C1E5E7	Micromonas commoda	P275	275	P	identical	870	P	0.4	95.69	kept	
+C1E5E7	Micromonas commoda	G276	276	G	identical	871	G	0.5	95.12	kept	
+C1E5E7	Micromonas commoda	R277	277	R	identical	872	R	0.9	91.62	kept	
+C1E5E7	Micromonas commoda	Y331	331	Y	identical	922	Y	0.6	85.5	kept	
+C1E5E7	Micromonas commoda	D332	332	D	identical	923	D	0.5	84.5	kept	
+C1E5E7	Micromonas commoda	C360	360	C	identical	976	C	0.4	93.12	kept	
+C1E5E7	Micromonas commoda	D361	361	D	identical	977	D	0.3	92.38	kept	
+C1E5E7	Micromonas commoda	Y389	389	Y	identical	1005	Y	0.7	93.25	kept	
+A0A9P3J9N9	Closterium sp. NIES-68	K69	69	K	identical	518	K	0.9	96.44	kept	
+A0A9P3J9N9	Closterium sp. NIES-68	H197	197	H	identical	650	H	0.7	91.06	kept	
+A0A9P3J9N9	Closterium sp. NIES-68	S200	200	S	identical	653	S	1.3	71.94	kept	
+A0A9P3J9N9	Closterium sp. NIES-68	G237	237	G	identical	691	G	1.2	86.75	kept	
+A0A9P3J9N9	Closterium sp. NIES-68	E274	274	E	identical	747	E	0.4	98.19	kept	
+A0A9P3J9N9	Closterium sp. NIES-68	P275	275	P	identical	748	P	0.7	97.25	kept	
+A0A9P3J9N9	Closterium sp. NIES-68	G276	276	G	identical	749	G	0.8	96.69	kept	
+A0A9P3J9N9	Closterium sp. NIES-68	R277	277	R	identical	750	R	1.3	94.62	kept	
+A0A9P3J9N9	Closterium sp. NIES-68	Y331	331	Y	identical	825	Y	0.9	82.19	kept	
+A0A9P3J9N9	Closterium sp. NIES-68	D332	332	D	identical	826	D	0.8	85.12	kept	
+A0A9P3J9N9	Closterium sp. NIES-68	C360	360	C	identical	863	C	0.4	81.25	kept	
+A0A9P3J9N9	Closterium sp. NIES-68	D361	361	D	identical	864	D	0.4	68.62	unresolved	plddt_below_70
+A0A9P3J9N9	Closterium sp. NIES-68	Y389	389	Y	identical	892	Y	1.1	95.62	kept	
+A0A5B8MZ45	Chloropicon primus	K69	69	K	identical	496	K	0.4	97.0	kept	
+A0A5B8MZ45	Chloropicon primus	H197	197	H	identical	624	H	0.2	97.12	kept	
+A0A5B8MZ45	Chloropicon primus	S200	200	S	identical	627	S	1.5	81.25	kept	
+A0A5B8MZ45	Chloropicon primus	G237	237	G	identical	665	G	0.6	87.38	kept	
+A0A5B8MZ45	Chloropicon primus	E274	274	E	identical	703	E	0.2	98.5	kept	
+A0A5B8MZ45	Chloropicon primus	P275	275	P	identical	704	P	0.3	97.5	kept	
+A0A5B8MZ45	Chloropicon primus	G276	276	G	identical	705	G	0.3	96.69	kept	
+A0A5B8MZ45	Chloropicon primus	R277	277	R	identical	706	R	0.7	94.81	kept	
+A0A5B8MZ45	Chloropicon primus	Y331	331	Y	identical	746	Y	0.5	84.94	kept	
+A0A5B8MZ45	Chloropicon primus	D332	332	D	identical	747	D	0.4	89.25	kept	
+A0A5B8MZ45	Chloropicon primus	C360	360	C	identical	779	C	0.2	95.81	kept	
+A0A5B8MZ45	Chloropicon primus	D361	361	D	identical	780	D	0.3	94.0	kept	
+A0A5B8MZ45	Chloropicon primus	Y389	389	Y	identical	808	Y	0.5	95.56	kept	
+A0AAD9ING6	Prototheca wickerhamii	K69	69	K	identical	489	K	0.2	71.12	kept	
+A0AAD9ING6	Prototheca wickerhamii	H197	197	H	no_residue_aligned					unresolved	no_residue_aligned
+A0AAD9ING6	Prototheca wickerhamii	S200	200	S	no_residue_aligned					unresolved	no_residue_aligned
+A0AAD9ING6	Prototheca wickerhamii	G237	237	G	no_residue_aligned					unresolved	no_residue_aligned
+A0AAD9ING6	Prototheca wickerhamii	E274	274	E	no_residue_aligned					unresolved	no_residue_aligned
+A0AAD9ING6	Prototheca wickerhamii	P275	275	P	no_residue_aligned					unresolved	no_residue_aligned
+A0AAD9ING6	Prototheca wickerhamii	G276	276	G	no_residue_aligned					unresolved	no_residue_aligned
+A0AAD9ING6	Prototheca wickerhamii	R277	277	R	no_residue_aligned					unresolved	no_residue_aligned
+A0AAD9ING6	Prototheca wickerhamii	Y331	331	Y	displaced	612	Y	4.1	49.12	unresolved	displaced;plddt_below_70
+A0AAD9ING6	Prototheca wickerhamii	D332	332	D	identical	613	D	3.6	48.09	unresolved	plddt_below_70
+A0AAD9ING6	Prototheca wickerhamii	C360	360	C	identical	639	C	2.0	35.78	unresolved	plddt_below_70
+A0AAD9ING6	Prototheca wickerhamii	D361	361	D	identical	640	D	2.0	40.66	unresolved	plddt_below_70
+A0AAD9ING6	Prototheca wickerhamii	Y389	389	Y	identical	669	Y	1.6	48.78	unresolved	plddt_below_70
+A0AAW1T1C3	Apatococcus fuscideae	K69	69	K	identical	375	K	1.0	96.19	kept	
+A0AAW1T1C3	Apatococcus fuscideae	H197	197	H	identical	504	H	0.7	96.81	kept	
+A0AAW1T1C3	Apatococcus fuscideae	S200	200	S	identical	507	S	1.5	85.69	kept	
+A0AAW1T1C3	Apatococcus fuscideae	G237	237	G	identical	544	G	1.2	84.81	kept	
+A0AAW1T1C3	Apatococcus fuscideae	E274	274	E	identical	584	E	0.5	98.31	kept	
+A0AAW1T1C3	Apatococcus fuscideae	P275	275	P	identical	585	P	0.7	96.81	kept	
+A0AAW1T1C3	Apatococcus fuscideae	G276	276	G	identical	586	G	0.9	96.12	kept	
+A0AAW1T1C3	Apatococcus fuscideae	R277	277	R	identical	587	R	1.2	94.19	kept	
+A0AAW1T1C3	Apatococcus fuscideae	Y331	331	Y	identical	632	Y	0.9	91.5	kept	
+A0AAW1T1C3	Apatococcus fuscideae	D332	332	D	identical	633	D	0.7	92.31	kept	
+A0AAW1T1C3	Apatococcus fuscideae	C360	360	C	identical	666	C	0.3	95.94	kept	
+A0AAW1T1C3	Apatococcus fuscideae	D361	361	D	identical	667	D	0.5	95.5	kept	
+A0AAW1T1C3	Apatococcus fuscideae	Y389	389	Y	identical	695	Y	1.0	95.31	kept	
+A0A2V3IZY9	Gracilariopsis chorda	K69	69	K	substituted	429	R	1.9	86.25	lost	
+A0A2V3IZY9	Gracilariopsis chorda	H197	197	H	substituted	537	E	3.1	81.31	lost	
+A0A2V3IZY9	Gracilariopsis chorda	S200	200	S	no_residue_aligned					unresolved	no_residue_aligned
+A0A2V3IZY9	Gracilariopsis chorda	G237	237	G	substituted	570	K	2.2	53.03	unresolved	plddt_below_70
+A0A2V3IZY9	Gracilariopsis chorda	E274	274	E	substituted	600	V	2.0	90.75	lost	
+A0A2V3IZY9	Gracilariopsis chorda	P275	275	P	substituted	601	V	1.7	87.75	lost	
+A0A2V3IZY9	Gracilariopsis chorda	G276	276	G	identical	602	G	1.9	87.19	kept	
+A0A2V3IZY9	Gracilariopsis chorda	R277	277	R	substituted	603	A	1.8	83.0	lost	
+A0A2V3IZY9	Gracilariopsis chorda	Y331	331	Y	substituted	644	M	3.3	56.47	unresolved	plddt_below_70
+A0A2V3IZY9	Gracilariopsis chorda	D332	332	D	substituted	645	G	3.3	52.66	unresolved	plddt_below_70
+A0A2V3IZY9	Gracilariopsis chorda	C360	360	C	identical	680	C	3.5	88.44	kept	
+A0A2V3IZY9	Gracilariopsis chorda	D361	361	D	identical	681	D	3.6	85.44	kept	
+A0A2V3IZY9	Gracilariopsis chorda	Y389	389	Y	substituted	708	Q	1.2	69.5	unresolved	plddt_below_70
+A0A830HJR7	Pycnococcus provasolii	K69	69	K	identical	486	K	0.4	96.19	kept	
+A0A830HJR7	Pycnococcus provasolii	H197	197	H	identical	623	H	0.3	96.5	kept	
+A0A830HJR7	Pycnococcus provasolii	S200	200	S	identical	626	S	0.8	79.75	kept	
+A0A830HJR7	Pycnococcus provasolii	G237	237	G	identical	675	G	0.8	86.06	kept	
+A0A830HJR7	Pycnococcus provasolii	E274	274	E	identical	714	E	0.4	98.38	kept	
+A0A830HJR7	Pycnococcus provasolii	P275	275	P	identical	715	P	0.2	97.5	kept	
+A0A830HJR7	Pycnococcus provasolii	G276	276	G	identical	716	G	0.3	96.69	kept	
+A0A830HJR7	Pycnococcus provasolii	R277	277	R	identical	717	R	0.8	94.88	kept	
+A0A830HJR7	Pycnococcus provasolii	Y331	331	Y	identical	766	Y	0.5	90.94	kept	
+A0A830HJR7	Pycnococcus provasolii	D332	332	D	identical	767	D	0.3	91.5	kept	
+A0A830HJR7	Pycnococcus provasolii	C360	360	C	identical	801	C	0.1	93.06	kept	
+A0A830HJR7	Pycnococcus provasolii	D361	361	D	identical	802	D	0.3	94.25	kept	
+A0A830HJR7	Pycnococcus provasolii	Y389	389	Y	identical	830	Y	0.4	94.56	kept	
+A0A8T2T6R3	Ceratopteris richardii	K69	69	K	identical	398	K	0.7	95.88	kept	
+A0A8T2T6R3	Ceratopteris richardii	H197	197	H	identical	526	H	0.5	93.69	kept	
+A0A8T2T6R3	Ceratopteris richardii	S200	200	S	identical	529	S	1.2	77.62	kept	
+A0A8T2T6R3	Ceratopteris richardii	G237	237	G	identical	567	G	0.7	87.12	kept	
+A0A8T2T6R3	Ceratopteris richardii	E274	274	E	identical	604	E	0.3	98.25	kept	
+A0A8T2T6R3	Ceratopteris richardii	P275	275	P	identical	605	P	0.3	97.0	kept	
+A0A8T2T6R3	Ceratopteris richardii	G276	276	G	identical	606	G	0.4	96.06	kept	
+A0A8T2T6R3	Ceratopteris richardii	R277	277	R	identical	607	R	0.9	94.31	kept	
+A0A8T2T6R3	Ceratopteris richardii	Y331	331	Y	identical	651	Y	0.8	91.31	kept	
+A0A8T2T6R3	Ceratopteris richardii	D332	332	D	identical	652	D	0.7	90.62	kept	
+A0A8T2T6R3	Ceratopteris richardii	C360	360	C	identical	681	C	0.4	94.12	kept	
+A0A8T2T6R3	Ceratopteris richardii	D361	361	D	identical	682	D	0.5	93.19	kept	
+A0A8T2T6R3	Ceratopteris richardii	Y389	389	Y	identical	710	Y	0.8	94.69	kept	
+A0A0G4EYD2	Vitrella brassicaformis CCMP3155	K69	69	K	identical	690	K	0.5	96.31	kept	
+A0A0G4EYD2	Vitrella brassicaformis CCMP3155	H197	197	H	identical	818	H	0.4	93.5	kept	
+A0A0G4EYD2	Vitrella brassicaformis CCMP3155	S200	200	S	identical	821	S	1.3	69.19	unresolved	plddt_below_70
+A0A0G4EYD2	Vitrella brassicaformis CCMP3155	G237	237	G	identical	858	G	0.9	84.81	kept	
+A0A0G4EYD2	Vitrella brassicaformis CCMP3155	E274	274	E	identical	899	E	0.2	98.25	kept	
+A0A0G4EYD2	Vitrella brassicaformis CCMP3155	P275	275	P	identical	900	P	0.2	96.38	kept	
+A0A0G4EYD2	Vitrella brassicaformis CCMP3155	G276	276	G	identical	901	G	0.3	95.38	kept	
+A0A0G4EYD2	Vitrella brassicaformis CCMP3155	R277	277	R	identical	902	R	0.7	92.38	kept	
+A0A0G4EYD2	Vitrella brassicaformis CCMP3155	Y331	331	Y	identical	948	Y	0.5	79.0	kept	
+A0A0G4EYD2	Vitrella brassicaformis CCMP3155	D332	332	D	identical	949	D	0.5	81.31	kept	
+A0A0G4EYD2	Vitrella brassicaformis CCMP3155	C360	360	C	identical	976	C	0.3	87.12	kept	
+A0A0G4EYD2	Vitrella brassicaformis CCMP3155	D361	361	D	identical	977	D	0.4	76.25	kept	
+A0A0G4EYD2	Vitrella brassicaformis CCMP3155	Y389	389	Y	identical	1005	Y	0.4	93.56	kept	
+A0AAW1STH3	Apatococcus fuscideae	K69	69	K	identical	317	K	0.7	86.0	kept	
+A0AAW1STH3	Apatococcus fuscideae	H197	197	H	no_residue_aligned					unresolved	no_residue_aligned
+A0AAW1STH3	Apatococcus fuscideae	S200	200	S	no_residue_aligned					unresolved	no_residue_aligned
+A0AAW1STH3	Apatococcus fuscideae	G237	237	G	no_residue_aligned					unresolved	no_residue_aligned
+A0AAW1STH3	Apatococcus fuscideae	E274	274	E	no_residue_aligned					unresolved	no_residue_aligned
+A0AAW1STH3	Apatococcus fuscideae	P275	275	P	no_residue_aligned					unresolved	no_residue_aligned
+A0AAW1STH3	Apatococcus fuscideae	G276	276	G	no_residue_aligned					unresolved	no_residue_aligned
+A0AAW1STH3	Apatococcus fuscideae	R277	277	R	no_residue_aligned					unresolved	no_residue_aligned
+A0AAW1STH3	Apatococcus fuscideae	Y331	331	Y	no_residue_aligned					unresolved	no_residue_aligned
+A0AAW1STH3	Apatococcus fuscideae	D332	332	D	no_residue_aligned					unresolved	no_residue_aligned
+A0AAW1STH3	Apatococcus fuscideae	C360	360	C	no_residue_aligned					unresolved	no_residue_aligned
+A0AAW1STH3	Apatococcus fuscideae	D361	361	D	no_residue_aligned					unresolved	no_residue_aligned
+A0AAW1STH3	Apatococcus fuscideae	Y389	389	Y	no_residue_aligned					unresolved	no_residue_aligned

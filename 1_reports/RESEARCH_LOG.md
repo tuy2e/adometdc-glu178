@@ -290,7 +290,7 @@ Hypothesis: fused proteins lose the five prespecified catalytic/processing sites
 - With the proper Pfam definition: standalone **25/590 (4.2%)** vs fused **3/101 (3.0%)**, Fisher **p = 0.785**; within-phylum permutation **p = 0.717**; MH odds ratio 0.96. InterPro-only: 3.6% vs 3.6%, p = 1.
 - Confounded anyway: fused models have **lower** pLDDT than standalone (75.1 vs 83.5, p = 4e-21).
 - Losses concentrate in Euglenozoa (7 of 11) — the known kinetoplastid story, not a new pattern.
-- 🔶 Side observation: the **81 two-PF01536 proteins lose sites at 16%**, the highest of any class. Probably circular (a degraded domain is more likely to be split into two Pfam matches). Handed to lead 3.
+- ⛔ **Side observation now withdrawn (19 Nov).** The 81 two-PF01536 proteins appeared to lose sites at 16%, the highest of any class. **That was AlphaFold noise.** Once calls below pLDDT 70 are excluded the rate is **5/81 (6%) vs 3.4% standalone, p = 0.21** — 8 of the 13 original "losses" were low-confidence calls. Do not cite the 16%.
 - ⛔ **Do not re-chase.** Full numbers: `9_dataset_survey/results/p5_loss_vs_fusion_report.txt`.
 
 ### Track B — the AdoMetDC–ODC fusion 🆕 (the current finding)
@@ -303,10 +303,15 @@ Hypothesis: fused proteins lose the five prespecified catalytic/processing sites
 
 ### Track B validation (p7, 17 Nov) — survives
 - **19 of 22 are genome gene models**; 3 transcriptome-only (*Percolomonas*, *Tetraselmis* GSL018, *Auxenochlorella* `A0A1D2AC22`) and set aside.
-- **9 of the 19 have ≥1 predicted intron in the linker** between the two domains — a spliced junction is hard to produce by mis-joining neighbouring genes.
+- **9 of the 19 run through the junction without a break** — 5 single-exon genes, 4 where the junction sits inside one exon. The other **10 rely on a predicted intron in the linker** (the earlier "9 / 10" in this log had the two groups the wrong way round; the 10th is the partial *Apatococcus fuscideae* `A0AAW1STH3`). ⚠️ **Corrected 19 Nov — an unbroken junction is the strong evidence, not a predicted intron.** Gene-prediction software merges neighbouring genes by calling the intergenic DNA an intron, so a predicted intron at the junction is the signature of the artefact. The sandwich protein (lead 1) was exposed exactly this way.
 - **Multiple copies in one genome:** *Ceratopteris richardii* **8**; *Galdieria*, *Riccia*, *Apatococcus fuscideae* 2 each. An assembler does not repeat the same mis-join eight times.
 - In every taxon except *Adiantum*, *Ceratopteris* and *Rhodosorus*, **the fusion is the only AdoMetDC-Pfam protein among active UniProt entries** — the same situation as *Plasmodium*.
-- ⚠️ Weaker half: 10 of 19 have no intron at the junction, 5 of those are single-exon genes.
+- ✅ **Intron-size check done (19 Nov, lead-3 chat, gene level): none of the junction introns is oversized.** *Galdieria*'s is 53 nt against a median of 52 for that gene's other introns; none is the largest intron in its gene and several are the smallest. Compare the sandwich protein, whose two junction introns were **1,125 and 1,456 nt against a typical 39–62**. So the clearest signature of a merge is **absent** from the 23.
+  - ⚠️ **Not proof.** A merge can also convert intergenic DNA into predicted *exons*, leaving normal-sized introns between them. The genome-level version of this check (junction intron vs 400 random genes from the same genome) is in `scripts/q3_fusion_gene_models.py` and has not been run yet.
+  - ⛔ **"The fusion is the only AdoMetDC in that genome" is NOT evidence for a real fusion.** Retracted 19 Nov. A merge swallows the AdoMetDC gene, so no separate copy remains to be found — the sandwich protein holds *C. auriculariae*'s only AdoMetDC and is still probably a merge. This argument was asserted twice in earlier versions of this log and of `trackB_fusion_validation.md`; both are corrected.
+  - [ ] **Still unchecked: second genome annotations.** Whether any of these species has another assembly or annotation lacking the fusion — the test that exposed the nematode AdoMetDC–VTT case. Also in `q3_fusion_gene_models.py`.
+  - [ ] No RNA-seq or EST support across any junction has been checked, for any of the 23.
+  - 💡 **The strongest surviving argument is one that does not depend on gene models at all:** all 23 carry the *same* partner, ODC — the enzyme one step away in the same pathway. Random merges produce random neighbours (the sandwich got an HMG-box and a VTT domain). Recovering the same functionally related partner across green algae, red algae, ferns, a liverwort, Heterolobosea and a chromerid is not what mis-annotation looks like. ⚠️ The one way it fails: if AdoMetDC and ODC are genomically adjacent in these lineages, repeated merges become plausible — **check gene order in genomes where the two are separate.**
 - 🆕 **Four partners are structurally complete but catalytically gutted:** *Percolomonas* 2/13 ODC functional residues, *Galdieria* 1/13 (Cys360→Gly), *Rhodosorus* 2/13, *Gracilariopsis* 3/13 — against **AZIN1 9/13** (a known dead ODC paralogue) and *T. brucei* ODC 13/13. Fold TM and pLDDT (75–79) comparable to the intact partners. A dead enzyme domain fused to a live one; possibly a separate finding. ⚠️ Two of the four score nearest to AZIN1 by sequence, but that probably just means "divergent" — the antizyme system is not known outside animals, so do not read them as antizyme inhibitors.
 - Linkers 41–202 aa (median 133), mostly low pLDDT. *P. falciparum* Q8IJ77 measured the same way: 359 aa.
 - ⚠️ **Open pre-emption risk:** Woo et al. 2015 (*eLife*, PMC4501334, chromerid genomes) says chromerids share polyamine synthesis with *Plasmodium*; **Figure 2 supplement 3 not checked**. *Vitrella* is the organism that could be pre-empted. Also unread: Lee 2018 (*Gracilariopsis* genome), 2018 *Micractinium* genome, 2009 *Micromonas* genomes paper — all paywalled.
@@ -322,6 +327,77 @@ Eight positions in human 1MSV numbering (13, 15, 111, 174, 176, 178, 256, 285) m
 - 💡 **For the original project:** of the 65 standalone proteins that lost Glu178, **30 went to Asn** — the diatom "stuck-on" pattern from Thread 5, sitting untouched in the control group.
 - Files: `results/p8_putrescine_site.tsv`, `p8_putrescine_site_tests.tsv`, `p8_putrescine_site_report.txt`.
 
+### Gene-model worry — substantially closed, 19 Nov ✅
+`q3_fusion_gene_models.py` (lead-3 chat), results in `results_81/q3_*`. Two tests, both prompted by the lead-1 sandwich protein turning out to be a merged gene model.
+
+- ✅ **Junction-intron size, now at genome level: all 15 linker introns across 10 genes are NOT outliers.** Each junction intron was compared with the other introns of the same gene *and* with the genome-wide intron distribution (median, p95, percentile). Percentiles run 6.5 to 75.3 — several junction introns are among the *smallest* in their gene. Examples: *Galdieria* 53 nt (gene median 52, genome median 50, 66th percentile); *Rhodosorus* 73 nt (7th percentile); *Prototheca* 68 nt (6.5th percentile); *Vitrella* 79 and 98 nt (45th and 75th). Compare the sandwich protein: **1,125 and 1,456 nt against a typical 39–62**. The merge signature is absent from every one of the 23.
+- ✅ **Independent annotations: where the test could be run, the fusion reproduces.** 11 species have ≥2 ENA assemblies, and 4 fusion proteins had a second *annotated UniProt proteome* to scan — `A0A087SFF4` and `A0A1D2AC22` (*Auxenochlorella protothecoides*), `A0A5B8MZ45` (*Chloropicon primus*), `A0A830HJR7` (*Pycnococcus provasolii*). **All 8 proteomes scanned return verdict = fusion.** In 4 the fused sequence is byte-identical; in the other 4 a fusion protein is present but not identical, i.e. an independently assembled and annotated reconstruction of the same architecture — the stronger result of the two.
+  - 💡 Note: `A0A1D2AC22` was one of the three **transcriptome-only** proteins set aside as weak. It is now confirmed in genome-derived proteomes.
+  - ⚠️ **Coverage limit:** only 4 of the 23 had a second annotated proteome. This is a spot check that passed, not a comprehensive clearance. The remaining species have one proteome each.
+- ⛔ This is the test that exposed the nematode AdoMetDC–VTT fusion (*C. remanei*: one annotation with it, one without). Applied here, 4 of 4 pass.
+- [ ] **Still the strongest outstanding test:** a transcript or RNA-seq read spanning the junction (tblastn against TSA / EST / SRA; **MMETSP** for the marine algae, **1KP** for the streptophytes). Start with the single-exon genes. One spanning transcript settles a protein outright. Tui runs this on the NCBI BLAST site.
+- [ ] Linker conservation between related species (*Apatococcus*/*Myrmecia*/*Micractinium*; the red algae) from `p7_linkers.tsv` — intergenic DNA diverges fast, so a linker conserved at the protein level is real coding sequence. Offered by the lead-3 chat, no downloads needed.
+- [ ] Gene order: in genomes where AdoMetDC and ODC are separate, are they neighbours? If scattered, the repeated-merge explanation dies outright. This is the direct test of the "same partner every time" argument.
+
+### Literature search — Marc's ask, DONE 19 Nov ✅
+Files: `results/literature_adometdc_odc_fusion.md` (49 kB), `results/literature_query_log.tsv` (every query verbatim with hit counts). Europe PMC REST + PubMed E-utilities; full text from the PMC open-access subset, searched sentence by sentence. Seven sections as specified.
+
+**Outcome: not pre-empted, but the claim must be narrowed and one paper must be cited.**
+
+- 🆕 **Volkov et al. 2016, *eLife* 5:e20198 (PMID 27977001, PMC5201418) — Phillips lab.** In the **legend of Supplementary file 2**, describing an NCBI NR survey done for another purpose, they report AdoMetDC fused to PLP ornithine decarboxylase (PF02784 + PF00278) in **"9 apicomplexan and 3 plant sequences"**. The three are **not named**; Supplementary file 2 itself holds only representative AdoMetDCs, not the fused sequences. "Plant" in NR = Viridiplantae, which includes *Micromonas*, so two of the three are probably Green 2011's. ⚠️ ***Vitrella* is a chromerid and may sit inside their 9 apicomplexan — do not claim it as new without checking.** They also count 35 PF08132 leader fusions in plants; this dataset has 43.
+  - Mitigation: the survey was NR as of 2016. *Riccia* (2025), *Micractinium* (2026), *Closterium*, *Cymbomonas*, *Pycnococcus* (2023), *Ceratopteris* (2019) and others post-date it. Red algae, *Percolomonas*, the ferns and the liverwort are outside "plant"/apicomplexan entirely.
+  - ➡️ **Required wording change:** no longer "unreported outside *Plasmodium* and *Micromonas*", but "reported in *Plasmodium*, in two *Micromonas* species (Green 2011), and noted without identification in three unnamed plant sequences (Volkov 2016)".
+  - 📧 Phillips would know which three. **Marc's call, not Tui's** — asking signals the project to the lab most able to pre-empt it.
+- ✅ **Woo et al. 2015 (*eLife*, PMC4501334, chromerid genomes) — cleared.** Main text, appendices, Figure 2 and all 5 supplements, all 16 supplementary tables searched. Data are presence/absence of EC numbers per species with no gene IDs and no domain layout. **The fusion is not shown.** This was the largest pre-emption risk and it is closed.
+- ✅ **The 23 accessions, 24 locus tags and 6 protein IDs as literal strings: 0 hits** in Europe PMC and PubMed, except *Micromonas* XP_002502359 → Green 2011. The 11 UniProt-linked papers were read in full where open access (8 of 11); none mentions polyamine enzymes.
+- ✅ ***Plasmodium* literature (219 papers, core plus all citers of 11 key papers): none surveys outside apicomplexans.** They call the arrangement unique to *Plasmodium* — Birkholtz 2004 confirms it in at least three species. **This is the statement the work revises.**
+- ✅ **Michael AJ 2016, *Biochem J* 473:2315** — PDF obtained and full text searched (19 Nov): no *Micromonas*, no AdoMetDC–ODC fusion, nothing on distribution. Clean.
+- 🆕 **Michael AJ 2017, *Biochem J* 474:2277 "Evolution of biosynthetic diversity"** — PDF obtained and full text searched (19 Nov). **This is the paper to quote in the introduction.** In its gene-fusion section Michael states that fusions of eukaryotic polyamine biosynthetic enzymes retaining all constituent functions are **rare**, and gives the eukaryotic ODC–AdoMetDC fusion of parasitic *Plasmodium* as the **best-known example** (refs Müller 2000, Krause 2000, Wrenger 2001). In the "Other genes" paragraph he lists polyamine-enzyme fusions found in a **limited number of species** and, for eukaryotic class-2 AdoMetDC fused to AR-fold ODC, names **only *Micromonas*** (ref Green 2011), describing the set as "similarly phylogenetically constrained".
+  - ➡️ So the field's leading authority, in a 2017 review *devoted to gene fusion in polyamine metabolism*, catalogued this fusion as *Plasmodium* + one green alga. That is the framing for the paper's opening, and it is independent confirmation that nobody followed up Volkov's three sequences.
+- [ ] **Still to obtain (Conn library, Tui):** Michael AJ 2011, *Methods Mol Biol* 720:139 (abstract names gene fusion — highest remaining risk); Fuell et al. 2010, *Plant Physiol Biochem*, doi 10.1016/j.plaphy.2010.02.008 (plants and algae). Lower priority: Michael AJ 2016 *JBC* (PMC4946907); Phillips 2018 *JBC*; Pegg 2018. Search each for "ornithine", "fusion", "Micromonas".
+- [ ] Also unread: Worden 2009 *Science* SOM; Arriola 2018 *Plant J*; the Lee 2018 *MBE* supplementary zip. bioRxiv's own search returned HTTP 403.
+- ⛔ **Do not email Michael or Phillips for PDFs.** Their labs are the pre-emption risk; a request signals the project. Library and ILL only.
+
+### 20 Nov — both halves, the expanded search, and the red-algal pattern
+
+**p9: does the fused AdoMetDC half still self-process? ✅ Yes, and it is indistinguishable from a standalone enzyme.**
+Marc's five sites mapped onto all 23 fusions and all 590 standalone proteins, p8 method, pLDDT ≥ 70 gate.
+- Ser68 22/22 vs 501/510 · His243 22/22 vs 524/533 · Cys82 22/22 vs 528/537 · Glu247 21/21 vs 517/526 — **all Fisher p = 1**.
+- Ser229 21/22 (one loss: *Riccia* S229→F) vs 537/547; Fisher p = 0.328, within-phylum permutation p = 0.084. ⚠️ Driven entirely by that single loss. Noise at n = 1, footnote only.
+- ➡️ These are working AdoMetDC enzymes. Fusion does not compromise the AdoMetDC side at all, which is what makes the ODC-side degradation stand out.
+- ✅ **Cut-off robustness check done.** Six calls sit within 1.5 pLDDT points of 70. Flipping them changes nothing for any degraded protein; only *Closterium* (D361, 68.6) and *Vitrella* (S200, 69.2) move, and both move *toward* intact. The pattern does not depend on where the cut-off sits.
+- ⚠️ **Methodological correction applied:** the first pass gated the AdoMetDC half at pLDDT ≥ 70 but not the ODC half. Regated, the "7 gutted ODC halves" became **4 confidently degraded** (*Percolomonas*, *Galdieria*, *Rhodosorus*, *Gracilariopsis*); *Prototheca*, *Auxenochlorella* A0A1D2AC22 and *Apatococcus* A0AAW1STH3 are **truncated or badly modelled, not degraded** (partner 65–254 aa, or 61% of residues below pLDDT 70). Files: `p9_self_processing.md`, `p9_both_halves.tsv`, `p9_odc_sites_gated.tsv`, `p9_self_processing_tests.tsv`.
+- ✅ **The four degraded ones are real:** lost residues at pLDDT 70–91, spread over 3–4 of 7 site groups, not clustered in a low-confidence patch.
+
+**p10: the sample is much larger than the 1,000-hit run showed.**
+UniParc searched on Pfam features with **no structure filter**: `(PF01536 OR PF02675) AND (PF02784 OR PF00278)` → **311 sequences, 288 new**. ⚠️ **Marc's TM gate was NOT changed; this search uses no structure at all.** That means two tiers of evidence and they must be labelled separately in any write-up: 23 fold-verified (TM ≥ 0.5), the rest on domain annotation only.
+- Alveolata 114 (~70 *Plasmodium* strains — redundancy, not news; **~40 dinoflagellates**; *Chromera*; a ciliate) · Viridiplantae 92 · Bacteria 66 (64 in the reverse ODC→AdoMetDC order, a different architecture) · **Rhodophyta 10** · **Glaucophyta 1** (*Gloeochaete*) · **Stramenopiles 1** (brown alga *Heribaudiella*) · **CRuMs 3** · Metazoa 1 (probable parasite contaminant).
+- ➡️ The fusion is present in **all three Archaeplastida lineages**, in alveolates well beyond *Plasmodium*, in a stramenopile and in CRuMs. "22 unreported proteins" is no longer the right headline.
+
+**The red-algal pattern — restated precisely and strengthened.**
+- The original phrasing ("every green-lineage fusion has an intact ODC half") is **wrong**: three green fusions are truncated/incomplete and four undetermined.
+- What holds: **every confident in-place substitution at the 13 ODC functional residues is in a red alga or *Percolomonas*** — 8 of 8 proteins. **None of the 18 green-lineage fusions has one.**
+- Red-algal fusions with models are now **7 of 7 degraded**, spanning Cyanidiophyceae, Bangiophyceae, Florideophyceae and Stylonematophyceae.
+- **K69→R** (the PLP Schiff-base lysine) is shared across three of those classes. ⚠️ K→R is a common substitution; 13 sites cannot exclude convergence.
+
+**The tree (NJ, Kimura, 1000 bootstraps, 197 sequences, 344 columns) — suggestive, not settled.**
+- **Red-algal fusions form a clade** (the only other sequence inside it is another *Rhodosorus*).
+- ***Percolomonas* does not group with them** → its degradation is an independent event.
+- **Degraded halves are not a clade** → the ODC half has died **at least twice independently**.
+- ⚠️ **Do not over-read this.** Bootstrap is 0% on every set tested, including the apicomplexan one, which is certainly monophyletic — so the tree carries no statistical support. And the alignment dropped every sequence with a PLP span under 250 aa, which removed *Galdieria partita* (both copies), *G. sulphuraria* and *Porphyra* — i.e. the filter is biased against exactly the degraded sequences the question is about.
+- ⛔ **Decision (Tui, 20 Nov): do not chase a maximum-likelihood tree.** "At least two independent events, weak support" is enough; the mechanism work is the priority. Files: `p10_report.md`, `p10_odc_tree.nwk`, `p10_tree_support.tsv`, `trackB_red_algal_pattern.md`.
+
+**⚠️ Correction: the "*Gracilariopsis* has no working ODC" claim is too strong.**
+- Guo et al. 2026 (*Plant Physiol Biochem* 238:111700, PMID 42679707) show ODC activity is **functionally required** in *Pyropia yezoensis*: DFMO blocks conchospore development, *PyODC* siRNA silencing arrests it, exogenous putrescine partially rescues.
+- The accession the paper prints for *PyODC*, **KAK1862116.1, is not a decarboxylase at all** (576 aa, PF10017 histidine methyltransferase). The gene NCBI calls ornithine decarboxylase is **KAK1862958.1 = A0ACC3BYM5** (582 aa, PF02784 only, separate chromosome, 39% identical to the fusion's ODC half).
+- *P. yezoensis* therefore has a fusion **and** a separate ODC gene — same arrangement as *Galdieria* and *Rhodosorus*.
+- 🆕 **But neither carries both catalytic residues:** the fusion's ODC half has **K69→R, C360 kept** (5/13); the standalone has **K69 kept, C360→Asn** (10/13).
+- ➡️ Since that organism demonstrably has ODC activity, **a single substitution at a human-ODC catalytic position does not prove the enzyme is dead.** The 13-residue criterion is a human-centric yardstick applied across >1 billion years of divergence.
+- ⚠️ *Gracilariopsis*' standalone A0A2V3IYX3 was called non-functional on exactly that basis (C360→Arg, 10/13). **Soften to: "carries a substitution at a position catalytic in human ODC."** The *fused* halves remain a different matter — they carry 5–7 confident substitutions each, not one.
+
+**Prepared, not yet run: the dimer models (Marc's "how does the fusion work").**
+`data/p11_dimer_fasta/` holds 7 ready-to-submit AlphaFold Server jobs (homodimers): *Klebsormidium* (ODC half intact), *Gracilariopsis* (degraded, no other ODC), *Galdieria* (degraded, has a standalone ODC), *Micromonas*, *Plasmodium* Q8IJ77, plus standalone ODC and standalone AdoMetDC controls, with a README on what to look for. Premise: ODC's active sites are built across the subunit interface (Fuell 2010), AdoMetDC is also a dimer, so one dimerisation of a fusion protein may serve both halves — and a dead ODC half may still be load-bearing as an interface.
+
 ### Marc's directions (verbal, 19 Nov, relayed by Tui)
 Phylogeny: yes · look at putrescine sensing nearby, and whether anything else plays that role in other AdoMetDCs · the fusion presumably arose because it helped, so work out how · how common is fusion generally · **use a fusion structure as the reference structure** for a new comparison · look at the important parts of the structure.
 
@@ -334,12 +410,16 @@ Phylogeny: yes · look at putrescine sensing nearby, and whether anything else p
 - [ ] **Phylogeny of each half separately** (Marc's ask); compare with the orientation result above.
 - [ ] **New FOLDTRACE run with a fusion as the query** — its own run with its own settings file, **never** under the locked aim1 protocol.
 - ➡️ **Lead 1 (the sandwich protein) and lead 3 (the 81 two-PF01536 proteins) handed to a separate chat:** `1_reports/HANDOFF_81_double_domain.md`. Prefix `q`, results in `9_dataset_survey/results_81/`. Never run two Claude Code jobs against the repo at once. Whatever it concludes about the 81 comes back here, since they are their own class in the Track A statistics.
+  - ✅ **Lead 1 (sandwich) CLOSED 19 Nov — gene-prediction artefact.** A complete, normal-length AdoMetDC (Met236–Glu601, 366 aa, 75% identical to *C. elegans* SMD-1, start and end on exon boundaries) sits inside the 865-aa model; the HMG-box and VTT hang off across the two **largest** introns in the model. No other *Caenorhabditis* has the HMG-box; nothing in the literature; all five sites kept at pLDDT 92–98. Report: `9_dataset_survey/results_81/q1_sandwich_report.md`.
+  - 🔄 **Lead 3 (the 81) closing, 19 Nov (test sample, 12 of 87).** Most are **one domain that Pfam cut in two**: the two matches cover opposite halves of the human protein (e.g. 6–164 + 169–326) with the cut near human ~165–172, consistent with the internal symmetry of the AdoMetDC protomer reported by Ekstrom 1999. Only *Dillenia* (793 aa) has two genuinely separate units, and it is **not** a prozyme — both units keep all five sites, the halves are 94% identical and do not touch, and inter-unit PAE is 27 Å so the arrangement is unsupported. The 81 are not all pairs: 76 have two Pfam matches, 5 have three. No single-chain enzyme+prozyme found in Europe PMC.
+  - ⚠️ **Knock-on for Track B:** the three nematode **AdoMetDC–VTT** fusions are probably the same artefact — *Caenorhabditis remanei* has one genome annotation carrying the fusion and another that does not. Withdrawn from the non-polyamine partner list in `trackB_fusion_partners.md`. **That double-annotation test has not been run on the 23 ODC fusions and should be.**
 
 **Status:** ACTIVE. Track B is the finding; Track A refuted; p8 negative with one lead. The literature search gates everything else.
 
 ---
 
 ## ⛔ Dead ends & resolved — do NOT re-chase
+- ⛔ **"1I7B chains A and B are the dimer"** — they are not; they are the **α and β chains of one processed protomer**. The real dimer is 1MSV chains A+B, with 1JEN as the apo processed-form check. Claude made this α/β mix-up twice (see the earlier entry below); check it every time a processed AdoMetDC structure is described by chain ID.
 - ⛔ **Overclaiming Bodo as fully novel** → corrected to honest incremental framing. (Settled; keep the honest line.)
 - ⛔ **Full Pcon sequences via UniProt/NCBI** → not there; TriTrypDB only.
 - ⛔ **Running AlphaFold / ColabFold / homology modeling in this workspace** → no GPU, no modeller/pymol, folding APIs blocked. Use AF Server.

@@ -1,0 +1,16 @@
+[ {
+  "taxId" : "49495",
+  "scientificName" : "Ceratopteris richardii",
+  "formalName" : "true",
+  "rank" : "species",
+  "division" : "PLN",
+  "lineage" : "Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Polypodiopsida; Polypodiidae; Polypodiales; Pteridineae; Pteridaceae; Parkerioideae; Ceratopteris; ",
+  "geneticCode" : "1",
+  "mitochondrialGeneticCode" : "1",
+  "plastIdGeneticCode" : "11",
+  "submittable" : "true",
+  "binomial" : "true",
+  "authority" : "Brongn., 1823",
+  "otherNames" : [ "Ceratopteris richardii Brongn., 1823:authority" ],
+  "metagenome" : "false"
+} ]

@@ -1,0 +1,15 @@
+[ {
+  "taxId" : "41880",
+  "scientificName" : "Pycnococcus provasolii",
+  "formalName" : "true",
+  "rank" : "species",
+  "division" : "PLN",
+  "lineage" : "Eukaryota; Viridiplantae; Chlorophyta; Pseudoscourfieldiophyceae; Pseudoscourfieldiales; Pycnococcaceae; Pycnococcus; ",
+  "geneticCode" : "1",
+  "mitochondrialGeneticCode" : "1",
+  "plastIdGeneticCode" : "11",
+  "submittable" : "true",
+  "binomial" : "true",
+  "otherNames" : [ "Pycnococcus provasolii R.R.L.Guillard:authority" ],
+  "metagenome" : "false"
+} ]

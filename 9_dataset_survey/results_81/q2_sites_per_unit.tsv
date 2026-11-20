@@ -1,0 +1,446 @@
+accession	organism	unit_class	unit	unit_source	unit_span	site	obs	ca_offset	plddt	call_foldtrace_rule	call_with_plddt_rule	note
+A0A8C1UK45	Cyprinus carpio	one_domain	1	pass1	5-286	Ser68	S39	0.9	61.5	retained	unresolved	pLDDT 61.5 < 70 (FOLDTRACE call: retained)
+A0A8C1UK45	Cyprinus carpio	one_domain	1	pass1	5-286	Ser229	S187	0.25	96.5	retained	retained	
+A0A8C1UK45	Cyprinus carpio	one_domain	1	pass1	5-286	His243	H201	0.19	97.7	retained	retained	
+A0A8C1UK45	Cyprinus carpio	one_domain	1	pass1	5-286	Cys82	C53	0.25	91.9	retained	retained	
+A0A8C1UK45	Cyprinus carpio	one_domain	1	pass1	5-286	Glu247	E205	0.24	97.2	retained	retained	
+A0A7F5R370	Agrilus planipennis	one_domain	1	pass1	22-385	Ser68	S117	0.9	87.6	retained	retained	
+A0A7F5R370	Agrilus planipennis	one_domain	1	pass1	22-385	Ser229	S283	0.24	96.8	retained	retained	
+A0A7F5R370	Agrilus planipennis	one_domain	1	pass1	22-385	His243	H297	0.19	97.6	retained	retained	
+A0A7F5R370	Agrilus planipennis	one_domain	1	pass1	22-385	Cys82	C131	0.29	92.2	retained	retained	
+A0A7F5R370	Agrilus planipennis	one_domain	1	pass1	22-385	Glu247	E301	0.22	91.4	retained	retained	
+A0A4D5S256	Ixodes scapularis	one_domain	1	pass1	52-415	Ser68	S115	1.42	89.1	retained	retained	
+A0A4D5S256	Ixodes scapularis	one_domain	1	pass1	52-415	Ser229	S314	0.09	97.5	retained	retained	
+A0A4D5S256	Ixodes scapularis	one_domain	1	pass1	52-415	His243	H328	0.24	95.2	retained	retained	
+A0A4D5S256	Ixodes scapularis	one_domain	1	pass1	52-415	Cys82	C129	0.37	93.0	retained	retained	
+A0A4D5S256	Ixodes scapularis	one_domain	1	pass1	52-415	Glu247	E332	0.63	88.1	retained	retained	
+A0A7R9PYE4	Medioppia subpectinata	one_domain	1	pass1	58-407	Ser68	S142	0.66	87.9	retained	retained	
+A0A7R9PYE4	Medioppia subpectinata	one_domain	1	pass1	58-407	Ser229	S306	0.41	96.3	retained	retained	
+A0A7R9PYE4	Medioppia subpectinata	one_domain	1	pass1	58-407	His243	H320	0.3	96.1	retained	retained	
+A0A7R9PYE4	Medioppia subpectinata	one_domain	1	pass1	58-407	Cys82	C156	0.54	85.0	retained	retained	
+A0A7R9PYE4	Medioppia subpectinata	one_domain	1	pass1	58-407	Glu247	E324	0.51	88.8	retained	retained	
+A0A811Z568	Nyctereutes procyonoides	one_domain	1	pass1	1-245	Ser68				unresolved	unresolved	no aligned residue
+A0A811Z568	Nyctereutes procyonoides	one_domain	1	pass1	1-245	Ser229	S146	0.21	98.6	retained	retained	
+A0A811Z568	Nyctereutes procyonoides	one_domain	1	pass1	1-245	His243	Q160	0.18	98.6	lost	lost	
+A0A811Z568	Nyctereutes procyonoides	one_domain	1	pass1	1-245	Cys82	C13	0.14	92.5	retained	retained	
+A0A811Z568	Nyctereutes procyonoides	one_domain	1	pass1	1-245	Glu247	E164	0.23	98.4	retained	retained	
+A0A8C5W2A6	Microcebus murinus	one_domain	1	pass1	4-280	Ser68	S68	0.38	71.2	retained	retained	
+A0A8C5W2A6	Microcebus murinus	one_domain	1	pass1	4-280	Ser229	L181	0.24	81.9	lost	lost	
+A0A8C5W2A6	Microcebus murinus	one_domain	1	pass1	4-280	His243	P195	0.59	82.9	lost	lost	
+A0A8C5W2A6	Microcebus murinus	one_domain	1	pass1	4-280	Cys82				unresolved	unresolved	no aligned residue
+A0A8C5W2A6	Microcebus murinus	one_domain	1	pass1	4-280	Glu247	E199	0.53	81.1	retained	retained	
+A0A6A1QC67	Balaenoptera physalus	one_domain	1	pass1	1-227	Ser68	S31	0.58	90.0	retained	retained	
+A0A6A1QC67	Balaenoptera physalus	one_domain	1	pass1	1-227	Ser229	S169	0.27	98.2	retained	retained	
+A0A6A1QC67	Balaenoptera physalus	one_domain	1	pass1	1-227	His243	H183	0.13	98.4	retained	retained	
+A0A6A1QC67	Balaenoptera physalus	one_domain	1	pass1	1-227	Cys82	C45	0.22	91.8	retained	retained	
+A0A6A1QC67	Balaenoptera physalus	one_domain	1	pass1	1-227	Glu247	E187	0.22	98.2	retained	retained	
+A0A0C9MIN3	Mucor ambiguus	one_domain	1	pass1	24-493	Ser68	S144	0.67	89.2	retained	retained	
+A0A0C9MIN3	Mucor ambiguus	one_domain	1	pass1	24-493	Ser229	S375	0.41	96.7	retained	retained	
+A0A0C9MIN3	Mucor ambiguus	one_domain	1	pass1	24-493	His243	H388	0.31	97.1	retained	retained	
+A0A0C9MIN3	Mucor ambiguus	one_domain	1	pass1	24-493	Cys82	C158	0.4	90.9	retained	retained	
+A0A0C9MIN3	Mucor ambiguus	one_domain	1	pass1	24-493	Glu247	E392	0.34	88.5	retained	retained	
+A0A9N8V5A2	Ambispora gerdemannii	one_domain	1	pass1	58-480	Ser68	S135	1.11	90.9	retained	retained	
+A0A9N8V5A2	Ambispora gerdemannii	one_domain	1	pass1	58-480	Ser229	S369	0.56	97.1	retained	retained	
+A0A9N8V5A2	Ambispora gerdemannii	one_domain	1	pass1	58-480	His243	H382	0.25	97.2	retained	retained	
+A0A9N8V5A2	Ambispora gerdemannii	one_domain	1	pass1	58-480	Cys82	C149	0.36	94.1	retained	retained	
+A0A9N8V5A2	Ambispora gerdemannii	one_domain	1	pass1	58-480	Glu247	E386	0.55	93.8	retained	retained	
+A0A8T1T1J1	Chelydra serpentina	one_domain	1	pass1	1-236	Ser68				unresolved	unresolved	no aligned residue
+A0A8T1T1J1	Chelydra serpentina	one_domain	1	pass1	1-236	Ser229	S137	0.18	98.8	retained	retained	
+A0A8T1T1J1	Chelydra serpentina	one_domain	1	pass1	1-236	His243	H151	0.1	98.8	retained	retained	
+A0A8T1T1J1	Chelydra serpentina	one_domain	1	pass1	1-236	Cys82	C13	0.08	95.1	retained	retained	
+A0A8T1T1J1	Chelydra serpentina	one_domain	1	pass1	1-236	Glu247	E155	0.18	98.5	retained	retained	
+S7MEP5	Myotis brandtii	one_domain	1	pass1	4-231	Ser68	S41	3.32	60.5	retained	unresolved	pLDDT 60.5 < 70 (FOLDTRACE call: retained)
+S7MEP5	Myotis brandtii	one_domain	1	pass1	4-231	Ser229	S202	0.22	94.4	retained	retained	
+S7MEP5	Myotis brandtii	one_domain	1	pass1	4-231	His243	H216	0.24	93.0	retained	retained	
+S7MEP5	Myotis brandtii	one_domain	1	pass1	4-231	Cys82	C55	0.25	89.1	retained	retained	
+S7MEP5	Myotis brandtii	one_domain	1	pass1	4-231	Glu247	E220	0.48	88.2	retained	retained	
+A0A9W8D1N0	Coemansia biformis	one_domain	1	pass1	50-484	Ser68	S134	0.64	89.1	retained	retained	
+A0A9W8D1N0	Coemansia biformis	one_domain	1	pass1	50-484	Ser229	S345	0.26	97.9	retained	retained	
+A0A9W8D1N0	Coemansia biformis	one_domain	1	pass1	50-484	His243	H358	0.26	97.8	retained	retained	
+A0A9W8D1N0	Coemansia biformis	one_domain	1	pass1	50-484	Cys82	C148	0.51	91.9	retained	retained	
+A0A9W8D1N0	Coemansia biformis	one_domain	1	pass1	50-484	Glu247	E362	0.32	93.8	retained	retained	
+M7XFN1	Rhodotorula toruloides NP11	one_domain	1	pass1	19-494	Ser68	S107	1.41	91.5	retained	retained	
+M7XFN1	Rhodotorula toruloides NP11	one_domain	1	pass1	19-494	Ser229	S349	0.23	97.2	retained	retained	
+M7XFN1	Rhodotorula toruloides NP11	one_domain	1	pass1	19-494	His243	H362	0.24	98.4	retained	retained	
+M7XFN1	Rhodotorula toruloides NP11	one_domain	1	pass1	19-494	Cys82	C121	0.36	94.6	retained	retained	
+M7XFN1	Rhodotorula toruloides NP11	one_domain	1	pass1	19-494	Glu247	E366	0.48	92.9	retained	retained	
+A0A8J2WM48	Daphnia galeata	one_domain	1	pass1	4-388	Ser68	S41	0.4	86.5	retained	retained	
+A0A8J2WM48	Daphnia galeata	one_domain	1	pass1	4-388	Ser229	S286	0.4	96.3	retained	retained	
+A0A8J2WM48	Daphnia galeata	one_domain	1	pass1	4-388	His243	H300	0.22	96.2	retained	retained	
+A0A8J2WM48	Daphnia galeata	one_domain	1	pass1	4-388	Cys82	C55	0.55	85.0	retained	retained	
+A0A8J2WM48	Daphnia galeata	one_domain	1	pass1	4-388	Glu247	E304	0.36	91.4	retained	retained	
+A0A9P6J4A5	Modicella reniformis	one_domain	1	pass1	106-603	Ser68	S191	1.24	91.8	retained	retained	
+A0A9P6J4A5	Modicella reniformis	one_domain	1	pass1	106-603	Ser229	S446	0.42	98.4	retained	retained	
+A0A9P6J4A5	Modicella reniformis	one_domain	1	pass1	106-603	His243	H459	0.28	98.6	retained	retained	
+A0A9P6J4A5	Modicella reniformis	one_domain	1	pass1	106-603	Cys82	C205	0.34	96.2	retained	retained	
+A0A9P6J4A5	Modicella reniformis	one_domain	1	pass1	106-603	Glu247	E463	0.45	96.4	retained	retained	
+A0A9P6QD82	Actinomortierella ambigua	one_domain	1	pass1	90-615	Ser68	S178	1.27	92.2	retained	retained	
+A0A9P6QD82	Actinomortierella ambigua	one_domain	1	pass1	90-615	Ser229	S444	0.5	98.5	retained	retained	
+A0A9P6QD82	Actinomortierella ambigua	one_domain	1	pass1	90-615	His243	H457	0.2	98.7	retained	retained	
+A0A9P6QD82	Actinomortierella ambigua	one_domain	1	pass1	90-615	Cys82	C192	0.52	95.4	retained	retained	
+A0A9P6QD82	Actinomortierella ambigua	one_domain	1	pass1	90-615	Glu247	E461	0.35	95.2	retained	retained	
+A0A0L0SIL9	Allomyces macrogynus ATCC 38327	one_domain	1	pass1	1-459	Ser68	S81	0.26	89.4	retained	retained	
+A0A0L0SIL9	Allomyces macrogynus ATCC 38327	one_domain	1	pass1	1-459	Ser229	S334	0.49	94.4	retained	retained	
+A0A0L0SIL9	Allomyces macrogynus ATCC 38327	one_domain	1	pass1	1-459	His243	H347	0.36	97.2	retained	retained	
+A0A0L0SIL9	Allomyces macrogynus ATCC 38327	one_domain	1	pass1	1-459	Cys82	C95	0.48	94.0	retained	retained	
+A0A0L0SIL9	Allomyces macrogynus ATCC 38327	one_domain	1	pass1	1-459	Glu247	E351	0.4	93.9	retained	retained	
+A0A9W8H6B0	Coemansia javaensis	one_domain	1	pass1	182-618	Ser68	S253	0.27	87.7	retained	retained	
+A0A9W8H6B0	Coemansia javaensis	one_domain	1	pass1	182-618	Ser229	S476	0.33	97.8	retained	retained	
+A0A9W8H6B0	Coemansia javaensis	one_domain	1	pass1	182-618	His243	H489	0.31	97.9	retained	retained	
+A0A9W8H6B0	Coemansia javaensis	one_domain	1	pass1	182-618	Cys82	C267	0.63	92.7	retained	retained	
+A0A9W8H6B0	Coemansia javaensis	one_domain	1	pass1	182-618	Glu247	E493	0.24	94.4	retained	retained	
+A0A9W8FC87	Coemansia sp. RSA 1813	one_domain	1	pass1	49-563	Ser68	S142	0.4	88.5	retained	retained	
+A0A9W8FC87	Coemansia sp. RSA 1813	one_domain	1	pass1	49-563	Ser229	S424	0.34	97.8	retained	retained	
+A0A9W8FC87	Coemansia sp. RSA 1813	one_domain	1	pass1	49-563	His243	H437	0.36	97.8	retained	retained	
+A0A9W8FC87	Coemansia sp. RSA 1813	one_domain	1	pass1	49-563	Cys82	C156	0.48	91.7	retained	retained	
+A0A9W8FC87	Coemansia sp. RSA 1813	one_domain	1	pass1	49-563	Glu247	E441	0.39	94.8	retained	retained	
+A0A9P6F4Q7	Mortierella hygrophila	one_domain	1	pass1	470-936	Ser68	S551	1.11	89.3	retained	retained	
+A0A9P6F4Q7	Mortierella hygrophila	one_domain	1	pass1	470-936	Ser229	S804	0.52	96.8	retained	retained	
+A0A9P6F4Q7	Mortierella hygrophila	one_domain	1	pass1	470-936	His243	H826	0.32	97.1	retained	retained	
+A0A9P6F4Q7	Mortierella hygrophila	one_domain	1	pass1	470-936	Cys82	C565	0.43	93.5	retained	retained	
+A0A9P6F4Q7	Mortierella hygrophila	one_domain	1	pass1	470-936	Glu247	E830	0.54	91.2	retained	retained	
+A0A196S442	Blastocystis sp. ATCC 50177/Nand II	one_domain	1	pass1	1-380	Ser68	S61	1.28	88.6	retained	retained	
+A0A196S442	Blastocystis sp. ATCC 50177/Nand II	one_domain	1	pass1	1-380	Ser229	S275	0.28	97.4	retained	retained	
+A0A196S442	Blastocystis sp. ATCC 50177/Nand II	one_domain	1	pass1	1-380	His243	H288	0.24	97.9	retained	retained	
+A0A196S442	Blastocystis sp. ATCC 50177/Nand II	one_domain	1	pass1	1-380	Cys82	C75	0.63	94.8	retained	retained	
+A0A196S442	Blastocystis sp. ATCC 50177/Nand II	one_domain	1	pass1	1-380	Glu247	E292	0.51	95.9	retained	retained	
+A0A9W6T0A2	[Candida] boidinii	one_domain	1	pass1	56-471	Ser68	S119	1.17	89.8	retained	retained	
+A0A9W6T0A2	[Candida] boidinii	one_domain	1	pass1	56-471	Ser229	S369	0.25	96.8	retained	retained	
+A0A9W6T0A2	[Candida] boidinii	one_domain	1	pass1	56-471	His243	H383	0.2	95.9	retained	retained	
+A0A9W6T0A2	[Candida] boidinii	one_domain	1	pass1	56-471	Cys82	C133	0.42	89.1	retained	retained	
+A0A9W6T0A2	[Candida] boidinii	one_domain	1	pass1	56-471	Glu247	E387	0.1	89.0	retained	retained	
+A0A507FDV4	Chytriomyces confervae	one_domain	1	pass1	34-546	Ser68	S177	1.03	86.1	retained	retained	
+A0A507FDV4	Chytriomyces confervae	one_domain	1	pass1	34-546	Ser229	S403	0.47	94.4	retained	retained	
+A0A507FDV4	Chytriomyces confervae	one_domain	1	pass1	34-546	His243	H416	0.2	96.7	retained	retained	
+A0A507FDV4	Chytriomyces confervae	one_domain	1	pass1	34-546	Cys82	C191	0.55	89.6	retained	retained	
+A0A507FDV4	Chytriomyces confervae	one_domain	1	pass1	34-546	Glu247	E420	0.49	91.1	retained	retained	
+A0A9P6SEJ7	Mortierella sp. AD032	one_domain	1	pass1	78-574	Ser68	S165	1.19	91.8	retained	retained	
+A0A9P6SEJ7	Mortierella sp. AD032	one_domain	1	pass1	78-574	Ser229	S421	0.5	98.1	retained	retained	
+A0A9P6SEJ7	Mortierella sp. AD032	one_domain	1	pass1	78-574	His243	H450	0.21	98.6	retained	retained	
+A0A9P6SEJ7	Mortierella sp. AD032	one_domain	1	pass1	78-574	Cys82	C179	0.44	95.7	retained	retained	
+A0A9P6SEJ7	Mortierella sp. AD032	one_domain	1	pass1	78-574	Glu247	E454	0.44	95.4	retained	retained	
+A0A369RU54	Trichoplax sp. H2	one_domain	1	pass1	6-306	Ser68	S72	1.14	93.4	retained	retained	
+A0A369RU54	Trichoplax sp. H2	one_domain	1	pass1	6-306	Ser229	S206	0.28	98.2	retained	retained	
+A0A369RU54	Trichoplax sp. H2	one_domain	1	pass1	6-306	His243	H219	0.25	98.2	retained	retained	
+A0A369RU54	Trichoplax sp. H2	one_domain	1	pass1	6-306	Cys82	C86	0.19	97.1	retained	retained	
+A0A369RU54	Trichoplax sp. H2	one_domain	1	pass1	6-306	Glu247	Q223	0.82	92.4	altered	altered	
+A0A261XTY1	Bifiguratus adelaidae	one_domain	1	pass1	21-532	Ser68	S149	0.39	90.6	retained	retained	
+A0A261XTY1	Bifiguratus adelaidae	one_domain	1	pass1	21-532	Ser229	S369	0.32	97.3	retained	retained	
+A0A261XTY1	Bifiguratus adelaidae	one_domain	1	pass1	21-532	His243	H382	0.18	96.9	retained	retained	
+A0A261XTY1	Bifiguratus adelaidae	one_domain	1	pass1	21-532	Cys82	C163	0.52	87.0	retained	retained	
+A0A261XTY1	Bifiguratus adelaidae	one_domain	1	pass1	21-532	Glu247	E386	0.19	92.3	retained	retained	
+A0A0L0TEV2	Allomyces macrogynus ATCC 38327	one_domain	1	pass1	1-499	Ser68	S122	0.27	89.6	retained	retained	
+A0A0L0TEV2	Allomyces macrogynus ATCC 38327	one_domain	1	pass1	1-499	Ser229	S397	0.5	96.2	retained	retained	
+A0A0L0TEV2	Allomyces macrogynus ATCC 38327	one_domain	1	pass1	1-499	His243	H410	0.46	96.2	retained	retained	
+A0A0L0TEV2	Allomyces macrogynus ATCC 38327	one_domain	1	pass1	1-499	Cys82	C136	0.49	88.6	retained	retained	
+A0A0L0TEV2	Allomyces macrogynus ATCC 38327	one_domain	1	pass1	1-499	Glu247	E414	0.55	93.1	retained	retained	
+A0AAN8YV08	Dillenia turbinata	two_units	1	pass1	7-335	Ser68	S71	1.15	86.7	retained	retained	
+A0AAN8YV08	Dillenia turbinata	two_units	1	pass1	7-335	Ser229	S234	0.37	95.3	retained	retained	
+A0AAN8YV08	Dillenia turbinata	two_units	1	pass1	7-335	His243	H247	0.26	96.4	retained	retained	
+A0AAN8YV08	Dillenia turbinata	two_units	1	pass1	7-335	Cys82	C85	0.69	89.6	retained	retained	
+A0AAN8YV08	Dillenia turbinata	two_units	1	pass1	7-335	Glu247	E251	0.22	84.6	retained	retained	
+A0AAN8YV08	Dillenia turbinata	two_units	2	pass2 C-side	440-768	Ser68	S504	1.18	90.0	retained	retained	
+A0AAN8YV08	Dillenia turbinata	two_units	2	pass2 C-side	440-768	Ser229	S667	0.38	96.4	retained	retained	
+A0AAN8YV08	Dillenia turbinata	two_units	2	pass2 C-side	440-768	His243	H680	0.26	96.9	retained	retained	
+A0AAN8YV08	Dillenia turbinata	two_units	2	pass2 C-side	440-768	Cys82	C518	0.66	89.8	retained	retained	
+A0AAN8YV08	Dillenia turbinata	two_units	2	pass2 C-side	440-768	Glu247	E684	0.3	86.2	retained	retained	
+A0A0M8ZRC1	Melipona quadrifasciata	one_domain	1	pass1	13-373	Ser68	S123	0.51	71.6	retained	retained	
+A0A0M8ZRC1	Melipona quadrifasciata	one_domain	1	pass1	13-373	Ser229	S274	0.29	90.2	retained	retained	
+A0A0M8ZRC1	Melipona quadrifasciata	one_domain	1	pass1	13-373	His243	H288	0.14	87.1	retained	retained	
+A0A0M8ZRC1	Melipona quadrifasciata	one_domain	1	pass1	13-373	Cys82	C137	0.25	63.2	retained	unresolved	pLDDT 63.2 < 70 (FOLDTRACE call: retained)
+A0A0M8ZRC1	Melipona quadrifasciata	one_domain	1	pass1	13-373	Glu247	E292	0.3	83.4	retained	retained	
+A0A067PUM8	Jaapia argillacea MUCL 33604	one_domain	1	pass1	9-577	Ser68	S80	1.22	91.5	retained	retained	
+A0A067PUM8	Jaapia argillacea MUCL 33604	one_domain	1	pass1	9-577	Ser229	S434	0.53	98.2	retained	retained	
+A0A067PUM8	Jaapia argillacea MUCL 33604	one_domain	1	pass1	9-577	His243	H457	0.26	98.6	retained	retained	
+A0A067PUM8	Jaapia argillacea MUCL 33604	one_domain	1	pass1	9-577	Cys82	C94	0.46	96.1	retained	retained	
+A0A067PUM8	Jaapia argillacea MUCL 33604	one_domain	1	pass1	9-577	Glu247	E461	0.59	96.4	retained	retained	
+A0A5A8CY83	Cafeteria roenbergensis	one_domain	1	pass1	22-435	Ser68	S83	1.31	91.2	retained	retained	
+A0A5A8CY83	Cafeteria roenbergensis	one_domain	1	pass1	22-435	Ser229	S270	0.18	98.0	retained	retained	
+A0A5A8CY83	Cafeteria roenbergensis	one_domain	1	pass1	22-435	His243	H339	0.3	98.2	retained	retained	
+A0A5A8CY83	Cafeteria roenbergensis	one_domain	1	pass1	22-435	Cys82	C97	0.66	96.1	retained	retained	
+A0A5A8CY83	Cafeteria roenbergensis	one_domain	1	pass1	22-435	Glu247	E343	0.33	94.9	retained	retained	
+G5BXQ0	Heterocephalus glaber	one_domain	1	pass1	81-240	Ser68				unresolved	unresolved	no aligned residue
+G5BXQ0	Heterocephalus glaber	one_domain	1	pass1	81-240	Ser229	S141	0.13	97.3	retained	retained	
+G5BXQ0	Heterocephalus glaber	one_domain	1	pass1	81-240	His243	H155	0.14	98.2	retained	retained	
+G5BXQ0	Heterocephalus glaber	one_domain	1	pass1	81-240	Cys82				unresolved	unresolved	no aligned residue
+G5BXQ0	Heterocephalus glaber	one_domain	1	pass1	81-240	Glu247	E159	0.11	97.6	retained	retained	
+A0A1Y2H6Z6	Catenaria anguillulae PL171	one_domain	1	pass1	3-551	Ser68	S164	1.31	88.0	retained	retained	
+A0A1Y2H6Z6	Catenaria anguillulae PL171	one_domain	1	pass1	3-551	Ser229	S443	0.42	94.2	retained	retained	
+A0A1Y2H6Z6	Catenaria anguillulae PL171	one_domain	1	pass1	3-551	His243	H456	0.32	95.6	retained	retained	
+A0A1Y2H6Z6	Catenaria anguillulae PL171	one_domain	1	pass1	3-551	Cys82	C178	0.62	91.4	retained	retained	
+A0A1Y2H6Z6	Catenaria anguillulae PL171	one_domain	1	pass1	3-551	Glu247	E460	0.38	92.8	retained	retained	
+A0A0N4U743	Dracunculus medinensis	one_domain	1	pass1	50-347	Ser68	S111	1.34	85.2	retained	retained	
+A0A0N4U743	Dracunculus medinensis	one_domain	1	pass1	50-347	Ser229	S238	3.21	39.2	retained	unresolved	pLDDT 39.2 < 70 (FOLDTRACE call: retained)
+A0A0N4U743	Dracunculus medinensis	one_domain	1	pass1	50-347	His243	H253	0.34	84.3	retained	retained	
+A0A0N4U743	Dracunculus medinensis	one_domain	1	pass1	50-347	Cys82	C125	0.37	93.7	retained	retained	
+A0A0N4U743	Dracunculus medinensis	one_domain	1	pass1	50-347	Glu247	E257	0.67	81.2	retained	retained	
+A0A8J5ZLT4	Galemys pyrenaicus	one_domain	1	pass1	4-250	Ser68	N44	0.21	78.9	lost	lost	
+A0A8J5ZLT4	Galemys pyrenaicus	one_domain	1	pass1	4-250	Ser229	V174	4.27	64.1	unresolved	unresolved	offset > 4 A
+A0A8J5ZLT4	Galemys pyrenaicus	one_domain	1	pass1	4-250	His243	Q175	1.99	66.6	lost	unresolved	pLDDT 66.6 < 70 (FOLDTRACE call: lost)
+A0A8J5ZLT4	Galemys pyrenaicus	one_domain	1	pass1	4-250	Cys82	C58	0.99	69.3	retained	unresolved	pLDDT 69.3 < 70 (FOLDTRACE call: retained)
+A0A8J5ZLT4	Galemys pyrenaicus	one_domain	1	pass1	4-250	Glu247				unresolved	unresolved	no aligned residue
+A0A5B0P648	Puccinia graminis f. sp. tritici	one_domain	1	pass1	23-456	Ser68	S101	0.69	86.4	retained	retained	
+A0A5B0P648	Puccinia graminis f. sp. tritici	one_domain	1	pass1	23-456	Ser229	S338	0.45	98.2	retained	retained	
+A0A5B0P648	Puccinia graminis f. sp. tritici	one_domain	1	pass1	23-456	His243	H354	0.35	98.1	retained	retained	
+A0A5B0P648	Puccinia graminis f. sp. tritici	one_domain	1	pass1	23-456	Cys82	C115	0.16	92.9	retained	retained	
+A0A5B0P648	Puccinia graminis f. sp. tritici	one_domain	1	pass1	23-456	Glu247	E358	0.78	94.8	retained	retained	
+A0A287CX89	Ictidomys tridecemlineatus	one_domain	1	pass1	7-241	Ser68	S17	0.86	76.6	retained	retained	
+A0A287CX89	Ictidomys tridecemlineatus	one_domain	1	pass1	7-241	Ser229	P153	1.85	59.3	lost	unresolved	pLDDT 59.3 < 70 (FOLDTRACE call: lost)
+A0A287CX89	Ictidomys tridecemlineatus	one_domain	1	pass1	7-241	His243	H167	0.43	79.4	retained	retained	
+A0A287CX89	Ictidomys tridecemlineatus	one_domain	1	pass1	7-241	Cys82	C31	0.58	81.2	retained	retained	
+A0A287CX89	Ictidomys tridecemlineatus	one_domain	1	pass1	7-241	Glu247	Q171	0.7	79.2	altered	altered	
+B3RWJ2	Trichoplax adhaerens	one_domain	1	pass1	6-267	Ser68	S72	1.15	93.6	retained	retained	
+B3RWJ2	Trichoplax adhaerens	one_domain	1	pass1	6-267	Ser229	S206	0.27	98.3	retained	retained	
+B3RWJ2	Trichoplax adhaerens	one_domain	1	pass1	6-267	His243	H219	0.22	98.3	retained	retained	
+B3RWJ2	Trichoplax adhaerens	one_domain	1	pass1	6-267	Cys82	C86	0.29	97.1	retained	retained	
+B3RWJ2	Trichoplax adhaerens	one_domain	1	pass1	6-267	Glu247	Q223	0.77	92.7	altered	altered	
+A0A1D2MKC8	Orchesella cincta	one_domain	1	pass1	3-340	Ser68	S5	0.58	85.3	retained	retained	
+A0A1D2MKC8	Orchesella cincta	one_domain	1	pass1	3-340	Ser229	S237	0.31	98.3	retained	retained	
+A0A1D2MKC8	Orchesella cincta	one_domain	1	pass1	3-340	His243	H251	0.19	98.6	retained	retained	
+A0A1D2MKC8	Orchesella cincta	one_domain	1	pass1	3-340	Cys82	C19	0.4	92.6	retained	retained	
+A0A1D2MKC8	Orchesella cincta	one_domain	1	pass1	3-340	Glu247	E255	0.38	95.2	retained	retained	
+A0A9N9FQ28	Ambispora leptoticha	one_domain	1	pass1	30-456	Ser68	S116	1.25	89.7	retained	retained	
+A0A9N9FQ28	Ambispora leptoticha	one_domain	1	pass1	30-456	Ser229	S353	0.37	97.8	retained	retained	
+A0A9N9FQ28	Ambispora leptoticha	one_domain	1	pass1	30-456	His243	H366	0.27	98.1	retained	retained	
+A0A9N9FQ28	Ambispora leptoticha	one_domain	1	pass1	30-456	Cys82	C130	0.41	92.8	retained	retained	
+A0A9N9FQ28	Ambispora leptoticha	one_domain	1	pass1	30-456	Glu247	E370	0.42	93.2	retained	retained	
+A0A8J5XFS3	Diacronema lutheri	one_domain	1	pass1	16-512	Ser68	S74	1.25	92.1	retained	retained	
+A0A8J5XFS3	Diacronema lutheri	one_domain	1	pass1	16-512	Ser229	S403	0.34	97.7	retained	retained	
+A0A8J5XFS3	Diacronema lutheri	one_domain	1	pass1	16-512	His243	H416	0.2	98.6	retained	retained	
+A0A8J5XFS3	Diacronema lutheri	one_domain	1	pass1	16-512	Cys82	C88	0.62	96.7	retained	retained	
+A0A8J5XFS3	Diacronema lutheri	one_domain	1	pass1	16-512	Glu247	E420	0.18	95.6	retained	retained	
+A0A7S3H9T9	Spumella elongata	one_domain	1	pass1	1-398	Ser68	S48	0.65	91.4	retained	retained	
+A0A7S3H9T9	Spumella elongata	one_domain	1	pass1	1-398	Ser229	S289	0.33	97.9	retained	retained	
+A0A7S3H9T9	Spumella elongata	one_domain	1	pass1	1-398	His243	H302	0.17	98.3	retained	retained	
+A0A7S3H9T9	Spumella elongata	one_domain	1	pass1	1-398	Cys82	C62	0.76	93.7	retained	retained	
+A0A7S3H9T9	Spumella elongata	one_domain	1	pass1	1-398	Glu247	E306	0.42	97.7	retained	retained	
+A0AAW1DC11	Rhynocoris fuscipes	one_domain	1	pass1	9-291	Ser68				unresolved	unresolved	no aligned residue
+A0AAW1DC11	Rhynocoris fuscipes	one_domain	1	pass1	9-291	Ser229	S186	0.25	97.6	retained	retained	
+A0AAW1DC11	Rhynocoris fuscipes	one_domain	1	pass1	9-291	His243	H200	0.21	98.0	retained	retained	
+A0AAW1DC11	Rhynocoris fuscipes	one_domain	1	pass1	9-291	Cys82	N67	9.84	61.2	unresolved	unresolved	offset > 4 A
+A0AAW1DC11	Rhynocoris fuscipes	one_domain	1	pass1	9-291	Glu247	E204	0.52	92.7	retained	retained	
+A0A915LQJ4	Meloidogyne javanica	one_domain	1	pass1	31-328	Ser68	S91	1.28	85.4	retained	retained	
+A0A915LQJ4	Meloidogyne javanica	one_domain	1	pass1	31-328	Ser229	G226	0.94	62.5	lost	unresolved	pLDDT 62.5 < 70 (FOLDTRACE call: lost)
+A0A915LQJ4	Meloidogyne javanica	one_domain	1	pass1	31-328	His243	H240	0.38	89.4	retained	retained	
+A0A915LQJ4	Meloidogyne javanica	one_domain	1	pass1	31-328	Cys82	C105	0.61	89.1	retained	retained	
+A0A915LQJ4	Meloidogyne javanica	one_domain	1	pass1	31-328	Glu247	E244	0.48	84.2	retained	retained	
+A0A9P6KAC2	Lunasporangiospora selenospora	one_domain	1	pass1	12-434	Ser68	S49	0.62	91.6	retained	retained	
+A0A9P6KAC2	Lunasporangiospora selenospora	one_domain	1	pass1	12-434	Ser229	S302	0.31	98.2	retained	retained	
+A0A9P6KAC2	Lunasporangiospora selenospora	one_domain	1	pass1	12-434	His243	H315	0.12	98.2	retained	retained	
+A0A9P6KAC2	Lunasporangiospora selenospora	one_domain	1	pass1	12-434	Cys82	C63	0.43	92.9	retained	retained	
+A0A9P6KAC2	Lunasporangiospora selenospora	one_domain	1	pass1	12-434	Glu247	E319	0.2	97.8	retained	retained	
+A0AAN6G5L1	Tilletia horrida	one_domain	1	pass1	36-651	Ser68	S117	1.37	94.1	retained	retained	
+A0AAN6G5L1	Tilletia horrida	one_domain	1	pass1	36-651	Ser229	S474	0.51	98.6	retained	retained	
+A0AAN6G5L1	Tilletia horrida	one_domain	1	pass1	36-651	His243	H512	0.32	98.8	retained	retained	
+A0AAN6G5L1	Tilletia horrida	one_domain	1	pass1	36-651	Cys82	C131	0.54	97.6	retained	retained	
+A0AAN6G5L1	Tilletia horrida	one_domain	1	pass1	36-651	Glu247	E516	0.7	97.0	retained	retained	
+A0A0R3VWB1	Taenia asiatica	one_domain	1	pass1	1-356	Ser68	S38	0.89	58.8	retained	unresolved	pLDDT 58.8 < 70 (FOLDTRACE call: retained)
+A0A0R3VWB1	Taenia asiatica	one_domain	1	pass1	1-356	Ser229	S253	0.45	92.0	retained	retained	
+A0A0R3VWB1	Taenia asiatica	one_domain	1	pass1	1-356	His243	H267	0.44	95.2	retained	retained	
+A0A0R3VWB1	Taenia asiatica	one_domain	1	pass1	1-356	Cys82	C52	0.57	84.6	retained	retained	
+A0A0R3VWB1	Taenia asiatica	one_domain	1	pass1	1-356	Glu247	E271	0.39	97.1	retained	retained	
+A0A7S1VYK4	Alexandrium catenella	one_domain	1	pass1	18-368	Ser68	S100	1.14	89.4	retained	retained	
+A0A7S1VYK4	Alexandrium catenella	one_domain	1	pass1	18-368	Ser229	S270	0.56	96.3	retained	retained	
+A0A7S1VYK4	Alexandrium catenella	one_domain	1	pass1	18-368	His243	H283	0.27	97.0	retained	retained	
+A0A7S1VYK4	Alexandrium catenella	one_domain	1	pass1	18-368	Cys82	C114	0.71	94.3	retained	retained	
+A0A7S1VYK4	Alexandrium catenella	one_domain	1	pass1	18-368	Glu247	Q287	0.56	90.7	altered	altered	
+A0AAV0R5B5	Linum tenue	one_domain	1	pass1	5-297	Ser68	S69	0.54	88.4	retained	retained	
+A0AAV0R5B5	Linum tenue	one_domain	1	pass1	5-297	Ser229	S195	0.33	96.3	retained	retained	
+A0AAV0R5B5	Linum tenue	one_domain	1	pass1	5-297	His243	H208	0.19	96.0	retained	retained	
+A0AAV0R5B5	Linum tenue	one_domain	1	pass1	5-297	Cys82	C83	1.19	83.0	retained	retained	
+A0AAV0R5B5	Linum tenue	one_domain	1	pass1	5-297	Glu247	E212	0.79	92.4	retained	retained	
+A0A9W8BCW7	Coemansia thaxteri	one_domain	1	pass1	1-361	Ser68	S2	0.74	82.9	retained	retained	
+A0A9W8BCW7	Coemansia thaxteri	one_domain	1	pass1	1-361	Ser229	S225	0.4	98.4	retained	retained	
+A0A9W8BCW7	Coemansia thaxteri	one_domain	1	pass1	1-361	His243	H238	0.37	98.6	retained	retained	
+A0A9W8BCW7	Coemansia thaxteri	one_domain	1	pass1	1-361	Cys82	C16	0.53	94.9	retained	retained	
+A0A9W8BCW7	Coemansia thaxteri	one_domain	1	pass1	1-361	Glu247	E242	0.47	91.8	retained	retained	
+A0A813LKE1	Polarella glacialis	one_domain	1	pass1	55-401	Ser68	S132	1.17	92.0	retained	retained	
+A0A813LKE1	Polarella glacialis	one_domain	1	pass1	55-401	Ser229	S303	0.69	96.8	retained	retained	
+A0A813LKE1	Polarella glacialis	one_domain	1	pass1	55-401	His243	H316	0.43	97.4	retained	retained	
+A0A813LKE1	Polarella glacialis	one_domain	1	pass1	55-401	Cys82	C146	0.52	96.8	retained	retained	
+A0A813LKE1	Polarella glacialis	one_domain	1	pass1	55-401	Glu247	Q320	1.26	89.9	altered	altered	
+A0A9P5S8S6	Linnemannia schmuckeri	one_domain	1	pass1	86-532	Ser68	S170	0.41	83.4	retained	retained	
+A0A9P5S8S6	Linnemannia schmuckeri	one_domain	1	pass1	86-532	Ser229				unresolved	unresolved	no aligned residue
+A0A9P5S8S6	Linnemannia schmuckeri	one_domain	1	pass1	86-532	His243	S426	3.19	33.2	lost	unresolved	pLDDT 33.2 < 70 (FOLDTRACE call: lost)
+A0A9P5S8S6	Linnemannia schmuckeri	one_domain	1	pass1	86-532	Cys82	C184	0.64	88.1	retained	retained	
+A0A9P5S8S6	Linnemannia schmuckeri	one_domain	1	pass1	86-532	Glu247	E437	8.72	28.9	unresolved	unresolved	offset > 4 A
+S7Q7R8	Myotis brandtii	one_domain	1	pass1	3-205	Ser68				unresolved	unresolved	no aligned residue
+S7Q7R8	Myotis brandtii	one_domain	1	pass1	3-205	Ser229				unresolved	unresolved	no aligned residue
+S7Q7R8	Myotis brandtii	one_domain	1	pass1	3-205	His243				unresolved	unresolved	no aligned residue
+S7Q7R8	Myotis brandtii	one_domain	1	pass1	3-205	Cys82	C55	0.09	90.4	retained	retained	
+S7Q7R8	Myotis brandtii	one_domain	1	pass1	3-205	Glu247	P208	9.15	47.5	unresolved	unresolved	offset > 4 A
+A0A835L9Z3	Spodoptera exigua	one_domain	1	pass1	1-257	Ser68				unresolved	unresolved	no aligned residue
+A0A835L9Z3	Spodoptera exigua	one_domain	1	pass1	1-257	Ser229	S155	0.44	97.6	retained	retained	
+A0A835L9Z3	Spodoptera exigua	one_domain	1	pass1	1-257	His243	H169	0.24	97.9	retained	retained	
+A0A835L9Z3	Spodoptera exigua	one_domain	1	pass1	1-257	Cys82	C13	0.29	95.8	retained	retained	
+A0A835L9Z3	Spodoptera exigua	one_domain	1	pass1	1-257	Glu247	E173	0.26	94.4	retained	retained	
+A0A654F863	Arabidopsis thaliana	one_domain	1	pass1	6-294	Ser68	S61	0.5	84.4	retained	retained	
+A0A654F863	Arabidopsis thaliana	one_domain	1	pass1	6-294	Ser229	S199	0.43	93.9	retained	retained	
+A0A654F863	Arabidopsis thaliana	one_domain	1	pass1	6-294	His243	H212	0.38	95.1	retained	retained	
+A0A654F863	Arabidopsis thaliana	one_domain	1	pass1	6-294	Cys82	C75	0.85	84.1	retained	retained	
+A0A654F863	Arabidopsis thaliana	one_domain	1	pass1	6-294	Glu247	Q216	0.45	90.6	altered	altered	
+A0AAW2YD43	Sesamum latifolium	one_domain	1	pass1	46-347	Ser68	S110	0.6	79.1	retained	retained	
+A0AAW2YD43	Sesamum latifolium	one_domain	1	pass1	46-347	Ser229				unresolved	unresolved	no aligned residue
+A0AAW2YD43	Sesamum latifolium	one_domain	1	pass1	46-347	His243	H259	0.4	75.0	retained	retained	
+A0AAW2YD43	Sesamum latifolium	one_domain	1	pass1	46-347	Cys82	C124	0.58	78.6	retained	retained	
+A0AAW2YD43	Sesamum latifolium	one_domain	1	pass1	46-347	Glu247	E263	1.11	69.8	retained	unresolved	pLDDT 69.8 < 70 (FOLDTRACE call: retained)
+A0A0D6EM53	Sporobolomyces salmonicolor	one_domain	1	pass1	1-386	Ser68				unresolved	unresolved	no aligned residue
+A0A0D6EM53	Sporobolomyces salmonicolor	one_domain	1	pass1	1-386	Ser229	S239	0.36	97.8	retained	retained	
+A0A0D6EM53	Sporobolomyces salmonicolor	one_domain	1	pass1	1-386	His243	H252	0.31	98.6	retained	retained	
+A0A0D6EM53	Sporobolomyces salmonicolor	one_domain	1	pass1	1-386	Cys82	C13	0.47	95.1	retained	retained	
+A0A0D6EM53	Sporobolomyces salmonicolor	one_domain	1	pass1	1-386	Glu247	E256	0.49	95.4	retained	retained	
+A0AA89B1A7	Escallonia herrerae	one_domain	1	pass1	6-286	Ser68	S71	0.4	87.6	retained	retained	
+A0AA89B1A7	Escallonia herrerae	one_domain	1	pass1	6-286	Ser229	S197	0.24	95.9	retained	retained	
+A0AA89B1A7	Escallonia herrerae	one_domain	1	pass1	6-286	His243	H210	0.26	95.6	retained	retained	
+A0AA89B1A7	Escallonia herrerae	one_domain	1	pass1	6-286	Cys82	C85	0.95	83.6	retained	retained	
+A0AA89B1A7	Escallonia herrerae	one_domain	1	pass1	6-286	Glu247	E214	0.4	90.8	retained	retained	
+A0A0G4IWA6	Plasmodiophora brassicae	two_units	1	pass2 N-side	1-255	Ser68	S14	1.11	77.6	retained	retained	
+A0A0G4IWA6	Plasmodiophora brassicae	two_units	1	pass2 N-side	1-255	Ser229	I160	1.51	80.4	lost	lost	
+A0A0G4IWA6	Plasmodiophora brassicae	two_units	1	pass2 N-side	1-255	His243	H175	1.01	83.3	retained	retained	
+A0A0G4IWA6	Plasmodiophora brassicae	two_units	1	pass2 N-side	1-255	Cys82	C28	1.04	72.4	retained	retained	
+A0A0G4IWA6	Plasmodiophora brassicae	two_units	1	pass2 N-side	1-255	Glu247	Q179	4.1	61.5	unresolved	unresolved	offset > 4 A
+A0A0G4IWA6	Plasmodiophora brassicae	two_units	2	pass1	275-587	Ser68	S333	1.25	82.7	retained	retained	
+A0A0G4IWA6	Plasmodiophora brassicae	two_units	2	pass1	275-587	Ser229	S490	0.38	89.4	retained	retained	
+A0A0G4IWA6	Plasmodiophora brassicae	two_units	2	pass1	275-587	His243	H505	0.37	92.9	retained	retained	
+A0A0G4IWA6	Plasmodiophora brassicae	two_units	2	pass1	275-587	Cys82	C347	0.66	87.3	retained	retained	
+A0A0G4IWA6	Plasmodiophora brassicae	two_units	2	pass1	275-587	Glu247	Q509	0.9	80.0	altered	altered	
+A0A438F6B9	Vitis vinifera	one_domain	1	pass1	3-307	Ser68	S64	0.63	87.1	retained	retained	
+A0A438F6B9	Vitis vinifera	one_domain	1	pass1	3-307	Ser229	S205	0.39	97.0	retained	retained	
+A0A438F6B9	Vitis vinifera	one_domain	1	pass1	3-307	His243	H218	0.25	96.3	retained	retained	
+A0A438F6B9	Vitis vinifera	one_domain	1	pass1	3-307	Cys82	C78	1.22	82.6	retained	retained	
+A0A438F6B9	Vitis vinifera	one_domain	1	pass1	3-307	Glu247	E222	0.57	93.9	retained	retained	
+A0A3B9YJ81	Elusimicrobiota bacterium	one_domain	1	pass1	4-255	Ser68	S62	1.48	87.8	retained	retained	
+A0A3B9YJ81	Elusimicrobiota bacterium	one_domain	1	pass1	4-255	Ser229	S192	0.18	94.9	retained	retained	
+A0A3B9YJ81	Elusimicrobiota bacterium	one_domain	1	pass1	4-255	His243	H205	0.5	94.4	retained	retained	
+A0A3B9YJ81	Elusimicrobiota bacterium	one_domain	1	pass1	4-255	Cys82	C76	0.49	93.6	retained	retained	
+A0A3B9YJ81	Elusimicrobiota bacterium	one_domain	1	pass1	4-255	Glu247	D209	1.76	81.2	lost	lost	
+A0AAW2N1Z0	Sesamum calycinum	one_domain	1	pass1	5-284	Ser68	S69	0.37	82.4	retained	retained	
+A0AAW2N1Z0	Sesamum calycinum	one_domain	1	pass1	5-284	Ser229				unresolved	unresolved	no aligned residue
+A0AAW2N1Z0	Sesamum calycinum	one_domain	1	pass1	5-284	His243				unresolved	unresolved	no aligned residue
+A0AAW2N1Z0	Sesamum calycinum	one_domain	1	pass1	5-284	Cys82	C83	0.47	83.4	retained	retained	
+A0AAW2N1Z0	Sesamum calycinum	one_domain	1	pass1	5-284	Glu247	E203	8.69	48.3	unresolved	unresolved	offset > 4 A
+A0A7J0ELK9	Actinidia rufa	one_domain	1	pass1	7-307	Ser68	S71	1.27	86.6	retained	retained	
+A0A7J0ELK9	Actinidia rufa	one_domain	1	pass1	7-307	Ser229	S207	0.25	96.8	retained	retained	
+A0A7J0ELK9	Actinidia rufa	one_domain	1	pass1	7-307	His243	H220	0.25	95.9	retained	retained	
+A0A7J0ELK9	Actinidia rufa	one_domain	1	pass1	7-307	Cys82	C85	0.57	82.1	retained	retained	
+A0A7J0ELK9	Actinidia rufa	one_domain	1	pass1	7-307	Glu247	E224	0.72	91.9	retained	retained	
+A0A9W2X028	Physeter macrocephalus	one_domain	1	pass1	1-195	Ser68				unresolved	unresolved	no aligned residue
+A0A9W2X028	Physeter macrocephalus	one_domain	1	pass1	1-195	Ser229	S152	0.21	77.7	retained	retained	
+A0A9W2X028	Physeter macrocephalus	one_domain	1	pass1	1-195	His243	N192	1.67	34.8	lost	unresolved	pLDDT 34.8 < 70 (FOLDTRACE call: lost)
+A0A9W2X028	Physeter macrocephalus	one_domain	1	pass1	1-195	Cys82	C5	0.28	79.1	retained	retained	
+A0A9W2X028	Physeter macrocephalus	one_domain	1	pass1	1-195	Glu247	S196	5.92	26.6	unresolved	unresolved	offset > 4 A
+A0A8X7QMQ0	Brassica carinata	one_domain	1	pass1	1-277	Ser68	S37	0.69	85.1	retained	retained	
+A0A8X7QMQ0	Brassica carinata	one_domain	1	pass1	1-277	Ser229	S175	0.14	95.5	retained	retained	
+A0A8X7QMQ0	Brassica carinata	one_domain	1	pass1	1-277	His243	H188	0.3	96.6	retained	retained	
+A0A8X7QMQ0	Brassica carinata	one_domain	1	pass1	1-277	Cys82	C51	0.6	82.9	retained	retained	
+A0A8X7QMQ0	Brassica carinata	one_domain	1	pass1	1-277	Glu247	E192	0.67	95.2	retained	retained	
+A0A0L7LLK8	Operophtera brumata	one_domain	1	pass1	13-297	Ser68	S72	0.1	85.8	retained	retained	
+A0A0L7LLK8	Operophtera brumata	one_domain	1	pass1	13-297	Ser229				unresolved	unresolved	no aligned residue
+A0A0L7LLK8	Operophtera brumata	one_domain	1	pass1	13-297	His243	H212	6.2	64.4	unresolved	unresolved	offset > 4 A
+A0A0L7LLK8	Operophtera brumata	one_domain	1	pass1	13-297	Cys82	C86	0.72	87.8	retained	retained	
+A0A0L7LLK8	Operophtera brumata	one_domain	1	pass1	13-297	Glu247	E216	2.34	60.9	retained	unresolved	pLDDT 60.9 < 70 (FOLDTRACE call: retained)
+A0AAD4SVG2	Papaver atlanticum	one_domain	1	pass1	5-296	Ser68	S71	0.3	83.1	retained	retained	
+A0AAD4SVG2	Papaver atlanticum	one_domain	1	pass1	5-296	Ser229				unresolved	unresolved	no aligned residue
+A0AAD4SVG2	Papaver atlanticum	one_domain	1	pass1	5-296	His243	H218	0.15	88.8	retained	retained	
+A0AAD4SVG2	Papaver atlanticum	one_domain	1	pass1	5-296	Cys82	C85	0.63	76.8	retained	retained	
+A0AAD4SVG2	Papaver atlanticum	one_domain	1	pass1	5-296	Glu247	E222	0.85	88.6	retained	retained	
+A0AAW2S8J8	Sesamum radiatum	one_domain	1	pass1	3-313	Ser68	S64	1.07	84.5	retained	retained	
+A0AAW2S8J8	Sesamum radiatum	one_domain	1	pass1	3-313	Ser229	S210	0.39	97.1	retained	retained	
+A0AAW2S8J8	Sesamum radiatum	one_domain	1	pass1	3-313	His243	H223	0.2	96.1	retained	retained	
+A0AAW2S8J8	Sesamum radiatum	one_domain	1	pass1	3-313	Cys82	C78	1.13	74.9	retained	retained	
+A0AAW2S8J8	Sesamum radiatum	one_domain	1	pass1	3-313	Glu247	E227	0.72	92.5	retained	retained	
+A0A9Q0Z4E9	Salix viminalis	one_domain	1	pass1	1-278	Ser68	S44	0.38	85.4	retained	retained	
+A0A9Q0Z4E9	Salix viminalis	one_domain	1	pass1	1-278	Ser229	Q199	2.37	42.1	lost	unresolved	pLDDT 42.1 < 70 (FOLDTRACE call: lost)
+A0A9Q0Z4E9	Salix viminalis	one_domain	1	pass1	1-278	His243				unresolved	unresolved	no aligned residue
+A0A9Q0Z4E9	Salix viminalis	one_domain	1	pass1	1-278	Cys82	C58	0.38	88.1	retained	retained	
+A0A9Q0Z4E9	Salix viminalis	one_domain	1	pass1	1-278	Glu247				unresolved	unresolved	no aligned residue
+A0A6A6MFN5	Hevea brasiliensis	one_domain	1	pass1	3-300	Ser68	S65	0.48	82.8	retained	retained	
+A0A6A6MFN5	Hevea brasiliensis	one_domain	1	pass1	3-300	Ser229				unresolved	unresolved	no aligned residue
+A0A6A6MFN5	Hevea brasiliensis	one_domain	1	pass1	3-300	His243				unresolved	unresolved	no aligned residue
+A0A6A6MFN5	Hevea brasiliensis	one_domain	1	pass1	3-300	Cys82	C79	0.76	88.1	retained	retained	
+A0A6A6MFN5	Hevea brasiliensis	one_domain	1	pass1	3-300	Glu247	E215	3.49	46.2	retained	unresolved	pLDDT 46.2 < 70 (FOLDTRACE call: retained)
+A0A9J6H528	Haemaphysalis longicornis	one_domain	1	pass1	18-291	Ser68	S100	0.67	77.1	retained	retained	
+A0A9J6H528	Haemaphysalis longicornis	one_domain	1	pass1	18-291	Ser229	F190	0.9	39.0	lost	unresolved	pLDDT 39.0 < 70 (FOLDTRACE call: lost)
+A0A9J6H528	Haemaphysalis longicornis	one_domain	1	pass1	18-291	His243	H204	0.74	65.2	retained	unresolved	pLDDT 65.2 < 70 (FOLDTRACE call: retained)
+A0A9J6H528	Haemaphysalis longicornis	one_domain	1	pass1	18-291	Cys82	C114	0.5	69.3	retained	unresolved	pLDDT 69.3 < 70 (FOLDTRACE call: retained)
+A0A9J6H528	Haemaphysalis longicornis	one_domain	1	pass1	18-291	Glu247	E208	0.76	69.8	retained	unresolved	pLDDT 69.8 < 70 (FOLDTRACE call: retained)
+A0A847F5F4	Sandaracinaceae bacterium	one_domain	1	pass1	10-272	Ser68	S65	1.36	89.5	retained	retained	
+A0A847F5F4	Sandaracinaceae bacterium	one_domain	1	pass1	10-272	Ser229	S209	0.53	95.3	retained	retained	
+A0A847F5F4	Sandaracinaceae bacterium	one_domain	1	pass1	10-272	His243	H222	0.91	97.0	retained	retained	
+A0A847F5F4	Sandaracinaceae bacterium	one_domain	1	pass1	10-272	Cys82	C79	1.11	89.3	retained	retained	
+A0A847F5F4	Sandaracinaceae bacterium	one_domain	1	pass1	10-272	Glu247	E226	0.5	90.8	retained	retained	
+A6QT49	Histoplasma mississippiense (nom. inval.)	one_domain	1	pass1	37-397	Ser68	S102	0.38	84.3	retained	retained	
+A6QT49	Histoplasma mississippiense (nom. inval.)	one_domain	1	pass1	37-397	Ser229	S234	0.74	81.8	retained	retained	
+A6QT49	Histoplasma mississippiense (nom. inval.)	one_domain	1	pass1	37-397	His243	H262	0.73	86.9	retained	retained	
+A6QT49	Histoplasma mississippiense (nom. inval.)	one_domain	1	pass1	37-397	Cys82	C116	0.48	79.2	retained	retained	
+A6QT49	Histoplasma mississippiense (nom. inval.)	one_domain	1	pass1	37-397	Glu247	E266	0.85	75.8	retained	retained	
+A0A5J5BY55	Nyssa sinensis	one_domain	1	pass1	130-418	Ser68				unresolved	unresolved	no aligned residue
+A0A5J5BY55	Nyssa sinensis	one_domain	1	pass1	130-418	Ser229	S334	0.3	80.1	retained	retained	
+A0A5J5BY55	Nyssa sinensis	one_domain	1	pass1	130-418	His243	H347	0.19	82.8	retained	retained	
+A0A5J5BY55	Nyssa sinensis	one_domain	1	pass1	130-418	Cys82				unresolved	unresolved	no aligned residue
+A0A5J5BY55	Nyssa sinensis	one_domain	1	pass1	130-418	Glu247	E351	0.35	81.2	retained	retained	
+A0AAD9VDS8	Acropora cervicornis	one_domain	1	pass1	9-249	Ser68				unresolved	unresolved	no aligned residue
+A0AAD9VDS8	Acropora cervicornis	one_domain	1	pass1	9-249	Ser229	S174	0.53	74.4	retained	retained	
+A0AAD9VDS8	Acropora cervicornis	one_domain	1	pass1	9-249	His243				unresolved	unresolved	no aligned residue
+A0AAD9VDS8	Acropora cervicornis	one_domain	1	pass1	9-249	Cys82	C53	0.07	82.2	retained	retained	
+A0AAD9VDS8	Acropora cervicornis	one_domain	1	pass1	9-249	Glu247				unresolved	unresolved	no aligned residue
+A0AAD5CWU2	Ambrosia artemisiifolia	one_domain	1	pass1	1-219	Ser68				unresolved	unresolved	no aligned residue
+A0AAD5CWU2	Ambrosia artemisiifolia	one_domain	1	pass1	1-219	Ser229	S118	0.16	98.8	retained	retained	
+A0AAD5CWU2	Ambrosia artemisiifolia	one_domain	1	pass1	1-219	His243	H131	0.09	98.8	retained	retained	
+A0AAD5CWU2	Ambrosia artemisiifolia	one_domain	1	pass1	1-219	Cys82	C6	0.63	92.5	retained	retained	
+A0AAD5CWU2	Ambrosia artemisiifolia	one_domain	1	pass1	1-219	Glu247	E135	0.37	97.8	retained	retained	
+A0A7J7IMF6	Cyanidiococcus yangmingshanensis	one_domain	1	pass1	7-324	Ser68	S74	1.33	84.2	retained	retained	
+A0A7J7IMF6	Cyanidiococcus yangmingshanensis	one_domain	1	pass1	7-324	Ser229	S220	0.22	66.4	retained	unresolved	pLDDT 66.4 < 70 (FOLDTRACE call: retained)
+A0A7J7IMF6	Cyanidiococcus yangmingshanensis	one_domain	1	pass1	7-324	His243	H233	0.42	71.4	retained	retained	
+A0A7J7IMF6	Cyanidiococcus yangmingshanensis	one_domain	1	pass1	7-324	Cys82	C88	0.58	85.1	retained	retained	
+A0A7J7IMF6	Cyanidiococcus yangmingshanensis	one_domain	1	pass1	7-324	Glu247	E237	0.36	61.0	retained	unresolved	pLDDT 61.0 < 70 (FOLDTRACE call: retained)
+M4CQ45	Brassica rapa	one_domain	1	pass1	19-271	Ser68				unresolved	unresolved	no aligned residue
+M4CQ45	Brassica rapa	one_domain	1	pass1	19-271	Ser229	S169	0.25	95.2	retained	retained	
+M4CQ45	Brassica rapa	one_domain	1	pass1	19-271	His243	H182	0.36	96.8	retained	retained	
+M4CQ45	Brassica rapa	one_domain	1	pass1	19-271	Cys82				unresolved	unresolved	no aligned residue
+M4CQ45	Brassica rapa	one_domain	1	pass1	19-271	Glu247	E186	0.49	93.8	retained	retained	
+A0A7R8Z4G3	Timema douglasi	one_domain	1	pass1	7-415	Ser68	S8	0.65	66.3	retained	unresolved	pLDDT 66.3 < 70 (FOLDTRACE call: retained)
+A0A7R8Z4G3	Timema douglasi	one_domain	1	pass1	7-415	Ser229				unresolved	unresolved	no aligned residue
+A0A7R8Z4G3	Timema douglasi	one_domain	1	pass1	7-415	His243	H327	0.49	71.1	retained	retained	
+A0A7R8Z4G3	Timema douglasi	one_domain	1	pass1	7-415	Cys82	C22	0.22	78.8	retained	retained	
+A0A7R8Z4G3	Timema douglasi	one_domain	1	pass1	7-415	Glu247	E331	0.22	73.9	retained	retained	
+A0A1X0P1C0	Trypanosoma theileri	one_domain	1	pass1	37-326	Ser68	S87	1.78	96.1	retained	retained	
+A0A1X0P1C0	Trypanosoma theileri	one_domain	1	pass1	37-326	Ser229	Q223	1.76	91.8	lost	lost	
+A0A1X0P1C0	Trypanosoma theileri	one_domain	1	pass1	37-326	His243	R238	0.87	93.8	lost	lost	
+A0A1X0P1C0	Trypanosoma theileri	one_domain	1	pass1	37-326	Cys82	D101	0.85	91.2	lost	lost	
+A0A1X0P1C0	Trypanosoma theileri	one_domain	1	pass1	37-326	Glu247	E242	6.1	61.8	unresolved	unresolved	offset > 4 A
+A0A1Z8JIV7	Pichia kudriavzevii	one_domain	1	pass1	40-321	Ser68				unresolved	unresolved	no aligned residue
+A0A1Z8JIV7	Pichia kudriavzevii	one_domain	1	pass1	40-321	Ser229	S216	0.36	94.4	retained	retained	
+A0A1Z8JIV7	Pichia kudriavzevii	one_domain	1	pass1	40-321	His243	H230	0.38	95.6	retained	retained	
+A0A1Z8JIV7	Pichia kudriavzevii	one_domain	1	pass1	40-321	Cys82				unresolved	unresolved	no aligned residue
+A0A1Z8JIV7	Pichia kudriavzevii	one_domain	1	pass1	40-321	Glu247	E234	0.48	90.3	retained	retained	
+A0A9W3CL35	Raphanus sativus	one_domain	1	pass1	3-240	Ser68	S43	1.16	75.7	retained	retained	
+A0A9W3CL35	Raphanus sativus	one_domain	1	pass1	3-240	Ser229	S154	0.45	93.1	retained	retained	
+A0A9W3CL35	Raphanus sativus	one_domain	1	pass1	3-240	His243	H168	0.24	94.5	retained	retained	
+A0A9W3CL35	Raphanus sativus	one_domain	1	pass1	3-240	Cys82	C57	1.03	62.3	retained	unresolved	pLDDT 62.3 < 70 (FOLDTRACE call: retained)
+A0A9W3CL35	Raphanus sativus	one_domain	1	pass1	3-240	Glu247	E172	0.36	90.4	retained	retained	
+A0AAV8UDE9	Erythroxylum novogranatense	one_domain	1	pass1	11-208	Ser68	S64	0.91	77.8	retained	retained	
+A0AAV8UDE9	Erythroxylum novogranatense	one_domain	1	pass1	11-208	Ser229	S161	0.47	80.7	retained	retained	
+A0AAV8UDE9	Erythroxylum novogranatense	one_domain	1	pass1	11-208	His243	H174	0.17	76.2	retained	retained	
+A0AAV8UDE9	Erythroxylum novogranatense	one_domain	1	pass1	11-208	Cys82	Y78	1.87	69.7	lost	unresolved	pLDDT 69.7 < 70 (FOLDTRACE call: lost)
+A0AAV8UDE9	Erythroxylum novogranatense	one_domain	1	pass1	11-208	Glu247	E178	2.04	61.8	retained	unresolved	pLDDT 61.8 < 70 (FOLDTRACE call: retained)
+A0A8X8VV99	Salvia splendens	one_domain	1	pass1	73-342	Ser68	S149	1.15	74.2	retained	retained	
+A0A8X8VV99	Salvia splendens	one_domain	1	pass1	73-342	Ser229	S256	0.43	88.2	retained	retained	
+A0A8X8VV99	Salvia splendens	one_domain	1	pass1	73-342	His243	H269	0.42	79.4	retained	retained	
+A0A8X8VV99	Salvia splendens	one_domain	1	pass1	73-342	Cys82	C163	1.45	57.7	retained	unresolved	pLDDT 57.7 < 70 (FOLDTRACE call: retained)
+A0A8X8VV99	Salvia splendens	one_domain	1	pass1	73-342	Glu247	E273	0.76	64.5	retained	unresolved	pLDDT 64.5 < 70 (FOLDTRACE call: retained)
+A0A7V3CCH8	Deltaproteobacteria bacterium	one_domain	1	pass1	4-218	Ser68	S56	1.61	81.3	retained	retained	
+A0A7V3CCH8	Deltaproteobacteria bacterium	one_domain	1	pass1	4-218	Ser229	S163	1.23	89.1	retained	retained	
+A0A7V3CCH8	Deltaproteobacteria bacterium	one_domain	1	pass1	4-218	His243	H176	1.05	87.6	retained	retained	
+A0A7V3CCH8	Deltaproteobacteria bacterium	one_domain	1	pass1	4-218	Cys82	C70	0.63	74.9	retained	retained	
+A0A7V3CCH8	Deltaproteobacteria bacterium	one_domain	1	pass1	4-218	Glu247	E180	1.07	73.4	retained	retained	
+A0A9W7FDA7	Triparma retinervis	one_domain	1	pass1	13-276	Ser68				unresolved	unresolved	no aligned residue
+A0A9W7FDA7	Triparma retinervis	one_domain	1	pass1	13-276	Ser229				unresolved	unresolved	no aligned residue
+A0A9W7FDA7	Triparma retinervis	one_domain	1	pass1	13-276	His243				unresolved	unresolved	no aligned residue
+A0A9W7FDA7	Triparma retinervis	one_domain	1	pass1	13-276	Cys82	P20	3.2	63.5	lost	unresolved	pLDDT 63.5 < 70 (FOLDTRACE call: lost)
+A0A9W7FDA7	Triparma retinervis	one_domain	1	pass1	13-276	Glu247	A199	4.52	48.8	unresolved	unresolved	offset > 4 A
+A0A3Q0ILD7	Diaphorina citri	one_domain	1	pass1	1-248	Ser68				unresolved	unresolved	no aligned residue
+A0A3Q0ILD7	Diaphorina citri	one_domain	1	pass1	1-248	Ser229				unresolved	unresolved	no aligned residue
+A0A3Q0ILD7	Diaphorina citri	one_domain	1	pass1	1-248	His243				unresolved	unresolved	no aligned residue
+A0A3Q0ILD7	Diaphorina citri	one_domain	1	pass1	1-248	Cys82	C13	0.51	89.6	retained	retained	
+A0A3Q0ILD7	Diaphorina citri	one_domain	1	pass1	1-248	Glu247	D169	7.78	39.8	unresolved	unresolved	offset > 4 A

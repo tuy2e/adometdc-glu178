@@ -1,0 +1,100 @@
+ID   CEO99532; SV 1; linear; genomic DNA; WGS; INV; 1797 BP.
+XX
+PA   CDSF01000091.1
+XX
+PR   Project:PRJEB8376;
+XX
+DT   11-JUN-2015 (Rel. 125, Created)
+DT   11-JUN-2015 (Rel. 125, Last updated, Version 1)
+XX
+DE   Plasmodiophora brassicae hypothetical protein
+XX
+KW   WGS.
+XX
+OS   Plasmodiophora brassicae
+OC   Eukaryota; Rhizaria; Cercozoa; Imbricatea; Plasmodiophorida;
+OC   Plasmodiophoridae; Plasmodiophora.
+XX
+RN   [1]
+RA   Fogelqvist J.;
+RT   ;
+RL   Submitted (05-FEB-2015) to the INSDC.
+RL   SLU, VBSG, Uppsala BioCenter, SLU, Box 7080, 750 07 Uppsala, , Sweden
+XX
+DR   MD5; a8678083e1e2e3a56d0ef2a3a4e8a582.
+DR   BioSample; SAMEA3232990.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..1797
+FT                   /organism="Plasmodiophora brassicae"
+FT                   /host="Brassica napus"
+FT                   /lab_host="Brasica rapa"
+FT                   /isolate="e3"
+FT                   /mol_type="genomic DNA"
+FT                   /dev_stage="resting spores"
+FT                   /cell_type="resting spores"
+FT                   /note="contig: scaffold_30"
+FT                   /db_xref="taxon:37360"
+FT   CDS             join(CDSF01000091.1:129659..129847,
+FT                   CDSF01000091.1:129904..130302,
+FT                   CDSF01000091.1:130358..130525,
+FT                   CDSF01000091.1:130925..131118,
+FT                   CDSF01000091.1:131185..131380,
+FT                   CDSF01000091.1:131475..131906,
+FT                   CDSF01000091.1:131956..132174)
+FT                   /transl_table=1
+FT                   /locus_tag="PBRA_007265"
+FT                   /product="hypothetical protein"
+FT                   /db_xref="EnsemblGenomes-Gn:PBRA_007265"
+FT                   /db_xref="EnsemblGenomes-Tr:CEO99532"
+FT                   /db_xref="GOA:A0A0G4IWA6"
+FT                   /db_xref="InterPro:IPR001985"
+FT                   /db_xref="InterPro:IPR016067"
+FT                   /db_xref="InterPro:IPR018166"
+FT                   /db_xref="UniProtKB/TrEMBL:A0A0G4IWA6"
+FT                   /protein_id="CEO99532.1"
+FT                   /translation="MDSKTARAFVLSGSSLIVRSNQVILKTCGPTSLLSALEPVMEMAG
+FT                   KQANLSNIMFTRGLVASSNRQPSPHRSFADEVRFLDRKYDGQSIAIDNGFHMWTMSPTP
+FT                   CSTVFEVVMRDLPQDVMKASAYEFKFSPSRGGDRWVEYLVPGARVNGQWFQPRGYICNA
+FT                   FAGNDDHMFTIHIAQQTSCSYVTFESNFIDKGMLERVVQFFRPGTLTIVTIPGTETMAN
+FT                   GIRGLLLSGNALTCETDFAAGGYAGRHASMLLPKVDALLTTAMMLMMNESVPPDIPFEG
+FT                   AEKRLEITFEPGSTDLLAIPQQTWSDILSHANCAIMSVMDSPTTRAFVLSESSLFVRSN
+FT                   QVVLKTCGTTSLLYVVQPILIAAGTRAVLINILFTRGLIMSPALQPSPHRSFAEEVAFL
+FT                   QMEFDGQPVAIHNEFHMWATAPSSCSTMFEVAMRDLPRDVMAKFYYDFKYVLTAPMDLR
+FT                   FQHDDRGCESWVQDLVPGARVDSQWFEPCGYSCNAFVGKTDRLFTIHITPQPSCSYVSF
+FT                   ESNFVDMDMMARVIRFFRPGKLTIATINGPGMMSVVAEGCDGGHDPGSRIEEPDDIDLE
+FT                   GYACTFAAHLAHVDFQSFHLCV"
+XX
+SQ   Sequence 1797 BP; 355 A; 523 C; 510 G; 409 T; 0 other;
+     atggattcca agacggcgag ggcgttcgtc ctgtcgggga gcagtctgat tgtgcggtcc        60
+     aatcaagtca tcttgaagac atgcggccca acgagtttgc tgtctgctct tgagcctgtc       120
+     atggaaatgg cgggcaagca ggccaatctc tccaatatca tgttcactcg tggtctggtc       180
+     gcttcatcga atcgtcaacc gagcccacac aggtcgttcg ctgacgaggt tcggttcctc       240
+     gacaggaaat atgatgggca atcgattgcg atcgacaacg ggttccacat gtggacgatg       300
+     tcgccaacgc cctgctccac cgtgttcgaa gttgttatgc gggacctgcc acaggatgtc       360
+     atgaaagcgt ccgcgtatga gttcaagttc tctccaagtc ggggaggcga tcgttgggtc       420
+     gagtacctgg ttccgggcgc acgcgtcaat gggcaatggt tccaaccccg cggatacatt       480
+     tgcaacgcgt tcgccggcaa cgacgaccac atgtttacga ttcacatcgc acagcaaacg       540
+     tcgtgctcct acgttacctt tgagagcaac ttcatcgaca aaggaatgtt ggaacgcgtg       600
+     gtccaattct tccgtcccgg cacgctgacc attgtgacca ttcctggcac ggagacaatg       660
+     gcgaatggta tacgtggtct gctgctgtca ggcaacgctc tgacttgcga gacagacttt       720
+     gctgctggcg gctatgcggg gcgtcacgcc agcatgctgc tgccgaaagt ggatgccctc       780
+     ctgaccaccg ccatgatgct gatgatgaac gaatcggtgc cgccggacat cccgttcgag       840
+     ggcgccgaga aacgcctgga gatcacgttc gagcctggct cgaccgacct tcttgccatc       900
+     ccgcagcaga cctggtccga catactttcc cacgccaatt gtgctatcat gagcgttatg       960
+     gattccccga ccacgagggc gtttgtcctg tcggagagca gtctgttcgt gcgatccaac      1020
+     caagtcgtct tgaagacgtg cggcacgacg agcttgctgt acgtagttca gccgattctt      1080
+     attgcggcgg gcactcgcgc cgtcctcatc aacatcctgt tcacacgcgg actaattatg      1140
+     tcacccgccc tgcaacccag cccgcacaga tcgttcgctg aggaagtggc cttccttcaa      1200
+     atggagttcg atgggcagcc cgtcgcgatc cacaacgagt tccacatgtg ggcaacggct      1260
+     ccgtcgtcct gctcgacgat gttcgaggtg gccatgcggg atctgccgag agatgtcatg      1320
+     gcgaagttct actacgactt caagtacgtc ttgaccgcgc ctatggacct gcgtttccaa      1380
+     catgacgaca ggggctgtga gtcgtgggtc caggacctcg ttcccggcgc tcgcgtcgat      1440
+     agccagtggt tcgagccctg cgggtacagt tgcaatgcgt tcgtcggcaa gaccgaccgc      1500
+     ctgtttacga tccacatcac tccgcaacca tcgtgctcct acgttagttt cgagagtaac      1560
+     ttcgttgata tggacatgat ggcacgcgtc attcggttct tccgtcctgg caagctgacg      1620
+     atcgctacga tcaatggccc tggcatgatg tcggttgtcg cggagggttg tgatggaggg      1680
+     catgaccctg ggagccgcat cgaggagccc gacgacatcg acctggaagg atacgcctgc      1740
+     acgttcgcgg cccatctggc ccacgtcgat ttccagtcgt tccacctttg cgtctga         1797
+//

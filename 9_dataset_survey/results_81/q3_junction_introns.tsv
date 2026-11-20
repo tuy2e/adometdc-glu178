@@ -1,0 +1,22 @@
+accession	organism	protein_id	locus_tag	gene_model_source	n_exons	adometdc_end	plp_start	junction_intron_nt	after_residue	other_introns_same_gene_nt	gene_median_other	gene_max_other	largest_in_gene	genome_sample_introns	genome_median	genome_p95	genome_p99	genome_percentile_of_junction	flag
+A0A9C7PQ51	Galdieria partita	GJQ08405.1	GpartN1_g196.t1		9	319	434	53	364.0	50,52,57,46,59,51,57	52	59	False	893	50	62	70	65.8	not an outlier
+A0A1Y1HLG4	Klebsormidium nitens	GAQ79455.1	KFL_000310060	prediction v1.10 kfl00031_0060	6	334	440	355	377.0	233,490,359,247	303.0	490	False	2368	413.0	1023	1747	37.5	not an outlier
+A0AAV8UZF7	Rhodosorus marinus	KAJ8907449.1	NDN08_007560		5	315	440	73	393.0	90,79,76	79	90	False	1167	92	168	269	7.1	not an outlier
+A0AAW1PYA1	[Myrmecia] bisecta	KAK9814356.1	WJX72_004436		8	303	485	342	316.3	197,352,1544,428,724,161	390.0	1544	False	3311	286	998	1802	59.9	not an outlier
+A0A2P6V5T4	Micractinium conductrix	PSC69452.1	C2E20_7009		20	343	481	139	420.0	173,173,188,254,217,270,185,161,181,205,167,202,238,159,214,182	186.5	270	False	4970	200.0	468	1163	10.5	not an outlier
+A0A2P6V5T4	Micractinium conductrix	PSC69452.1	C2E20_7009		20	343	481	208	452.0	173,173,188,254,217,270,185,161,181,205,167,202,238,159,214,182	186.5	270	False	4970	200.0	468	1163	54.2	not an outlier
+A0A2P6V5T4	Micractinium conductrix	PSC69452.1	C2E20_7009		20	343	481	174	472.0	173,173,188,254,217,270,185,161,181,205,167,202,238,159,214,182	186.5	270	False	4970	200.0	468	1163	33.4	not an outlier
+A0A087SFF4	Auxenochlorella protothecoides	KFM24458.1	F751_3176	"GO_function: GO:0003824 - catalytic activity
+FT                   [Evidence IEA]; GO_function: GO:0004014 -adenosylmethionine
+FT                   decarboxylase activity [Evidence IEA]; GO_process:
+FT                   GO:0006596 - polyamine biosynthetic process [Evidence IEA];
+FT                   GO_process: GO:0006597 - spermine biosynthetic process
+FT                   [Evidence IEA]; GO_process: GO:0008295 - spermidine
+FT                   biosynthetic process [Evidence IEA]"	3	342	505	222	501.0	275	275	275	False	2001	189	561	1362	65.1	not an outlier
+A0AAD9ING6	Prototheca wickerhamii	KAK2080770.1	QBZ16_000624		4	333	466	68	444.0	44,392	218.0	392	False	1393	143	432	921	6.5	not an outlier
+A0AAW1T1C3	Apatococcus fuscideae	KAK9863123.1	WJX84_010671		9	310	352	465	322.3	473,539,472,2589,410,360	472.5	2589	False	3066	520.0	1281	1983	43.2	not an outlier
+A0AAW1T1C3	Apatococcus fuscideae	KAK9863123.1	WJX84_010671		9	310	352	549	338.3	473,539,472,2589,410,360	472.5	2589	False	3066	520.0	1281	1983	53.9	not an outlier
+A0A0G4EYD2	Vitrella brassicaformis CCMP3155	CEM03971.1	Vbra_8476	contig: scaffold25	14	465	668	79	471.0	136,87,110,88,75,83,93,99,77,75,75	87	136	False	3041	81	146	363	44.8	not an outlier
+A0A0G4EYD2	Vitrella brassicaformis CCMP3155	CEM03971.1	Vbra_8476	contig: scaffold25	14	465	668	98	523.7	136,87,110,88,75,83,93,99,77,75,75	87	136	False	3041	81	146	363	75.3	not an outlier
+A0AAW1STH3	Apatococcus fuscideae	KAK9855777.1	WJX84_010316		6	223	294	455	256.3	561,204,1092	561	1092	False	3066	520.0	1281	1983	42.0	not an outlier
+A0AAW1STH3	Apatococcus fuscideae	KAK9855777.1	WJX84_010316		6	223	294	531	280.3	561,204,1092	561	1092	False	3066	520.0	1281	1983	51.7	not an outlier

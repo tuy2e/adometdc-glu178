@@ -1,0 +1,8 @@
+accession	assembly_name	version	assembly_level	strain	study_accession	wgs_set	last_updated	scientific_name
+GCA_003255715	ASM325571v1	1	scaffold	HMC1	PRJNA338014	QBLF01	2023-01-02	Prototheca wickerhamii
+GCA_016906385	DBVPG-IBB	1	scaffold	ATCC 16529	PRJNA681132	JADZLO01	2021-02-18	Prototheca wickerhamii
+GCA_031763795	ASM3176379v1	1	contig	UVCC 0001	PRJNA954010	JASFZW01	2023-09-19	Prototheca wickerhamii
+GCA_035772535	ASM3577253v1	1	contig		PRJNA1008347	JAVISG01	2024-01-17	Prototheca wickerhamii
+GCA_054346065	ASM5434606v1	1	contig		PRJNA1314384	JBTKVZ01	2026-01-05	Prototheca wickerhamii
+GCA_054346075	ASM5434607v1	1	contig		PRJNA1314384	JBTKVY01	2026-01-05	Prototheca wickerhamii
+GCA_062045627	ASM62045627v1	1	contig	CUPWI01	PRJNA1538537	JCESWP01	2026-10-17	Prototheca wickerhamii

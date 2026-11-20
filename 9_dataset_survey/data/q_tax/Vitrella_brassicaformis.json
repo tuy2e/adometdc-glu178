@@ -1,0 +1,16 @@
+[ {
+  "taxId" : "1169539",
+  "scientificName" : "Vitrella brassicaformis",
+  "formalName" : "true",
+  "rank" : "species",
+  "division" : "INV",
+  "lineage" : "Eukaryota; Sar; Alveolata; Colpodellida; Vitrellaceae; Vitrella; ",
+  "geneticCode" : "1",
+  "mitochondrialGeneticCode" : "4",
+  "plastIdGeneticCode" : "11",
+  "submittable" : "true",
+  "binomial" : "true",
+  "authority" : "Obornik et al., 2012",
+  "otherNames" : [ "Vitrella brassicaformis Obornik et al., 2012:authority", "Vitrella brassicaformis CCMP3155:synonym" ],
+  "metagenome" : "false"
+} ]

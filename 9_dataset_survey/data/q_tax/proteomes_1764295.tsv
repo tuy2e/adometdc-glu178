@@ -1,0 +1,3 @@
+Proteome Id	Organism	Organism Id	Protein count	Genome assembly ID	CPD	BUSCO
+UP000316726	Chloropicon primus	1764295	8712	GCA_007859695.1	Unknown	C:91.4%[S:89.6%,D:1.8%],F:0.5%,M:8.0%,n:1519
+UP000830693	Chloropicon primus	1764295	8627	GCA_023205875.1	Unknown	C:91.3%[S:89.6%,D:1.7%],F:0.5%,M:8.2%,n:1519

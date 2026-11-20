@@ -1,0 +1,16 @@
+[ {
+  "taxId" : "13818",
+  "scientificName" : "Adiantum capillus-veneris",
+  "commonName" : "maidenhair fern",
+  "formalName" : "true",
+  "rank" : "species",
+  "division" : "PLN",
+  "lineage" : "Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Polypodiopsida; Polypodiidae; Polypodiales; Pteridineae; Pteridaceae; Vittarioideae; Adiantum; ",
+  "geneticCode" : "1",
+  "mitochondrialGeneticCode" : "1",
+  "plastIdGeneticCode" : "11",
+  "submittable" : "true",
+  "binomial" : "true",
+  "otherNames" : [ "Adiantum capillus-veneris L., 1753:authority", "Adiantum capillus Sw.:authority", "Adiantum capillus:synonym" ],
+  "metagenome" : "false"
+} ]

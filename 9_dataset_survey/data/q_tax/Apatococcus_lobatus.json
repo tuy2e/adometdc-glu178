@@ -1,0 +1,16 @@
+[ {
+  "taxId" : "904363",
+  "scientificName" : "Apatococcus lobatus",
+  "formalName" : "true",
+  "rank" : "species",
+  "division" : "PLN",
+  "lineage" : "Eukaryota; Viridiplantae; Chlorophyta; core chlorophytes; Trebouxiophyceae; Chlorellales; Chlorellaceae; Apatococcus; ",
+  "geneticCode" : "1",
+  "mitochondrialGeneticCode" : "1",
+  "plastIdGeneticCode" : "11",
+  "submittable" : "true",
+  "binomial" : "true",
+  "authority" : "(Chodat) J.B.Petersen, 1928",
+  "otherNames" : [ "Apatococcus lobatus (Chodat) J.B.Petersen, 1928:authority", "Pleurococcus lobatus Chodat, 1902:authority", "Apatococcus sp. SAG 2145:includes", "Pleurococcus lobatus:synonym" ],
+  "metagenome" : "false"
+} ]

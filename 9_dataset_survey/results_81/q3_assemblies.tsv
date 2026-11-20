@@ -1,0 +1,76 @@
+fusion_accession	species	species_taxid	accession	assembly_name	version	assembly_level	strain	study_accession	wgs_set	last_updated	scientific_name
+A0A7S1KLJ4	Percolomonas cosmopolitus	63605	(no ENA assembly)								
+A0A9C7PQ51	Galdieria partita	83374	GCA_025991245	GpartN1_1.0	1	contig	NBRC 102759	PRJDB12742	BQMJ01	2023-04-09	Galdieria partita
+A0A1Y1HLG4	Klebsormidium nitens	105231	GCA_000708835	ASM70883v1	1	scaffold	NIES-2285	PRJDB718	BANV01	2017-06-22	Klebsormidium nitens
+A0AAV8UZF7	Rhodosorus marinus	101924	GCA_029953675	rmar_v1	1	contig	CCMP1338	PRJNA778797	JAMWBK01	2023-05-12	Rhodosorus marinus
+A0AAW1PYA1	[Myrmecia] bisecta	41462	GCA_040144395	ASM4014439v1	1	scaffold	SAG 2043	PRJNA790449	JALJOR01	2024-06-11	[Myrmecia] bisecta
+A0A9D4ZGS2	Adiantum capillus-veneris	13818	GCA_014529385	ASM1452938v2	2	chromosome		PRJNA593372	JABFUD02	2026-07-29	Adiantum capillus-veneris
+A0A9D4ZGS2	Adiantum capillus-veneris	13818	GCA_014529385	ASM1452938v1	1	scaffold		PRJNA593372	JABFUD01	2026-07-13	Adiantum capillus-veneris
+A0ABD3ICG1	Riccia sorocarpa	122646	GCA_046195345	ASM4619534v1	1	chromosome		PRJNA1130527	JBJQOH01	2024-12-18	Riccia sorocarpa
+A0ABD3ICG1	Riccia sorocarpa	122646	GCA_975143555	cmRicSoro2.1	1	chromosome		PRJEB96807	CDHCJV01	2025-11-22	Riccia sorocarpa
+A0A2P6V5T4	Micractinium conductrix	554055	GCA_002245815	ASM224581v1	1	contig	SAG 241.80	PRJNA290385	LHPF01	2017-08-23	Micractinium conductrix
+A0A2P6V5T4	Micractinium conductrix	554055	GCA_002245815	ASM224581v2	2	contig	SAG 241.80	PRJNA290385	LHPF02	2022-12-31	Micractinium conductrix
+A0A2P6V5T4	Micractinium conductrix	554055	GCA_977927315	MC186B	1	contig		PRJEB104497	CDWRBR01	2026-02-06	Micractinium conductrix
+A0A087SFF4	Auxenochlorella protothecoides	3075	GCA_003709365	ASM370936v1	1	scaffold	UTEX 25	PRJNA476562	QOKY01	2018-11-01	Auxenochlorella protothecoides
+A0A087SFF4	Auxenochlorella protothecoides	3075	GCA_000733215	ASM73321v1	1	scaffold	0710	PRJNA182710	APJO01	2022-12-11	Auxenochlorella protothecoides
+A0A087SFF4	Auxenochlorella protothecoides	3075	GCA_002154875	AuxProt1.0	1	scaffold	UTEX 2341	PRJNA362700	MUYL01	2022-12-26	Auxenochlorella protothecoides
+A0A087SFF4	Auxenochlorella protothecoides	3075	GCA_036987955	ASM3698795v1	1	scaffold	ATCC 30407	PRJNA936934	JAZBJY01	2024-03-04	Auxenochlorella protothecoides
+A0A087SFF4	Auxenochlorella protothecoides	3075	GCA_052819035	UTEX_25_H1.V1	1	complete genome		PRJNA1328465	JBRAST01	2025-09-23	Auxenochlorella protothecoides
+A0A087SFF4	Auxenochlorella protothecoides	3075	GCA_052818955	UTEX 2341_H1.V1	1	complete genome		PRJNA1328465	JBRASU01	2025-09-23	Auxenochlorella protothecoides
+A0AAW1RFQ0	Apatococcus lobatus	904363	GCA_040144355	ASM4014435v1	1	scaffold	SAG 2145	PRJNA790449	JALJOS01	2024-06-11	Apatococcus lobatus
+A0AAE0FQH6	Cymbomonas tetramitiformis	36881	GCA_001247695	ASM124769v2	2	scaffold		PRJNA286761	LGRX02	2023-11-03	Cymbomonas tetramitiformis
+A0AAE0FQH6	Cymbomonas tetramitiformis	36881	GCA_001247695	ASM124769v1	1	scaffold		PRJNA286761	LGRX01	2022-11-07	Cymbomonas tetramitiformis
+A0A061RZV3	Tetraselmis sp. GSL018	582737	(no ENA assembly)								
+C1E5E7	Micromonas commoda	296587	GCA_000090985	ASM9098v2	2	complete genome	RCC299	PRJNA15676		2014-02-03	Micromonas commoda
+C1E5E7	Micromonas commoda	296587	GCA_029290755	ASM2929075v1	1	scaffold		PRJNA810309	DAGWRG01	2023-03-20	Micromonas commoda
+C1E5E7	Micromonas commoda	296587	GCA_029293385	ASM2929338v1	1	scaffold		PRJNA810309	DAGXAS01	2023-03-20	Micromonas commoda
+C1E5E7	Micromonas commoda	296587	GCA_029293395	ASM2929339v1	1	scaffold		PRJNA810309	DAGXAU01	2023-03-20	Micromonas commoda
+C1E5E7	Micromonas commoda	296587	GCA_029293435	ASM2929343v1	1	scaffold		PRJNA810309	DAGXAT01	2023-03-20	Micromonas commoda
+C1E5E7	Micromonas commoda	296587	GCA_029293455	ASM2929345v1	1	scaffold		PRJNA810309	DAGXAQ01	2023-03-20	Micromonas commoda
+C1E5E7	Micromonas commoda	296587	GCA_029293545	ASM2929354v1	1	scaffold		PRJNA810309	DAGXAO01	2023-03-20	Micromonas commoda
+C1E5E7	Micromonas commoda	296587	GCA_029293355	ASM2929335v1	1	scaffold		PRJNA810309	DAGXAV01	2023-03-20	Micromonas commoda
+C1E5E7	Micromonas commoda	296587	GCA_029293475	ASM2929347v1	1	scaffold		PRJNA810309	DAGXAP01	2023-03-20	Micromonas commoda
+C1E5E7	Micromonas commoda	296587	GCA_937870615	ERR868366_bin.18_CONCOCT_v1.1_MAG	1	contig		PRJEB51078	CALMZK01	2023-01-23	Micromonas commoda
+C1E5E7	Micromonas commoda	296587	GCA_937871525	ERR599023_bin.127_CONCOCT_v1.1_MAG	1	contig		PRJEB51078	CALMNQ01	2023-01-23	Micromonas commoda
+C1E5E7	Micromonas commoda	296587	GCA_937872605	ERR868478_bin.16_CONCOCT_v1.1_MAG	1	contig		PRJEB51078	CALMTN01	2023-01-23	Micromonas commoda
+C1E5E7	Micromonas commoda	296587	GCA_937873045	ERR599298_bin.2_CONCOCT_v1.1_MAG	1	contig		PRJEB51078	CALMVU01	2023-01-23	Micromonas commoda
+C1E5E7	Micromonas commoda	296587	GCA_964008085	ERR598968_metabat2_7	1	contig		PRJEB22493	CAXGCZ01	2024-03-20	Micromonas commoda
+C1E5E7	Micromonas commoda	296587	GCA_977933775	ERR594329_metabat2_35_metabat2_127	1	contig		PRJEB105166	CDWRQP01	2026-02-06	Micromonas commoda
+C1E5E7	Micromonas commoda	296587	GCA_042767025	Micromonas commoda UHM1065	1	complete genome		PRJNA1141538	JBHKAF01	2024-10-09	Micromonas commoda
+C1E5E7	Micromonas commoda	296587	GCA_042767275	ASM4276727v1	1	chromosome	UHM1061	PRJNA1141538	JBHGVY01	2024-10-16	Micromonas commoda
+C1E5E7	Micromonas commoda	296587	GCA_937858595	ERR2206769_bin.70_CONCOCT_v1.1_MAG	1	contig		PRJEB51078	CALLYG01	2023-01-23	Micromonas commoda
+C1E5E7	Micromonas commoda	296587	GCA_937871665	ERR868511_bin.18_CONCOCT_v1.1_MAG	1	contig		PRJEB51078	CALMRQ01	2023-01-23	Micromonas commoda
+C1E5E7	Micromonas commoda	296587	GCA_937873085	ERR868413_bin.18_CONCOCT_v1.1_MAG	1	contig		PRJEB51078	CALMVV01	2023-01-19	Micromonas commoda
+C1E5E7	Micromonas commoda	296587	GCA_963968555	ERR3525234_concoct_70	1	contig		PRJEB71379	CAXAIR01	2024-02-28	Micromonas commoda
+C1E5E7	Micromonas commoda	296587	GCA_963969195	ERR3525229_metabat2_68	1	contig		PRJEB71379	CAXAJU01	2024-02-27	Micromonas commoda
+C1E5E7	Micromonas commoda	296587	GCA_964000045	ERR599174_metabat2_25	1	contig		PRJEB22493	CAXEZM01	2024-03-20	Micromonas commoda
+C1E5E7	Micromonas commoda	296587	GCA_964013685	ERR594348_concoct_6	1	contig		PRJEB51168	CAXGXM01	2024-03-21	Micromonas commoda
+C1E5E7	Micromonas commoda	296587	GCA_977109175	ucMicComm1.1	1	chromosome	RCC4795	PRJEB104359		2026-03-11	Micromonas commoda
+C1E5E7	Micromonas commoda	296587	GCA_977930595	ERR599146_metabat2_28_concoct_121	1	contig		PRJEB105166	CDWRET01	2026-02-06	Micromonas commoda
+C1E5E7	Micromonas commoda	296587	GCA_963999125	ERR599023_concoct_42	1	contig		PRJEB22493	CAXETS01	2024-03-20	Micromonas commoda
+C1E5E7	Micromonas commoda	296587	GCA_963979565	SRR3719566_metabat2_96	1	contig		PRJEB49035	CAXBZE01	2024-03-12	Micromonas commoda
+C1E5E7	Micromonas commoda	296587	GCA_963980025	SRR3724190_concoct_134	1	contig		PRJEB49035	CAXCEP01	2024-03-12	Micromonas commoda
+C1E5E7	Micromonas commoda	296587	GCA_963996325	ERR598996_concoct_100	1	contig		PRJEB22493	CAXEMY01	2024-03-20	Micromonas commoda
+A0A9P3J9N9	Closterium sp. NIES-68	2019903	GCA_027943385	CLOM_1.0	1	contig	NIES-68	PRJDB2146	BQMA01	2025-02-08	Closterium sp. NIES-68
+A0A5B8MZ45	Chloropicon primus	1764295	GCA_007859695	ASM785969v1	1	complete genome	CCMP1205	PRJNA316521		2019-08-06	Chloropicon primus
+A0A5B8MZ45	Chloropicon primus	1764295	GCA_023205875	ASM2320587v1	1	complete genome	RCC138	PRJNA632906		2022-05-01	Chloropicon primus
+A0AAD9ING6	Prototheca wickerhamii	3111	GCA_003255715	ASM325571v1	1	scaffold	HMC1	PRJNA338014	QBLF01	2023-01-02	Prototheca wickerhamii
+A0AAD9ING6	Prototheca wickerhamii	3111	GCA_016906385	DBVPG-IBB	1	scaffold	ATCC 16529	PRJNA681132	JADZLO01	2021-02-18	Prototheca wickerhamii
+A0AAD9ING6	Prototheca wickerhamii	3111	GCA_031763795	ASM3176379v1	1	contig	UVCC 0001	PRJNA954010	JASFZW01	2023-09-19	Prototheca wickerhamii
+A0AAD9ING6	Prototheca wickerhamii	3111	GCA_035772535	ASM3577253v1	1	contig		PRJNA1008347	JAVISG01	2024-01-17	Prototheca wickerhamii
+A0AAD9ING6	Prototheca wickerhamii	3111	GCA_054346065	ASM5434606v1	1	contig		PRJNA1314384	JBTKVZ01	2026-01-05	Prototheca wickerhamii
+A0AAD9ING6	Prototheca wickerhamii	3111	GCA_054346075	ASM5434607v1	1	contig		PRJNA1314384	JBTKVY01	2026-01-05	Prototheca wickerhamii
+A0AAD9ING6	Prototheca wickerhamii	3111	GCA_062045627	ASM62045627v1	1	contig	CUPWI01	PRJNA1538537	JCESWP01	2026-10-17	Prototheca wickerhamii
+A0AAW1T1C3	Apatococcus fuscideae	2026836	GCA_040144375	ASM4014437v1	1	scaffold	SAG 2523	PRJNA790449	JALJOV01	2024-06-11	Apatococcus fuscideae
+A0A2V3IZY9	Gracilariopsis chorda	448386	GCA_003194525	GraCho1.0	1	contig		PRJNA361418	NBIV01	2023-01-02	Gracilariopsis chorda
+A0A2V3IZY9	Gracilariopsis chorda	448386	GCA_987118885	Gch2_cp_v1	1	complete genome		PRJEB121163		2026-07-23	Gracilariopsis chorda
+A0A830HJR7	Pycnococcus provasolii	41880	GCA_015473125	Ppro_1.0	1	contig	NIES 2893	PRJDB10693	BNJQ01	2025-04-28	Pycnococcus provasolii
+A0A830HJR7	Pycnococcus provasolii	41880	GCA_938743315	ucPycProv1.1 alternate haplotype	1	scaffold		PRJEB52401	CAKZSG01	2025-04-28	Pycnococcus provasolii
+A0A830HJR7	Pycnococcus provasolii	41880	GCA_938743325	ucPycProv1.2	2	chromosome		PRJEB52402		2023-10-04	Pycnococcus provasolii
+A0A830HJR7	Pycnococcus provasolii	41880	GCA_938743325	ucPycProv1.1	1	chromosome		PRJEB52402		2023-10-04	Pycnococcus provasolii
+A0A830HJR7	Pycnococcus provasolii	41880	GCA_049487705	Version 1	1	chromosome	CCMP1203	PRJNA1090107		2025-04-10	Pycnococcus provasolii
+A0A830HJR7	Pycnococcus provasolii	41880	GCA_049487715	Version 1	1	complete genome	CCMP1203	PRJNA849025		2025-04-10	Pycnococcus provasolii
+A0A8T2T6R3	Ceratopteris richardii	49495	GCA_009866685	CFernv1.1	1	scaffold		PRJNA511033	WXVY01	2020-01-14	Ceratopteris richardii
+A0A8T2T6R3	Ceratopteris richardii	49495	GCA_011386875	ASM1138687v1	1	scaffold		PRJNA511033	WXVS01	2020-03-17	Ceratopteris richardii
+A0A8T2T6R3	Ceratopteris richardii	49495	GCA_020310875	C.richardii_v2	1	chromosome		PRJNA729743	JAIKUY01	2023-02-09	Ceratopteris richardii
+A0A0G4EYD2	Vitrella brassicaformis	1169539	GCA_001179505	Vbrassicaformis	1	scaffold		PRJEB7564	CDMY01	2026-09-14	Vitrella brassicaformis

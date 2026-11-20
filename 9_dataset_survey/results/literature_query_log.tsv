@@ -1,0 +1,170 @@
+section	database	query	hits	date
+1	epmc	"TITLE_ABS:(AdoMetDC OR SAMDC OR ""S-adenosylmethionine decarboxylase"" OR ""adenosylmethionine decarboxylase"") AND TITLE_ABS:(ODC OR ""ornithine decarboxylase"") AND TITLE_ABS:fusion"	2	2026-11-19
+1	epmc	"(AdoMetDC OR SAMDC OR ""S-adenosylmethionine decarboxylase"" OR ""adenosylmethionine decarboxylase"") AND (ODC OR ""ornithine decarboxylase"") AND fusion"	218	2026-11-19
+1	epmc	"TITLE_ABS:(AdoMetDC OR SAMDC OR ""S-adenosylmethionine decarboxylase"" OR ""adenosylmethionine decarboxylase"") AND TITLE_ABS:(ODC OR ""ornithine decarboxylase"") AND TITLE_ABS:bifunctional"	12	2026-11-19
+1	epmc	"(AdoMetDC OR SAMDC OR ""S-adenosylmethionine decarboxylase"" OR ""adenosylmethionine decarboxylase"") AND (ODC OR ""ornithine decarboxylase"") AND bifunctional"	99	2026-11-19
+1	epmc	"TITLE_ABS:(AdoMetDC OR SAMDC OR ""S-adenosylmethionine decarboxylase"" OR ""adenosylmethionine decarboxylase"") AND TITLE_ABS:(ODC OR ""ornithine decarboxylase"") AND TITLE_ABS:chimeric"	1	2026-11-19
+1	epmc	"(AdoMetDC OR SAMDC OR ""S-adenosylmethionine decarboxylase"" OR ""adenosylmethionine decarboxylase"") AND (ODC OR ""ornithine decarboxylase"") AND chimeric"	60	2026-11-19
+1	epmc	"TITLE_ABS:(AdoMetDC OR SAMDC OR ""S-adenosylmethionine decarboxylase"" OR ""adenosylmethionine decarboxylase"") AND TITLE_ABS:(ODC OR ""ornithine decarboxylase"") AND TITLE_ABS:fused"	1	2026-11-19
+1	epmc	"(AdoMetDC OR SAMDC OR ""S-adenosylmethionine decarboxylase"" OR ""adenosylmethionine decarboxylase"") AND (ODC OR ""ornithine decarboxylase"") AND fused"	115	2026-11-19
+1	epmc	"TITLE_ABS:(AdoMetDC OR SAMDC OR ""S-adenosylmethionine decarboxylase"" OR ""adenosylmethionine decarboxylase"") AND TITLE_ABS:(ODC OR ""ornithine decarboxylase"") AND TITLE_ABS:hybrid"	8	2026-11-19
+1	epmc	"(AdoMetDC OR SAMDC OR ""S-adenosylmethionine decarboxylase"" OR ""adenosylmethionine decarboxylase"") AND (ODC OR ""ornithine decarboxylase"") AND hybrid"	132	2026-11-19
+1	epmc	"TITLE_ABS:(AdoMetDC OR SAMDC OR ""S-adenosylmethionine decarboxylase"" OR ""adenosylmethionine decarboxylase"") AND TITLE_ABS:(ODC OR ""ornithine decarboxylase"") AND TITLE_ABS:multidomain"	0	2026-11-19
+1	epmc	"(AdoMetDC OR SAMDC OR ""S-adenosylmethionine decarboxylase"" OR ""adenosylmethionine decarboxylase"") AND (ODC OR ""ornithine decarboxylase"") AND multidomain"	8	2026-11-19
+1	epmc	"TITLE_ABS:(AdoMetDC OR SAMDC OR ""S-adenosylmethionine decarboxylase"" OR ""adenosylmethionine decarboxylase"") AND TITLE_ABS:(ODC OR ""ornithine decarboxylase"") AND TITLE_ABS:""single polypeptide"""	1	2026-11-19
+1	epmc	"(AdoMetDC OR SAMDC OR ""S-adenosylmethionine decarboxylase"" OR ""adenosylmethionine decarboxylase"") AND (ODC OR ""ornithine decarboxylase"") AND ""single polypeptide"""	9	2026-11-19
+1	epmc	"TITLE_ABS:(AdoMetDC OR SAMDC OR ""S-adenosylmethionine decarboxylase"" OR ""adenosylmethionine decarboxylase"") AND TITLE_ABS:(ODC OR ""ornithine decarboxylase"") AND TITLE_ABS:""gene fusion"""	0	2026-11-19
+1	epmc	"(AdoMetDC OR SAMDC OR ""S-adenosylmethionine decarboxylase"" OR ""adenosylmethionine decarboxylase"") AND (ODC OR ""ornithine decarboxylase"") AND ""gene fusion"""	19	2026-11-19
+1	pubmed	"(AdoMetDC[tiab] OR SAMDC[tiab] OR ""S-adenosylmethionine decarboxylase""[tiab] OR ""adenosylmethionine decarboxylase""[tiab] OR ""Adenosylmethionine Decarboxylase""[MeSH]) AND (ODC[tiab] OR ""ornithine decarboxylase""[tiab] OR ""Ornithine Decarboxylase""[MeSH]) AND fusion[tiab]"	4	2026-11-19
+1	pubmed	"(AdoMetDC[tiab] OR SAMDC[tiab] OR ""S-adenosylmethionine decarboxylase""[tiab] OR ""adenosylmethionine decarboxylase""[tiab] OR ""Adenosylmethionine Decarboxylase""[MeSH]) AND (ODC[tiab] OR ""ornithine decarboxylase""[tiab] OR ""Ornithine Decarboxylase""[MeSH]) AND bifunctional[tiab]"	11	2026-11-19
+1	pubmed	"(AdoMetDC[tiab] OR SAMDC[tiab] OR ""S-adenosylmethionine decarboxylase""[tiab] OR ""adenosylmethionine decarboxylase""[tiab] OR ""Adenosylmethionine Decarboxylase""[MeSH]) AND (ODC[tiab] OR ""ornithine decarboxylase""[tiab] OR ""Ornithine Decarboxylase""[MeSH]) AND chimeric[tiab]"	1	2026-11-19
+1	pubmed	"(AdoMetDC[tiab] OR SAMDC[tiab] OR ""S-adenosylmethionine decarboxylase""[tiab] OR ""adenosylmethionine decarboxylase""[tiab] OR ""Adenosylmethionine Decarboxylase""[MeSH]) AND (ODC[tiab] OR ""ornithine decarboxylase""[tiab] OR ""Ornithine Decarboxylase""[MeSH]) AND fused[tiab]"	1	2026-11-19
+1	pubmed	"(AdoMetDC[tiab] OR SAMDC[tiab] OR ""S-adenosylmethionine decarboxylase""[tiab] OR ""adenosylmethionine decarboxylase""[tiab] OR ""Adenosylmethionine Decarboxylase""[MeSH]) AND (ODC[tiab] OR ""ornithine decarboxylase""[tiab] OR ""Ornithine Decarboxylase""[MeSH]) AND hybrid[tiab]"	7	2026-11-19
+1	pubmed	"(AdoMetDC[tiab] OR SAMDC[tiab] OR ""S-adenosylmethionine decarboxylase""[tiab] OR ""adenosylmethionine decarboxylase""[tiab] OR ""Adenosylmethionine Decarboxylase""[MeSH]) AND (ODC[tiab] OR ""ornithine decarboxylase""[tiab] OR ""Ornithine Decarboxylase""[MeSH]) AND multidomain[tiab]"	0	2026-11-19
+1	pubmed	"(AdoMetDC[tiab] OR SAMDC[tiab] OR ""S-adenosylmethionine decarboxylase""[tiab] OR ""adenosylmethionine decarboxylase""[tiab] OR ""Adenosylmethionine Decarboxylase""[MeSH]) AND (ODC[tiab] OR ""ornithine decarboxylase""[tiab] OR ""Ornithine Decarboxylase""[MeSH]) AND ""single polypeptide""[tiab]"	1	2026-11-19
+1	pubmed	"(AdoMetDC[tiab] OR SAMDC[tiab] OR ""S-adenosylmethionine decarboxylase""[tiab] OR ""adenosylmethionine decarboxylase""[tiab] OR ""Adenosylmethionine Decarboxylase""[MeSH]) AND (ODC[tiab] OR ""ornithine decarboxylase""[tiab] OR ""Ornithine Decarboxylase""[MeSH]) AND ""gene fusion""[tiab]"	0	2026-11-19
+1	pubmed	"(AdoMetDC[tiab] OR SAMDC[tiab] OR ""S-adenosylmethionine decarboxylase""[tiab] OR ""adenosylmethionine decarboxylase""[tiab] OR ""Adenosylmethionine Decarboxylase""[MeSH]) AND (ODC[tiab] OR ""ornithine decarboxylase""[tiab] OR ""Ornithine Decarboxylase""[MeSH])"	796	2026-11-19
+1	pubmed	"(AdoMetDC[tiab] OR SAMDC[tiab] OR ""S-adenosylmethionine decarboxylase""[tiab] OR ""adenosylmethionine decarboxylase""[tiab] OR ""Adenosylmethionine Decarboxylase""[MeSH])"	1489	2026-11-19
+2	epmc	"TITLE_ABS:Plasmodium AND TITLE_ABS:(AdoMetDC OR SAMDC OR ""S-adenosylmethionine decarboxylase"" OR ""adenosylmethionine decarboxylase"" OR ""S-adenosyl-L-methionine decarboxylase"") AND TITLE_ABS:(ODC OR ""ornithine decarboxylase"")"	16	2026-11-19
+2	epmc	"Plasmodium AND (AdoMetDC OR SAMDC OR ""S-adenosylmethionine decarboxylase"" OR ""adenosylmethionine decarboxylase"" OR ""S-adenosyl-L-methionine decarboxylase"") AND (ODC OR ""ornithine decarboxylase"") AND (bifunctional OR fusion OR fused)"	63	2026-11-19
+2	epmc	"""AdoMetDC/ODC"" OR ""PfAdoMetDC/ODC"" OR ""ODC/AdoMetDC"" OR ""PfODC/AdoMetDC"" OR ""AdoMetDC-ODC"" OR ""SAMDC/ODC"" OR ""ODC/SAMDC"""	152	2026-11-19
+2	epmc	TITLE_ABS:(Plasmodium OR malaria) AND TITLE_ABS:(polyamine OR polyamines)	166	2026-11-19
+2	epmc	TITLE_ABS:(Apicomplexa OR apicomplexan OR apicomplexans) AND TITLE_ABS:(polyamine OR polyamines)	9	2026-11-19
+2	epmc	"TITLE_ABS:(Toxoplasma OR Cryptosporidium OR Eimeria OR Theileria OR Babesia OR Perkinsus OR chromerid OR Chromera OR Vitrella) AND TITLE_ABS:(polyamine OR polyamines OR ""ornithine decarboxylase"" OR ""S-adenosylmethionine decarboxylase"" OR AdoMetDC)"	32	2026-11-19
+2	epmc_citations	papers citing PMID 10713131	66	2026-11-19
+2	epmc_citations	papers citing PMID 11085920	23	2026-11-19
+2	epmc_citations	papers citing PMID 11390378	41	2026-11-19
+2	epmc_citations	papers citing PMID 12974675	26	2026-11-19
+2	epmc_citations	papers citing PMID 27387533	18	2026-11-19
+2	epmc_citations	papers citing PMID 21762220	20	2026-11-19
+2	epmc_citations	papers citing PMID 12557188	14	2026-11-19
+2	epmc_citations	papers citing PMID 16257247	13	2026-11-19
+2	epmc_citations	papers citing PMID 17519001	7	2026-11-19
+2	epmc_citations	papers citing PMID 19073607	58	2026-11-19
+2	epmc_citations	papers citing PMID 21803076	7	2026-11-19
+2	pubmed	"Plasmodium[tiab] AND (AdoMetDC[tiab] OR SAMDC[tiab] OR ""adenosylmethionine decarboxylase""[tiab] OR ""S-adenosyl-L-methionine decarboxylase""[tiab]) AND (ODC[tiab] OR ""ornithine decarboxylase""[tiab])"	15	2026-11-19
+2	pubmed	(Plasmodium[tiab] OR malaria[tiab]) AND (polyamine[tiab] OR polyamines[tiab])	154	2026-11-19
+2	pubmed	"""AdoMetDC/ODC""[tiab] OR ""PfAdoMetDC/ODC""[tiab] OR ""ODC/AdoMetDC""[tiab]"	12	2026-11-19
+3	epmc	"AUTH:""Michael AJ"""	103	2026-11-19
+3	epmc	"AUTH:""Michael AJ"" AND (polyamine OR polyamines OR spermidine OR spermine OR putrescine OR decarboxylase OR AdoMetDC OR ""aminopropyltransferase"" OR agmatine OR norspermidine OR ""carboxyspermidine"" OR hypusine)"	66	2026-11-19
+3	epmc	"AUTH:""Michael A"""	1565	2026-11-19
+3	epmc	"AUTH:""Michael A"" AND (polyamine OR polyamines OR spermidine OR spermine OR putrescine OR decarboxylase OR AdoMetDC OR ""aminopropyltransferase"" OR agmatine OR norspermidine OR ""carboxyspermidine"" OR hypusine)"	78	2026-11-19
+3	epmc	"AUTH:""Hanfrey C"""	17	2026-11-19
+3	epmc	"AUTH:""Hanfrey C"" AND (polyamine OR polyamines OR spermidine OR spermine OR putrescine OR decarboxylase OR AdoMetDC OR ""aminopropyltransferase"" OR agmatine OR norspermidine OR ""carboxyspermidine"" OR hypusine)"	14	2026-11-19
+3	epmc	"AUTH:""Hanfrey CC"""	8	2026-11-19
+3	epmc	"AUTH:""Hanfrey CC"" AND (polyamine OR polyamines OR spermidine OR spermine OR putrescine OR decarboxylase OR AdoMetDC OR ""aminopropyltransferase"" OR agmatine OR norspermidine OR ""carboxyspermidine"" OR hypusine)"	7	2026-11-19
+3	epmc	"AUTH:""Fuell C"""	8	2026-11-19
+3	epmc	"AUTH:""Fuell C"" AND (polyamine OR polyamines OR spermidine OR spermine OR putrescine OR decarboxylase OR AdoMetDC OR ""aminopropyltransferase"" OR agmatine OR norspermidine OR ""carboxyspermidine"" OR hypusine)"	3	2026-11-19
+3	epmc	"AUTH:""Elliott KA"""	158	2026-11-19
+3	epmc	"AUTH:""Elliott KA"" AND (polyamine OR polyamines OR spermidine OR spermine OR putrescine OR decarboxylase OR AdoMetDC OR ""aminopropyltransferase"" OR agmatine OR norspermidine OR ""carboxyspermidine"" OR hypusine)"	6	2026-11-19
+3	epmc	"AUTH:""Phillips MA"""	406	2026-11-19
+3	epmc	"AUTH:""Phillips MA"" AND (polyamine OR polyamines OR spermidine OR spermine OR putrescine OR decarboxylase OR AdoMetDC OR ""aminopropyltransferase"" OR agmatine OR norspermidine OR ""carboxyspermidine"" OR hypusine)"	85	2026-11-19
+3	epmc	"AUTH:""Ealick SE"""	230	2026-11-19
+3	epmc	"AUTH:""Ealick SE"" AND (polyamine OR polyamines OR spermidine OR spermine OR putrescine OR decarboxylase OR AdoMetDC OR ""aminopropyltransferase"" OR agmatine OR norspermidine OR ""carboxyspermidine"" OR hypusine)"	41	2026-11-19
+3	epmc	"AUTH:""Pegg AE"""	560	2026-11-19
+3	epmc	"AUTH:""Pegg AE"" AND (polyamine OR polyamines OR spermidine OR spermine OR putrescine OR decarboxylase OR AdoMetDC OR ""aminopropyltransferase"" OR agmatine OR norspermidine OR ""carboxyspermidine"" OR hypusine)"	333	2026-11-19
+3	pubmed	Michael AJ[au] AND (polyamine*[tiab] OR spermidine[tiab] OR decarboxylase[tiab] OR putrescine[tiab] OR spermine[tiab])	65	2026-11-19
+3	pubmed	Pegg AE[au]	560	2026-11-19
+3	pubmed	Phillips MA[au] AND (polyamine*[tiab] OR decarboxylase[tiab] OR spermidine[tiab] OR AdoMetDC[tiab] OR prozyme[tiab])	71	2026-11-19
+3	pubmed	Ealick SE[au] AND (decarboxylase[tiab] OR polyamine*[tiab] OR spermidine[tiab] OR AdoMetDC[tiab])	28	2026-11-19
+3	pubmed	Hanfrey C[au]	17	2026-11-19
+3	pubmed	Fuell C[au]	8	2026-11-19
+3	pubmed	Elliott KA[au] AND (polyamine*[tiab] OR spermidine[tiab] OR decarboxylase[tiab])	6	2026-11-19
+4	epmc	"""A0A7S1KLJ4"""	0	2026-11-19
+4	epmc	"""A0A9C7PQ51"""	0	2026-11-19
+4	epmc	"""A0A1Y1HLG4"""	0	2026-11-19
+4	epmc	"""A0AAV8UZF7"""	0	2026-11-19
+4	epmc	"""A0AAW1PYA1"""	0	2026-11-19
+4	epmc	"""A0A9D4ZGS2"""	0	2026-11-19
+4	epmc	"""A0ABD3ICG1"""	0	2026-11-19
+4	epmc	"""A0A2P6V5T4"""	0	2026-11-19
+4	epmc	"""A0A087SFF4"""	0	2026-11-19
+4	epmc	"""A0AAW1RFQ0"""	0	2026-11-19
+4	epmc	"""A0A1D2AC22"""	0	2026-11-19
+4	epmc	"""A0AAE0FQH6"""	0	2026-11-19
+4	epmc	"""A0A061RZV3"""	0	2026-11-19
+4	epmc	"""C1E5E7"""	0	2026-11-19
+4	epmc	"""A0A9P3J9N9"""	0	2026-11-19
+4	epmc	"""A0A5B8MZ45"""	0	2026-11-19
+4	epmc	"""A0AAD9ING6"""	0	2026-11-19
+4	epmc	"""A0AAW1T1C3"""	0	2026-11-19
+4	epmc	"""A0A2V3IZY9"""	0	2026-11-19
+4	epmc	"""A0A830HJR7"""	0	2026-11-19
+4	epmc	"""A0A8T2T6R3"""	0	2026-11-19
+4	epmc	"""A0A0G4EYD2"""	0	2026-11-19
+4	epmc	"""A0AAW1STH3"""	0	2026-11-19
+4	epmc	"""GpartN1_g196"""	0	2026-11-19
+4	epmc	"""KFL_000310060"""	0	2026-11-19
+4	epmc	"""NDN08_007560"""	0	2026-11-19
+4	epmc	"""WJX72_004436"""	0	2026-11-19
+4	epmc	"""GOP47_0010864"""	0	2026-11-19
+4	epmc	"""R1sor_018251"""	0	2026-11-19
+4	epmc	"""C2E20_7009"""	0	2026-11-19
+4	epmc	"""F751_3176"""	0	2026-11-19
+4	epmc	"""WJX74_007903"""	0	2026-11-19
+4	epmc	"""CYMTET_27057"""	0	2026-11-19
+4	epmc	"""MICPUN_58289"""	0	2026-11-19
+4	epmc	"""XP_002502359"""	1	2026-11-19
+4	epmc	"""CLOM_g8357"""	0	2026-11-19
+4	epmc	"""A3770_19p83610"""	0	2026-11-19
+4	epmc	"""QBZ16_000624"""	0	2026-11-19
+4	epmc	"""WJX84_010671"""	0	2026-11-19
+4	epmc	"""BWQ96_02393"""	0	2026-11-19
+4	epmc	"""PPROV_000455800"""	0	2026-11-19
+4	epmc	"""KP509_15G068700"""	0	2026-11-19
+4	epmc	"""Vbra_8476"""	0	2026-11-19
+4	epmc	"""WJX84_010316"""	0	2026-11-19
+4	epmc	"""TSPGSL018_17490"""	0	2026-11-19
+4	epmc	"""TSPGSL018_21677"""	0	2026-11-19
+4	epmc	"""PCOS0759_LOCUS847"""	0	2026-11-19
+4	epmc	"""CAD9077615"""	0	2026-11-19
+4	epmc	"""JAT76708"""	0	2026-11-19
+4	epmc	"""JAC77513"""	0	2026-11-19
+4	epmc	"""JAC75932"""	0	2026-11-19
+4	epmc	"""GJP49097"""	0	2026-11-19
+4	epmc	"""XP_011397346"""	0	2026-11-19
+4	epmc	EXT_ID:36194630 OR EXT_ID:38789482 OR EXT_ID:25012212 OR EXT_ID:26224703 OR EXT_ID:36533897 OR EXT_ID:29178410 OR EXT_ID:24865297 OR EXT_ID:19359590 OR EXT_ID:29688518	9	2026-11-19
+4	epmc	"TITLE:""Origin of minicircular mitochondrial genomes in red algae"""	1	2026-11-19
+4	epmc	"TITLE:""Dualchrome1"""	1	2026-11-19
+4	epmc	"TITLE:""transcriptome of the halophilic microalga Tetraselmis"""	0	2026-11-19
+4	epmc	TITLE:(Chloropicon AND genome)	1	2026-11-19
+4	epmc	TITLE:(Adiantum AND genome)	7	2026-11-19
+4	epmc	TITLE:(Ceratopteris AND genome)	5	2026-11-19
+4	epmc	TITLE:(Riccia AND genome)	3	2026-11-19
+4	epmc	TITLE:(Vitrella AND genome)	0	2026-11-19
+4	epmc	TITLE:(Prototheca AND wickerhamii AND genome)	8	2026-11-19
+4	epmc	"AUTH:""Makita Y"" AND (Pycnococcus OR photoreceptor) AND TITLE:(photoreceptor)"	3	2026-11-19
+4	epmc	TITLE:(Pycnococcus)	6	2026-11-19
+4	epmc	TITLE:(Tetraselmis AND transcriptome)	0	2026-11-19
+4	epmc	TITLE:(Percolomonas)	4	2026-11-19
+4	epmc	TITLE:(Gracilariopsis AND genome)	8	2026-11-19
+4	epmc	TITLE:(Micractinium AND genome)	7	2026-11-19
+4	pubmed	A0A7S1KLJ4[All Fields]	0	2026-11-19
+4	pubmed	A0A9C7PQ51[All Fields]	0	2026-11-19
+4	pubmed	A0A1Y1HLG4[All Fields]	0	2026-11-19
+4	pubmed	A0AAV8UZF7[All Fields]	0	2026-11-19
+4	pubmed	A0AAW1PYA1[All Fields]	0	2026-11-19
+4	pubmed	A0A9D4ZGS2[All Fields]	0	2026-11-19
+4	pubmed	A0ABD3ICG1[All Fields]	0	2026-11-19
+4	pubmed	A0A2P6V5T4[All Fields]	0	2026-11-19
+4	pubmed	A0A087SFF4[All Fields]	0	2026-11-19
+4	pubmed	A0AAW1RFQ0[All Fields]	0	2026-11-19
+4	pubmed	A0A1D2AC22[All Fields]	0	2026-11-19
+4	pubmed	A0AAE0FQH6[All Fields]	0	2026-11-19
+4	pubmed	A0A061RZV3[All Fields]	0	2026-11-19
+4	pubmed	C1E5E7[All Fields]	0	2026-11-19
+4	pubmed	A0A9P3J9N9[All Fields]	0	2026-11-19
+4	pubmed	A0A5B8MZ45[All Fields]	0	2026-11-19
+4	pubmed	A0AAD9ING6[All Fields]	0	2026-11-19
+4	pubmed	A0AAW1T1C3[All Fields]	0	2026-11-19
+4	pubmed	A0A2V3IZY9[All Fields]	0	2026-11-19
+4	pubmed	A0A830HJR7[All Fields]	0	2026-11-19
+4	pubmed	A0A8T2T6R3[All Fields]	0	2026-11-19
+4	pubmed	A0A0G4EYD2[All Fields]	0	2026-11-19
+4	pubmed	A0AAW1STH3[All Fields]	0	2026-11-19
+5	epmc_ppr	"(AdoMetDC OR SAMDC OR ""S-adenosylmethionine decarboxylase"" OR ""adenosylmethionine decarboxylase"") AND (ODC OR ""ornithine decarboxylase"") AND (fusion OR bifunctional OR chimeric OR fused OR hybrid OR multidomain OR ""single polypeptide"" OR ""gene fusion"")"	4	2026-11-19
+5	epmc_ppr	"(AdoMetDC OR SAMDC OR ""S-adenosylmethionine decarboxylase"" OR ""adenosylmethionine decarboxylase"") AND (ODC OR ""ornithine decarboxylase"")"	11	2026-11-19
+p10_redalgae	epmc	("red alga*" OR rhodophyt* OR seaweed* OR Gracilaria OR Grateloupia OR Porphyra OR Pyropia OR Galdieria OR Cyanidioschyzon) AND ("arginine decarboxylase" OR "ornithine decarboxylase" OR "agmatine iminohydrolase" OR "agmatine deiminase" OR "N-carbamoylputrescine")	198	2026-11-20	775c7d9fa34c
+p10_redalgae	epmc	TITLE_ABS:("red alga*" OR rhodophyt* OR Gracilaria OR Grateloupia OR Porphyra OR Pyropia OR Galdieria OR Cyanidioschyzon OR Chondrus OR Gelidium OR Hypnea) AND TITLE_ABS:(polyamine* OR putrescine OR spermidine OR "arginine decarboxylase" OR "ornithine decarboxylase")	27	2026-11-20	cf80aab4fd54
+p10_redalgae	epmc	TITLE_ABS:(Percolomonas OR Heterolobosea OR Percolozoa OR Naegleria) AND TITLE_ABS:(polyamine* OR putrescine OR spermidine OR "ornithine decarboxylase" OR "arginine decarboxylase")	5	2026-11-20	317a847ddb34
+p10_redalgae	pubmed	(red alga*[tiab] OR rhodophyt*[tiab] OR Pyropia[tiab] OR Porphyra[tiab] OR Gracilaria[tiab] OR Grateloupia[tiab] OR Galdieria[tiab]) AND (polyamine*[tiab] OR putrescine[tiab] OR arginine decarboxylase[tiab] OR ornithine decarboxylase[tiab])	24	2026-11-20	8b36a2412dc2

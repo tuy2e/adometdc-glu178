@@ -1,0 +1,46 @@
+a	b	sites_both_lost	same_substitute	same_at	different_at
+Percolomonas cosmopolitus A0A7S1KLJ4	Galdieria partita A0A9C7PQ51	6	1	R277S	K69:S/R H197:V/S E274:T/N P275:S/V G276:A/D
+Percolomonas cosmopolitus A0A7S1KLJ4	Rhodosorus marinus A0AAV8UZF7	3	1	R277S	H197:V/Q E274:T/D
+Percolomonas cosmopolitus A0A7S1KLJ4	Gracilariopsis chorda A0A2V3IZY9	5	0		K69:S/R H197:V/E E274:T/V P275:S/V R277:S/A
+Percolomonas cosmopolitus A0A7S1KLJ4	Plasmodium falciparum Q8IJ77	0	0		
+Percolomonas cosmopolitus A0A7S1KLJ4	Galdieria yellowstonensis A0AAV9I966	5	1	R277S	K69:S/R E274:T/N P275:S/A G276:A/D
+Percolomonas cosmopolitus A0A7S1KLJ4	Tistrella A0A2E3ETT7	1	0		H197:V/N
+Percolomonas cosmopolitus A0A7S1KLJ4	Porphyra umbilicalis A0A1X6PGY4	6	0		K69:S/R H197:V/E E274:T/G P275:S/A G276:A/S R277:S/P
+Percolomonas cosmopolitus A0A7S1KLJ4	Galdieria sulphuraria M2YAF1	5	1	R277S	K69:S/R E274:T/N P275:S/A G276:A/D
+Percolomonas cosmopolitus A0A7S1KLJ4	Galdieria partita A0A9C7PSW2	6	1	R277S	K69:S/R H197:V/S E274:T/N P275:S/V G276:A/D
+Galdieria partita A0A9C7PQ51	Rhodosorus marinus A0AAV8UZF7	3	1	R277S	H197:S/Q E274:N/D
+Galdieria partita A0A9C7PQ51	Gracilariopsis chorda A0A2V3IZY9	5	2	K69R P275V	H197:S/E E274:N/V R277:S/A
+Galdieria partita A0A9C7PQ51	Plasmodium falciparum Q8IJ77	0	0		
+Galdieria partita A0A9C7PQ51	Galdieria yellowstonensis A0AAV9I966	5	4	K69R E274N G276D R277S	P275:V/A
+Galdieria partita A0A9C7PQ51	Tistrella A0A2E3ETT7	1	0		H197:S/N
+Galdieria partita A0A9C7PQ51	Porphyra umbilicalis A0A1X6PGY4	6	1	K69R	H197:S/E E274:N/G P275:V/A G276:D/S R277:S/P
+Galdieria partita A0A9C7PQ51	Galdieria sulphuraria M2YAF1	6	5	K69R E274N G276D R277S C360G	P275:V/A
+Galdieria partita A0A9C7PQ51	Galdieria partita A0A9C7PSW2	7	7	K69R H197S E274N P275V G276D R277S C360G	
+Rhodosorus marinus A0AAV8UZF7	Gracilariopsis chorda A0A2V3IZY9	3	0		H197:Q/E E274:D/V R277:S/A
+Rhodosorus marinus A0AAV8UZF7	Plasmodium falciparum Q8IJ77	0	0		
+Rhodosorus marinus A0AAV8UZF7	Galdieria yellowstonensis A0AAV9I966	3	1	R277S	E274:D/N Y389:T/F
+Rhodosorus marinus A0AAV8UZF7	Tistrella A0A2E3ETT7	1	0		H197:Q/N
+Rhodosorus marinus A0AAV8UZF7	Porphyra umbilicalis A0A1X6PGY4	3	0		H197:Q/E E274:D/G R277:S/P
+Rhodosorus marinus A0AAV8UZF7	Galdieria sulphuraria M2YAF1	2	1	R277S	E274:D/N
+Rhodosorus marinus A0AAV8UZF7	Galdieria partita A0A9C7PSW2	3	1	R277S	H197:Q/S E274:D/N
+Gracilariopsis chorda A0A2V3IZY9	Plasmodium falciparum Q8IJ77	0	0		
+Gracilariopsis chorda A0A2V3IZY9	Galdieria yellowstonensis A0AAV9I966	4	1	K69R	E274:V/N P275:V/A R277:A/S
+Gracilariopsis chorda A0A2V3IZY9	Tistrella A0A2E3ETT7	1	0		H197:E/N
+Gracilariopsis chorda A0A2V3IZY9	Porphyra umbilicalis A0A1X6PGY4	5	2	K69R H197E	E274:V/G P275:V/A R277:A/P
+Gracilariopsis chorda A0A2V3IZY9	Galdieria sulphuraria M2YAF1	4	1	K69R	E274:V/N P275:V/A R277:A/S
+Gracilariopsis chorda A0A2V3IZY9	Galdieria partita A0A9C7PSW2	5	2	K69R P275V	H197:E/S E274:V/N R277:A/S
+Plasmodium falciparum Q8IJ77	Galdieria yellowstonensis A0AAV9I966	0	0		
+Plasmodium falciparum Q8IJ77	Tistrella A0A2E3ETT7	1	0		Y331:F/I
+Plasmodium falciparum Q8IJ77	Porphyra umbilicalis A0A1X6PGY4	0	0		
+Plasmodium falciparum Q8IJ77	Galdieria sulphuraria M2YAF1	0	0		
+Plasmodium falciparum Q8IJ77	Galdieria partita A0A9C7PSW2	0	0		
+Galdieria yellowstonensis A0AAV9I966	Tistrella A0A2E3ETT7	0	0		
+Galdieria yellowstonensis A0AAV9I966	Porphyra umbilicalis A0A1X6PGY4	5	2	K69R P275A	E274:N/G G276:D/S R277:S/P
+Galdieria yellowstonensis A0AAV9I966	Galdieria sulphuraria M2YAF1	5	5	K69R E274N P275A G276D R277S	
+Galdieria yellowstonensis A0AAV9I966	Galdieria partita A0A9C7PSW2	5	4	K69R E274N G276D R277S	P275:A/V
+Tistrella A0A2E3ETT7	Porphyra umbilicalis A0A1X6PGY4	1	0		H197:N/E
+Tistrella A0A2E3ETT7	Galdieria sulphuraria M2YAF1	0	0		
+Tistrella A0A2E3ETT7	Galdieria partita A0A9C7PSW2	1	0		H197:N/S
+Porphyra umbilicalis A0A1X6PGY4	Galdieria sulphuraria M2YAF1	5	2	K69R P275A	E274:G/N G276:S/D R277:P/S
+Porphyra umbilicalis A0A1X6PGY4	Galdieria partita A0A9C7PSW2	6	1	K69R	H197:E/S E274:G/N P275:A/V G276:S/D R277:P/S
+Galdieria sulphuraria M2YAF1	Galdieria partita A0A9C7PSW2	6	5	K69R E274N G276D R277S C360G	P275:A/V

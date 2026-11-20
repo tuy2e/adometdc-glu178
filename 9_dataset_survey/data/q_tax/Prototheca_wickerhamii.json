@@ -1,0 +1,16 @@
+[ {
+  "taxId" : "3111",
+  "scientificName" : "Prototheca wickerhamii",
+  "formalName" : "true",
+  "rank" : "species",
+  "division" : "PLN",
+  "lineage" : "Eukaryota; Viridiplantae; Chlorophyta; core chlorophytes; Trebouxiophyceae; Chlorellales; Chlorellaceae; Prototheca; ",
+  "geneticCode" : "1",
+  "mitochondrialGeneticCode" : "1",
+  "plastIdGeneticCode" : "11",
+  "submittable" : "true",
+  "binomial" : "true",
+  "authority" : "Tubaki & Soneda, 1959",
+  "otherNames" : [ "Prototheca wickerhamii Tubaki & Soneda, 1959:authority" ],
+  "metagenome" : "false"
+} ]

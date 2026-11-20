@@ -1,0 +1,15 @@
+[ {
+  "taxId" : "2026836",
+  "scientificName" : "Apatococcus fuscideae",
+  "formalName" : "true",
+  "rank" : "species",
+  "division" : "PLN",
+  "lineage" : "Eukaryota; Viridiplantae; Chlorophyta; core chlorophytes; Trebouxiophyceae; Chlorellales; Chlorellaceae; Apatococcus; ",
+  "geneticCode" : "1",
+  "mitochondrialGeneticCode" : "1",
+  "plastIdGeneticCode" : "11",
+  "submittable" : "true",
+  "binomial" : "true",
+  "otherNames" : [ "Apatococcus fuscideae A. Beck & Zahradn., 2017:authority" ],
+  "metagenome" : "false"
+} ]

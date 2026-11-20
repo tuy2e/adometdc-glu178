@@ -1,0 +1,62 @@
+taxid	species	upi	uniprot	length	pfam	class	nearest	K69_C360_seq	odc_sites_seq	structure	odc_13_structural_kept
+83374	Galdieria partita	UPI0021C4E813	A0A9C7PQ51	762	PF01536 19-319 > PF02784 434-512	AdoMetDC-PLP fusion					
+83374	Galdieria partita	UPI0021C4CAED	A0A9C7PSW2	762	PF01536 19-319 > PF02784 434-512	AdoMetDC-PLP fusion					
+83374	Galdieria partita	UPI0021C4CABB	A0A9C7PSP6	540	PF00278 156-516 > PF02784 161-397	ODC family	ODC human (0.45; 107 vs LDC2 Phlegmariurus tetrastichus (plant))	KC	11/13 K69= H197= S200= G237= E274= P275= G276= R277= Y331:G D332:V C360= D361= Y389=	A0A9C7PSP6: TM 0.91, 11/1/1 (lost Y331S)	11
+83374	Galdieria partita	UPI0021C4D909	A0A9C7Q420	447	PF04371 94-446	agmatine iminohydrolase (AIH) family					
+83374	Galdieria partita	UPI0021C4FA71	A0A9C7UPM3	368	PF04371 11-365	agmatine iminohydrolase (AIH) family					
+83374	Galdieria partita	UPI0021C4D4C4	A0A9C7PPR1	366	PF04371 8-362	agmatine iminohydrolase (AIH) family					
+83374	Galdieria partita	UPI0021C4E60A	A0A9C7PPD3	363	PF04371 8-362	agmatine iminohydrolase (AIH) family					
+83374	Galdieria partita	UPI0021C4D23B	A0A9C7PSB6	487	PF02784 108-353	DAPDC	DAPDC1 Arabidopsis (0.58; 802 vs DAPDC LysA E. coli)	KC	12/13 K69= H197= S200= G237= E274= P275= G276= R277= Y331= D332= C360= D361:E Y389=	A0A9C7PSB6: TM 0.81, 10/1/2 (lost D361E)	10
+83374	Galdieria partita	UPI0021C4D74F	A0A9C7PZK6	429	PF02784 34-285	DAPDC	DAPDC LysA E. coli (0.31; 17 vs DAPDC1 Arabidopsis)	KC	10/13 K69= H197= S200= G237= E274= P275:F G276= R277= Y331:L D332= C360= D361:F Y389=	A0A9C7PZK6: TM 0.81, 9/2/2 (lost P275F D361F)	9
+83374	Galdieria partita	UPI0021C4E8AD	A0A9C7Q3X8	515	PF02784 154-391	ODC family	ODC human (0.47; 34 vs LDC2 Phlegmariurus tetrastichus (plant))	KC	11/13 K69= H197= S200= G237= E274= P275= G276= R277= Y331:T D332:F C360= D361= Y389=	A0A9C7Q3X8: TM 0.91, 11/1/1 (lost Y331T)	11
+83374	Galdieria partita	UPI0021C4DB14	A0A9C7UPL9	707	PF00795 7-281 > PF02540 343-614	nitrilase/CN-hydrolase family (NCPAH candidate)	identity to Arabidopsis NLP1 (NCPAH) 0.24 over 254 aa				
+83374	Galdieria partita	UPI0021C4F74B	A0A9C7UTF0	364	PF00795 13-299	nitrilase/CN-hydrolase family (NCPAH candidate)	identity to Arabidopsis NLP1 (NCPAH) 0.27 over 248 aa				
+83374	Galdieria partita	UPI0021C4D91C	A0A9C7UPI5	707	PF00795 7-281 > PF02540 343-614	nitrilase/CN-hydrolase family (NCPAH candidate)	identity to Arabidopsis NLP1 (NCPAH) 0.24 over 254 aa				
+83374	Galdieria partita	UPI0021C4DA14	A0A9C7PYX5	320	PF00795 36-291	nitrilase/CN-hydrolase family (NCPAH candidate)	identity to Arabidopsis NLP1 (NCPAH) 0.29 over 267 aa				
+83374	Galdieria partita	UPI0021C4F70A	A0A9C7USU6	260	PF00795 10-259	nitrilase/CN-hydrolase family (NCPAH candidate)	identity to Arabidopsis NLP1 (NCPAH) 0.27 over 206 aa				
+83374	Galdieria partita	UPI0021C500EB	A0A9C7PZJ7	311	PF00795 17-280	nitrilase/CN-hydrolase family (NCPAH candidate)	identity to Arabidopsis NLP1 (NCPAH) 0.58 over 288 aa				
+83374	Galdieria partita	UPI0021C4F2E1	A0A9C7PY92	354	PF00795 72-331	nitrilase/CN-hydrolase family (NCPAH candidate)	identity to Arabidopsis NLP1 (NCPAH) 0.29 over 265 aa				
+83374	Galdieria partita	UPI0021C4FBFC	A0A9C7PQ37	310	PF00795 16-279	nitrilase/CN-hydrolase family (NCPAH candidate)	identity to Arabidopsis NLP1 (NCPAH) 0.58 over 296 aa				
+101924	Rhodosorus marinus	UPI00249746ED	A0AAV8UZF7	809	PF01536 25-315 > PF02784 440-554 > PF00278 672-767	AdoMetDC-PLP fusion					
+101924	Rhodosorus marinus	UPI001702386F	A0A6T6MHN3.1	456	PF02784 92-330 > PF00278 331-432	ODC family	ODC human (0.47; 95 vs LDC2 Phlegmariurus tetrastichus (plant))	KC	13/13 K69= H197= S200= G237= E274= P275= G276= R277= Y331= D332= C360= D361= Y389=		
+101924	Rhodosorus marinus	UPI0017429AE9	A0A6T6PB64.1	355	PF02784 5-77 > PF00278 221-316	ODC family	ODC human (0.28; 15 vs AZIN1 human (inactive ODC paralog))	QC	3/13 K69:Q H197:Q S200= G237:S E274:D P275:S G276= R277:S Y331:D D332:P C360= D361:E Y389:S		
+101924	Rhodosorus marinus	UPI00249615BA	A0AAV8UYK6	468	PF00278 70-417 > PF02784 81-314	DAPDC	DAPDC LysA E. coli (0.35; 328 vs DAPDC1 Arabidopsis)	KS	8/13 K69= H197= S200= G237= E274= P275= G276= R277:T Y331:- D332:- C360:S D361:G Y389=	A0AAV8UYK6: TM 0.79, 8/2/3 (lost R277T D361E)	8
+101924	Rhodosorus marinus	UPI0019748BC5	A0A7S2ZKI5.1	456	PF02784 92-330 > PF00278 331-432	ODC family	ODC human (0.47; 86 vs LDC2 Phlegmariurus tetrastichus (plant))	KC	13/13 K69= H197= S200= G237= E274= P275= G276= R277= Y331= D332= C360= D361= Y389=	A0A7S2ZKI5: TM 0.90, 13/0/0 (lost none)	13
+101924	Rhodosorus marinus	UPI0016D499D7	A0A7S0BTR5.1,A0A6T6P2C7.1	140	PF01536 1-45	standalone AdoMetDC					
+101924	Rhodosorus marinus	UPI0016F758ED	A0A7S0BUF8.1,A0A6T6P6L7.1	100	PF01536 7-97	standalone AdoMetDC					
+101924	Rhodosorus marinus	UPI0016D05EEF	A0A6T6LLV7.1,A0A7S0BKF3.1	153	PF00278 9-112	DAPDC	DAPDC LysA E. coli (0.41; 116 vs DAPDC1 Arabidopsis)	-S	4/13 K69:- H197:- S200:- G237:- E274= P275= G276= R277:T Y331:- D332:- C360:S D361:G Y389=	A0A7S0BKF3: TM 0.27, 5/3/5 (lost R277T Y331L D361E)	5
+101924	Rhodosorus marinus	UPI0024983FC5	A0AAV8UQI0	456	PF02784 92-330	ODC family	ODC human (0.48; 110 vs LDC2 Phlegmariurus tetrastichus (plant))	KC	13/13 K69= H197= S200= G237= E274= P275= G276= R277= Y331= D332= C360= D361= Y389=	A0AAV8UQI0: TM 0.90, 13/0/0 (lost none)	13
+101924	Rhodosorus marinus	UPI00171E2F90	A0A6T6LIU1.1	343	PF02784 92-330	ODC family	ODC human (0.47; 31 vs LDC2 Phlegmariurus tetrastichus (plant))	K-	8/13 K69= H197= S200= G237= E274= P275= G276= R277= Y331:- D332:- C360:- D361:- Y389:-		
+101924	Rhodosorus marinus	UPI00172E381D	A0A7S0BJI3.1,A0A6T6LRQ9.1	312	PF02784 81-311	DAPDC	DAPDC LysA E. coli (0.32; 180 vs ODC tobacco (plant))	K-	7/13 K69= H197= S200= G237= E274= P275= G276= R277:T Y331:- D332:- C360:- D361:- Y389:-	A0A7S0BJI3: TM 0.55, 6/1/6 (lost R277T)	6
+101924	Rhodosorus marinus	UPI0019745D1A	A0A7S3EF28.1	721	PF00795 8-280 > PF02540 341-609	nitrilase/CN-hydrolase family (NCPAH candidate)	identity to Arabidopsis NLP1 (NCPAH) 0.32 over 235 aa				
+101924	Rhodosorus marinus	UPI00197815BF	A0A7S2ZU67.1	635	PF00795 10-194 > PF02540 255-523	nitrilase/CN-hydrolase family (NCPAH candidate)	identity to Arabidopsis NLP1 (NCPAH) 0.35 over 121 aa				
+101924	Rhodosorus marinus	UPI0016D1D408	A0A6T6LPL2.1	329	PF00795 47-309	nitrilase/CN-hydrolase family (NCPAH candidate)	identity to Arabidopsis NLP1 (NCPAH) 0.28 over 276 aa				
+101924	Rhodosorus marinus	UPI002496C5BE	A0AAV8UIU2	282	PF00795 6-159	nitrilase/CN-hydrolase family (NCPAH candidate)	identity to Arabidopsis NLP1 (NCPAH) 0.29 over 224 aa				
+101924	Rhodosorus marinus	UPI0024972451	A0AAV8UUD9	721	PF00795 8-280 > PF02540 341-609	nitrilase/CN-hydrolase family (NCPAH candidate)	identity to Arabidopsis NLP1 (NCPAH) 0.31 over 235 aa				
+101924	Rhodosorus marinus	UPI00249971A1	A0AAV8UNR6	295	PF00795 13-275	nitrilase/CN-hydrolase family (NCPAH candidate)	identity to Arabidopsis NLP1 (NCPAH) 0.29 over 279 aa				
+448386	Gracilariopsis chorda	UPI000D9BD423	A0A2V3IZY9	730	PF01536 26-318 > PF00278 393-706	AdoMetDC-PLP fusion					
+448386	Gracilariopsis chorda	UPI000D81CFB8	A0A2V3IKW4	472	PF02784 89-332 > PF00278 333-427	DAPDC	DAPDC1 Arabidopsis (0.31; 126 vs DAPDC LysA E. coli)	KC	11/13 K69= H197= S200= G237= E274= P275:F G276= R277= Y331= D332= C360= D361:F Y389=	A0A2V3IKW4: TM 0.80, 9/2/2 (lost P275F D361F)	9
+448386	Gracilariopsis chorda	UPI000D9E831A	A0A2V3IYX3	433	PF02784 74-314 > PF00278 316-407	ODC family	ODC Trypanosoma brucei (0.43; 95 vs AZIN2 human (ODC-like))	KR	10/13 K69= H197= S200= G237= E274= P275= G276= R277= Y331:- D332:- C360:R D361= Y389=	A0A2V3IYX3: TM 0.87, 10/1/2 (lost C360R)	10
+448386	Gracilariopsis chorda	UPI000D819BF9	A0A2V3IZE8	386	PF04371 13-380	agmatine iminohydrolase (AIH) family					
+448386	Gracilariopsis chorda	UPI000D836759	A0A2V3IW11	427	PF02784 49-294	DAPDC	DAPDC1 Arabidopsis (0.58; 889 vs DAPDC LysA E. coli)	KC	12/13 K69= H197= S200= G237= E274= P275= G276= R277= Y331= D332= C360= D361:E Y389=	A0A2V3IW11: TM 0.80, 10/1/2 (lost D361E)	10
+448386	Gracilariopsis chorda	UPI000D9DDF62	A0A2V3IVG5	294	PF00795 9-275	nitrilase/CN-hydrolase family (NCPAH candidate)	identity to Arabidopsis NLP1 (NCPAH) 0.31 over 254 aa				
+448386	Gracilariopsis chorda	UPI000D879CAB	A0A2V3J0L5	491	PF00795 21-283	nitrilase/CN-hydrolase family (NCPAH candidate)	identity to Arabidopsis NLP1 (NCPAH) 0.57 over 288 aa				
+448386	Gracilariopsis chorda	UPI000D88B973	A0A2V3IVN2	115	PF00795 7-96	nitrilase/CN-hydrolase family (NCPAH candidate)	identity to Arabidopsis NLP1 (NCPAH) 0.32 over 95 aa				
+448386	Gracilariopsis chorda	UPI000D9DCE80	A0A2V3IWT6	722	PF00795 6-286 > PF02540 350-617	nitrilase/CN-hydrolase family (NCPAH candidate)	identity to Arabidopsis NLP1 (NCPAH) 0.31 over 127 aa				
+63605	Percolomonas cosmopolitus	UPI001700802D	A0A7S1KLJ4.1,A0A6U0JMG2.1	798	PF01536 16-317 > PF02784 389-629 > PF00278 640-776	AdoMetDC-PLP fusion					
+63605	Percolomonas cosmopolitus	UPI001738FFC2	A0A6U1HKK3.1	404	PF02784 6-79 > PF02784 115-290 > PF00278 292-382	ODC family	ODC human (0.42; 37 vs LDC2 Phlegmariurus tetrastichus (plant))	KC	12/13 K69= H197= S200= G237= E274= P275= G276= R277= Y331:H D332= C360= D361= Y389=		
+63605	Percolomonas cosmopolitus	UPI00172FB779	A0A6U1EWE1.1	408	PF01536 40-356	standalone AdoMetDC					
+63605	Percolomonas cosmopolitus	UPI001737B3CD	A0A6U0KRX1.1	337	PF00491 62-329	arginase/agmatinase family					
+63605	Percolomonas cosmopolitus	UPI0016D2107E	A0A6U1FAG1.1	846	PF02784 499-737	DAPDC	DAPDC LysA E. coli (0.32; 32 vs DAPDC1 Arabidopsis)	KC	12/13 K69= H197= S200= G237= E274= P275= G276= R277= Y331= D332= C360= D361:E Y389=		
+63605	Percolomonas cosmopolitus	UPI0016CBA8E8	A0A6U0M0T4.1	465	PF02784 100-344	ODC family	ODC human (0.44; 105 vs AZIN2 human (ODC-like))	KC	12/13 K69= H197= S200= G237= E274= P275= G276= R277= Y331:F D332= C360= D361= Y389=		
+63605	Percolomonas cosmopolitus	UPI001729C095	A0A6U1HDL5.1	468	PF00795 52-251 > PF19018 313-448	nitrilase/CN-hydrolase family (NCPAH candidate)	identity to Arabidopsis NLP1 (NCPAH) 0.28 over 98 aa				
+63605	Percolomonas cosmopolitus	UPI00172EF550	A0A7S1KRW2.1,A0A6U0LFS1.1	636	PF00795 204-327 > PF19018 458-602	nitrilase/CN-hydrolase family (NCPAH candidate)	identity to Arabidopsis NLP1 (NCPAH) 0.30 over 57 aa				
+63605	Percolomonas cosmopolitus	UPI0016D0CEB0	A0A6U0JMA6.1	806	PF00795 201-359	nitrilase/CN-hydrolase family (NCPAH candidate)	identity to Arabidopsis NLP1 (NCPAH) 0.22 over 119 aa				
+63605	Percolomonas cosmopolitus	UPI00170B72F3	A0A6U0KM44.1	494	PF00795 118-250 > PF19018 369-467	nitrilase/CN-hydrolase family (NCPAH candidate)	identity to Arabidopsis NLP1 (NCPAH) 0.32 over 134 aa				
+63605	Percolomonas cosmopolitus	UPI001724422A	A0A6U1G2I7.1	933	PF00795 344-523 > PF00400 620-654 > PF00400 661-695	nitrilase/CN-hydrolase family (NCPAH candidate)	identity to Arabidopsis NLP1 (NCPAH) 0.28 over 167 aa				
+63605	Percolomonas cosmopolitus	UPI0016D02C86	A0A7S1KLX5.1,A0A6U0JTK2.1	455	PF00795 143-404	nitrilase/CN-hydrolase family (NCPAH candidate)	identity to Arabidopsis NLP1 (NCPAH) 0.30 over 281 aa				
+63605	Percolomonas cosmopolitus	UPI0016EC1206	A0A6U0K1K9.1	720	PF00795 6-282 > PF02540 340-603	nitrilase/CN-hydrolase family (NCPAH candidate)	identity to Arabidopsis NLP1 (NCPAH) 0.28 over 120 aa				
+63605	Percolomonas cosmopolitus	UPI001706E4FA	A0A6U0KC86.1	598	PF00795 51-160 > PF02540 218-481	nitrilase/CN-hydrolase family (NCPAH candidate)	identity to Arabidopsis NLP1 (NCPAH) 0.29 over 104 aa				
+63605	Percolomonas cosmopolitus	UPI0016E54AE1	A0A6U1G2M9.1	441	PF00795 122-400	nitrilase/CN-hydrolase family (NCPAH candidate)	identity to Arabidopsis NLP1 (NCPAH) 0.32 over 249 aa				
+63605	Percolomonas cosmopolitus	UPI00170D6797	A0A6U1ELR8.1	440	PF00795 118-375	nitrilase/CN-hydrolase family (NCPAH candidate)	identity to Arabidopsis NLP1 (NCPAH) 0.28 over 246 aa				
+63605	Percolomonas cosmopolitus	UPI0017315B4A	A0A6U0M5V7.1,A0A7S1KUP4.1	330	PF00795 7-270	nitrilase/CN-hydrolase family (NCPAH candidate)	identity to Arabidopsis NLP1 (NCPAH) 0.27 over 252 aa				

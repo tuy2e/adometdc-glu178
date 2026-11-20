@@ -1,0 +1,16 @@
+[ {
+  "taxId" : "1764295",
+  "scientificName" : "Chloropicon primus",
+  "formalName" : "true",
+  "rank" : "species",
+  "division" : "PLN",
+  "lineage" : "Eukaryota; Viridiplantae; Chlorophyta; Chloropicophyceae; Chloropicales; Chloropicaceae; Chloropicon; ",
+  "geneticCode" : "1",
+  "mitochondrialGeneticCode" : "1",
+  "plastIdGeneticCode" : "11",
+  "submittable" : "true",
+  "binomial" : "true",
+  "authority" : "Lopes dos Santos & Eikrem, 2017",
+  "otherNames" : [ "Chloropicon primus Lopes dos Santos & Eikrem, 2017:authority", "Prasinophyceae sp. CCMP1205:includes", "Prasinophyceae sp. RCC1032 (clade VIIA):includes", "Prasinophyceae sp. RCC1043 (clade 7X-A3):includes", "Prasinophyceae sp. RCC717 (clade 7X-A2):includes", "coccoid chlorophyte sp. CCMP1205:includes", "coccoid green alga CCMP 1205:includes", "coccoid prasinophyte sp. CCMP1205:includes", "prasinophyte sp. CCMP1205:includes", "prasinophyte sp. NIES-3671:includes", "prasinophyte sp. NIES-3671 (clade VIIA3):includes", "prasinophyte sp. RCC1019:includes", "prasinophyte sp. RCC1019 (clade VIIA3):includes", "prasinophyte sp. RCC1032:includes", "prasinophyte sp. RCC1032 (clade VIIA):includes", "prasinophyte sp. RCC1032 (clade VIIA3):includes", "prasinophyte sp. RCC1043:includes", "prasinophyte sp. RCC1043 (clade VIIA3):includes", "prasinophyte sp. RCC717:includes", "prasinophyte sp. RCC717 (clade VIIA2):includes", "prasinophyte sp. RCC1724:includes", "prasinophyte sp. RCC1724 (clade VIIA2):includes", "Chlorophyta sp. CCMP1205:includes", "Prasinophyceae sp. RCC1019 (clade 7X-A3):includes", "Prasinophyceae sp. RCC1032 (clade 7X-A3):includes", "Coccoid green alga CCMP1205:includes", "Prasino-clade-7_X-A2 sp. RCC717:includes", "Prasino-clade-7_X-A3 sp. RCC1019:includes", "Prasino-clade-7_X-A3 sp. RCC1032:includes", "Prasino-clade-7_X-A3 sp. RCC1043:includes", "Prasinophyceae sp. CCMP 1205:includes" ],
+  "metagenome" : "false"
+} ]

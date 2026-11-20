@@ -1,0 +1,15 @@
+[ {
+  "taxId" : "63605",
+  "scientificName" : "Percolomonas cosmopolitus",
+  "formalName" : "true",
+  "rank" : "species",
+  "division" : "INV",
+  "lineage" : "Eukaryota; Discoba; Heterolobosea; Tetramitia; Eutetramitea; Percolomonadida; Percolomonadidae; Percolomonas; ",
+  "geneticCode" : "1",
+  "mitochondrialGeneticCode" : "1",
+  "plastIdGeneticCode" : "11",
+  "submittable" : "true",
+  "binomial" : "true",
+  "otherNames" : [ ],
+  "metagenome" : "false"
+} ]

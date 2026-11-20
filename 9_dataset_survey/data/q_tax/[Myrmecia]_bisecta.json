@@ -1,0 +1,16 @@
+[ {
+  "taxId" : "41462",
+  "scientificName" : "[Myrmecia] bisecta",
+  "formalName" : "true",
+  "rank" : "species",
+  "division" : "PLN",
+  "lineage" : "Eukaryota; Viridiplantae; Chlorophyta; core chlorophytes; Trebouxiophyceae; Trebouxiales; Trebouxiaceae; Myrmecia; ",
+  "geneticCode" : "1",
+  "mitochondrialGeneticCode" : "1",
+  "plastIdGeneticCode" : "11",
+  "submittable" : "true",
+  "binomial" : "true",
+  "authority" : "Reisigl, 1964",
+  "otherNames" : [ "Myrmecia bisecta Reisigl, 1964:authority", "Myrmecia bisecta:synonym" ],
+  "metagenome" : "false"
+} ]

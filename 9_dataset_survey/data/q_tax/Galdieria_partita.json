@@ -1,0 +1,16 @@
+[ {
+  "taxId" : "83374",
+  "scientificName" : "Galdieria partita",
+  "formalName" : "true",
+  "rank" : "species",
+  "division" : "PLN",
+  "lineage" : "Eukaryota; Rhodophyta; Bangiophyceae; Galdieriales; Galdieriaceae; Galdieria; ",
+  "geneticCode" : "1",
+  "mitochondrialGeneticCode" : "1",
+  "plastIdGeneticCode" : "11",
+  "submittable" : "true",
+  "binomial" : "true",
+  "authority" : "O.Yu.Sentsova",
+  "otherNames" : [ "Galdieria partita O.Yu.Sentsova:authority" ],
+  "metagenome" : "false"
+} ]

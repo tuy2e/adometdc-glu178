@@ -1,0 +1,15 @@
+[ {
+  "taxId" : "296587",
+  "scientificName" : "Micromonas commoda",
+  "formalName" : "true",
+  "rank" : "species",
+  "division" : "PLN",
+  "lineage" : "Eukaryota; Viridiplantae; Chlorophyta; Mamiellophyceae; Mamiellales; Mamiellaceae; Micromonas; ",
+  "geneticCode" : "1",
+  "mitochondrialGeneticCode" : "1",
+  "plastIdGeneticCode" : "11",
+  "submittable" : "true",
+  "binomial" : "true",
+  "otherNames" : [ "Micromonas commoda van Baren, Bachy & Worden, 2016:authority", "Micromonas sp. RCC447:includes", "Micromonas pusilla NOUM17:includes", "Micromonas pusilla RCC299:includes", "Micromonas sp. CCMP1195:includes", "Micromonas sp. CCMP1764:includes", "Micromonas sp. CCMP492:includes", "Micromonas sp. NEPCC29:includes", "Micromonas sp. RCC 299:includes", "Micromonas sp. RCC299:includes", "Micromonas sp. RCC372:includes", "Micromonas sp. RCC836:includes", "Micromonas sp. RCC448:includes", "Micromonas sp. RCC449:includes", "Micromonas sp. RCC450:includes", "Micromonas sp. RCC472:includes", "Micromonas sp. RCC570:includes", "Micromonas sp. RCC676:includes", "Micromonas sp. RCC803:includes", "Micromonas sp. RCC804:includes", "Micromonas sp. RCC805:includes", "Micromonas sp. RCC808:includes" ],
+  "metagenome" : "false"
+} ]

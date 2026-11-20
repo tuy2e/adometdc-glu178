@@ -1,0 +1,16 @@
+[ {
+  "taxId" : "554055",
+  "scientificName" : "Micractinium conductrix",
+  "formalName" : "true",
+  "rank" : "species",
+  "division" : "PLN",
+  "lineage" : "Eukaryota; Viridiplantae; Chlorophyta; core chlorophytes; Trebouxiophyceae; Chlorellales; Chlorellaceae; Chlorella clade; Micractinium; ",
+  "geneticCode" : "1",
+  "mitochondrialGeneticCode" : "1",
+  "plastIdGeneticCode" : "11",
+  "submittable" : "true",
+  "binomial" : "true",
+  "authority" : "(K.Brandt) Proeschold & Darienko, 2011",
+  "otherNames" : [ "Micractinium conductrix (K.Brandt) Proeschold & Darienko, 2011:authority", "Zoochlorella conductrix K.Brandt, 1881:authority", "Micractinium sp. TP-2008b:includes", "Chlorella sp. SAG 241.80:includes", "Zoochlorella conductrix:synonym" ],
+  "metagenome" : "false"
+} ]

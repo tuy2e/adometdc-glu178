@@ -1,0 +1,15 @@
+[ {
+  "taxId" : "36881",
+  "scientificName" : "Cymbomonas tetramitiformis",
+  "formalName" : "true",
+  "rank" : "species",
+  "division" : "PLN",
+  "lineage" : "Eukaryota; Viridiplantae; Chlorophyta; Pyramimonadophyceae; Pyramimonadales; Pyramimonadaceae; Cymbomonas; ",
+  "geneticCode" : "1",
+  "mitochondrialGeneticCode" : "1",
+  "plastIdGeneticCode" : "11",
+  "submittable" : "true",
+  "binomial" : "true",
+  "otherNames" : [ "Cymbomonas tetramitiformis J.Schiller, 1913:authority" ],
+  "metagenome" : "false"
+} ]

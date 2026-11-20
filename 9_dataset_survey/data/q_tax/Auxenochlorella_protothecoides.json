@@ -1,0 +1,16 @@
+[ {
+  "taxId" : "3075",
+  "scientificName" : "Auxenochlorella protothecoides",
+  "formalName" : "true",
+  "rank" : "species",
+  "division" : "PLN",
+  "lineage" : "Eukaryota; Viridiplantae; Chlorophyta; core chlorophytes; Trebouxiophyceae; Chlorellales; Chlorellaceae; Auxenochlorella; ",
+  "geneticCode" : "1",
+  "mitochondrialGeneticCode" : "1",
+  "plastIdGeneticCode" : "11",
+  "submittable" : "true",
+  "binomial" : "true",
+  "authority" : "(Krueger) Kalina & M.Puncoch.",
+  "otherNames" : [ "Auxenochlorella protothecoides (Krueger) Kalina & M.Puncoch.:authority", "Chlorella protothecoides Kruger, 1987:authority", "Chlorella protothecoides var. galactophila Shihira & R.W.Krauss:authority", "Chlorella protothecoides var. galactophila:synonym", "Auxenochlorella protothecoides var. galactophila:unpublished name", "Chlorella protothecoides:synonym" ],
+  "metagenome" : "false"
+} ]

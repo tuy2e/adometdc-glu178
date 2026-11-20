@@ -1,0 +1,89 @@
+accession	organism	arch_class	match_left_end	match_right_start	gap_residues	anchor_left	anchor_right	extra_residues_vs_human	split_cause	gap_frac_aligned	gap_plddt_mean	foldtrace_lost_sites_in_gap
+A0A8C1UK45	Cyprinus carpio	AdoMetDC repeated	36	37	0	36~human 65	37~human 66	0	divergent stretch (no insertion)			
+A0A7F5R370	Agrilus planipennis	AdoMetDC repeated	85	115	29	83~human 66	116~human 67	32	insertion	0.0	42.9	
+A0A4D5S256	Ixodes scapularis	AdoMetDC repeated	232	264	31	230~human 182	268~human 183	37	insertion	0.0	38.3	
+A0A7R9PYE4	Medioppia subpectinata	AdoMetDC repeated	118	141	22	118~human 65	141~human 67	21	insertion	0.05	48.8	
+A0A811Z568	Nyctereutes procyonoides	AdoMetDC repeated	87	88	0	87~human 167	88~human 171	-3	divergent stretch (no insertion)			
+A0A8C5W2A6	Microcebus murinus	AdoMetDC repeated	119	122	2	119~human 167	122~human 170	0	divergent stretch (no insertion)	0.5	42.0	
+A0A6A1QC67	Balaenoptera physalus	AdoMetDC repeated	108	110	1	108~human 164	110~human 167	-1	divergent stretch (no insertion)	0.0	52.8	
+A0A0C9MIN3	Mucor ambiguus	AdoMetDC repeated	259	309	49	240~human 164	313~human 172	65	insertion	0.0	28.4	
+A0A9N8V5A2	Ambispora gerdemannii	AdoMetDC first	241	299	57	232~human 164	302~human 169	65	insertion	0.0	29.0	
+A0A8T1T1J1	Chelydra serpentina	AdoMetDC repeated	76	77	0	76~human 164	77~human 167	-2	divergent stretch (no insertion)			
+S7MEP5	Myotis brandtii	AdoMetDC repeated	38	40	1	38~human 41	40~human 65	-22	divergent stretch (no insertion)	1.0	55.2	
+A0A9W8D1N0	Coemansia biformis	AdoMetDC repeated	237	280	42	230~human 164	282~human 172	44	insertion	0.02	29.6	
+M7XFN1	Rhodotorula toruloides NP11	AdoMetDC repeated	211	261	49	203~human 164	267~human 172	56	insertion	0.0	34.0	
+A0A8J2WM48	Daphnia galeata	AdoMetDC repeated	137	224	86	137~human 164	226~human 169	84	insertion	0.03	49.2	
+A0A9P6J4A5	Modicella reniformis	AdoMetDC repeated	296	381	84	287~human 164	384~human 172	89	insertion	0.0	32.2	
+A0A9P6QD82	Actinomortierella ambigua	AdoMetDC repeated	282	377	94	274~human 164	382~human 172	100	insertion	0.0	52.9	
+A0A9P6QD82	Actinomortierella ambigua	AdoMetDC repeated	476	536	59	476~human 262	538~human 264	60	insertion	0.02	35.8	
+A0A0L0SIL9	Allomyces macrogynus ATCC 38327	AdoMetDC repeated	178	264	85	176~human 164	266~human 170	84	insertion	0.02	42.3	
+A0A9W8H6B0	Coemansia javaensis	AdoMetDC repeated	372	411	38	351~human 164	414~human 173	54	insertion	0.0	25.8	
+A0A9W8FC87	Coemansia sp. RSA 1813	AdoMetDC repeated	246	358	111	238~human 164	362~human 173	115	insertion	0.0	33.0	
+A0A9P6F4Q7	Mortierella hygrophila	AdoMetDC last	665	729	63	665~human 164	741~human 173	67	insertion	0.0	27.2	
+A0A196S442	Blastocystis sp. ATCC 50177/Nand II	AdoMetDC repeated	154	223	68	153~human 162	223~human 177	55	insertion	0.09	32.1	
+A0A9W6T0A2	[Candida] boidinii	AdoMetDC repeated	236	290	53	226~human 167	290~human 171	60	insertion	0.04	36.7	
+A0A507FDV4	Chytriomyces confervae	AdoMetDC first	437	473	35	437~human 263	477~human 264	39	insertion	0.0	32.5	
+A0A9P6SEJ7	Mortierella sp. AD032	AdoMetDC repeated	310	344	33	282~human 164	357~human 172	67	insertion	0.0	28.7	
+A0A369RU54	Trichoplax sp. H2	AdoMetDC repeated	159	162	2	157~human 154	162~human 184	-25	divergent stretch (no insertion)	1.0	70.2	
+A0A261XTY1	Bifiguratus adelaidae	AdoMetDC repeated	244	301	56	244~human 163	306~human 171	54	insertion	0.02	37.6	
+A0A0L0TEV2	Allomyces macrogynus ATCC 38327	AdoMetDC repeated	220	329	108	218~human 164	335~human 173	108	insertion	0.0	35.1	
+A0A0M8ZRC1	Melipona quadrifasciata	AdoMetDC repeated	48	122	73	48~human 66	122~human 67	73	insertion	0.0	34.1	
+A0A067PUM8	Jaapia argillacea MUCL 33604	AdoMetDC repeated	181	364	182	178~human 166	366~human 171	183	insertion	0.0	32.3	
+A0A5A8CY83	Cafeteria roenbergensis	AdoMetDC repeated	273	329	55	273~human 232	333~human 237	55	insertion	0.07	35.3	
+A0A1Y2H6Z6	Catenaria anguillulae PL171	AdoMetDC repeated	287	377	89	260~human 164	377~human 169	112	insertion	0.0	31.2	
+A0A0N4U743	Dracunculus medinensis	AdoMetDC repeated	238	247	8	238~human 229	248~human 238	1	divergent stretch (no insertion)	1.0	49.3	
+A0A8J5ZLT4	Galemys pyrenaicus	AdoMetDC repeated	79	82	2	69~human 93	82~human 127	-21	divergent stretch (no insertion)	1.0	48.5	
+A0A8J5ZLT4	Galemys pyrenaicus	AdoMetDC repeated	171	178	6	171~human 220	178~human 255	-28	divergent stretch (no insertion)	1.0	68.2	His243
+A0A5B0P648	Puccinia graminis f. sp. tritici	AdoMetDC repeated	176	260	83	175~human 142	268~human 166	69	insertion	0.24	48.6	
+A0A287CX89	Ictidomys tridecemlineatus	AdoMetDC repeated	63	66	2	63~human 114	66~human 134	-17	divergent stretch (no insertion)	1.0	81.3	
+B3RWJ2	Trichoplax adhaerens	AdoMetDC repeated	159	161	1	157~human 154	161~human 183	-25	divergent stretch (no insertion)	1.0	65.9	
+A0A1D2MKC8	Orchesella cincta	AdoMetDC repeated	109	177	67	108~human 168	178~human 170	68	insertion	0.01	33.9	
+A0A9N9FQ28	Ambispora leptoticha	AdoMetDC first	217	277	59	209~human 164	277~human 169	63	insertion	0.0	31.1	
+A0A8J5XFS3	Diacronema lutheri	AdoMetDC repeated	185	341	155	185~human 163	343~human 173	148	insertion	0.0	41.7	
+A0A7S3H9T9	Spumella elongata	AdoMetDC repeated	151	212	60	148~human 165	229~human 171	75	insertion	0.0	30.6	
+A0AAW1DC11	Rhynocoris fuscipes	AdoMetDC repeated	64	65	0	64~human 65	65~human 66	0	divergent stretch (no insertion)			
+A0A915LQJ4	Meloidogyne javanica	AdoMetDC repeated	144	149	4	144~human 121	149~human 130	-4	divergent stretch (no insertion)	1.0	43.9	
+A0A9P6KAC2	Lunasporangiospora selenospora	AdoMetDC repeated	154	235	80	145~human 164	238~human 171	86	insertion	0.0	28.3	
+A0AAN6G5L1	Tilletia horrida	AdoMetDC repeated	88	108	19	85~human 58	108~human 59	22	insertion	0.0	34.5	
+A0AAN6G5L1	Tilletia horrida	AdoMetDC repeated	309	428	118	304~human 195	435~human 199	127	insertion	0.0	39.3	
+A0A0R3VWB1	Taenia asiatica	AdoMetDC repeated	146	202	55	140~human 171	202~human 178	55	insertion	0.11	38.5	
+A0A7S1VYK4	Alexandrium catenella	AdoMetDC repeated	76	87	10	69~human 58	91~human 59	21	insertion	0.0	52.4	
+A0AAV0R5B5	Linum tenue	AdoMetDC repeated	109	110	0	109~human 143	110~human 144	0	divergent stretch (no insertion)			
+A0A9W8BCW7	Coemansia thaxteri	AdoMetDC repeated	100	161	60	100~human 166	161~human 172	55	insertion	0.03	28.1	
+A0A813LKE1	Polarella glacialis	AdoMetDC repeated	103	118	14	103~human 57	123~human 59	18	insertion	0.07	89.5	
+A0A9P5S8S6	Linnemannia schmuckeri	AdoMetDC repeated	275	452	176	266~human 164	454~human 263	89	insertion	0.35	40.7	His243
+S7Q7R8	Myotis brandtii	AdoMetDC repeated	38	40	1	37~human 37	40~human 52	-12	divergent stretch (no insertion)	1.0	61.0	
+A0A835L9Z3	Spodoptera exigua	AdoMetDC repeated	131	132	0	131~human 188	133~human 207	-17	divergent stretch (no insertion)			
+A0A654F863	Arabidopsis thaliana	AdoMetDC repeated	91	93	1	91~human 98	93~human 103	-3	divergent stretch (no insertion)	1.0	61.1	
+A0AAW2YD43	Sesamum latifolium	AdoMetDC repeated	251	253	1	249~human 214	253~human 237	-19	divergent stretch (no insertion)	1.0	56.2	
+A0A0D6EM53	Sporobolomyces salmonicolor	AdoMetDC repeated	270	300	29	270~human 261	303~human 263	31	insertion	0.03	33.7	
+A0AA89B1A7	Escallonia herrerae	AdoMetDC repeated	104	112	7	104~human 102	112~human 144	-34	divergent stretch (no insertion)	0.86	67.9	
+A0A438F6B9	Vitis vinifera	AdoMetDC repeated	96	108	11	96~human 100	109~human 143	-30	divergent stretch (no insertion)	0.64	67.7	
+A0A3B9YJ81	Elusimicrobiota bacterium	AdoMetDC repeated	128	172	43	128~human 141	172~human 209	-24	divergent stretch (no insertion)	0.88	89.1	
+A0AAW2N1Z0	Sesamum calycinum	AdoMetDC repeated	198	201	2	197~human 194	205~human 249	-47	divergent stretch (no insertion)	0.0	48.5	
+A0A7J0ELK9	Actinidia rufa	AdoMetDC repeated	104	111	6	104~human 102	118~human 142	-26	divergent stretch (no insertion)	0.67	64.0	
+A0A9W2X028	Physeter macrocephalus	AdoMetDC repeated	158	164	5	158~human 235	188~human 239	26	insertion	0.2	43.7	
+A0A8X7QMQ0	Brassica carinata	AdoMetDC repeated	68	72	3	68~human 99	81~human 137	-25	divergent stretch (no insertion)	0.67	48.2	
+A0A0L7LLK8	Operophtera brumata	AdoMetDC repeated	205	207	1	203~human 214	213~human 244	-20	divergent stretch (no insertion)	0.0	51.1	
+A0AAD4SVG2	Papaver atlanticum	AdoMetDC repeated	104	112	7	104~human 102	112~human 111	-1	divergent stretch (no insertion)	1.0	91.6	
+A0AAW2S8J8	Sesamum radiatum	AdoMetDC repeated	78	109	30	78~human 82	109~human 142	-29	divergent stretch (no insertion)	0.53	43.9	
+A0A9Q0Z4E9	Salix viminalis	AdoMetDC repeated	203	212	8	203~human 257	213~human 263	4	divergent stretch (no insertion)	0.62	44.5	
+A0A6A6MFN5	Hevea brasiliensis	AdoMetDC repeated	214	215	0	211~human 227	215~human 247	-16	divergent stretch (no insertion)			
+A0A9J6H528	Haemaphysalis longicornis	AdoMetDC repeated	175	192	16	175~human 143	192~human 231	-71	divergent stretch (no insertion)	0.69	37.0	Ser229
+A0A847F5F4	Sandaracinaceae bacterium	AdoMetDC repeated	127	199	71	127~human 137	199~human 219	-10	divergent stretch (no insertion)	0.75	92.2	
+A6QT49	Histoplasma mississippiense (nom. inval.)	AdoMetDC repeated	181	193	11	181~human 133	199~human 199	-48	divergent stretch (no insertion)	0.0	34.4	
+A0A5J5BY55	Nyssa sinensis	AdoMetDC last	184	186	1	184~human 58	186~human 60	0	divergent stretch (no insertion)	1.0	39.3	
+A0AAD9VDS8	Acropora cervicornis	AdoMetDC repeated	113	124	10	112~human 141	124~human 179	-26	divergent stretch (no insertion)	0.8	44.3	
+A0AAD5CWU2	Ambrosia artemisiifolia	AdoMetDC repeated	31	33	1	29~human 106	33~human 144	-34	divergent stretch (no insertion)	1.0	68.3	
+A0A7J7IMF6	Cyanidiococcus yangmingshanensis	AdoMetDC repeated	181	184	2	178~human 168	207~human 216	-19	divergent stretch (no insertion)	0.0	32.4	
+M4CQ45	Brassica rapa	AdoMetDC repeated	83	86	2	83~human 142	86~human 144	1	divergent stretch (no insertion)	0.5	67.8	
+A0A7R8Z4G3	Timema douglasi	AdoMetDC repeated	83	254	170	82~human 142	254~human 143	171	insertion	0.0	28.7	
+A0A7R8Z4G3	Timema douglasi	AdoMetDC repeated	316	319	2	315~human 219	319~human 234	-11	divergent stretch (no insertion)	0.5	41.2	
+A0A1X0P1C0	Trypanosoma theileri	AdoMetDC repeated	207	237	29	206~human 185	237~human 242	-26	divergent stretch (no insertion)	0.76	75.7	Ser229
+A0A1Z8JIV7	Pichia kudriavzevii	AdoMetDC repeated	79	81	1	79~human 127	81~human 129	0	divergent stretch (no insertion)	1.0	61.1	
+A0A9W3CL35	Raphanus sativus	AdoMetDC repeated	62	100	37	61~human 86	100~human 173	-48	divergent stretch (no insertion)	0.08	41.4	
+A0AAV8UDE9	Erythroxylum novogranatense	AdoMetDC repeated	113	125	11	113~human 180	125~human 190	2	divergent stretch (no insertion)	0.36	43.9	
+A0A8X8VV99	Salvia splendens	AdoMetDC last	177	222	44	177~human 96	223~human 196	-54	divergent stretch (no insertion)	0.14	33.7	
+A0A7V3CCH8	Deltaproteobacteria bacterium	AdoMetDC repeated	80	149	68	80~human 92	149~human 216	-55	divergent stretch (no insertion)	0.79	73.1	
+A0A9W7FDA7	Triparma retinervis	AdoMetDC repeated	200	201	0	200~human 248	201~human 249	0	divergent stretch (no insertion)			
+A0A3Q0ILD7	Diaphorina citri	AdoMetDC repeated	154	164	9	154~human 208	170~human 248	-24	divergent stretch (no insertion)	0.0	48.9	

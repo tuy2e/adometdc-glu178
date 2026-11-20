@@ -1,0 +1,7 @@
+accession	assembly_name	version	assembly_level	strain	study_accession	wgs_set	last_updated	scientific_name
+GCA_015473125	Ppro_1.0	1	contig	NIES 2893	PRJDB10693	BNJQ01	2025-04-28	Pycnococcus provasolii
+GCA_938743315	ucPycProv1.1 alternate haplotype	1	scaffold		PRJEB52401	CAKZSG01	2025-04-28	Pycnococcus provasolii
+GCA_938743325	ucPycProv1.2	2	chromosome		PRJEB52402		2023-10-04	Pycnococcus provasolii
+GCA_938743325	ucPycProv1.1	1	chromosome		PRJEB52402		2023-10-04	Pycnococcus provasolii
+GCA_049487705	Version 1	1	chromosome	CCMP1203	PRJNA1090107		2025-04-10	Pycnococcus provasolii
+GCA_049487715	Version 1	1	complete genome	CCMP1203	PRJNA849025		2025-04-10	Pycnococcus provasolii
