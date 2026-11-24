@@ -1,0 +1,24 @@
+accession	organism	kept_lost_unres_13	call_13	kept_lost_unres_core	call_core	changed	lost_sites	unresolved_sites
+A0A7S1KLJ4	Percolomonas cosmopolitus	2/6/5	degraded	2/6/4	degraded	False	K69S H197V E274T P275S G276A R277S	S200 G237 Y331 D332 Y389
+A0A9C7PQ51	Galdieria partita	1/7/5	degraded	1/7/4	degraded	False	K69R H197S E274N P275V G276D R277S C360G	S200 G237 Y331 D332 Y389
+A0A1Y1HLG4	Klebsormidium nitens	13/0/0	intact	12/0/0	intact	False		
+A0AAV8UZF7	Rhodosorus marinus	2/5/6	degraded	2/5/5	degraded	False	H197Q E274D R277S D361E Y389T	K69 S200 G237 Y331 D332 C360
+A0AAW1PYA1	[Myrmecia] bisecta	10/0/3	undetermined	10/0/2	undetermined	False		Y331 D332 D361
+A0A9D4ZGS2	Adiantum capillus-veneris	13/0/0	intact	12/0/0	intact	False		
+A0ABD3ICG1	Riccia sorocarpa	13/0/0	intact	12/0/0	intact	False		
+A0A2P6V5T4	Micractinium conductrix	13/0/0	intact	12/0/0	intact	False		
+A0A087SFF4	Auxenochlorella protothecoides	12/0/1	undetermined	11/0/1	undetermined	False		K69
+A0AAW1RFQ0	Apatococcus lobatus	13/0/0	intact	12/0/0	intact	False		
+A0A1D2AC22	Auxenochlorella protothecoides	0/0/13	undetermined	0/0/12	undetermined	False		K69 H197 S200 G237 E274 P275 G276 R277 Y331 D332 C360 D361 Y389
+A0AAE0FQH6	Cymbomonas tetramitiformis	13/0/0	intact	12/0/0	intact	False		
+A0A061RZV3	Tetraselmis sp. GSL018	13/0/0	intact	12/0/0	intact	False		
+C1E5E7	Micromonas commoda	13/0/0	intact	12/0/0	intact	False		
+A0A9P3J9N9	Closterium sp. NIES-68	12/0/1	undetermined	11/0/1	undetermined	False		D361
+A0A5B8MZ45	Chloropicon primus	13/0/0	intact	12/0/0	intact	False		
+A0AAD9ING6	Prototheca wickerhamii	1/0/12	undetermined	1/0/11	undetermined	False		H197 S200 G237 E274 P275 G276 R277 Y331 D332 C360 D361 Y389
+A0AAW1T1C3	Apatococcus fuscideae	13/0/0	intact	12/0/0	intact	False		
+A0A2V3IZY9	Gracilariopsis chorda	3/5/5	degraded	3/5/4	degraded	False	K69R H197E E274V P275V R277A	S200 G237 Y331 D332 Y389
+A0A830HJR7	Pycnococcus provasolii	13/0/0	intact	12/0/0	intact	False		
+A0A8T2T6R3	Ceratopteris richardii	13/0/0	intact	12/0/0	intact	False		
+A0A0G4EYD2	Vitrella brassicaformis CCMP3155	12/0/1	undetermined	11/0/1	undetermined	False		S200
+A0AAW1STH3	Apatococcus fuscideae	1/0/12	undetermined	1/0/11	undetermined	False		H197 S200 G237 E274 P275 G276 R277 Y331 D332 C360 D361 Y389

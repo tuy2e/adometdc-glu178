@@ -1,0 +1,8 @@
+enzyme	test	group	vs	n1	n2	statistic	p	strata_with_both
+ODC	sign test d > 0	degraded (red + Percolomonas)		8		7	0.0352	
+ODC	mean d_interface_minus_catalytic, within-stratum permutation	degraded (red + Percolomonas)	intact fusion	8	41	0.670		0
+ODC	mean d_interface_minus_catalytic, within-stratum permutation	degraded (red + Percolomonas)	standalone ODC	8	33	0.497	0.0009	1
+AdoMetDC	mean interface_frac, within-stratum permutation	fusion (all)	standalone AdoMetDC	62	587	-0.137	0.0851	5
+AdoMetDC	sign test d > 0	fusion, ODC degraded		8		0	1	
+AdoMetDC	mean d_interface_minus_catalytic, within-stratum permutation	fusion, ODC degraded	fusion, ODC intact	9	40	0.044		0
+AdoMetDC	mean d_interface_minus_catalytic, within-stratum permutation	fusion, ODC degraded	standalone AdoMetDC	9	586	-0.063	0.204	2

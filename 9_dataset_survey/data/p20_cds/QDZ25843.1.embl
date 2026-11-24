@@ -1,0 +1,107 @@
+ID   QDZ25843; SV 1; linear; genomic DNA; STD; PLN; 2505 BP.
+XX
+PA   CP031052.1
+XX
+PR   Project:PRJNA316521;
+XX
+DT   09-AUG-2019 (Rel. 141, Created)
+DT   09-AUG-2019 (Rel. 141, Last updated, Version 1)
+XX
+DE   Chloropicon primus ornithine decarboxylase
+XX
+KW   .
+XX
+OS   Chloropicon primus
+OC   Eukaryota; Viridiplantae; Chlorophyta; Chloropicophyceae; Chloropicales;
+OC   Chloropicaceae; Chloropicon.
+XX
+RN   [1]
+RA   Pombert J.-F., Otis C., Turmel M., Lemieux C.;
+RT   "The complete nuclear genome of the prasinophyte Chloropicon primus
+RT   (CCMP1205)";
+RL   Unpublished.
+XX
+RN   [2]
+RA   Pombert J.-F., Otis C., Turmel M., Lemieux C.;
+RT   ;
+RL   Submitted (12-JUL-2018) to the INSDC.
+RL   Biology, Illinois Institute of Technology, 3105 South Dearborn, RM 182,
+RL   Chicago, IL 60616, USA
+XX
+DR   MD5; c048734ec197ff0b8fe0cae72e17c0bd.
+DR   BioSample; SAMN04584780.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..2505
+FT                   /organism="Chloropicon primus"
+FT                   /chromosome="19"
+FT                   /strain="CCMP1205"
+FT                   /mol_type="genomic DNA"
+FT                   /collection_date="1965"
+FT                   /db_xref="taxon:1764295"
+FT   CDS             CP031052.1:169628..172132
+FT                   /codon_start=1
+FT                   /locus_tag="A3770_19p83610"
+FT                   /product="ornithine decarboxylase"
+FT                   /protein_id="QDZ25843.1"
+FT                   /translation="MTGTFFPQPIFEGAEKRLELDFELACRSVEEVMVVESADSDSEAS
+FT                   CGLRTLKEAEWNKLLQPAECCIVSSKSNGYCDAYLLSESSLFVYESRVVLKTCGRTKIL
+FT                   DAVPGIVSAALENQQIGLKLRRAKYSRSAFKCPEQQPEPHTNFSLEVEALNGLFGHLKG
+FT                   GGHAYVLGDQVSNALWHVYTAGQVQEMIMESRIAKEDLMTLEICMTGLDSKYCEQFTCD
+FT                   ANSNLKGTKKKLRTESGIEKMLGSQEAIDDYVFDPCGYSLNSVKGETLVTIHITPEDSF
+FT                   SYASIEVCGIKRSEDFDSNAFVQLVADLFKPQSLYVVATCDGFASALEWCDCKLGHSEP
+FT                   GAGSGQMFEKLFSANQVMTRYGNCAFHAFASDGVREEFGSGNMAAKLDKPPFSPITVLR
+FT                   EDGMSFSDSSSSGSSEEAQRDETLLPLSESDMDTNFVKRVRADTIETSNCVERYAGCKI
+FT                   RELGLEDTFYVFDLGNVYRRMKTWQRLLPRVKPFYAVKCNPDPGVLSTLASLGTGFDCA
+FT                   SQMELESVLSLGVSPDSVVYANACKRPSDLRHMRQTGTLLTTFDSESELLKIKQYHPSA
+FT                   QVVLRIRADDPNARCYLGNKYGAETYEVEHLLRKTIELGLNLVGVSFHVGSGASDPEAF
+FT                   RMAIGLARQVFNAALALGITTMDLLDIGGGFSGGTGDGTEALGKVARVIRASLDKHFGE
+FT                   EGRYRIIAEPGRYFSEGACSLFTCVYGKRRREEKMEYWLTDGLYGSMNCVIYDHAKLAP
+FT                   KPFFLKSSAPVEDLDLYSSTLFGPTCDGLDTVLKDVMMPRLDNGDWIIFPAMGAYTISA
+FT                   ASNFNGISACDPQIFYVVSKTE"
+XX
+SQ   Sequence 2505 BP; 536 A; 686 C; 778 G; 505 T; 0 other;
+     atgactggaa catttttccc tcaaccgatt tttgaggggg cggagaagcg cctggagctg        60
+     gacttcgagc tggcctgccg gtccgtggag gaagtgatgg tggtggagag cgcggactct       120
+     gactccgagg ccagctgcgg cctccgtact ttgaaagagg ccgagtggaa caagctcttg       180
+     cagcccgctg agtgctgcat cgtttccagc aagagcaacg ggtactgcga cgcgtacttg       240
+     ctgagcgagt ctagcttgtt cgtgtacgag tcgagggtgg tgctgaaaac gtgtgggagg       300
+     acgaaaattt tggacgcggt gccagggatc gtctcggccg ccttggagaa ccagcaaatc       360
+     ggcttgaagc tgaggagggc caagtactcg aggtcagctt tcaagtgccc cgagcagcag       420
+     ccagagcccc acacgaactt ttcgctcgag gtggaggccc tgaacggact cttcggtcac       480
+     ctgaaaggcg gcgggcatgc ctacgttctg ggtgaccagg tgagcaacgc cctgtggcac       540
+     gtttacaccg cagggcaagt ccaagaaatg atcatggagt cgaggatcgc caaggaggac       600
+     ctgatgaccc ttgagatatg catgactggt ctggacagca agtactgcga gcagttcacg       660
+     tgcgacgcga attcgaactt gaagggaacg aagaagaagc tgagaacgga gagcggcatt       720
+     gagaaaatgc ttggctccca ggaagccatc gacgactacg tgtttgatcc ttgcgggtac       780
+     tccctcaact cggtgaaggg ggagactctg gtcaccatcc acatcacccc cgaggacagc       840
+     tttagctatg ccagcatcga ggtctgcggg atcaagaggt ccgaggactt cgactcgaac       900
+     gcgtttgtgc agctcgtggc cgatctgttc aagccccaaa gcttgtacgt cgtggcaacg       960
+     tgcgacggtt tcgcctcagc tttggagtgg tgcgactgca agcttggcca ctctgagcct      1020
+     ggcgcgggct ccgggcagat gtttgagaag ctgttctcag ccaaccaggt catgactagg      1080
+     tacggcaact gcgccttcca cgccttcgct tccgatggcg tgagggagga gttcggctct      1140
+     ggcaacatgg cggccaagct cgacaagccg cctttctcgc caatcactgt tctcagggag      1200
+     gacggcatgt ccttctccga ctcgtccagc agcggcagta gcgaagaggc ccagagagac      1260
+     gagactctcc ttcctttgag cgagtctgac atggacacca attttgtgaa gcgtgttagg      1320
+     gcggacacga tcgagacgtc caactgcgtc gaaagatacg cgggctgcaa gatcagggag      1380
+     ttgggccttg aggacacttt ctacgtcttt gatctgggca acgtttaccg gaggatgaag      1440
+     acgtggcaga ggctcttgcc tagggtaaag cccttctatg cggtcaagtg caaccctgat      1500
+     ccgggcgtgc tttccaccct ggcgtccctg ggcactggtt ttgattgcgc atcccaaatg      1560
+     gagctcgagt ccgtcctgtc cctcggagtt tctccagatt cggtggtcta cgcgaacgcc      1620
+     tgcaagcgac ccagcgacct caggcacatg aggcagaccg gaaccctctt gaccaccttt      1680
+     gactcggaga gcgagctcct gaagatcaag cagtaccacc cctctgccca agtcgtgctg      1740
+     agaatcaggg cagacgaccc gaacgcgcgg tgctaccttg gcaacaagta cggggccgag      1800
+     acttacgagg tggagcacct gctgaggaag accatcgagc tcgggctgaa cctcgttgga      1860
+     gtcagcttcc acgtgggaag cggcgcgagc gatccagagg ccttcagaat ggccattggc      1920
+     ctggccaggc aggttttcaa cgccgccctg gcgctcggga tcaccacgat ggacttgctc      1980
+     gacatcggag gaggcttcag cgggggcacg ggcgacggca ccgaggcctt gggaaaagtg      2040
+     gcgagagtca tcagagcgag tcttgacaag cactttgggg aggagggaag gtacaggatc      2100
+     attgcggagc ctgggaggta cttctccgag ggagcctgct ccctcttcac ttgcgtctat      2160
+     ggcaagagga ggagggaaga aaagatggag tactggctca cggacggtct ctacggttcg      2220
+     atgaactgcg tgatctacga ccacgccaag ctcgctccca agccgttttt cctcaagtcc      2280
+     tcggcgcccg tggaggacct ggacttgtat tcttccaccc tcttcgggcc aacttgtgat      2340
+     ggcttggaca ccgtgctcaa ggacgtgatg atgccaaggc tcgacaacgg ggactggatc      2400
+     attttccctg cgatgggcgc ctacaccatc tcggccgctt ccaacttcaa cggcatctct      2460
+     gcctgcgacc cacaaatctt ttacgtggtg tccaagacag aataa                      2505
+//

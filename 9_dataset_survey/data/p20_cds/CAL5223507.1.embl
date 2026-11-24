@@ -1,0 +1,132 @@
+ID   CAL5223507; SV 1; linear; genomic DNA; WGS; PLN; 2547 BP.
+XX
+PA   CAXHTA020000008.1
+XX
+PR   Project:PRJNA1054215;
+XX
+DT   13-JUN-2024 (Created)
+DT   14-JUN-2024 (Last updated)
+XX
+DE   Coccomyxa viridis hypothetical protein
+XX
+KW   WGS.
+XX
+OS   Coccomyxa viridis
+OC   Eukaryota; Viridiplantae; Chlorophyta; core chlorophytes; Trebouxiophyceae;
+OC   Trebouxiophyceae incertae sedis; Elliptochloris clade; Coccomyxa.
+XX
+RN   [1]
+RA   Kraege A., Thomma B.;
+RT   ;
+RL   Submitted (12-JUN-2024) to the INSDC.
+RL   University of Cologne - AG Thomma, Evolutionary Microbiology, Zuelpicher
+RL   Strasse 47b, D-50674 Cologne, Germany
+XX
+DR   MD5; 363a66c780389bf2f781c2b19117d55e.
+DR   BioSample; SAMEA115444281.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..2547
+FT                   /organism="Coccomyxa viridis"
+FT                   /mol_type="genomic DNA"
+FT                   /note="contig: HiC_scaffold_16"
+FT                   /db_xref="taxon:1274662"
+FT                   /submitter_seqid="HiC_scaffold_16"
+FT   CDS             join(CAXHTA020000008.1:2283616..2283765,
+FT                   CAXHTA020000008.1:2283973..2284197,
+FT                   CAXHTA020000008.1:2284333..2284542,
+FT                   CAXHTA020000008.1:2284725..2284865,
+FT                   CAXHTA020000008.1:2285074..2285181,
+FT                   CAXHTA020000008.1:2285315..2285539,
+FT                   CAXHTA020000008.1:2285797..2285986,
+FT                   CAXHTA020000008.1:2286145..2286301,
+FT                   CAXHTA020000008.1:2286535..2286721,
+FT                   CAXHTA020000008.1:2286939..2287037,
+FT                   CAXHTA020000008.1:2287255..2287419,
+FT                   CAXHTA020000008.1:2287657..2287780,
+FT                   CAXHTA020000008.1:2287938..2288088,
+FT                   CAXHTA020000008.1:2288272..2288375,
+FT                   CAXHTA020000008.1:2288620..2288930)
+FT                   /codon_start=1
+FT                   /transl_table=1
+FT                   /gene="g6034"
+FT                   /locus_tag="VP750_LOCUS5166"
+FT                   /note="ID:agat-cds-50456"
+FT                   /note="ID:agat-cds-50457"
+FT                   /note="ID:agat-cds-50458"
+FT                   /note="ID:agat-cds-50459"
+FT                   /note="ID:agat-cds-50460"
+FT                   /note="ID:agat-cds-50461"
+FT                   /note="ID:agat-cds-50462"
+FT                   /note="ID:agat-cds-50463"
+FT                   /note="ID:agat-cds-50464"
+FT                   /note="ID:agat-cds-50465"
+FT                   /note="ID:agat-cds-50466"
+FT                   /note="ID:agat-cds-50467"
+FT                   /note="ID:agat-cds-50468"
+FT                   /note="ID:agat-cds-50469"
+FT                   /note="ID:agat-cds-50470"
+FT                   /note="source:AUGUSTUS"
+FT                   /protein_id="CAL5223507.1"
+FT                   /translation="MASDSEMELPCPLFEGSEKRIEVEFAFGAKAPVDGLRSLTREQLD
+FT                   SLMSQAACCIVSHRANEDFDAYVLSESSLFVYPERLTLKTCGTTQLLAAVPLLLQLAES
+FT                   LDMCACRTKYSRASFLFPEKQPAPYHAFSEEVKYLESHFGHLMGSAYVMGDALHGLQWH
+FT                   IYAAGAPERQTRRSCQAQASMEICMTHLCPTKAAQFCRGAEFVSAQQTTVSSGIADLLL
+FT                   GADIDEFVFEPCGYSMNGLQGEAFSTIHITPEEACCYASVELTGCPDMEPAAFIAKVAE
+FT                   IFNPGRMTVCLTSATSGSAHMGMVPPKGYLAVGSSMQKLPGGAMAVLHSLQQPNLTSVL
+FT                   QDEPDMAGCATSDDMRMEDDNMSVGTALGQEYEAPILATRSPGHDGTPHVGYASSQSSE
+FT                   SCLKGRPGSPDSPLLWSELQSMSGLKPAEVQDAVCSKAMAVCGVVARYGAVPLPDGKPA
+FT                   TVDTFLARLIRQHGLEDPACIVDLGEVARLFRDWMAALPRVVPFYAVKANNDEAIIALL
+FT                   AALGAGFDCASDAELDMVLRLGVSPDCIVFANACKRPRDIRAAANKQVALTTFDTPSEL
+FT                   AKLARWHPSAKALLRIRADDPAARCQLGNKYGADPEDATALLKAAKDLGVVVKGVSFHV
+FT                   GSGATDPEAFREAIQLARGAFDAGAALGFNMDLLDIGGGFCSGAGFTGGVPSAVNAALA
+FT                   EYFPASMGVQIIAEPGRYFAESAATLACMVFGVRDCVTADGVCTRDYWITDGLYGSMNS
+FT                   LLYDHAKVAPRPLRISSSAAPDQAAGANSACPLTGSVFGPSCDGLDTVLQDYPLPKLDS
+FT                   GDWLVFSNHGAYTFCGACAFNGMDPTPATFYIFSET"
+XX
+SQ   Sequence 2547 BP; 478 A; 773 C; 790 G; 506 T; 0 other;
+     atggcctcag acagcgagat ggagttgccc tgcccgcttt ttgaaggcag cgagaaacgc        60
+     atagaagtgg aatttgcatt tggggccaag gctccggtgg atggactgcg ctcactcaca       120
+     agggagcagc tggattcttt gatgagccag gccgcctgtt gcatcgtctc gcacagggcg       180
+     aacgaagact ttgacgccta tgtgctatcg gagtccagcc tctttgtgta tcccgagcgg       240
+     ctcacgctca agacgtgcgg cacaacgcag ctcctggcag ctgtgcccct cctgcttcag       300
+     cttgctgaga gcctggacat gtgcgcatgc cgcacaaagt acagcagagc ctccttcctg       360
+     tttcccgaga agcagccggc tccctaccac gccttcagcg aggaggtgaa gtacttggag       420
+     agccactttg ggcacctcat gggcagcgca tatgtgatgg gtgatgcgct acatggtctg       480
+     cagtggcaca tctatgctgc tggcgcgcct gagcgccaga ccaggcgctc ctgccaggcg       540
+     caggcatcca tggagatctg catgacgcac ctttgcccca ctaaggcagc tcagttctgc       600
+     aggggagcag agttcgtctc agcgcagcag accactgtga gcagcggcat tgctgacctg       660
+     ctgcttggcg cagacatcga tgagtttgtg tttgagccgt gcgggtacag catgaatggt       720
+     cttcagggcg aggctttcag caccattcac atcacgccag aagaggcatg ctgctatgca       780
+     tctgtggagc tgactggctg ccctgacatg gagcctgcag ctttcatcgc caaggtggcc       840
+     gagatattca accccgggag gatgacagtc tgtctgacat ctgcaacctc aggctcggcg       900
+     cacatgggca tggtgccccc caagggctat ctggccgtgg ggtcctccat gcagaagctg       960
+     ccaggtggcg cgatggcagt gctccacagc ttgcagcagc ccaacctcac cagcgtgctc      1020
+     caggatgagc ctgacatggc tggatgcgca acgtcagacg acatgcgcat ggaggatgac      1080
+     aacatgagcg tggggactgc tctgggtcag gagtatgagg cgccaattct ggccacccgc      1140
+     tcccctggcc atgatggcac cccacatgtc ggctatgcgt caagccagag ctctgagtca      1200
+     tgtttgaagg gccgcccggg gagcccggac agcccattgc tatggtcaga gctgcagagc      1260
+     atgtcagggt tgaagcctgc agaggtccag gacgcggtgt gcagcaaggc catggctgtg      1320
+     tgtggcgtgg ttgcacgcta tggcgcggtt cccttgccag atggcaagcc cgccactgtt      1380
+     gacaccttcc ttgcgcgcct catcaggcag catggcctgg aggatccagc gtgcattgtg      1440
+     gacttgggag aggttgcgag gctgttcagg gactggatgg ctgcattgcc ccgcgtggtg      1500
+     cccttctatg ccgtgaaggc caataacgat gaggctatca ttgccctcct ggccgcgctg      1560
+     ggcgcaggct ttgactgcgc ctcagatgct gagctggaca tggtgctgcg cctgggagtc      1620
+     agcccggact gcatcgtgtt tgccaacgcc tgcaagcggc cccgcgacat cagggccgcc      1680
+     gccaacaagc aggtggccct gacaacattt gacacgcctt cagagctggc caagctggcg      1740
+     cgctggcacc catctgcaaa ggcgttgctg cgcatccggg cagacgaccc agccgcccgc      1800
+     tgccagctgg gcaacaaata cggcgcagac cccgaggatg ccacagccct gctgaaggct      1860
+     gcaaaggatc tgggggtggt agtaaaggga gtctccttcc atgtgggctc tggcgcgact      1920
+     gaccctgagg ctttcaggga agccatccag ctggcacgtg gcgcctttga cgctggggca      1980
+     gccctgggct tcaacatgga tctgctggac attggcggcg ggttctgcag tggcgcgggc      2040
+     ttcacaggag gagtcccctc cgcagtcaat gctgccctgg ctgagtactt ccccgcctcc      2100
+     atgggcgtcc agatcattgc agagcctggc aggtatttcg ctgagtcagc agccacgctg      2160
+     gcatgcatgg tatttggcgt gcgtgactgc gtcaccgccg acggcgtgtg cacccgcgat      2220
+     tactggatca ctgatggcct gtacggaagc atgaactctc tgctctacga ccatgccaag      2280
+     gtggcgccaa ggcctctgcg catcagctcc tccgctgcgc cagatcaggc agctggcgcc      2340
+     aactcagcat gccccctcac tggcagcgtc ttcggcccca gctgcgacgg cctcgacacc      2400
+     gttctgcagg actacccgct gcccaagctg gatagcggag actggctcgt gttcagcaat      2460
+     cacggcgcat acacgttctg tggcgcctgc gccttcaatg gcatggatcc cacgccagcc      2520
+     accttctaca ttttttcaga gacctga                                          2547
+//

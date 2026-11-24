@@ -1,0 +1,91 @@
+ID   MBE1464404; SV 1; linear; genomic DNA; WGS; BCT; 1542 BP.
+XX
+PA   JADBEI010000001.1
+XX
+PR   Project:PRJNA653001;
+XX
+DE   Kibdelosporangium phytohabitans ornithine decarboxylase
+XX
+KW   WGS.
+XX
+OS   Kibdelosporangium phytohabitans
+OC   Bacteria; Actinomycetota; Actinomycetes; Pseudonocardiales;
+OC   Pseudonocardiaceae; Kibdelosporangium.
+XX
+RN   [1]
+RA   Klenk H.-P.;
+RT   "Sequencing the genomes of 1000 actinobacteria strains";
+RL   Unpublished.
+XX
+RN   [2]
+RA   Klenk H.-P., Huntemann M., Clum A., Spunde A., Palaniappan K., Ritter S.,
+RA   Mikhailova N., Chen I.-M., Stamatis D., Reddy T., O'Malley R., Daum C.,
+RA   Shapiro N., Ivanova N., Kyrpides N., Woyke T.;
+RT   ;
+RL   Submitted (06-OCT-2020) to the INSDC.
+RL   Prokaryote Super Program, DOE Joint Genome Institute, 1 Cyclotron Road,
+RL   Mail Stop: 91R0183, Berkeley, CA 94720, USA
+XX
+DR   MD5; ccb1fd2b0b1c39f9e6c46a3aa1f7d5ca.
+DR   BioSample; SAMN15740229.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..1542
+FT                   /organism="Kibdelosporangium phytohabitans"
+FT                   /strain="DSM 104448"
+FT                   /mol_type="genomic DNA"
+FT                   /db_xref="taxon:860235"
+FT                   /culture_collection="DSM:104448"
+FT                   /type_material="type strain of Kibdelosporangium
+FT                   phytohabitans"
+FT                   /submitter_seqid="Ga0415190_01"
+FT   CDS             JADBEI010000001.1:3709535..3711076
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /locus_tag="H4W33_003416"
+FT                   /product="ornithine decarboxylase"
+FT                   /EC_number="4.1.1.17"
+FT                   /note="product_source=KO:K01581;
+FT                   cath_funfam=3.20.20.10,3.60.90.10; cog=COG0019,COG1586;
+FT                   ko=KO:K01581; pfam=PF00278,PF02675,PF02784;
+FT                   superfamily=51419,56276; tigrfam=TIGR03330"
+FT                   /protein_id="MBE1464404.1"
+FT                   /translation="MIDALPQAPERIRAFLDDRRPPTPCLVIDLDTVRESHTRLREALP
+FT                   EARMYYAVKANPAPEVVRLLAEQGCGFDVAGREEIELCLGQGASADSISYGNPIKKARD
+FT                   IAYAHRVGVRRFTFDSEPDLETIATFAPGATVSCRILVDSTGSQTPFGHKFGCAPEMAA
+FT                   RLLVRAAELGLDPEGVAFHVGSQHLDPAAWEPWIAAAGAVTRTVTAAGIRLRGLNIGGG
+FT                   FPGRYLVDPPPLTDYADTVRAAVARHFDHEVDLAIEPGRVLVAEAGMIRSEVVLVSRKS
+FT                   DTDAKRWVYLDIGRYGGMAETENEAIAYRLQTAQDHEPTGPVVIAGPSCDGDDVLYQRT
+FT                   SYELPLSLRAGDHVDIMSTGAYTQSYSSVAFNGFPPLRTYFVGGAPASQETVDSEVGEF
+FT                   AGRHVLAEFEGVSAELLDDATFLRESLERALEKAGATVCDMTYKQFEPQGVTLLALLSE
+FT                   SHASIHTYPERGAVFIDVFTCGQVADPELAVNLLRDMLDASVSRISVVHRGQENR"
+XX
+SQ   Sequence 1542 BP; 245 A; 528 C; 547 G; 222 T; 0 other;
+     gtgatcgacg ccctcccgca ggcgccggaa cgcatcagag cgttcctgga cgaccgcagg        60
+     ccaccgaccc cgtgtctcgt gatcgacctc gacacggtgc gggaaagcca taccaggctg       120
+     cgggaagcac tcccggaagc gaggatgtac tacgcggtca aggccaaccc cgcgccggag       180
+     gtcgtcagac tgctcgccga gcagggctgc ggcttcgacg tggccggccg cgaggagatc       240
+     gaactgtgcc tcggccaggg agccagtgcc gattcgatct cgtacggcaa cccgatcaag       300
+     aaagccaggg acatcgcgta cgcccaccgg gtcggcgtcc gccgcttcac cttcgacagc       360
+     gagccggacc tggagaccat cgcgaccttc gcgccaggcg ccaccgtgtc ctgccggatc       420
+     ctggtggaca gcaccggatc gcagacgcct ttcgggcaca agttcgggtg cgcccccgag       480
+     atggccgccc ggctgctcgt gcgggccgcg gagctgggtc tcgaccccga gggcgtggcg       540
+     ttccacgtcg gctcgcagca cctggacccg gccgcgtggg agccgtggat cgccgcggcc       600
+     ggggcggtca cccgcactgt cacggcggca ggcatccggc tgcgcggcct gaacatcggc       660
+     ggtggcttcc ccggccgcta cctggtcgac ccgccgccgc tgaccgacta cgccgacacg       720
+     gtccgcgccg ccgtcgcccg gcacttcgac cacgaggtcg acctggcgat cgagccgggc       780
+     cgggtactgg tcgccgaggc cgggatgatc cgcagcgagg tcgtgctggt gtcgcgcaag       840
+     tccgacaccg acgccaagcg ctgggtctac ctggacatcg ggcgctacgg cgggatggcc       900
+     gagaccgaga acgaggcgat cgcgtaccgc ctgcagaccg cgcaggacca cgagccgacc       960
+     gggccggtgg tcatcgccgg gccgtcgtgc gacggcgatg acgtgctcta ccaacggacc      1020
+     tcctacgagc tgccgctgtc gttgcgcgcc ggtgaccacg tggacatcat gagcacgggc      1080
+     gcgtacaccc agagctactc ctcggtggcg ttcaacgggt tcccgccgct gcggacatac      1140
+     ttcgtaggcg gcgcgcctgc ttcccaggag acggtggaca gcgaggtcgg cgagttcgcc      1200
+     gggcggcacg tgctggcgga gttcgaaggc gtgtcggccg agttgctcga cgacgccacg      1260
+     ttcctgcgtg agagcctgga acgggcgctg gagaaggcgg gcgcgaccgt gtgcgacatg      1320
+     acgtacaagc agttcgagcc gcagggcgtg accctgctgg cgctgctgtc ggagtcgcac      1380
+     gcgtccatcc acacgtatcc cgaacggggt gcggtgttca tcgacgtgtt cacctgcggc      1440
+     caggtcgccg acccggagct cgcggtgaac ttgttgcgcg acatgctcga cgcgagcgtg      1500
+     tcgcggatca gtgtcgtcca cagaggacag gagaaccggt ga                         1542
+//

@@ -1,0 +1,89 @@
+ID   TCO56541; SV 1; linear; genomic DNA; WGS; PRO; 1533 BP.
+XX
+PA   SLWS01000006.1
+XX
+PR   Project:PRJNA519304;
+XX
+DT   04-APR-2019 (Rel. 140, Created)
+DT   04-APR-2019 (Rel. 140, Last updated, Version 1)
+XX
+DE   Actinocrispum wychmicini ornithine decarboxylase
+XX
+KW   WGS.
+XX
+OS   Actinocrispum wychmicini
+OC   Bacteria; Actinobacteria; Pseudonocardiales; Pseudonocardiaceae;
+OC   Actinocrispum.
+XX
+RN   [1]
+RA   Goeker M.;
+RT   "Genomic Encyclopedia of Type Strains, Phase IV (KMG-IV): sequencing the
+RT   most valuable type-strain genomes for metagenomic binning, comparative
+RT   biology and taxonomic classification";
+RL   Unpublished.
+XX
+RN   [2]
+RA   Goeker M., Huntemann M., Clum A., Pillay M., Palaniappan K., Varghese N.,
+RA   Mikhailova N., Stamatis D., Reddy T., Daum C., Shapiro N., Ivanova N.,
+RA   Kyrpides N., Woyke T.;
+RT   ;
+RL   Submitted (06-MAR-2019) to the INSDC.
+RL   Prokaryotic Super Group, DOE Joint Genome Institute, 2800 Mitchell Drive,
+RL   Walnut Creek, CA 94598, USA
+XX
+DR   MD5; ce4cc69d599122c7d27ab301214a221f.
+DR   BioSample; SAMN10864762.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..1533
+FT                   /organism="Actinocrispum wychmicini"
+FT                   /strain="DSM 45934"
+FT                   /mol_type="genomic DNA"
+FT                   /db_xref="taxon:1213861"
+FT                   /culture_collection="DSM:45934"
+FT                   /type_material="type strain of Actinocrispum wychmicini"
+FT   CDS             SLWS01000006.1:14736..16268
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /locus_tag="EV192_10614"
+FT                   /product="ornithine decarboxylase"
+FT                   /protein_id="TCO56541.1"
+FT                   /translation="MLPAVIDALPQAPERGRAFLDDRRPPTPCLVIDLDTVRESHTRLR
+FT                   EALPEARLYYAVKANPAPEIVRQLARAGAGFDVAGREEIELCLDQGARPETISYGNTVK
+FT                   KARDVLFAFKVGVRRFTFDSAADLANLAEHAPGSTVSCRILVDSSGSRTPFGQKFGCVP
+FT                   DMAVELLVRAAELGLDPEGVAFHVGSQHLDPHAWDAGIAAAAEVTRAVAERGVLLRGLN
+FT                   IGGGLPGRYRDEPLPLSAYVSAIRESVGRHFAVPPDLAFEPGRALVADAGVIRSEVVLV
+FT                   SRKADTDERRWVYLDIGRYGGMAETENEAIAYRLATAHDGTPDGPAIIAGPTCDGDDVL
+FT                   YQRTPYRLPLALRAGDYVDILSTGAYTQSYSSVSFNGFPPLKTYFVGGEPDEVGEFAGR
+FT                   HVLAEFSGVSPKLLNDAAFLCESLERALDKAGATVCDMTFKQFEPQGVTVLALLSESHA
+FT                   SIHSYPERGSVFVDVFTCGRRADPELAVQLLRDMLGASVAITNTIHRGQEDR"
+XX
+SQ   Sequence 1533 BP; 236 A; 524 C; 541 G; 232 T; 0 other;
+     atgctgccgg ctgtgatcga cgccctcccg caggcgccgg aacgcggccg agcgttcctg        60
+     gacgaccgca gacccccgac cccgtgcctg gtgatagatc tcgacacggt gcgggaaagc       120
+     cataccaggc tgcgggaagc gctgccggag gcccggctct actacgcggt caaggcgaat       180
+     cccgcgccgg agatcgtcag gcagctggcc cgcgccggcg ccggcttcga cgtggccggc       240
+     cgcgaggaga tcgaactgtg cctcgaccag ggcgcgcgcc cggagacgat ctcctacggc       300
+     aacaccgtga agaaggcccg ggacgtgctg ttcgcgttca aggtcggggt gcgccggttc       360
+     accttcgaca gcgcggcgga cctggcgaac ctggccgagc acgcgcctgg atccacggtg       420
+     tcgtgccgga tcctggtgga cagctccggc tcgcggacac cgttcggcca gaagttcgga       480
+     tgtgtccccg acatggccgt cgaactgctc gtgcgcgcgg ccgaactcgg gctcgacccg       540
+     gagggtgtcg cgtttcacgt cggctcccag catcttgacc cgcacgcatg ggacgccggg       600
+     atcgccgccg cggccgaggt cacccgcgcg gtcgccgaac gcggggtttt gttgcgtggc       660
+     ctcaacatcg gcggcggcct gcccggcagg taccgggacg agccgttgcc gctttcggcg       720
+     tacgtgtcgg ccatccggga gtccgtcggc cggcacttcg cggtgccgcc ggacctggcg       780
+     ttcgagccgg gccgggcact ggtggccgac gcgggcgtga tccgcagcga ggtcgtcctg       840
+     gtgtcccgga aggccgacac cgacgagcgg cgctgggtgt acctggacat cgggcgctac       900
+     ggcgggatgg cggagaccga gaacgaggcg atcgcgtacc ggctcgcgac cgcccacgac       960
+     ggcaccccgg acggcccggc gatcatcgcc ggccccacct gcgacggcga cgacgtgctg      1020
+     taccaacgaa ccccgtaccg gctgccgctg gcgttgcgag ccggtgacta cgtggacatc      1080
+     ctcagcaccg gcgcctatac gcagagctac tcctcggtgt cgttcaacgg cttcccgccg      1140
+     ctgaagacgt acttcgtcgg cggtgaaccc gacgaggtcg gcgagttcgc cggacggcac      1200
+     gtgctcgccg agttctccgg cgtctcgccg aagttgctga acgacgcggc cttcctgtgc      1260
+     gaaagcctgg aacgagcgct cgacaaggcc ggcgcgaccg tgtgcgacat gacgttcaaa      1320
+     cagttcgaac cgcagggtgt gacggtgctc gcactgctgt ccgagtcgca cgcttcgatc      1380
+     cactcgtacc cggaacgcgg ctcggtgttc gtggacgtct tcacgtgcgg ccggcgtgcg      1440
+     gacccggagc tcgccgtgca actgttgcgg gacatgctcg gggcgagtgt ggcaatcacc      1500
+     aacacgatcc acagaggaca ggaagaccgt tga                                   1533
+//

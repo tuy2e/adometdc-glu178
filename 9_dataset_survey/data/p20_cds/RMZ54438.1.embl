@@ -1,0 +1,111 @@
+ID   RMZ54438; SV 1; linear; genomic DNA; WGS; PLN; 2421 BP.
+XX
+PA   QOKY01000179.1
+XX
+PR   Project:PRJNA476562;
+XX
+DT   13-NOV-2018 (Rel. 138, Created)
+DT   13-NOV-2018 (Rel. 138, Last updated, Version 1)
+XX
+DE   Auxenochlorella protothecoides hypothetical protein
+XX
+KW   WGS.
+XX
+OS   Auxenochlorella protothecoides
+OC   Eukaryota; Viridiplantae; Chlorophyta; Trebouxiophyceae; Chlorellales;
+OC   Chlorellaceae; Auxenochlorella.
+XX
+RN   [1]
+RA   Vogler B.W., Starkenburg S.R., Sudasinghe N., Schambach J.Y., Rollin J.A.,
+RA   Pattathil S., Barry A.N.;
+RT   "Characterization of plant carbon substrate utilization by Auxenochlorella
+RT   protothecoides";
+RL   Unpublished.
+XX
+RN   [2]
+RA   Hovde B., Zhang X.;
+RT   ;
+RL   Submitted (01-OCT-2018) to the INSDC.
+RL   Bioscience, Los Alamos National Laboratory, PO Box 1663, Los Alamos, NM
+RL   87545, USA
+XX
+DR   MD5; 01878cc5ec8b7f5e09ebcb49e4d2ae0d.
+DR   BioSample; SAMN09439844.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..2421
+FT                   /organism="Auxenochlorella protothecoides"
+FT                   /strain="UTEX 25"
+FT                   /mol_type="genomic DNA"
+FT                   /country="USA:Los Alamos"
+FT                   /lat_lon="32.28 N 110.95 W"
+FT                   /collection_date="2012"
+FT                   /db_xref="taxon:3075"
+FT                   /culture_collection="UTEX:25"
+FT   CDS             complement(join(QOKY01000179.1:436365..437282,
+FT                   QOKY01000179.1:437505..438328,
+FT                   QOKY01000179.1:438604..439282))
+FT                   /codon_start=1
+FT                   /locus_tag="APUTEX25_002014"
+FT                   /product="hypothetical protein"
+FT                   /db_xref="UniProtKB/TrEMBL:A0A3M7KV61"
+FT                   /protein_id="RMZ54438.1"
+FT                   /translation="MCVAALPCPAFEGSEKRISVSFSSRAGAVGAGLRALTRAELDALM
+FT                   DSAACLIVSARHHASHDAYVLSESSCFVYPDRIVVKTCGTTRLLACVPLLLRLAAGLGL
+FT                   EPAAVKYSRASFLFPAAQPEEHASFEAETAVLRAAFAALPLASAYVLGDALAGLQWHVF
+FT                   AAGVARGAAAVAQAPPPPPLHTLELCMTGLCPRKAANFFRTEAFVDSRRVTCDSGIQDL
+FT                   LPKAEIDDYVFEPCGYSMNAVEAGSFSTIHITPEDGFSYASFELCGYDPATMDVPDLVA
+FT                   RVAAVFRPRHMAVALSVDAPAGACVGDVDGATWRARRSLPAGYACHAGSFQELRAGGHV
+FT                   AFFGLDLEEGEAFDGQAEDLPHAADEALGAAGQLQADCAAKAMELALEATAGVLGGHAV
+FT                   AACDAGAGSSDGGSPRGVVSRDTLSSVLTDLDSLGEGAGEWGGGRATPSSTASEDARPV
+FT                   GPRPLGEVLALHGAHPLPDGSRASLDAHAAALIASRGLEDTFYRPRDLRAGAELGCPLT
+FT                   TFDSVDELRKVARAWPGARLLLRVRADAPAARCPLGNKYGAETWEWAALAAEATRLGLP
+FT                   VDGVAFHVGSGAGADAAGAYENAIAVAADAAEVLRAAGHAVSILDIGGGFPGGALGGIA
+FT                   PAINAALEARFPGVEVVAEPGRFFAERIATLATAVFGARERSAGGDARDVDAIATPTVE
+FT                   DPILHPTTRELFVTDGIYGSMNCMLYDHASPLPRALATDDRARGALVPTTVFGPTCDGL
+FT                   DTLVRGHPLPAGLGVGSWLVWPDMGAYTICGASAFNGMDAVNVPRFYVWSVKP"
+XX
+SQ   Sequence 2421 BP; 263 A; 959 C; 847 G; 352 T; 0 other;
+     atgtgcgtcg ccgccctgcc ctgccccgcc ttcgaggggt ctgagaagcg catcagcgtc        60
+     agcttctcct cccgtgcggg cgccgttggc gccggcctgc gcgcgctgac ccgcgccgag       120
+     ctggacgcgc tgatggacag cgccgcctgc ctcatcgtgt cggcgcgcca ccacgccagc       180
+     cacgacgcct acgtcctgtc tgagtcctcc tgcttcgtct accctgaccg catcgtggtc       240
+     aagacctgcg gcaccacccg cctgctggcc tgcgtccccc tgctcctccg cctcgctgcc       300
+     ggtctgggcc tggagccggc cgcggtcaag tactcccgcg ccagtttcct cttccctgcc       360
+     gcgcagcccg aggagcacgc cagcttcgag gccgagaccg ccgtcctgcg cgccgctttt       420
+     gccgcgctgc ccctggcctc cgcctacgtc ctgggcgacg cgctggcggg cctgcagtgg       480
+     cacgtcttcg ccgcgggcgt tgcgcgcggc gcggccgcag tggcgcaggc cccccctccg       540
+     cccccgctgc acaccctgga gctgtgcatg accggcctgt gcccgcgcaa ggccgccaac       600
+     ttcttccgca ccgaggcatt tgtggacagc cgccgcgtga catgcgactc gggcatccag       660
+     gacctcctcc ccaaggccga gatcgatgac tatgtgttcg agccctgcgg ctactccatg       720
+     aacgcagtgg aggcggggtc cttctccacc atccacatca cgcccgagga cggcttctcc       780
+     tacgcctcct tcgagctttg cggctacgac cccgccacca tggacgtgcc cgacctggtg       840
+     gcgcgcgtgg cggccgtctt ccgcccccgc cacatggcgg tggcactgtc ggtggacgcc       900
+     ccagctggcg cctgcgtcgg cgacgtggac ggcgccacct ggcgcgcacg gcgctcgctg       960
+     ccggccggct atgcctgcca cgcggggtcc ttccaggagc tgcgcgcggg cgggcacgtc      1020
+     gccttcttcg gcctggacct ggaggaaggg gaggcgtttg acggccaggc cgaggacctc      1080
+     ccgcacgccg ccgacgaggc cctgggcgcc gccggccagc tgcaggccga ctgcgccgcc      1140
+     aaagccatgg agctggcgct ggaggccacg gccggcgtgc tgggagggca cgcggtggcc      1200
+     gcctgcgacg ccggcgcggg cagctccgac ggcgggtcgc cgcgcggcgt ggtgtctcgg      1260
+     gacaccctct cctccgtcct caccgacctc gactcgctgg gcgagggcgc gggcgagtgg      1320
+     ggcggcggcc gcgccacgcc ttcctccacc gcctcggagg acgcgcggcc cgtggggcct      1380
+     cgccccctgg gcgaggtcct ggccctgcac ggcgcccacc cgctgcccga cggctcgcgt      1440
+     gcctcgctgg acgcgcacgc ggcggccctg atcgcctcgc gcggcctgga ggacaccttc      1500
+     taccgcccgc gcgacctgcg cgccggcgcg gagctgggct gcccgctgac cacctttgac      1560
+     agcgtggacg agctgcgcaa ggtcgcccgc gcctggcccg gcgcgcgcct gctcctgcgc      1620
+     gtgcgggccg acgcgcccgc cgcacgctgc ccgctgggca acaaatacgg cgcggagacc      1680
+     tgggagtggg cggcgctggc cgcggaggcc acgcgcctgg gcctgcccgt cgacggcgtc      1740
+     gccttccacg tcgggtccgg ggcgggggct gacgcggcgg gggcttacga gaacgccatc      1800
+     gccgtcgccg ccgacgcggc cgaggtcctg cgcgccgcgg ggcacgccgt ctccatcctc      1860
+     gacatcggcg gcgggttccc gggcggcgcg ctgggcggca tcgcgccggc catcaacgcc      1920
+     gcgctggagg cgcgcttccc gggcgtggag gtggtggccg agccgggacg cttcttcgcg      1980
+     gagcgcatcg ccacgcttgc caccgccgtg tttggcgcgc gcgagcgcag cgcgggcggt      2040
+     gacgccaggg acgtggacgc catcgccacc cccaccgtcg aggaccccat cctccacccc      2100
+     accacgcgcg agctcttcgt gaccgatggc atctacggct ccatgaactg catgctgtac      2160
+     gaccacgcca gccccctgcc gcgtgcgctg gccaccgacg accgcgcgcg cggcgctctg      2220
+     gtccccacca ccgtgtttgg gcccacctgc gacgggctgg acacgctggt gcggggccac      2280
+     ccgctgcctg ccgggctggg cgtcggctcg tggctggtgt ggcccgacat gggggcctac      2340
+     accatctgcg gcgcctcggc cttcaacggc atggacgcgg tgaatgttcc ccgtttctac      2400
+     gtctggtccg tgaagccgtg a                                                2421
+//

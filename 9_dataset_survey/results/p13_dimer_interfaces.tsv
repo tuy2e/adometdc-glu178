@@ -1,0 +1,8 @@
+job	accession	organism	role	top_model	length_per_chain	iptm	ptm	iptm_range_5_models	pae_min_interchain	odc_span	odc_monomer_tm	ado_span	ado_monomer_tm	pae_mean_interchain	pae_mean_interchain_plddt70	pae_odcodc_block	pae_adoado_block	trust_gate
+01	A0A1Y1HLG4	Klebsormidium nitens	fusion, ODC half intact	0	864	0.55	0.57	0.51-0.55	2.88	405-806	0.902	6-336	0.927	24.59	22.08	10.92	30.36	FAIL: unsupported, geometry not interpreted
+02	A0A2V3IZY9	Gracilariopsis chorda	fusion, ODC half degraded	0	730	0.18	0.36	0.15-0.18	23.14	374-730	0.658	24-360	0.906	30.21	29.83	30.82	28.71	FAIL: unsupported, geometry not interpreted
+03	A0A9C7PQ51	Galdieria partita	fusion, ODC half degraded	3	762	0.18	0.36	0.16-0.19	22.65	387-759	0.75	18-345	0.93	29.66	29.3	30.42	28.85	FAIL: unsupported, geometry not interpreted
+04	C1E5E7	Micromonas commoda	fusion (Green 2011)	0	1039	0.49	0.51	0.48-0.49	2.71	592-1027	0.91	102-455	0.925	26.93	23.32	11.38	31.57	FAIL: unsupported, geometry not interpreted
+05	Q8IJ77	Plasmodium falciparum	known bifunctional enzyme	0	1434	0.46	0.47	0.45-0.46	2.3	629-1420	0.898	3-561	0.872	28.58	23.64	24.3	31.33	FAIL: unsupported, geometry not interpreted
+06	A0AAV8UQI0	Rhodosorus marinus	control: standalone ODC	0	456	0.72	0.78	0.69-0.72	3.27	58-455	0.89			13.9	9.23	10.41		FAIL: unsupported, geometry not interpreted
+07	A0A9D4U7K2	Adiantum capillus-veneris	control: standalone AdoMetDC	0	380	0.13	0.47	0.1-0.13	25.15			2-333	0.922	29.51	28.82		29.09	FAIL: unsupported, geometry not interpreted

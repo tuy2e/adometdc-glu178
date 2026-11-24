@@ -1,0 +1,91 @@
+ID   CTQ91727; SV 1; linear; genomic DNA; STD; PRO; 1398 BP.
+XX
+PA   LN877229.1
+XX
+PR   Project:PRJEB7742;
+XX
+DT   20-AUG-2015 (Rel. 125, Created)
+DT   20-AUG-2015 (Rel. 125, Last updated, Version 1)
+XX
+DE   Kibdelosporangium sp. MJ126-NF4 Ornithine decarboxylase (EC 4.1.1.17) /
+DE   Arginine decarboxylase (EC 4.1.1.19)
+XX
+KW   .
+XX
+OS   Kibdelosporangium sp. MJ126-NF4
+OC   Bacteria; Actinobacteria; Pseudonocardiales; Pseudonocardiaceae;
+OC   Kibdelosporangium; unclassified Kibdelosporangium.
+XX
+RN   [1]
+RA   Ramaraj T.;
+RT   ;
+RL   Submitted (13-JUL-2015) to the INSDC.
+RL   National Center for Genome Resources (NCGR), National Center for Genome
+RL   Resources (NCGR), 2935 Rodeo Park Drive East, Santa Fe, New Mexico, 87505,
+RL   USA
+XX
+DR   MD5; af4794aaec0c91549cde4760ec03d696.
+DR   BioSample; SAMEA3136170.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..1398
+FT                   /organism="Kibdelosporangium sp. MJ126-NF4"
+FT                   /strain="MJ126-NF4"
+FT                   /mol_type="genomic DNA"
+FT                   /db_xref="taxon:703222"
+FT   CDS             LN877229.1:3802427..3803824
+FT                   /transl_table=11
+FT                   /product="Ornithine decarboxylase (EC 4.1.1.17) / Arginine
+FT                   decarboxylase (EC 4.1.1.19)"
+FT                   /EC_number="4.1.1.19"
+FT                   /EC_number="4.1.1.17"
+FT                   /db_xref="GOA:A0A0K3B4D9"
+FT                   /db_xref="InterPro:IPR000183"
+FT                   /db_xref="InterPro:IPR002433"
+FT                   /db_xref="InterPro:IPR003826"
+FT                   /db_xref="InterPro:IPR009006"
+FT                   /db_xref="InterPro:IPR016067"
+FT                   /db_xref="InterPro:IPR017716"
+FT                   /db_xref="InterPro:IPR022643"
+FT                   /db_xref="InterPro:IPR022644"
+FT                   /db_xref="InterPro:IPR022653"
+FT                   /db_xref="InterPro:IPR029066"
+FT                   /db_xref="UniProtKB/TrEMBL:A0A0K3B4D9"
+FT                   /protein_id="CTQ91727.1"
+FT                   /translation="MYYAVKANPAPEIITLLAGQGCGFDVAGREEIELCLGHGASAETI
+FT                   SYGNPIKKARDIAYAHRVGVRRFTFDSEPDLETIATFAPGATVSCRILVDSTGSLTPFG
+FT                   HKFGCAPEMAARLLVRAAELGLDPEGVAFHVGSQHMDPTAWEPWIAAAGAVTRTVADAG
+FT                   IPLRGLNIGGGFPGRYLVDPPPLTDYADTIRAAIARHFDHDVDLAIEPGRVLVAEAGMI
+FT                   RSEVVLVSRKSDADTRRWVYLDIGRYGGMAETENEAIAYRLQTAQDHEPTGPVVIAGPS
+FT                   CDGDDVLYQRTAYELPLSLRAGDHVDIMSTGAYTQSYSSVAFNGFPPLRTYFVGGAPRS
+FT                   HEPGDSEVGEFAGRHVLAEFEGVSAELLDDATFLRESLERALEKAGATVCDMTYKQFEP
+FT                   QGVTLLALLSESHASIHTYPERGAVFIDVFTCGQVADPELAVNLLRDALDPGVSRISVV
+FT                   HRGQENR"
+XX
+SQ   Sequence 1398 BP; 218 A; 476 C; 491 G; 213 T; 0 other;
+     atgtactacg cggtcaaggc caatccggca ccggagatca tcacactgct cgccgggcag        60
+     ggctgcggct tcgacgtggc gggccgcgag gagatcgaac tgtgcctcgg ccatggcgcc       120
+     agcgcggaga cgatctcgta cggcaacccg atcaagaagg cacgggacat cgcgtacgcc       180
+     caccgggtcg gtgtgcgccg cttcaccttc gacagcgagc ccgatctcga gacgatcgcc       240
+     accttcgcgc cgggtgccac cgtgtcctgc cgcatcctgg tggacagcac cgggtcgctg       300
+     acgccgttcg ggcacaagtt cgggtgtgcg cccgagatgg ccgcccggct gctcgtgcgg       360
+     gccgccgaac tcggccttga ccccgagggc gtggccttcc acgtcggttc gcagcacatg       420
+     gatccgacgg cgtgggagcc gtggatcgct gccgcgggcg ctgtcacccg taccgtggcc       480
+     gacgcgggca tcccgctgcg tggcctgaac atcggcggtg gtttccccgg ccggtacctg       540
+     gtcgacccgc cgccgttgac cgactacgcc gacacgatcc gcgccgcgat cgcccggcac       600
+     ttcgaccacg acgtcgacct ggccatcgag ccgggccggg tgctggtcgc cgaggccggg       660
+     atgatccgca gcgaggtcgt gctggtgtcg cgcaagtccg acgccgacac caggcgctgg       720
+     gtctacctgg acatcggccg ttacggcggg atggccgaga ccgagaacga ggcgatcgcc       780
+     taccgcctgc agaccgcgca ggaccacgag ccgaccgggc cggtggtcat cgccgggccg       840
+     tcgtgcgacg gcgatgacgt gctctaccaa cggactgcct acgagctgcc gctgtcgctg       900
+     cgcgcaggtg accacgtgga catcatgagc acgggcgcgt acacccagag ctactcgtcg       960
+     gtggcgttca acgggttccc gccgctgcgg acgtacttcg tcggcggcgc accgcgttcc      1020
+     cacgaaccag gagacagcga ggtcggcgag ttcgccgggc ggcacgtgct ggccgagttc      1080
+     gaaggcgtgt cggccgaact gctcgacgac gccacgttcc tgcgtgagag cttggaacgc      1140
+     gcgctggaga aggcgggcgc gaccgtgtgc gacatgacct acaagcagtt cgagccgcag      1200
+     ggcgtgaccc tgctggcgct gctgtcggag tcgcacgcgt ccattcacac gtacccggaa      1260
+     cggggtgcgg tgttcatcga cgtgttcacc tgcggccagg tcgccgaccc cgagctcgcg      1320
+     gtgaacttgt tgcgcgacgc gctcgacccg ggtgtgtcca ggatcagtgt cgtccacaga      1380
+     ggacaggaga accggtga                                                    1398
+//

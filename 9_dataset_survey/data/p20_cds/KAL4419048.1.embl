@@ -1,0 +1,128 @@
+ID   KAL4419048; SV 1; linear; genomic DNA; WGS; PLN; 2661 BP.
+XX
+PA   JBEVCN010000182.1
+XX
+PR   Project:PRJNA1120015;
+XX
+DT   03-FEB-2025 (Created)
+DT   03-FEB-2025 (Last updated)
+XX
+DE   Micractinium sp. CCAP 211/92 hypothetical protein
+XX
+KW   WGS.
+XX
+OS   Micractinium sp. CCAP 211/92
+OC   Eukaryota; Viridiplantae; Chlorophyta; core chlorophytes; Trebouxiophyceae;
+OC   Chlorellales; Chlorellaceae; Chlorella clade; Micractinium.
+XX
+RN   [1]
+RA   Kelly J.B.;
+RT   "Genome sequencing of T. utriculariae, T. malaccensis, Micractinium
+RT   tetrahymenae, and M. sp. CCAP 211/92";
+RL   Unpublished.
+XX
+RN   [2]
+RA   Kelly J.B.;
+RT   ;
+RL   Submitted (13-JUN-2024) to the INSDC.
+RL   Biology, University of Konstanz, Universitatsstrasse 10, Konstanz 78464,
+RL   Germany
+XX
+DR   MD5; 73bbcfcdd4f4e53fe2db283c617b113f.
+DR   BioSample; SAMN41693485.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..2661
+FT                   /organism="Micractinium sp. CCAP 211/92"
+FT                   /isolate="CCAP 211/92"
+FT                   /mol_type="genomic DNA"
+FT                   /collection_date="2002"
+FT                   /tissue_type="cell culture"
+FT                   /db_xref="taxon:554058"
+FT                   /submitter_seqid="ptg000337l"
+FT                   /geo_loc_name=Seychelles
+FT   CDS             join(JBEVCN010000182.1:48636..48882,
+FT                   JBEVCN010000182.1:49208..49374,
+FT                   JBEVCN010000182.1:49595..49697,
+FT                   JBEVCN010000182.1:49849..50016,
+FT                   JBEVCN010000182.1:50235..50323,
+FT                   JBEVCN010000182.1:50516..50576,
+FT                   JBEVCN010000182.1:50766..51190,
+FT                   JBEVCN010000182.1:51423..51518,
+FT                   JBEVCN010000182.1:51696..51935,
+FT                   JBEVCN010000182.1:52171..52385,
+FT                   JBEVCN010000182.1:52565..52748,
+FT                   JBEVCN010000182.1:52900..53017,
+FT                   JBEVCN010000182.1:53202..53446,
+FT                   JBEVCN010000182.1:53715..53779,
+FT                   JBEVCN010000182.1:53943..54016,
+FT                   JBEVCN010000182.1:54202..54365)
+FT                   /codon_start=1
+FT                   /locus_tag="ABPG77_011030"
+FT                   /product="hypothetical protein"
+FT                   /protein_id="KAL4419048.1"
+FT                   /translation="MTGAAPDVFPCPVFEGSEKRISVTFSAVAGASTPPPAAGLRTLTR
+FT                   AQLDEMLDLAACQIVSSRSNEHFDAYVLSESSLFVYPDRLVLKTCGTTKLLSCVPFMCQ
+FT                   LAAGIGMAPARVKYTRASFLFPEQQPAPHTSFEQECDTLKAAFKGLGSTSAYVLGDGLN
+FT                   GLQWHVFVAGAEAAHPTAEQPLYTLEVCMTGLCPAKAAQFFRSEGYVSAQHTTRTSGIQ
+FT                   ALVPGADIDDYVFEPCGYSMNGVEDAVFSTIHITPEDGFSYASFELCGYSPESINAAEL
+FT                   VAKVSDVFQPRNLSVALSTDTAAPGTSCAAAAWGAAFAGPLGYACHSASYQEMKCGGCV
+FT                   AYFVLEQGSGASPGSGPGSPVRGAGKRAPGTDSDSGSPRAVIKHFPSFSGTIGGSMASG
+FT                   SVLADMDLLGMGSDNASDNSSVRNGLCNSLLIDPCDMGVEDVLALHGAAHLARGNAAAI
+FT                   DEYARKLIADHSLEDNFFVVDLGALQRLHRAWGEAMPRVHPFYAVKCNPDVGLLATLAA
+FT                   LGAGFDCASEAEMRAVSALGVGPDRIVFANPCKRPRDLRCAADAGVELTTFDTEAELAK
+FT                   LARFAPGARALLRIRADDPGARCQLGNKYGAEVHEWEPLLEAARSMGVEVTGVAFHVGS
+FT                   GATNPAAFSHAIELARRAWDLAVAHGFDMQILDIGGGFCGGRFGRDGRVDLGGVPEAVN
+FT                   SALAAHFPEDGSLRVIAEPGRFFAESIATMGCLVYGRRVRVEPGALAGAEAPAARAPGA
+FT                   LPMRKRVHSCRRLAAFAEELADVEQEVLGYDYWVTDGLYGSMNSVLYDHATLSARPLLS
+FT                   DGAPAPADTFPSTVFGPTCDGLDTLLTDYQLPELQVGDWLLFPSMGAYTLCGASKFNGI
+FT                   DATAAATFYVCSHQP"
+XX
+SQ   Sequence 2661 BP; 355 A; 1020 C; 839 G; 447 T; 0 other;
+     atgaccggcg cggcccccga cgtcttcccc tgccccgttt tcgagggcag cgagaagcgc        60
+     atctccgtca ccttttcagc tgtagctggc gctagcaccc ccccgccagc ggcagggctc       120
+     cgcaccctga cccgcgctca actggatgag atgctggacc tggcagcctg ccagatcgtc       180
+     tcctcccgct ccaacgagca ctttgacgcc tacgtgctgt cggagtcctc tctctttgtc       240
+     tacccagacc gcctggtgct caagacgtgt ggcaccacca agctgctcag ctgcgtgccc       300
+     ttcatgtgcc agctggcagc cggcatcggc atggcccccg cccgcgtcaa gtacacccga       360
+     gcctccttcc tcttcccaga gcagcagccc gcgccgcaca cctccttcga gcaggagtgc       420
+     gacaccctga aggctgcctt caagggcctc ggctccacct ccgcctacgt cctgggagac       480
+     ggcctgaatg gcctgcagtg gcacgtgttc gtggcaggcg ctgaagcggc gcaccccact       540
+     gccgagcagc cgctgtacac gcttgaggtg tgcatgacgg ggctgtgccc cgccaaggcc       600
+     gcccagttct tccgctcgga gggctacgtg tcggcgcagc acaccacccg cacctctggc       660
+     atccaggccc tggtgcccgg cgcggacatc gacgactacg tctttgagcc ctgcggctac       720
+     tctatgaacg gcgtggagga cgccgtgttc tccaccatcc acatcacccc agaggacggc       780
+     ttctcctacg cctcctttga gctatgcggc tactcccccg agtcaatcaa tgcagccgag       840
+     ctggtggcca aggtgtctga cgtcttccag ccgcgcaacc tgtcggtggc gctgtccact       900
+     gacaccgccg cccccggcac cagctgcgcc gcggccgcct ggggcgccgc ctttgccggc       960
+     ccgctgggct acgcctgcca ctccgcctct tatcaggaga tgaagtgcgg cggctgcgtc      1020
+     gcctactttg tgctggagca gggcagcggc gcctcgccgg gctccggccc gggctccccc      1080
+     gtgcgcggcg ccggcaagcg cgcccccggc accgactccg actcgggatc cccccgtgcc      1140
+     gtcatcaagc acttcccctc cttctccggc accatcggcg gctccatggc ctcgggctcg      1200
+     gtgctggcag acatggacct gctcggcatg ggctccgaca atgcctcgga caactcctcg      1260
+     gtgcgcaacg ggctgtgcaa cagcctgctg atcgacccct gcgacatggg ggtggaagac      1320
+     gtgctggcgc tgcacggcgc cgcccacctg gctcggggca atgccgccgc catcgacgag      1380
+     tacgcccgca agctcatcgc cgaccactcc ctggaagaca acttctttgt cgtcgacctg      1440
+     ggggcgctgc agcgcctgca ccgcgcctgg ggcgaggcca tgccccgcgt gcaccccttc      1500
+     tacgccgtca agtgcaaccc ggatgtgggg ttgctggcca cgctggccgc gctgggtgcc      1560
+     ggcttcgact gcgccagcga ggccgagatg cgagcggtct ccgctctggg cgtcggcccc      1620
+     gaccgcatcg ttttcgccaa cccctgcaag cgcccgcgcg acctgcgctg cgccgccgac      1680
+     gccggcgtgg agctcaccac ctttgacacc gaggccgagc tggccaagct ggctcgcttt      1740
+     gctcctgggg cgcgcgctct gctgcgcatc cgtgccgacg acccgggcgc gcgctgccag      1800
+     ctgggcaaca agtacggtgc cgaggtgcac gagtgggagc ctctcctgga ggcggcgcgc      1860
+     tccatgggcg tggaggtgac tggcgttgca ttccacgtcg gctccggcgc caccaacccc      1920
+     gccgccttct cgcacgccat cgagctggct cgccgcgcct gggacctggc agtggctcac      1980
+     ggcttcgaca tgcagatcct ggacatcggc ggcggcttct gcggcgggcg ctttggccgc      2040
+     gacggccgcg tcgacctggg cggcgtcccg gaggccgtca actcggcgct ggcggcgcac      2100
+     ttccccgagg acggctcgct gcgcgtcatc gccgagcccg gacgcttctt cgccgagtcg      2160
+     atcgccacca tgggctgcct ggtgtacggc cgtcgcgtgc gggtggagcc cggggcgctg      2220
+     gccggcgccg aggcccccgc ggcgcgtgcc cccggcgcgc tgcccatgcg taagcgcgtg      2280
+     cactcttgcc gccgcctggc ggcctttgcg gaggagctgg cggatgtgga gcaagaggtg      2340
+     ctgggctatg actactgggt caccgacggc ctgtacggct ccatgaacag cgtgctgtac      2400
+     gaccacgcca cgctgtccgc caggccgctg ctgtctgatg gtgcgcccgc ccccgccgac      2460
+     accttcccct ccacggtgtt tggccccacc tgcgacggcc tggacaccct gctcaccgac      2520
+     taccagctgc cggagctgca ggtcggcgac tggctgctgt tcccctccat gggcgcctac      2580
+     accctgtgcg gcgcctccaa gtttaacggc atcgacgcca cagccgccgc cacgttctac      2640
+     gtctgctccc accagccctg a                                                2661
+//

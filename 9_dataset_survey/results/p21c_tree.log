@@ -1,0 +1,691 @@
+IQ-TREE multicore version 2.4.0 for Windows 64-bit built Feb  7 2025
+Developed by Bui Quang Minh, Nguyen Lam Tung, Olga Chernomor, Heiko Schmidt,
+Dominik Schrempf, Michael Woodhams, Ly Trong Nhan, Thomas Wong
+
+Host:    tatertotstuy (AVX2, FMA3, 15 GB RAM)
+Command: C:\Users\Soniya\Downloads\iqtree-2.4.0-Windows\iqtree-2.4.0-Windows\bin\iqtree2.exe -s C:\Users\Soniya\Documents\GitHub\adometdc-glu178\9_dataset_survey\results\p21c_alignment.fasta -m MFP -bb 1000 -seed 1 -nt AUTO -pre C:\Users\Soniya\Documents\GitHub\adometdc-glu178\9_dataset_survey\results\p21c_tree -redo
+Seed:    1 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Mon Nov 23 19:59:42 2026
+Kernel:  AVX+FMA - auto-detect threads (12 CPU cores detected)
+
+Reading alignment file C:\Users\Soniya\Documents\GitHub\adometdc-glu178\9_dataset_survey\results\p21c_alignment.fasta ... Fasta format detected
+Reading fasta file: done in 0.0023367 secs
+Alignment most likely contains protein sequences
+Alignment has 331 sequences with 365 columns, 365 distinct patterns
+364 parsimony-informative, 1 singleton sites, 0 constant sites
+               Gap/Ambiguity  Composition  p-value
+Analyzing sequences: done in 0.000421 secs
+   1  A0A6T9JEL0       2.47%    failed      2.42%
+   2  A0A6T1MV08       2.47%    passed     21.74%
+   3  A0A6T1MYB6       2.47%    passed     21.74%
+   4  A0A6T3TK94       0.27%    passed     40.85%
+   5  UPI00196EE42E   15.62%    passed     28.50%
+   6  A0A6T3U287       2.47%    failed      1.02%
+   7  A0A6T4GYH0       0.27%    passed     44.76%
+   8  A0A6T2WKT0       4.66%    failed      0.00%
+   9  A0A6U5ELH5       3.01%    passed     96.11%
+  10  UPI0016E0294D    3.01%    passed     16.72%
+  11  UPI0016C1D230    2.74%    passed      6.01%
+  12  UPI00172DB5E3    3.01%    passed     16.72%
+  13  UPI0016D425BA    3.01%    passed     40.92%
+  14  UPI0016FF88B7    3.01%    passed     40.92%
+  15  A0A6T5GM14       1.92%    passed     44.01%
+  16  A0ABQ7JEA1       0.00%    passed     12.05%
+  17  A0A0G4F124       1.10%    passed     54.90%
+  18  A0A6T3RBZ4       2.47%    passed     24.86%
+  19  A0A6U9YNS9       3.84%    passed     82.37%
+  20  UPI003EC9801A    0.55%    failed      0.00%
+  21  A0A653H4L8       0.55%    failed      0.00%
+  22  A0A6U5S121       2.47%    passed     28.54%
+  23  A0A6U5S5N9       2.47%    passed     28.54%
+  24  A0A6V5L487       2.47%    passed      7.48%
+  25  A0A6V4UHU9       3.56%    passed     43.86%
+  26  UPI0016E04C1C    3.01%    passed     82.89%
+  27  UPI001701775D    3.01%    passed     55.83%
+  28  UPI0016D6B8ED    3.01%    passed     52.58%
+  29  UPI001AB91350    2.47%    passed     30.48%
+  30  A0A6T3X7A1       2.47%    failed      3.93%
+  31  UPI0022F864FC    2.47%    passed     28.54%
+  32  UPI0022FC6240    2.47%    passed     28.54%
+  33  UPI0022F7E90C    2.47%    passed     28.54%
+  34  A0A7S1AKA3       2.47%    passed     40.57%
+  35  A0A6V4AY69       3.29%    passed     26.03%
+  36  A0A2P9C306       0.27%    failed      0.00%
+  37  A0A509AGS9       0.27%    failed      0.00%
+  38  A0A0Y9UXV6       0.27%    failed      0.00%
+  39  Q4YQC2          27.12%    failed      0.00%
+  40  A0A2P9CQE3       0.27%    failed      0.00%
+  41  A0A2P9GLB6       0.27%    failed      0.00%
+  42  A0A2P9D8D3       0.27%    failed      0.00%
+  43  A0ACB9Y8J1       0.27%    failed      0.00%
+  44  A0A4V0K3R1       0.27%    failed      0.00%
+  45  A0A1D3LHJ9       0.27%    failed      0.00%
+  46  A0A1C6XH34       0.27%    failed      0.00%
+  47  A0A1C6X904       0.27%    failed      0.00%
+  48  A0A1B1DW15       0.27%    failed      0.00%
+  49  K6V8T8           0.27%    failed      0.00%
+  50  Q9Y1L5           0.27%    failed      0.00%
+  51  Q8IJ77           0.27%    failed      0.00%
+  52  Q9U8D4           0.27%    failed      0.00%
+  53  A0A0L7K9I5       0.27%    failed      0.00%
+  54  W4J2C0           0.27%    failed      0.00%
+  55  W7F6W1           0.27%    failed      0.00%
+  56  A0A0L7LXK0       0.27%    failed      0.00%
+  57  A0A2I0BRE9       0.27%    failed      0.00%
+  58  A0A024VK72       0.27%    failed      0.00%
+  59  A0A0L1IFH4       0.27%    failed      0.00%
+  60  A0A024WP08       0.27%    failed      0.00%
+  61  W4IGG8           0.27%    failed      0.00%
+  62  A0A0L0CUY5       0.27%    failed      0.00%
+  63  A0A024W5H0       0.27%    failed      0.00%
+  64  W7JXH5           0.27%    failed      0.00%
+  65  A0A024V6H4       0.27%    failed      0.00%
+  66  A0A0D9QIT5       0.55%    failed      0.00%
+  67  A0A151LL77       0.27%    failed      0.00%
+  68  A0A2P9C2V6       0.27%    failed      0.00%
+  69  A0A1J1GXQ1       0.55%    failed      0.00%
+  70  A0A1Y1JBX6       0.27%    failed      0.00%
+  71  W7A4D8           0.27%    failed      0.00%
+  72  A0A384LE31       0.27%    failed      0.00%
+  73  A0A1A8VUP1       0.27%    failed      0.00%
+  74  A0A1D3TG90       0.27%    failed      0.00%
+  75  A0A1C3KQ77       0.27%    failed      0.00%
+  76  A0A1A8VMW6       0.82%    failed      0.00%
+  77  A0A1A8YPA3       0.27%    failed      0.00%
+  78  A0A1A8YN63       0.27%    failed      0.00%
+  79  A0A2P9BEZ8       0.27%    failed      0.00%
+  80  A0A060RYU4       0.27%    failed      0.00%
+  81  A0A151LFN8       0.27%    failed      0.00%
+  82  A0A2P9DG25       0.27%    failed      0.00%
+  83  A0A1J1H2N9       0.55%    failed      0.00%
+  84  A0A6V7SLE9       0.27%    failed      0.00%
+  85  A0A6V7RZD7       0.27%    failed      0.00%
+  86  A0A6V7RYC3       0.27%    failed      0.00%
+  87  W7AE04           0.27%    failed      0.00%
+  88  A0A081ICA4       0.27%    failed      0.00%
+  89  A0A8S4HHB4       0.27%    failed      0.00%
+  90  A5KDQ6           0.27%    failed      0.00%
+  91  A0A1L0CSS6       0.27%    failed      0.00%
+  92  UPI0023B6FB67    0.27%    failed      0.00%
+  93  A0A1G4GUM3       0.27%    failed      0.00%
+  94  A0A1G4H9W7       0.27%    failed      0.00%
+  95  A0A0J9SWZ9       0.27%    failed      0.00%
+  96  A0A0J9V631       0.27%    failed      0.00%
+  97  A0A0J9TH68       0.27%    failed      0.00%
+  98  A0A0J9U0R9       0.27%    failed      0.00%
+  99  Q7RFF2           0.27%    failed      0.00%
+ 100  V7PHE3           0.27%    failed      0.00%
+ 101  UPI0017090670    3.01%    passed     14.63%
+ 102  UPI0016C6736F    2.74%    passed     20.64%
+ 103  UPI001718F1CD    3.01%    passed     39.07%
+ 104  UPI001700BF28    2.74%    passed     15.05%
+ 105  UPI00172BB759    3.01%    passed     11.29%
+ 106  UPI0016E00446    3.01%    passed     39.07%
+ 107  UPI0016F85706    3.01%    passed     13.01%
+ 108  A0A6T3UGG9       3.01%    passed      8.20%
+ 109  A0A6U6QKT5       2.74%    passed     76.87%
+ 110  A0A0G4EYD2       4.66%    passed     14.41%
+ 111  A0A6U9NGK1      23.29%    failed      0.08%
+ 112  UPI0022FB4D1A    4.66%    passed     14.41%
+ 113  A0A4R2JAR7      35.62%    failed      2.28%
+ 114  UPI0007C4E7B4   35.62%    failed      0.05%
+ 115  A0A2N3WC07      35.62%    failed      0.40%
+ 116  A0A428YTQ9      35.62%    failed      0.46%
+ 117  D9VBH0          35.62%    failed      0.05%
+ 118  UPI000B140B54   35.62%    failed      0.46%
+ 119  UPI004803C50C   36.71%    failed      0.84%
+ 120  UPI00268D0094   10.41%    failed      1.52%
+ 121  A0A1V2P5S9      10.41%    failed      1.52%
+ 122  A0ABX0BYM8      35.62%    failed      0.01%
+ 123  A0A178WWK5      35.62%    failed      0.01%
+ 124  UPI003370CFEE   35.62%    failed      0.75%
+ 125  UPI00036BF155   35.62%    failed      1.09%
+ 126  UPI0003A6B286   35.62%    failed      1.09%
+ 127  UPI001ABF7924   35.62%    failed      0.76%
+ 128  UPI000E227C3A   35.62%    failed      0.76%
+ 129  UPI001C721CE1   35.62%    failed      0.17%
+ 130  A0A7W3VY89      35.62%    failed      0.17%
+ 131  A0A8E1W7I6      35.62%    failed      0.30%
+ 132  UPI001C81539F   35.62%    failed      0.30%
+ 133  UPI003A5236E8   35.62%    failed      0.40%
+ 134  UPI00068EDC01   35.62%    failed      0.21%
+ 135  UPI0005270716   35.62%    failed      0.21%
+ 136  UPI00161B2541   35.62%    failed      0.10%
+ 137  A0A840IRI3      35.62%    failed      0.10%
+ 138  UPI001070221A   35.62%    failed      0.21%
+ 139  UPI0003A47673   35.62%    failed      0.75%
+ 140  UPI000685DF3D   35.62%    failed      0.75%
+ 141  UPI000688CEE6   35.62%    failed      0.06%
+ 142  UPI00039C5750   35.62%    failed      0.06%
+ 143  UPI001927BBE1   35.62%    failed      0.01%
+ 144  UPI000B85F38C   10.41%    failed      0.09%
+ 145  A0A1H8XGU0      10.41%    failed      0.09%
+ 146  UPI001C42F751   10.41%    failed      0.09%
+ 147  UPI0030B3CBF2   35.62%    failed      0.30%
+ 148  A0A2K8LNJ3      35.62%    failed      0.05%
+ 149  A0A8G0DY54      10.41%    failed      0.02%
+ 150  A0A974Z9W3      10.68%    failed      0.01%
+ 151  UPI001F9BFCB1   35.62%    failed      0.22%
+ 152  UPI0026B9519D   10.14%    failed      0.00%
+ 153  A0A4Q7JAE6       9.86%    failed      0.00%
+ 154  UPI00068B28A7   35.62%    failed      2.03%
+ 155  A0A1W2EJG6      35.62%    failed      2.83%
+ 156  UPI0009FBE781   35.62%    failed      2.83%
+ 157  UPI0007C46A25   35.62%    failed      2.03%
+ 158  UPI000AA1A293   35.62%    failed      2.03%
+ 159  A0ABS4TJG5      35.62%    passed      9.56%
+ 160  UPI001AE6D9F8   35.62%    passed      9.56%
+ 161  UPI001564A819   35.62%    failed      2.31%
+ 162  UPI001C26DFB4   35.62%    failed      2.31%
+ 163  A0ABX2EWQ9      35.62%    failed      2.31%
+ 164  A0A0N9IDG2      35.62%    failed      3.97%
+ 165  UPI0009F99147   35.62%    failed      3.97%
+ 166  UPI0019FA3811   35.62%    failed      3.97%
+ 167  UPI0007C7932D   35.62%    failed      3.97%
+ 168  UPI0007C7B459   35.62%    failed      1.29%
+ 169  UPI0006960043   35.62%    failed      1.29%
+ 170  A0A0K3B4D9      40.55%    passed      6.96%
+ 171  A0ACG4DQ57      35.89%    failed      0.00%
+ 172  UPI00069089CE   35.62%    failed      0.46%
+ 173  UPI0018F8B29C   38.90%    failed      0.30%
+ 174  UPI00256FE547   36.16%    failed      0.09%
+ 175  UPI0006900420   35.62%    failed      0.05%
+ 176  A0A2E3ETT7       6.03%    failed      0.47%
+ 177  UPI00106EF908   35.62%    failed      0.05%
+ 178  A0A6T0RWN7       4.38%    passed     99.88%
+ 179  A0A7S1KLJ4       2.47%    failed      0.00%
+ 180  A0A8C9GKE0       7.67%    failed      0.00%
+ 181  A0A9C7PQ51      13.42%    failed      0.00%
+ 182  A0A9C7PSW2      13.42%    failed      0.00%
+ 183  UPI00207E5336    9.59%    failed      0.00%
+ 184  M2YAF1           9.59%    failed      0.00%
+ 185  A0AAV9I966       7.67%    failed      0.00%
+ 186  UPI00403B59D6   11.78%    failed      0.00%
+ 187  A0A2V3IZY9      14.25%    failed      0.00%
+ 188  A0A1X6PGY4      13.42%    failed      0.00%
+ 189  UPI003E63B0D5   12.88%    failed      0.00%
+ 190  A0ACC3CDY0      13.70%    failed      0.00%
+ 191  A0AAV8UZF7       9.04%    passed     10.64%
+ 192  UPI0034ACD96C    3.29%    failed      0.04%
+ 193  A0A9D4ZGS2       3.56%    passed     64.85%
+ 194  UPI0026F5908A    3.29%    passed     67.94%
+ 195  UPI00270145B2    3.29%    passed     66.02%
+ 196  A0AAW1T1C3       0.27%    failed      3.04%
+ 197  A0AAW1RFQ0       0.27%    passed      6.39%
+ 198  A0A3M7KV61      23.56%    failed      0.00%
+ 199  A0A087SFF4      23.56%    failed      0.00%
+ 200  A0ACS3USW8       3.56%    failed      0.00%
+ 201  UPI003DED54FA    4.11%    failed      0.00%
+ 202  UPI00256AEE67    2.19%    passed     87.49%
+ 203  UPI003E849B82    1.10%    passed     35.36%
+ 204  UPI003E84D60F    1.10%    passed     34.59%
+ 205  A0A8T2T887       3.29%    passed     62.50%
+ 206  A0A8T2TAW1       3.29%    passed     62.50%
+ 207  A0A8T2T5U0       3.29%    passed     62.50%
+ 208  A0A8T2T6R3       3.29%    passed     62.50%
+ 209  A0A8T2V5S6       1.10%    passed     74.85%
+ 210  A0A8T2V9N7       1.10%    passed     74.85%
+ 211  A0A8T2V9B8       1.10%    passed     74.85%
+ 212  A0A8T2VH64       1.10%    passed     74.85%
+ 213  A0AAD5H3G8       0.55%    failed      1.53%
+ 214  A0A2P6TST6       0.55%    failed      2.67%
+ 215  A0ACF8QCP6       0.27%    failed      0.79%
+ 216  A0A9D4Z1M3       0.27%    failed      0.45%
+ 217  UPI0019713C57    1.64%    passed     83.59%
+ 218  A0A5B8MZ45       3.01%    passed     94.75%
+ 219  A0A7S2SYH4       3.01%    passed     94.75%
+ 220  UPI003D4E3111    3.01%    passed     96.31%
+ 221  UPI003D44361E    3.01%    passed     96.31%
+ 222  A0A7S3CEE4       3.01%    passed     95.35%
+ 223  UPI00256B0A12    1.64%    passed     13.54%
+ 224  UPI00255E298F    1.64%    passed     11.37%
+ 225  UPI00256BD7B6    1.92%    passed     31.24%
+ 226  UPI00256CCA27    1.64%    passed     37.11%
+ 227  UPI0025662740    1.92%    passed     30.29%
+ 228  UPI00255D987A    1.64%    passed     28.77%
+ 229  A0ACE1S3P2       2.47%    failed      0.18%
+ 230  UPI0041CE4EE6    2.47%    failed      0.28%
+ 231  A0A8J9S1S8       2.47%    failed      0.19%
+ 232  A0ABR2Z651       2.74%    failed      1.59%
+ 233  A0AAV1HSQ3       2.47%    failed      0.03%
+ 234  A0ABP1FZH3       2.47%    failed      1.35%
+ 235  A0A6U1YT63       1.10%    passed      7.22%
+ 236  A0AAE0FQH6       1.92%    passed     97.69%
+ 237  A0A6T6TE00       0.27%    passed     13.22%
+ 238  A0AAW1QKD7       1.37%    failed      0.00%
+ 239  A0A1Y1HLG4       1.64%    passed     36.83%
+ 240  A0A6U3FW60       0.27%    failed      3.05%
+ 241  A0A7S0SHS1       1.92%    failed      2.31%
+ 242  UPI00465AA030    1.10%    passed     43.07%
+ 243  A0AAF6ASZ4       1.10%    passed     73.02%
+ 244  A0A176VBL3       1.10%    passed     73.02%
+ 245  A0A2P6V5T4       0.27%    failed      1.92%
+ 246  UPI003A817EFF    0.27%    failed      0.73%
+ 247  A0ACF7VFR7       0.27%    failed      1.25%
+ 248  C1E5E7           0.27%    passed     43.44%
+ 249  A0A6U2E738       0.00%    passed     36.00%
+ 250  A0A6U0QXM9       0.27%    passed     41.55%
+ 251  A0A7S0KUD0       0.00%    passed     36.00%
+ 252  A0A7R9TNK0       0.00%    passed     66.03%
+ 253  A0A6U0DZB1       0.00%    passed     42.49%
+ 254  C1MNA9           0.00%    passed     66.03%
+ 255  A0A8T2HKV0       2.19%    passed      9.26%
+ 256  A0A8T2HQ82       2.19%    passed      9.26%
+ 257  A0A8T2W6N8       2.19%    passed      9.26%
+ 258  UPI001C373895    2.19%    passed      9.26%
+ 259  UPI003A1E0F79    2.19%    passed      9.26%
+ 260  UPI003E326C11    5.21%    failed      0.00%
+ 261  A0A7S1GH73      29.59%    passed     62.53%
+ 262  UPI0030877445    1.64%    passed     91.19%
+ 263  A0A6U9SDW3       1.10%    passed     97.80%
+ 264  A0A6U0PMV0       0.55%    failed      3.10%
+ 265  A0AAD9ING6      38.08%    failed      0.00%
+ 266  A0ACT2CGQ9       0.55%    passed      8.41%
+ 267  A0A830HJR7       0.55%    passed      8.41%
+ 268  UPI003D3B712B    0.55%    passed      8.11%
+ 269  A0A6V2XV37       1.92%    passed     92.03%
+ 270  A0A6V2XUL8       1.92%    passed     92.03%
+ 271  A0ABD1ZJ46       1.10%    passed     87.39%
+ 272  A0ABD1ZJA7       1.10%    passed     89.59%
+ 273  A0ABD3ICE8       1.10%    passed     83.42%
+ 274  A0ABD3ICG1       1.10%    passed     82.40%
+ 275  UPI000D1C7E6E    0.82%    passed     78.04%
+ 276  UPI000D1C7A16    0.82%    passed     84.75%
+ 277  A0AAW1PV56       0.55%    passed     15.34%
+ 278  A0A6T8QRB2       1.37%    passed     37.78%
+ 279  A0A6U1H0L7       1.37%    passed     31.95%
+ 280  A0A061RZV3       1.37%    passed     76.06%
+ 281  A0A6V1UPV8       1.64%    failed      1.44%
+ 282  UPI003FA50ABC    0.27%    passed      9.86%
+ 283  UPI0032F171AD    0.27%    failed      2.72%
+ 284  UPI003EF4DE17   17.81%    failed      0.05%
+ 285  UPI0032FB0F5E    0.27%    failed      0.95%
+ 286  UPI0033022BC4    0.27%    failed      2.24%
+ 287  UPI003EFAEB2A    0.27%    failed      2.24%
+ 288  UPI003871A089    0.27%    failed      4.12%
+ 289  UPI0038720A48    0.27%    failed      4.54%
+ 290  A0AAW1PYA1       5.48%    passed     23.57%
+ 291  UPI002567789E    1.64%    passed     11.37%
+ 292  A0A9P3J9N9       1.64%    passed     42.02%
+ 293  A0A5J4Y8F2       0.27%    failed      0.95%
+ 294  UPI0022F665C1    0.27%    failed      3.05%
+ 295  UPI001AB276C2   29.59%    passed     14.04%
+ 296  UPI0022FCFCE2    1.37%    passed     53.27%
+ 297  UPI001A872EF3    3.01%    passed     53.09%
+ 298  UPI0049530031    1.92%    passed      7.52%
+ 299  UPI004952E73C    3.01%    failed      4.00%
+ 300  P11926           1.37%    passed     71.77%
+ 301  P07805           1.37%    passed     72.53%
+ 302  P08432           3.56%    passed     67.63%
+ 303  P93351           3.56%    passed     85.75%
+ 304  Q84527           4.93%    failed      0.39%
+ 305  Q9SI64           2.74%    failed      0.52%
+ 306  O23141           2.47%    failed      0.64%
+ 307  P21170           3.01%    failed      1.81%
+ 308  P00861           6.03%    failed      0.00%
+ 309  A8FNH9           8.49%    failed      0.05%
+ 310  O14977           2.19%    failed      2.04%
+ 311  Q96A70           1.37%    failed      3.91%
+ 312  O50657           4.66%    passed     46.89%
+ 313  A0A8F1NN86       2.19%    passed     48.72%
+ 314  Q949X7           4.38%    passed     47.08%
+ 315  UPI0021C4CABB    1.64%    passed      9.08%
+ 316  UPI0021C4D23B    4.93%    failed      0.54%
+ 317  UPI0021C4D74F    4.66%    failed      1.20%
+ 318  UPI0021C4E8AD    2.19%    passed     39.80%
+ 319  UPI001702386F    2.47%    passed     94.61%
+ 320  UPI0017429AE9   12.05%    passed     17.39%
+ 321  UPI00249615BA    4.93%    passed     76.66%
+ 322  UPI0019748BC5    2.47%    passed     93.06%
+ 323  UPI0024983FC5    2.47%    passed     96.69%
+ 324  UPI00171E2F90   32.05%    passed     84.42%
+ 325  UPI00172E381D   36.99%    passed     79.99%
+ 326  UPI000D81CFB8    5.21%    passed     44.78%
+ 327  UPI000D9E831A    3.84%    passed      5.75%
+ 328  UPI000D836759    5.21%    failed      1.75%
+ 329  UPI001738FFC2    5.48%    passed      5.22%
+ 330  UPI0016D2107E    8.22%    passed      8.19%
+ 331  UPI0016CBA8E8    3.01%    failed      0.23%
+****  TOTAL            8.83%  194 sequences failed composition chi2 test (p-value<5%; df=19)
+NOTE: A0A6T1MYB6 is identical to A0A6T1MV08 but kept for subsequent analysis
+NOTE: UPI00172DB5E3 is identical to UPI0016E0294D but kept for subsequent analysis
+NOTE: UPI0016FF88B7 is identical to UPI0016D425BA but kept for subsequent analysis
+NOTE: A0A6U5S5N9 is identical to A0A6U5S121 but kept for subsequent analysis
+NOTE: A0A1A8VUP1 is identical to A0ACB9Y8J1 but kept for subsequent analysis
+NOTE: A0A1C6XH34 is identical to A0A4V0K3R1 but kept for subsequent analysis
+NOTE: Q9U8D4 is identical to Q8IJ77 but kept for subsequent analysis
+NOTE: A0A1A8YPA3 is identical to A0A1C3KQ77 but kept for subsequent analysis
+NOTE: A0A2P9DG25 is identical to A0A060RYU4 but kept for subsequent analysis
+NOTE: A5KDQ6 is identical to A0A8S4HHB4 but kept for subsequent analysis
+NOTE: V7PHE3 is identical to Q7RFF2 but kept for subsequent analysis
+NOTE: UPI0016E00446 is identical to UPI001718F1CD but kept for subsequent analysis
+NOTE: UPI0022FB4D1A is identical to A0A0G4EYD2 but kept for subsequent analysis
+NOTE: UPI0006900420 is identical to UPI0007C4E7B4 but kept for subsequent analysis
+NOTE: UPI003A5236E8 is identical to A0A2N3WC07 but kept for subsequent analysis
+NOTE: UPI000B140B54 is identical to A0A428YTQ9 but kept for subsequent analysis
+NOTE: A0A2K8LNJ3 is identical to D9VBH0 but kept for subsequent analysis
+NOTE: A0A1V2P5S9 is identical to UPI00268D0094 but kept for subsequent analysis
+NOTE: A0A178WWK5 is identical to A0ABX0BYM8 but kept for subsequent analysis
+NOTE: UPI0003A6B286 is identical to UPI00036BF155 but kept for subsequent analysis
+NOTE: UPI000E227C3A is identical to UPI001ABF7924 but kept for subsequent analysis
+NOTE: A0A7W3VY89 is identical to UPI001C721CE1 but kept for subsequent analysis
+NOTE: UPI001C81539F is identical to A0A8E1W7I6 but kept for subsequent analysis
+NOTE: UPI0005270716 is identical to UPI00068EDC01 but kept for subsequent analysis
+NOTE: A0A840IRI3 is identical to UPI00161B2541 but kept for subsequent analysis
+NOTE: UPI000685DF3D is identical to UPI0003A47673 but kept for subsequent analysis
+NOTE: UPI00039C5750 is identical to UPI000688CEE6 but kept for subsequent analysis
+NOTE: A0A1H8XGU0 is identical to UPI000B85F38C but kept for subsequent analysis
+NOTE: UPI0007C46A25 is identical to UPI00068B28A7 but kept for subsequent analysis
+NOTE: UPI0009FBE781 is identical to A0A1W2EJG6 but kept for subsequent analysis
+NOTE: UPI001AE6D9F8 is identical to A0ABS4TJG5 but kept for subsequent analysis
+NOTE: UPI001C26DFB4 is identical to UPI001564A819 but kept for subsequent analysis
+NOTE: UPI0009F99147 is identical to A0A0N9IDG2 but kept for subsequent analysis
+NOTE: UPI0006960043 is identical to UPI0007C7B459 but kept for subsequent analysis
+NOTE: M2YAF1 is identical to UPI00207E5336 but kept for subsequent analysis
+NOTE: A0A8T2TAW1 is identical to A0A8T2T887 but kept for subsequent analysis
+NOTE: A0A8T2V9N7 is identical to A0A8T2V5S6 but kept for subsequent analysis
+NOTE: A0A7S2SYH4 is identical to A0A5B8MZ45 but kept for subsequent analysis
+NOTE: UPI003D44361E is identical to UPI003D4E3111 but kept for subsequent analysis
+NOTE: UPI002567789E is identical to UPI00255E298F but kept for subsequent analysis
+NOTE: UPI0022F665C1 is identical to A0A6U3FW60 but kept for subsequent analysis
+NOTE: A0A176VBL3 is identical to A0AAF6ASZ4 but kept for subsequent analysis
+NOTE: A0A7S0KUD0 is identical to A0A6U2E738 but kept for subsequent analysis
+NOTE: C1MNA9 is identical to A0A7R9TNK0 but kept for subsequent analysis
+NOTE: A0A8T2HQ82 is identical to A0A8T2HKV0 but kept for subsequent analysis
+NOTE: A0A830HJR7 is identical to A0ACT2CGQ9 but kept for subsequent analysis
+NOTE: A0A6V2XUL8 is identical to A0A6V2XV37 but kept for subsequent analysis
+NOTE: A0A5J4Y8F2 is identical to UPI0032FB0F5E but kept for subsequent analysis
+NOTE: UPI003EFAEB2A is identical to UPI0033022BC4 but kept for subsequent analysis
+NOTE: 39 identical sequences (see below) will be ignored for subsequent analysis
+NOTE: UPI0022F864FC (identical to A0A6U5S121) is ignored but added at the end
+NOTE: UPI0022FC6240 (identical to A0A6U5S121) is ignored but added at the end
+NOTE: UPI0022F7E90C (identical to A0A6U5S121) is ignored but added at the end
+NOTE: A0A1C6X904 (identical to A0A4V0K3R1) is ignored but added at the end
+NOTE: A0A0L7K9I5 (identical to Q8IJ77) is ignored but added at the end
+NOTE: W4J2C0 (identical to Q8IJ77) is ignored but added at the end
+NOTE: W7F6W1 (identical to Q8IJ77) is ignored but added at the end
+NOTE: A0A0L7LXK0 (identical to Q8IJ77) is ignored but added at the end
+NOTE: A0A2I0BRE9 (identical to Q8IJ77) is ignored but added at the end
+NOTE: A0A024VK72 (identical to Q8IJ77) is ignored but added at the end
+NOTE: A0A0L1IFH4 (identical to Q8IJ77) is ignored but added at the end
+NOTE: A0A024WP08 (identical to Q8IJ77) is ignored but added at the end
+NOTE: W4IGG8 (identical to Q8IJ77) is ignored but added at the end
+NOTE: A0A0L0CUY5 (identical to Q8IJ77) is ignored but added at the end
+NOTE: A0A024V6H4 (identical to Q8IJ77) is ignored but added at the end
+NOTE: A0A1A8YN63 (identical to A0A1C3KQ77) is ignored but added at the end
+NOTE: A0A1L0CSS6 (identical to A0A8S4HHB4) is ignored but added at the end
+NOTE: UPI0023B6FB67 (identical to A0A8S4HHB4) is ignored but added at the end
+NOTE: A0A1G4GUM3 (identical to A0A8S4HHB4) is ignored but added at the end
+NOTE: A0A1G4H9W7 (identical to A0A8S4HHB4) is ignored but added at the end
+NOTE: A0A0J9SWZ9 (identical to A0A8S4HHB4) is ignored but added at the end
+NOTE: A0A0J9V631 (identical to A0A8S4HHB4) is ignored but added at the end
+NOTE: A0A0J9TH68 (identical to A0A8S4HHB4) is ignored but added at the end
+NOTE: A0A0J9U0R9 (identical to A0A8S4HHB4) is ignored but added at the end
+NOTE: UPI00106EF908 (identical to UPI0007C4E7B4) is ignored but added at the end
+NOTE: UPI00069089CE (identical to A0A428YTQ9) is ignored but added at the end
+NOTE: UPI001927BBE1 (identical to A0ABX0BYM8) is ignored but added at the end
+NOTE: UPI001C42F751 (identical to UPI000B85F38C) is ignored but added at the end
+NOTE: UPI000AA1A293 (identical to UPI00068B28A7) is ignored but added at the end
+NOTE: A0ABX2EWQ9 (identical to UPI001564A819) is ignored but added at the end
+NOTE: UPI0019FA3811 (identical to A0A0N9IDG2) is ignored but added at the end
+NOTE: UPI0007C7932D (identical to A0A0N9IDG2) is ignored but added at the end
+NOTE: A0A8T2T5U0 (identical to A0A8T2T887) is ignored but added at the end
+NOTE: A0A8T2T6R3 (identical to A0A8T2T887) is ignored but added at the end
+NOTE: A0A8T2V9B8 (identical to A0A8T2V5S6) is ignored but added at the end
+NOTE: A0A8T2VH64 (identical to A0A8T2V5S6) is ignored but added at the end
+NOTE: A0A8T2W6N8 (identical to A0A8T2HKV0) is ignored but added at the end
+NOTE: UPI001C373895 (identical to A0A8T2HKV0) is ignored but added at the end
+NOTE: UPI003A1E0F79 (identical to A0A8T2HKV0) is ignored but added at the end
+Alignment was printed to C:\Users\Soniya\Documents\GitHub\adometdc-glu178\9_dataset_survey\results\p21c_tree.uniqueseq.phy
+
+For your convenience alignment with unique sequences printed to C:\Users\Soniya\Documents\GitHub\adometdc-glu178\9_dataset_survey\results\p21c_tree.uniqueseq.phy
+
+
+Create initial parsimony tree by phylogenetic likelihood library (PLL)... 0.199 seconds
+Measuring multi-threading efficiency up to 12 CPU cores
+Increase to 10 rounds for branch lengths
+4 trees examined
+Threads: 1 / Time: 12.150 sec / Speedup: 1.000 / Efficiency: 100% / LogL: -170603
+Threads: 2 / Time: 7.588 sec / Speedup: 1.601 / Efficiency: 80% / LogL: -170603
+Threads: 3 / Time: 5.958 sec / Speedup: 2.039 / Efficiency: 68% / LogL: -170603
+Threads: 4 / Time: 5.395 sec / Speedup: 2.252 / Efficiency: 56% / LogL: -170603
+Threads: 5 / Time: 5.191 sec / Speedup: 2.340 / Efficiency: 47% / LogL: -170603
+BEST NUMBER OF THREADS: 4
+
+Perform fast likelihood tree search using LG+G model...
+Estimate model parameters (epsilon = 5.000)
+Perform nearest neighbor interchange...
+Estimate model parameters (epsilon = 1.000)
+1. Initial log-likelihood: -70587.051
+Optimal log-likelihood: -70587.030
+Gamma shape alpha: 1.460
+Parameters optimization took 1 rounds (0.413 sec)
+Time for fast ML tree search: 5.947 seconds
+
+NOTE: ModelFinder requires 176 MB RAM!
+ModelFinder will test up to 616 protein models (sample size: 365 epsilon: 0.100) ...
+ No. Model         -LnL         df  AIC          AICc         BIC
+  1  LG            73844.765    581 148851.530   825135.530   151117.370
+  2  LG+G4         70587.030    582 142338.060   820950.060   144607.801
+  3  LG+R2         71114.223    583 143394.446   824338.446   145668.086
+  4  LG+R3         70726.683    585 142623.366   828243.366   144904.806
+  5  LG+R4         70561.587    587 142297.175   832609.175   144586.415
+  6  LG+R5         70509.977    589 142197.953   837217.953   144494.993
+  7  LG+R6         70466.182    591 142114.364   841858.364   144419.204
+  8  LG+R7         70465.557    593 142117.113   846601.113   144429.752
+ 18  LG+F+R6       70482.483    610 142184.966   887604.966   144563.904
+ 29  WAG+R6        70701.437    591 142584.875   842328.875   144889.714
+ 40  WAG+F+R6      70645.135    610 142510.270   887930.270   144889.208
+ 51  JTT+R6        71081.488    591 143344.975   843088.975   145649.814
+ 62  JTT+F+R6      71192.229    610 143604.457   889024.457   145983.395
+WARNING: Normalizing state frequencies so that sum of them equals to 1
+ 73  Q.pfam+R6     70357.458    591 141896.917   841640.917   144201.756
+WARNING: Normalizing state frequencies so that sum of them equals to 1
+ 84  Q.pfam+F+R6   70423.736    610 142067.471   887487.471   144446.409
+WARNING: Normalizing state frequencies so that sum of them equals to 1
+ 95  Q.bird+R6     72355.890    591 145893.779   845637.779   148198.618
+WARNING: Normalizing state frequencies so that sum of them equals to 1
+106  Q.bird+F+R6   72644.232    610 146508.464   891928.464   148887.401
+WARNING: Normalizing state frequencies so that sum of them equals to 1
+117  Q.mammal+R6   71812.776    591 144807.552   844551.552   147112.392
+WARNING: Normalizing state frequencies so that sum of them equals to 1
+128  Q.mammal+F+R6 72104.360    610 145428.721   890848.721   147807.658
+139  Q.insect+R6   70878.936    591 142939.872   842683.872   145244.711
+150  Q.insect+F+R6 70956.670    610 143133.341   888553.341   145512.278
+WARNING: Normalizing state frequencies so that sum of them equals to 1
+161  Q.plant+R6    71286.643    591 143755.287   843499.287   146060.126
+WARNING: Normalizing state frequencies so that sum of them equals to 1
+172  Q.plant+F+R6  71391.290    610 144002.579   889422.579   146381.517
+WARNING: Normalizing state frequencies so that sum of them equals to 1
+183  Q.yeast+R6    71097.729    591 143377.459   843121.459   145682.298
+WARNING: Normalizing state frequencies so that sum of them equals to 1
+194  Q.yeast+F+R6  70779.090    610 142778.180   888198.180   145157.117
+205  JTTDCMut+R6   71080.182    591 143342.364   843086.364   145647.203
+216  JTTDCMut+F+R6 71187.532    610 143595.063   889015.063   145974.001
+227  DCMut+R6      71650.325    591 144482.650   844226.650   146787.490
+238  DCMut+F+R6    71650.752    610 144521.504   889941.504   146900.442
+249  VT+R6         70843.077    591 142868.155   842612.155   145172.994
+260  VT+F+R6       70812.513    610 142845.026   888265.026   145223.963
+271  PMB+R6        71179.526    591 143541.053   843285.053   145845.892
+282  PMB+F+R6      71260.708    610 143741.415   889161.415   146120.352
+293  Blosum62+R6   71163.604    591 143509.207   843253.207   145814.047
+304  Blosum62+F+R6 71129.658    610 143479.316   888899.316   145858.253
+315  Dayhoff+R6    71648.931    591 144479.861   844223.861   146784.701
+326  Dayhoff+F+R6  71648.690    610 144517.380   889937.380   146896.318
+337  mtREV+R6      75168.091    591 151518.182   851262.182   153823.021
+348  mtREV+F+R6    71954.821    610 145129.642   890549.642   147508.580
+359  mtART+R6      76412.868    591 154007.736   853751.736   156312.575
+370  mtART+F+R6    73459.016    610 148138.032   893558.032   150516.969
+381  mtZOA+R6      74003.619    591 149189.238   848933.238   151494.077
+392  mtZOA+F+R6    72200.781    610 145621.562   891041.562   148000.499
+403  mtMet+R6      75218.800    591 151619.599   851363.599   153924.438
+414  mtMet+F+R6    72152.371    610 145524.742   890944.742   147903.680
+425  mtVer+R6      75868.885    591 152919.771   852663.771   155224.610
+436  mtVer+F+R6    73121.973    610 147463.946   892883.946   149842.883
+447  mtInv+R6      75453.033    591 152088.065   851832.065   154392.905
+458  mtInv+F+R6    71700.923    610 144621.847   890041.847   147000.784
+469  mtMAM+R6      77142.069    591 155466.137   855210.137   157770.976
+480  mtMAM+F+R6    73861.191    610 148942.382   894362.382   151321.320
+WARNING: Normalizing state frequencies so that sum of them equals to 1
+491  FLAVI+R6      74627.527    591 150437.053   850181.053   152741.893
+WARNING: Normalizing state frequencies so that sum of them equals to 1
+502  FLAVI+F+R6    74401.794    610 150023.587   895443.587   152402.525
+513  HIVb+R6       73216.580    591 147615.159   847359.159   149919.998
+524  HIVb+F+R6     73019.845    610 147259.689   892679.689   149638.627
+535  HIVw+R6       76930.599    591 155043.198   854787.198   157348.037
+546  HIVw+F+R6     75255.341    610 151730.683   897150.683   154109.620
+557  FLU+R6        73430.753    591 148043.505   847787.505   150348.345
+568  FLU+F+R6      72583.966    610 146387.933   891807.933   148766.870
+579  rtREV+R6      71414.021    591 144010.042   843754.042   146314.881
+590  rtREV+F+R6    70899.697    610 143019.395   888439.395   145398.332
+601  cpREV+R6      71481.417    591 144144.834   843888.834   146449.674
+612  cpREV+F+R6    71187.831    610 143595.662   889015.662   145974.600
+Akaike Information Criterion:           Q.pfam+R6
+Corrected Akaike Information Criterion: LG+G4
+Bayesian Information Criterion:         Q.pfam+R6
+Best-fit model: Q.pfam+R6 chosen according to BIC
+
+All model information printed to C:\Users\Soniya\Documents\GitHub\adometdc-glu178\9_dataset_survey\results\p21c_tree.model.gz
+CPU time for ModelFinder: 3214.188 seconds (0h:53m:34s)
+Wall-clock time for ModelFinder: 840.197 seconds (0h:14m:0s)
+Generating 1000 samples for ultrafast bootstrap (seed: 1)...
+WARNING: Normalizing state frequencies so that sum of them equals to 1
+
+NOTE: 106 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.100)
+1. Initial log-likelihood: -70414.012
+2. Current log-likelihood: -70358.779
+3. Current log-likelihood: -70357.552
+Optimal log-likelihood: -70357.488
+Site proportion and rates:  (0.113,0.148) (0.217,0.321) (0.245,0.607) (0.183,1.189) (0.193,1.945) (0.049,3.490)
+Parameters optimization took 3 rounds (8.170 sec)
+Wrote distance file to... 
+Computing ML distances based on estimated model parameters...
+Calculating distance matrix: done in 5.94198 secs using 397.1% CPU
+Computing ML distances took 5.942917 sec (of wall-clock time) 23.593750 sec (of CPU time)
+WARNING: Some pairwise ML distances are too long (saturated)
+Setting up auxiliary I and S matrices: done in 0.0020586 secs
+Computing RapidNJ tree took 0.007915 sec (of wall-clock time) 0.015625 sec (of CPU time)
+Log-likelihood of RapidNJ tree: -71011.832
+--------------------------------------------------------------------
+|             INITIALIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Generating 98 parsimony trees... 18.142 second
+Computing log-likelihood of 98 initial trees ... 22.989 seconds
+Current best score: -70357.488
+
+Do NNI search on 20 best initial trees
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 1: -70352.161
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 2: -70332.558
+Iteration 10 / LogL: -70344.078 / Time: 0h:16m:0s
+Iteration 20 / LogL: -70373.025 / Time: 0h:17m:5s
+Finish initializing candidate tree set (20)
+Current best tree score: -70332.558 / CPU time: 168.987
+Number of iterations: 20
+--------------------------------------------------------------------
+|               OPTIMIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 23: -70329.185
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 27: -70328.932
+Iteration 30 / LogL: -70344.012 / Time: 0h:18m:5s (0h:13m:40s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 31: -70321.930
+Iteration 40 / LogL: -70338.616 / Time: 0h:19m:2s (0h:11m:44s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 45: -70319.384
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 48: -70319.217
+Iteration 50 / LogL: -70325.226 / Time: 0h:20m:6s (0h:12m:11s left)
+Log-likelihood cutoff on original alignment: -70395.937
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 55: -70318.048
+Iteration 60 / LogL: -70324.234 / Time: 0h:20m:59s (0h:11m:15s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 65: -70315.783
+Iteration 70 / LogL: -70344.002 / Time: 0h:21m:56s (0h:10m:55s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 71: -70313.661
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 72: -70310.392
+Iteration 80 / LogL: -70364.054 / Time: 0h:22m:51s (0h:10m:18s left)
+Iteration 90 / LogL: -70322.032 / Time: 0h:23m:44s (0h:8m:58s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 93: -70310.172
+Iteration 100 / LogL: -70311.491 / Time: 0h:24m:38s (0h:9m:59s left)
+Log-likelihood cutoff on original alignment: -70395.937
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.992
+Iteration 110 / LogL: -70336.027 / Time: 0h:25m:33s (0h:9m:32s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 116: -70309.648
+Iteration 120 / LogL: -70312.459 / Time: 0h:26m:26s (0h:10m:2s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 122: -70308.804
+Iteration 130 / LogL: -70320.072 / Time: 0h:27m:23s (0h:9m:32s left)
+Iteration 140 / LogL: -70308.860 / Time: 0h:28m:17s (0h:8m:25s left)
+Iteration 150 / LogL: -70319.012 / Time: 0h:29m:11s (0h:7m:20s left)
+Log-likelihood cutoff on original alignment: -70395.937
+Iteration 160 / LogL: -70315.600 / Time: 0h:30m:3s (0h:6m:15s left)
+Iteration 170 / LogL: -70318.793 / Time: 0h:30m:58s (0h:5m:13s left)
+Iteration 180 / LogL: -70317.256 / Time: 0h:31m:51s (0h:4m:11s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 185: -70307.949
+Iteration 190 / LogL: -70311.851 / Time: 0h:32m:46s (0h:9m:26s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 196: -70307.651
+Iteration 200 / LogL: -70310.136 / Time: 0h:33m:42s (0h:9m:30s left)
+Log-likelihood cutoff on original alignment: -70385.710
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.997
+Iteration 210 / LogL: -70321.918 / Time: 0h:34m:37s (0h:8m:52s left)
+Iteration 220 / LogL: -70347.717 / Time: 0h:35m:30s (0h:7m:51s left)
+Iteration 230 / LogL: -70326.767 / Time: 0h:36m:23s (0h:6m:50s left)
+Iteration 240 / LogL: -70307.891 / Time: 0h:37m:13s (0h:5m:49s left)
+Iteration 250 / LogL: -70325.469 / Time: 0h:38m:5s (0h:4m:50s left)
+Log-likelihood cutoff on original alignment: -70385.710
+Iteration 260 / LogL: -70309.498 / Time: 0h:38m:56s (0h:3m:51s left)
+Iteration 270 / LogL: -70331.743 / Time: 0h:39m:50s (0h:2m:52s left)
+Iteration 280 / LogL: -70327.964 / Time: 0h:40m:45s (0h:1m:55s left)
+Iteration 290 / LogL: -70318.291 / Time: 0h:41m:37s (0h:0m:57s left)
+TREE SEARCH COMPLETED AFTER 297 ITERATIONS / Time: 0h:42m:14s
+
+--------------------------------------------------------------------
+|                    FINALIZING TREE SEARCH                        |
+--------------------------------------------------------------------
+Performs final model parameters optimization
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -70307.651
+Optimal log-likelihood: -70307.645
+Site proportion and rates:  (0.112,0.145) (0.218,0.321) (0.246,0.603) (0.192,1.207) (0.186,1.978) (0.047,3.576)
+Parameters optimization took 1 rounds (1.200 sec)
+BEST SCORE FOUND : -70307.645
+Creating bootstrap support values...
+Split supports printed to NEXUS file C:\Users\Soniya\Documents\GitHub\adometdc-glu178\9_dataset_survey\results\p21c_tree.splits.nex
+Total tree length: 85.943
+
+Total number of iterations: 297
+CPU time used for tree search: 6437.234 sec (1h:47m:17s)
+Wall-clock time used for tree search: 1678.027 sec (0h:27m:58s)
+Total CPU time used: 9721.141 sec (2h:42m:1s)
+Total wall-clock time used: 2536.772 sec (0h:42m:16s)
+
+Computing bootstrap consensus tree...
+Reading input file C:\Users\Soniya\Documents\GitHub\adometdc-glu178\9_dataset_survey\results\p21c_tree.splits.nex...
+292 taxa and 1257 splits.
+Consensus tree written to C:\Users\Soniya\Documents\GitHub\adometdc-glu178\9_dataset_survey\results\p21c_tree.contree
+Reading input trees file C:\Users\Soniya\Documents\GitHub\adometdc-glu178\9_dataset_survey\results\p21c_tree.contree
+Log-likelihood of consensus tree: -70308.433
+
+Analysis results written to: 
+  IQ-TREE report:                C:\Users\Soniya\Documents\GitHub\adometdc-glu178\9_dataset_survey\results\p21c_tree.iqtree
+  Maximum-likelihood tree:       C:\Users\Soniya\Documents\GitHub\adometdc-glu178\9_dataset_survey\results\p21c_tree.treefile
+  Likelihood distances:          C:\Users\Soniya\Documents\GitHub\adometdc-glu178\9_dataset_survey\results\p21c_tree.mldist
+
+Ultrafast bootstrap approximation results written to:
+  Split support values:          C:\Users\Soniya\Documents\GitHub\adometdc-glu178\9_dataset_survey\results\p21c_tree.splits.nex
+  Consensus tree:                C:\Users\Soniya\Documents\GitHub\adometdc-glu178\9_dataset_survey\results\p21c_tree.contree
+  Screen log file:               C:\Users\Soniya\Documents\GitHub\adometdc-glu178\9_dataset_survey\results\p21c_tree.log
+
+Date and Time: Mon Nov 23 20:42:02 2026

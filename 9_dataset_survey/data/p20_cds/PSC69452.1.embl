@@ -1,0 +1,138 @@
+ID   PSC69452; SV 1; linear; genomic DNA; WGS; PLN; 2661 BP.
+XX
+PA   LHPF02000026.1
+XX
+PR   Project:PRJNA290385;
+XX
+DE   Micractinium conductrix ornithine decarboxylase
+XX
+KW   WGS.
+XX
+OS   Micractinium conductrix
+OC   Eukaryota; Viridiplantae; Chlorophyta; Trebouxiophyceae; Chlorellales;
+OC   Chlorellaceae; Micractinium.
+XX
+RN   [1]
+RX   PUBMED; 29178410.
+RA   Arriola M.B., Velmurugan N., Zhang Y., Plunkett M.H., Hondzo H.,
+RA   Barney B.M.;
+RT   "Genome sequences of Chlorella sorokiniana UTEX 1602 and Micractinium
+RT   conductrix SAG 241.80: implications to maltose excretion by a green alga";
+RL   Plant J. 93(3):566-586(2018).
+XX
+RN   [2]
+RA   Barney B., Zhang Y., Natarajan V.;
+RT   ;
+RL   Submitted (20-JUL-2015) to the INSDC.
+RL   Bioproducts and Biosystems Engineering, University of Minnesota, 1500
+RL   Gortner Avenue, St. Paul, MN 55108, USA
+XX
+RN   [3]
+RA   Barney B.;
+RT   ;
+RL   Submitted (08-FEB-2018) to the INSDC.
+RL   Bioproducts and Biosystems Engineering, University of Minnesota, 1500
+RL   Gortner Avenue, St. Paul, MN 55108, USA
+XX
+DR   MD5; 627496acb89925136358e7524ac7d09e.
+DR   BioSample; SAMN03863807.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..2661
+FT                   /organism="Micractinium conductrix"
+FT                   /host="Paramecium bursaria"
+FT                   /strain="SAG 241.80"
+FT                   /mol_type="genomic DNA"
+FT                   /country="Germany: Pond Bot Gard Univ Gottingen"
+FT                   /collected_by="W. Koch"
+FT                   /collection_date="1974"
+FT                   /db_xref="taxon:554055"
+FT   CDS             join(LHPF02000026.1:425662..425805,
+FT                   LHPF02000026.1:425979..426084,
+FT                   LHPF02000026.1:426258..426424,
+FT                   LHPF02000026.1:426613..426715,
+FT                   LHPF02000026.1:426970..427137,
+FT                   LHPF02000026.1:427355..427443,
+FT                   LHPF02000026.1:427714..427774,
+FT                   LHPF02000026.1:427960..428120,
+FT                   LHPF02000026.1:428282..428542,
+FT                   LHPF02000026.1:428682..428777,
+FT                   LHPF02000026.1:428986..429045,
+FT                   LHPF02000026.1:429220..429390,
+FT                   LHPF02000026.1:429572..429697,
+FT                   LHPF02000026.1:429903..430001,
+FT                   LHPF02000026.1:430169..430351,
+FT                   LHPF02000026.1:430554..430671,
+FT                   LHPF02000026.1:430910..431154,
+FT                   LHPF02000026.1:431314..431378,
+FT                   LHPF02000026.1:431593..431710,
+FT                   LHPF02000026.1:431893..432012)
+FT                   /codon_start=1
+FT                   /locus_tag="C2E20_7009"
+FT                   /product="ornithine decarboxylase"
+FT                   /protein_id="PSC69452.1"
+FT                   /translation="MTGPAPDVFPCPVFEGSEKRISVTFAPRAAGASNPPPAAGLRTLT
+FT                   RNQLDAMLDLAACQIVSSRSNENFDAYVLSESSLFVYPDRMVLKTCGTTKLLSCVPYMC
+FT                   QLAAGVGLEPARVKYTRASFLFPEQQPAPHTSFEQECDSLKSAFAGLGSSSAYVLGDGL
+FT                   NGLQWHVFVAGVENAHATAEKPLYTLEVCMTGLAAEKASQFFRSDAYISAQHTTVTSGI
+FT                   QALVPDASIDDYVFEPCGYSMNGVEAGTFSTIHITPEDGFSYASFEICGYSPEDVNAAE
+FT                   LVSKVSDVFRPRNLSVALSTDTAAPGTSCAAAAWGAAFMGPLGYACHSASYQEMKCGGC
+FT                   VAYFVLEQEPRGPTSGPGSPAAAAGRKAAASDSDGGSPRAVVKQFPSFSGTGSLASASV
+FT                   LADLDLLGSGPASDNASDNSSVRNGLCNSLLIDPVDMGVEDVLALHGTAQLPKSSPAVL
+FT                   DEYARKLIADHSLEDNFYILDLGTLQRLYRAWGEALPRVHPHYAVKCNPDLAVLATLAA
+FT                   LGAGFDCASEAEVRAVSALGVPFDRIVFANPCKRPRDLRCMADRGVDLTTFDTEAELAK
+FT                   LARFAPGARALLRIRADDPGARCQLGNKYGAEVHEWESLLMAARSMGVEVAGVAFHVGS
+FT                   GATHPAAFSHAIELARRAWDLGVANGCDMQILDIGGGFCGGHVHRDGRVDMGGVPEAVN
+FT                   SALAAHFPENGRTRIIAEPGRFFSESIATMGCMVYGRRVRVDPGALAGAEAPAARAPGA
+FT                   LAMRKRVHSCRRLAAFCEDLVAAEHEVLGYDYWVTDGLYGSMNSVLYDHATLTCRPLLS
+FT                   NGAPAPPEAFPSTVFGPTCDGLDTLLTDYELPELQVGDWLLFPSMGAYTLCGASKFNGI
+FT                   DATAPATFYVCSHKP"
+XX
+SQ   Sequence 2661 BP; 382 A; 1004 C; 834 G; 441 T; 0 other;
+     atgacaggcc cagcccccga cgtcttcccc tgccccgtct tcgagggcag cgagaagcgc        60
+     atctcagtga cctttgctcc gcgcgcagca ggcgctagca accccccgcc cgcggcaggg       120
+     ctccgcaccc tgacccgcaa ccagctcgac gcgatgctgg acctggccgc gtgccagata       180
+     gtttcttccc gctccaacga aaactttgac gcctacgtgc tgtcagagtc cagcctgttc       240
+     gtctacccag accgcatggt cctcaagacc tgcggcacca ccaagctgct cagctgcgtg       300
+     ccctacatgt gccagctggc ggcgggggtg gggctggaac ccgcccgcgt caaatacacc       360
+     cgagcctcct tcctcttccc cgagcagcag ccagcgccgc acacctcctt tgagcaggag       420
+     tgtgacagcc tcaagtctgc ctttgccggc ctgggctcct cctcggccta cgtgcttggc       480
+     gacgggctca acggcctgca gtggcacgtc tttgtggcgg gcgtagagaa tgcgcacgcc       540
+     accgccgaga agcccctgta caccctggag gtgtgcatga ccggactggc ggcggagaag       600
+     gcctcccagt tcttccgctc cgacgcctac atctcggcgc agcacaccac ggtgacctcc       660
+     ggcatccagg cgctggtgcc cgacgcatcc attgacgact atgtgtttga gccgtgtggc       720
+     tacagcatga acggcgtgga ggcgggcacc ttctccacca tccacatcac accggaggat       780
+     ggcttctctt acgcctcctt tgagatctgc ggctactctc ccgaggacgt caacgcggcc       840
+     gagctggtga gcaaggtcag cgacgtgttc cgcccccgca acctctcggt ggcgctatcc       900
+     accgacaccg ccgcccccgg cacctcgtgc gccgccgccg cctggggcgc ggccttcatg       960
+     ggcccacttg gctacgcctg ccactctgcc agctaccagg agatgaagtg cggcgggtgc      1020
+     gtggcctact ttgtgctgga gcaggagccc cgcggcccca catccggccc cggctcgccc      1080
+     gccgctgccg ccggccgcaa ggccgctgcc tctgacagcg acggcggctc cccccgcgct      1140
+     gtggtcaagc agttcccctc cttctctggc accggatccc tggcctccgc gtcggtgctg      1200
+     gctgatctgg acctgctggg ctctggtccc gcctcggaca acgcctctga caactcctcg      1260
+     gtgcgcaacg gcctgtgcaa cagcctgctg atcgaccccg ttgacatggg ggtggaggat      1320
+     gtgctggccc tgcacggcac cgcgcagctg cccaagagct cccctgcggt gctcgacgag      1380
+     tatgctcgca agctgatcgc tgaccactca ctggaggaca acttttacat cctggacctg      1440
+     ggcacgctgc agcggctgta ccgcgcctgg ggcgaggcgc tgccccgcgt gcacccccac      1500
+     tacgcggtga agtgcaaccc agacctggcg gtgctggcca cgctggccgc gctgggcgcc      1560
+     ggcttcgact gcgccagcga ggcggaggtg cgcgccgtgt ctgcgctggg cgtgcccttc      1620
+     gaccgaatcg tatttgcaaa cccgtgcaag cgcccccgcg acctgcgctg catggccgac      1680
+     cgcggcgtcg acctcaccac ctttgacacc gaggctgagc tggccaagct ggcacgcttc      1740
+     gcacccggcg cgcgcgcgct gctgcgcatc cgcgccgacg accccggcgc ccgctgccag      1800
+     ctgggcaaca agtacggcgc cgaggtgcac gagtgggagt ccctgctgat ggcggcccgc      1860
+     agcatgggtg tggaggtggc gggcgtcgca ttccacgtcg gttctggcgc cacccaccct      1920
+     gccgccttct ctcacgcaat cgagctggcg cgccgggcgt gggaccttgg agtggccaac      1980
+     ggctgcgaca tgcagatcct ggacattggc ggcggcttct gcggcggcca cgtgcaccgc      2040
+     gacggccgcg tcgacatggg cggcgtgccc gaggcggtca actctgccct ggcggcccac      2100
+     ttcccggaga atggccgcac ccgcatcatc gccgagcccg gccgcttctt ctccgaatcc      2160
+     atcgccacca tgggctgcat ggtctacggg cggcgggtgc gcgtggaccc cggcgcgctg      2220
+     gcgggcgccg aggcgccggc ggcgcgcgcc cccggcgcgc tggccatgcg caagcgcgtg      2280
+     cacagctgcc gccggctggc ggccttctgc gaggacctgg tggccgctga gcacgaggtg      2340
+     ctgggctacg actactgggt gaccgacggc ctgtatggct ccatgaacag cgtgctgtat      2400
+     gaccacgcca cgctgacctg caggcccctg ctgtccaacg gcgcccccgc cccgcccgag      2460
+     gccttcccct cgaccgtgtt tggccccacc tgcgacggcc tggacacgct gctcactgat      2520
+     tacgagctgc ccgagctgca ggtcggcgac tggctgcttt tcccctccat gggtgcctac      2580
+     accctgtgcg gcgcctccaa gttcaacggc atcgacgcca ccgcccccgc caccttctac      2640
+     gtctgctccc acaagccatg a                                                2661
+//

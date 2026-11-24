@@ -1,0 +1,156 @@
+ID   PTQ50650; SV 1; linear; genomic DNA; CON; PLN; 2580 BP.
+XX
+PA   KZ772673.1
+XX
+PR   Project:PRJNA53523;
+XX
+DT   17-APR-2018 (Rel. 136, Created)
+DT   17-APR-2018 (Rel. 136, Last updated, Version 1)
+XX
+DE   Marchantia polymorpha (liverwort) hypothetical protein
+XX
+KW   .
+XX
+OS   Marchantia polymorpha (liverwort)
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Marchantiophyta;
+OC   Marchantiopsida; Marchantiidae; Marchantiales; Marchantiaceae; Marchantia.
+XX
+RN   [1]
+RA   Bowman J.L., Kohchi T., Yamato K.T., Jenkins J., Shu S., Ishizaki K.,
+RA   Yamaoka S., Nishihama R., Nakamura Y., Berger F., Adam C., Aki S.S.,
+RA   Althoff F., Araki T., Arteaga-Vazquez M.A., Balasubrmanian S., Bauer D.,
+RA   Boehm C.R., Briginshaw L., Caballero-Perez J., Catarino B., Chen F.,
+RA   Chiyoda S., Chovatia M., Davies K.M., Delmans M., Demura T., Dierschke T.,
+RA   Dolan L., Dorantes-Acosta A.E., Eklund D.M., Florent S.N.,
+RA   Flores-Sandoval E., Fujiyama A., Fukuzawa H., Galik B., Grimanelli D.,
+RA   Grimwood J., Grossniklaus U., Hamada T., Haseloff J., Hetherington A.J.,
+RA   Higo A., Hirakawa Y., Hundley H.N., Ikeda Y., Inoue K., Inoue S.,
+RA   Ishida S., Jia Q., Kakita M., Kanazawa T., Kawai Y., Kawashima T.,
+RA   Kennedy M., Kinose K., Kinoshita T., Kohara Y., Koide E., Komatsu K.,
+RA   Kopischke S., Kubo M., Kyozuka J., Lagercrantz U., Lin S.S., Lindquist E.,
+RA   Lipzen A.M., Lu C., Luna E.D., Martienssen R.A., Minamino N., Mizutani M.,
+RA   Mizutani M., Mochizuki N., Monte I., Mosher R., Nagasaki H., Nakagami H.,
+RA   Naramoto S., Nishitani K., Ohtani M., Okamoto T., Okumura M., Phillips J.,
+RA   Pollak B., Reinders A., Roevekamp M., Sano R., Sawa S., Schmid M.W.,
+RA   Shirakawa M., Solano R., Spunde A., Suetsugu N., Sugano S., Sugiyama A.,
+RA   Sun R., Suzuki Y., Takenaka M., Takezawa D., Tomogane H., Tsuzuki M.,
+RA   Ueda T., Umeda M., Ward J.M., Watanabe Y., Yazaki K., Yokoyama R.,
+RA   Yoshitake Y., Yotsui I., Zachgo S., Schmutz J.;
+RT   "WGS assembly of Marchantia polymorpha";
+RL   Unpublished.
+XX
+RN   [2]
+RA   Bowman J.L., Kohchi T., Yamato K.T., Jenkins J., Shu S., Ishizaki K.,
+RA   Yamaoka S., Nishihama R., Nakamura Y., Berger F., Adam C., Aki S.S.,
+RA   Althoff F., Araki T., Arteaga-Vazquez M.A., Balasubrmanian S., Bauer D.,
+RA   Boehm C.R., Briginshaw L., Caballero-Perez J., Catarino B., Chen F.,
+RA   Chiyoda S., Chovatia M., Davies K.M., Delmans M., Demura T., Dierschke T.,
+RA   Dolan L., Dorantes-Acosta A.E., Eklund D.M., Florent S.N.,
+RA   Flores-Sandoval E., Fujiyama A., Fukuzawa H., Galik B., Grimanelli D.,
+RA   Grimwood J., Grossniklaus U., Hamada T., Haseloff J., Hetherington A.J.,
+RA   Higo A., Hirakawa Y., Hundley H.N., Ikeda Y., Inoue K., Inoue S.,
+RA   Ishida S., Jia Q., Kakita M., Kanazawa T., Kawai Y., Kawashima T.,
+RA   Kennedy M., Kinose K., Kinoshita T., Kohara Y., Koide E., Komatsu K.,
+RA   Kopischke S., Kubo M., Kyozuka J., Lagercrantz U., Lin S.S., Lindquist E.,
+RA   Lipzen A.M., Lu C., Luna E.D., Martienssen R.A., Minamino N., Mizutani M.,
+RA   Mizutani M., Mochizuki N., Monte I., Mosher R., Nagasaki H., Nakagami H.,
+RA   Naramoto S., Nishitani K., Ohtani M., Okamoto T., Okumura M., Phillips J.,
+RA   Pollak B., Reinders A., Roevekamp M., Sano R., Sawa S., Schmid M.W.,
+RA   Shirakawa M., Solano R., Spunde A., Suetsugu N., Sugano S., Sugiyama A.,
+RA   Sun R., Suzuki Y., Takenaka M., Takezawa D., Tomogane H., Tsuzuki M.,
+RA   Ueda T., Umeda M., Ward J.M., Watanabe Y., Yazaki K., Yokoyama R.,
+RA   Yoshitake Y., Yotsui I., Zachgo S., Schmutz J.;
+RT   ;
+RL   Submitted (14-DEC-2017) to the INSDC.
+RL   US DOE Joint Genome Institute, 400 Mitchell Drive, Walnut Creek, CA 94598,
+RL   USA
+XX
+DR   MD5; 8b17b7a9d510f1bd43bdab28440fe77c.
+DR   BioSample; SAMN00769973.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..2580
+FT                   /organism="Marchantia polymorpha"
+FT                   /chromosome="Unknown"
+FT                   /strain="Tak-1"
+FT                   /mol_type="genomic DNA"
+FT                   /db_xref="taxon:3197"
+FT   CDS             complement(KZ772673.1:5766127..5768706)
+FT                   /codon_start=1
+FT                   /locus_tag="MARPO_0001s0543"
+FT                   /product="hypothetical protein"
+FT                   /db_xref="GOA:A0A2R6XX12"
+FT                   /db_xref="InterPro:IPR000183"
+FT                   /db_xref="InterPro:IPR001985"
+FT                   /db_xref="InterPro:IPR002433"
+FT                   /db_xref="InterPro:IPR009006"
+FT                   /db_xref="InterPro:IPR016067"
+FT                   /db_xref="InterPro:IPR018166"
+FT                   /db_xref="InterPro:IPR022643"
+FT                   /db_xref="InterPro:IPR022644"
+FT                   /db_xref="InterPro:IPR022653"
+FT                   /db_xref="InterPro:IPR029066"
+FT                   /db_xref="UniProtKB/TrEMBL:A0A2R6XX12"
+FT                   /protein_id="PTQ50650.1"
+FT                   /translation="MGVCVAPESGNVMEVKSCPGFEGFEKRLEVEFHPAPLFSDPAGRG
+FT                   LRALARAELDVMLDAAKCTIVAQLCNEEFDSYVLSESSLFVYPLKIVLKTCGTTQILKA
+FT                   IPPLLEFAAGLSLKLRRCKYTRGTFMFPAAQPYPHGSFSEEVGYLEQYFGDLGSGGKAY
+FT                   VMGNMAKFPNWHIYSASDENDSSDERTYTLEMCMTKLDKEKASQFFNVDGKKSGADMTE
+FT                   AAGINELLPNSKICDFSFEPCGYSMNSIEGAAHSTIHVTPEDGFSFASFETMGYGPREV
+FT                   DLVRLVENVTSIFRPACFSMCLYATGSAGGGSCPGSWEKSICPSGYVCDGTSRQELPCG
+FT                   SVAVFHTFKDSRFGAVAAVHALPLFQLPEQVLCEDEYVPGKSLVSKKDPKYSSSCGKNS
+FT                   LWNLNGVVGGEMAEVFTQFDAAVIGSTLKDTDSFIRKKVNDSELESAFYVMDLGSVLRQ
+FT                   WKLWVTALPRVKPFYAVKCNPDAALLALLHKLGAGFDVASKSELKAVTDIGAVPENIIF
+FT                   ANPCKLPTHITEAGKHGVLRTTFDSESELYKLKKFLPHAEVVLRIRADDPTARCQLGTK
+FT                   YGAELEECEQLLTVAKQLSLKVVGVAFHVGSGASDASAFAYGIECAKYVFGVAEAMGLN
+FT                   DMKILDIGGGFVSNASAGVNFATAASTINKALDKCFPVSMGVTVIAEPGRFFAEDAFTL
+FT                   ATYVFGCRMRKKGGTKQAEYWVNDGIYGSMNCLLYDHAVLSVRALSQDDDAEEEWRDRN
+FT                   VYQSTIFGPTCDGLDTVMRDIYLPELQCGDWLLWPRMGAYTKAAGSNFNGFNVKDIPTS
+FT                   YVYTCREKDYSCFDHDFLVTDGSESSEEYSIFSFGKYSSSSSSDDEQ"
+XX
+SQ   Sequence 2580 BP; 591 A; 594 C; 735 G; 660 T; 0 other;
+     atgggagttt gtgttgctcc tgagtctgga aacgtaatgg aggtcaaatc atgccctgga        60
+     tttgaggggt ttgagaaaag attggaagta gagttccacc ctgccccact atttagtgat       120
+     cccgcgggta ggggtttgag agctctcgcc cgtgcagaat tggatgttat gttggacgct       180
+     gcaaagtgta caattgtggc ccaactctgc aacgaagaat ttgactctta cgtgctgtca       240
+     gaatcgagcc tctttgtcta cccgttgaag attgtcctga aaacctgtgg taccactcaa       300
+     atactgaaag ccataccgcc tttgctggaa tttgccgctg gactttcctt gaaacttcgt       360
+     cgctgcaagt acactcgagg gacatttatg tttcccgccg ctcagccata tccccatggg       420
+     agcttcagcg aggaggttgg gtatttggag cagtacttcg gtgatttggg atcgggaggc       480
+     aaagcttacg tgatgggtaa tatggcaaag tttccgaact ggcatatcta ctctgcgtcg       540
+     gacgagaacg actccagtga tgagcgcacg tacactttgg agatgtgtat gaccaagcta       600
+     gacaaggaga aggcctcgca gttcttcaat gtagatggta agaagtcggg tgcggacatg       660
+     acggaggcgg cggggatcaa cgagcttctt cctaactcca aaatttgtga tttttcattt       720
+     gagccttgcg gttattctat gaattctatc gaaggcgcag cacactcaac tattcatgtc       780
+     actccagaag atggattcag tttcgccagt tttgagacta tgggatatgg ccctcgggaa       840
+     gtggacctgg tacgcttggt ggagaatgtc acctccattt tcaggcctgc gtgcttctcg       900
+     atgtgccttt acgctactgg cagcgcgggg ggtggatctt gcccagggtc ctgggaaaaa       960
+     tccatttgtc cgtctggtta cgtctgtgat ggtactagtc gacaggagct gccttgtggc      1020
+     agtgtcgcag tgtttcatac ttttaaggac tctcgtttcg gggctgtggc tgctgtgcat      1080
+     gctcttccac tatttcagct tccggagcag gtactttgcg aggatgagta cgtgcccggg      1140
+     aagtctttgg tgtctaagaa agatccaaag tattcatcat catgcggtaa gaattctctg      1200
+     tggaatctga acggtgtcgt gggaggagag atggctgaag tgttcacaca attcgacgcg      1260
+     gctgtcatcg gatcgactct caaggacact gactctttca tcaggaagaa ggtgaatgac      1320
+     agtgagctgg agagtgcttt ctatgtgatg gacttgggat cggttttgag gcaatggaaa      1380
+     ttatgggtaa ccgctctgcc tcgtgtcaaa cccttttatg cggtgaagtg taatcccgac      1440
+     gcggctttgc ttgcactcct tcacaaactg ggagctggct ttgacgtggc gagcaagtcg      1500
+     gagctgaagg ctgtcaccga tattggagca gttcccgaaa acataatatt tgccaacccc      1560
+     tgtaagcttc ctacccacat tacggaggca ggaaagcatg gtgtactccg tacaacattt      1620
+     gactcagaat cagagcttta caagctgaag aagtttcttc cccacgccga agttgttctg      1680
+     cgtatcagag ccgacgatcc aacggcgcgg tgtcagctcg gtaccaagta cggagctgaa      1740
+     cttgaagaat gcgagcagct cctcaccgtc gcgaagcaac taagcctgaa agttgtgggt      1800
+     gttgcgtttc acgtgggcag cggtgcgtca gacgcaagtg ccttcgcgta cggaatcgag      1860
+     tgtgccaaat atgtgtttgg cgtcgcggaa gcaatggggc tgaacgatat gaagattttg      1920
+     gacatcggag gtgggttcgt ctcgaatgca tccgccggcg tgaacttcgc caccgcagcg      1980
+     tcaaccatca acaaagctct ggacaagtgc tttcccgtca gcatgggggt gactgtgatt      2040
+     gcggaacctg gcaggttctt cgcggaggat gctttcacct tggcgacgta cgtattcggc      2100
+     tgccgcatgc gcaagaaggg cggaacgaaa caggctgagt attgggtcaa tgacggcatc      2160
+     tatggatcca tgaactgtct gctctacgac catgccgtgc tgtcggtgcg cgcgctttct      2220
+     caagacgacg atgcagagga agaatggcgc gataggaacg tctatcagtc caccatcttc      2280
+     gggccgacct gtgacggcct tgacactgtg atgcgtgaca tttatctgcc ggagctgcaa      2340
+     tgcggcgact ggctgttgtg gccacgcatg ggagcgtaca ccaaggccgc agggtctaat      2400
+     ttcaacggtt tcaacgtcaa agacatccca acgtcctacg tctacacttg cagggagaag      2460
+     gattattcct gcttcgacca tgatttcctc gttactgatg gtagtgaatc tagtgaggag      2520
+     tattcaattt tcagttttgg taaatacagc agcagcagca gcagcgacga tgagcagtag      2580
+//

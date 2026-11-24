@@ -1,0 +1,131 @@
+ID   CAL8465714; SV 1; linear; genomic DNA; WGS; PLN; 2616 BP.
+XX
+PA   CAXVQD010000009.1
+XX
+PR   Project:PRJEB79308;
+XX
+DT   06-SEPT-2024 (Created)
+DT   07-SEPT-2024 (Last updated)
+XX
+DE   Coccomyxa elongata hypothetical protein
+XX
+KW   WGS.
+XX
+OS   Coccomyxa elongata
+OC   Eukaryota; Viridiplantae; Chlorophyta; core chlorophytes; Trebouxiophyceae;
+OC   Trebouxiophyceae incertae sedis; Elliptochloris clade; Coccomyxa.
+XX
+RN   [1]
+RA   Kraege A., Thomma B.;
+RT   ;
+RL   Submitted (05-SEP-2024) to the INSDC.
+RL   University of Cologne - AG Thomma, Evolutionary Microbiology, Zuelpicher
+RL   Strasse 47b, D-50674 Cologne, Germany
+XX
+DR   MD5; 421fb859e4ba36d6d0b5f708468a4c31.
+DR   BioSample; SAMEA115943470.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..2616
+FT                   /organism="Coccomyxa elongata"
+FT                   /mol_type="genomic DNA"
+FT                   /note="contig: HiC_scaffold_17"
+FT                   /db_xref="taxon:1965095"
+FT                   /submitter_seqid="HiC_scaffold_17"
+FT   CDS             complement(join(CAXVQD010000009.1:734958..735277,
+FT                   CAXVQD010000009.1:735590..735696,
+FT                   CAXVQD010000009.1:736000..736147,
+FT                   CAXVQD010000009.1:736470..736593,
+FT                   CAXVQD010000009.1:737136..737300,
+FT                   CAXVQD010000009.1:737652..737750,
+FT                   CAXVQD010000009.1:738211..738397,
+FT                   CAXVQD010000009.1:738768..738927,
+FT                   CAXVQD010000009.1:739264..739540,
+FT                   CAXVQD010000009.1:739824..740015,
+FT                   CAXVQD010000009.1:740298..740546,
+FT                   CAXVQD010000009.1:740778..740996,
+FT                   CAXVQD010000009.1:741338..741562,
+FT                   CAXVQD010000009.1:741873..742016))
+FT                   /codon_start=1
+FT                   /transl_table=1
+FT                   /gene="g5250"
+FT                   /locus_tag="CELON_LOCUS5241"
+FT                   /note="ID:agat-cds-41872"
+FT                   /note="ID:agat-cds-41873"
+FT                   /note="ID:agat-cds-41874"
+FT                   /note="ID:agat-cds-41875"
+FT                   /note="ID:agat-cds-41876"
+FT                   /note="ID:agat-cds-41877"
+FT                   /note="ID:agat-cds-41878"
+FT                   /note="ID:agat-cds-41879"
+FT                   /note="ID:agat-cds-41880"
+FT                   /note="ID:agat-cds-41881"
+FT                   /note="ID:agat-cds-41882"
+FT                   /note="ID:agat-cds-41883"
+FT                   /note="ID:agat-cds-41884"
+FT                   /note="ID:agat-cds-41885"
+FT                   /note="source:AUGUSTUS"
+FT                   /protein_id="CAL8465714.1"
+FT                   /translation="MDSESVLPCPLFEGSEKRLVAGFSFGAASPVEGLRALSRGQLDAL
+FT                   LCQAACCIVSCRSNEDFDAYVLSESSLFVYPERLVLKTCGTTALLAAVPMLLELAASLD
+FT                   MRPLRFKYSRASFLFPMNQPAPYQAFEDEVAFLETYVGSLGGGGNAYVLGDALHGLRWH
+FT                   VYVAAEHRLPNARQNAAADHSIEVCMTSLCPAKAAQFARSCGFISARHTTIDTGIADLL
+FT                   PAADIDEYVFEPCGYSMNGLQGGAFSTIHVTPEAACSYASVELTGCAHEDVAAFVAKSA
+FT                   EIFRPGKMTVAVTAAAGTPPAGVFAAGYTVAGTSAQIFPCGSSVVVYSLQASGVTDAPT
+FT                   MEQEEKGLVAAGKVGAAMEDDRMSQVSELTAFDIGALAGSGLFARGLTNSACFGSDDEN
+FT                   ANGACGGGNASIAMSASYASSQASEAAKSRPATPEPDWQMVDKPAPAVAGGDAPADRAS
+FT                   LLAGVLARYSVLPLPSGDAAMLDAYLSRLIRQHQLEDPVCIVDLGRVARLFSAWMAAMP
+FT                   RVMPFYAVKCNNDEAILSTLAALGAGFDCASDAELDMVLRLGVPTERIVFANACKRPRD
+FT                   IRRAAAKQVNLTTFDTASELGKLARWHPGTRALLRIRADDPAARCQLGNKYGAESADAP
+FT                   ALLQAAKEMGIAVCGVSFHVGSGATNPDAFSEAIALARAAFHAGTGLGFVMDTLDIGGG
+FT                   FCDGSAMGDVAAAVNAALDLHFPVSSGVRIIAEPGRYFAEACATLGCMVFGVRDGCCAK
+FT                   SGAPVRDYWITDGIYGSMNSLLYDHATVAPRPLRPSPVTDATAPYTGATGDDSRLIRGC
+FT                   VFGPTCDGLDTVVHDYALPKLEVGDWLVFSNHGAYTFVGACAFNGMDPAPATFYVFSAK"
+XX
+SQ   Sequence 2616 BP; 424 A; 813 C; 858 G; 521 T; 0 other;
+     atggacagcg agagcgtgct gccttgcccc ctgttcgagg gcagtgagaa acgccttgtg        60
+     gccggattct cctttggagc cgccagcccc gttgaaggcc ttcgtgcgct ctcccgcggt       120
+     cagctcgatg cgctgctgtg ccaggcagcg tgctgcatcg tttcgtgccg ttccaatgag       180
+     gatttcgacg cctacgtgct ctccgagtcg agcctgttcg tctatccgga gaggctcgtc       240
+     ctgaagacgt gcggcaccac tgcgctgctg gctgccgtcc cgatgctgct ggagcttgca       300
+     gcttcgctgg acatgcgccc tttgcggttc aagtattcca gggcatcgtt cttattccct       360
+     atgaatcagc ccgccccata ccaggcgttt gaggatgaag tggcctttct agagacctat       420
+     gtgggcagct tgggcggtgg agggaacgcc tacgtgcttg gggatgccct gcacggcctg       480
+     cggtggcatg tctatgtggc ggccgaacac cggttgccca atgcgcgcca aaacgccgcg       540
+     gccgaccact ctattgaagt gtgcatgacc agcctgtgcc ctgccaaggc ggcgcagttt       600
+     gcgcgcagtt gtggcttcat atctgcacgg catacaacaa tcgacaccgg cattgccgat       660
+     ctgctaccgg ccgcagacat cgacgagtat gtgtttgagc cgtgcgggta cagcatgaac       720
+     ggtctgcagg ggggcgcctt ctctaccatt catgtcaccc ctgaggccgc ctgctcctat       780
+     gcttctgtcg agctgaccgg ctgcgcgcat gaggatgtgg ccgcgtttgt tgcaaagtct       840
+     gcggagattt tccgtccggg caagatgaca gtggccgtga cggctgcggc gggcacgccg       900
+     ccggccggtg tttttgcggc tgggtacaca gttgcgggca cctccgcgca gatttttccc       960
+     tgcggcagca gcgttgttgt ctacagcctg caagcgtccg gtgtcacgga tgcgcccacc      1020
+     atggagcagg aggagaaggg cctcgtggcg gccggcaagg ttggcgctgc aatggaggat      1080
+     gaccggatga gccaggtcag cgagctgacc gcattcgaca ttggcgcact ggccggctcg      1140
+     ggattgtttg cgcgcggcct gaccaatagc gcctgttttg gcagcgacga tgagaacgcc      1200
+     aacggtgcct gcggtggagg aaacgcctcg atcgcaatga gcgccagcta tgcgtccagc      1260
+     caggcatctg aagctgccaa gagccgcccg gctacccccg agccagactg gcagatggtg      1320
+     gacaagccgg cgccagctgt cgccggagga gacgcccctg cagacagggc gtccttgctg      1380
+     gccggggtgc ttgcgcggta cagcgtgctg ccgctgccgt ccggagatgc tgccatgctc      1440
+     gacgcgtacc tctcccgcct tatcaggcag caccagctgg aggacccggt gtgcatcgtg      1500
+     gacctgggtc gggtggcgcg cctgttcagc gcatggatgg cggccatgcc gcgcgtgatg      1560
+     cccttctacg cggtgaaatg caacaatgat gaggccatcc tgtccacgct tgccgccctg      1620
+     ggtgccggct ttgactgcgc ctccgacgcg gagctggaca tggttctgcg cctgggcgtg      1680
+     cccacggagc gcatcgtgtt cgctaacgcc tgcaagcggc cccgcgacat ccgccgcgct      1740
+     gccgccaagc aggtaaactt gacgacgttt gacacggcga gcgagctggg caagctggcg      1800
+     cggtggcacc ccgggacgcg cgcactgctg cgcatccgcg cagatgatcc ggccgcgcgc      1860
+     tgtcagctgg gcaacaagta tggcgccgag tccgcagatg cacccgcgct tcttcaggca      1920
+     gcaaaggaga tgggcattgc agtgtgcggc gtgagcttcc atgtcggcag cggtgcgaca      1980
+     aatccagacg ccttcagcga ggccatcgca cttgccagag ccgcctttca tgcaggcaca      2040
+     ggccttgggt ttgtcatgga cacactcgac attggcggcg gcttctgtga cggctccgcg      2100
+     atgggtgacg tggcggcggc agtcaacgcc gcgctggacc tgcacttccc cgtttccagt      2160
+     ggcgtgcgca tcattgctga acccggacgg tactttgctg aggcgtgtgc cacgctcggc      2220
+     tgcatggtgt ttggcgtgcg cgatggctgc tgcgccaagt ccggagcgcc tgtgcgcgac      2280
+     tactggatca ctgatggcat ctatggcagc atgaactcgc tgctgtacga ccacgccacc      2340
+     gtggcgccac ggccgctgcg gccgagccct gttacagacg ccacagctcc atatacgggc      2400
+     gctacgggcg acgacagtcg cctgatcaga ggctgcgttt ttggccccac ctgcgatggc      2460
+     ctggacacgg tggtgcatga ctacgcatta cctaagctcg aggtcggaga ctggctggtg      2520
+     ttcagcaacc atggcgccta caccttcgtt ggggcgtgcg ccttcaatgg catggatcct      2580
+     gctccggcca ccttctatgt gttctctgcc aagtga                                2616
+//

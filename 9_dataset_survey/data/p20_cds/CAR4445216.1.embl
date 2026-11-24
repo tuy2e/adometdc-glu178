@@ -1,0 +1,84 @@
+ID   CAR4445216; SV 1; linear; genomic DNA; WGS; ENV; 1557 BP.
+XX
+PA   CEZNPN010001091.1
+XX
+PR   Project:PRJEB111600;
+XX
+DT   12-JUN-2026 (Created)
+DT   14-JUN-2026 (Last updated)
+XX
+DE   Diphylleia rotans hypothetical protein
+XX
+KW   WGS.
+XX
+OS   Diphylleia rotans
+OC   Eukaryota; CRuMs; CRuMs incertae sedis; Collodictyonidae; Diphylleia.
+XX
+RN   [1]
+RA   Mcgowan J.;
+RT   ;
+RL   Submitted (01-MAY-2026) to the INSDC.
+RL   Earlham Institute, Earlham Institute, Norwich Research Park, Norwich, NR4
+RL   7UZ, UK, United Kingdom
+XX
+DR   MD5; 2175c3bef20b80f44c9aa51be16a8ff5.
+DR   BioSample; SAMEA122354416.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..1557
+FT                   /organism="Diphylleia rotans"
+FT                   /environmental_sample
+FT                   /mol_type="genomic DNA"
+FT                   /isolation_source="WATER"
+FT                   /collection_date="2022-08-30"
+FT                   /note="contig: diph_01130"
+FT                   /db_xref="taxon:190327"
+FT                   /submitter_seqid="diph_01130"
+FT                   /metagenome_source="freshwater metagenome"
+FT                   /geo_loc_name=United Kingdom
+FT   CDS             CEZNPN010001091.1:2893..4449
+FT                   /codon_start=1
+FT                   /transl_table=1
+FT                   /locus_tag="DIPROT_LOCUS9856"
+FT                   /note="source:AUGUSTUS"
+FT                   /protein_id="CAR4445216.1"
+FT                   /translation="MSTTSSELDATLWSASPSESDANQDLGELSSPVCMGATSSGFEGV
+FT                   EKKLEIDFKGVGLLSAPTLRAIPRDEWDAILWDAKCCIINTRSNDLFDAYLLSESSLFV
+FT                   YDSKIMIKTCGTTTLLLMLPRLLEVVREICGEAVTVEFLQFSRSSFLFPQEQRFPHTSF
+FT                   EQEVKFLQQYFDGDAYTLGRLNGPTWHLYIADYTETKRKAQEFTDQSIEVIMYDLDPTS
+FT                   MAHFFKNESFVSAEEVTRASGIKGLMLEGTLIDDFSFDPCGYSLNALNGNVHYTIHITP
+FT                   EAHCSYVSFETNLPSTDYVALVSNVISVFRPGRFAVALIADQHSIAGDSDLFKMNSDVE
+FT                   GYSLKDNTAHKFAGSYKAIYCYYARNDASSSVSQEASQKVPKGVLGAARADGLESASAL
+FT                   KNPVGAVSGGVSSQPSASSEKATKTRYTGWGQCADLFDELNVEKIPDSVEIPSLIRAKI
+FT                   NQEEMEEAFFLMDLGIVAEKFSEWTKKLPRVQPFYALKCNTNPGILKMLNRFGCHFQCS
+FT                   T"
+XX
+SQ   Sequence 1557 BP; 361 A; 472 C; 353 G; 371 T; 0 other;
+     atgagcacta cttcctccga attggacgcc actctgtggt ccgcctcacc ctcggaatcc        60
+     gatgccaacc aagatcttgg cgaattatcg tcccccgtct gcatgggagc caccagcagc       120
+     ggcttcgagg gcgttgaaaa gaaactggaa atcgacttca aaggagtcgg tcttctctcc       180
+     gcacccacac tgagagcgat cccccgtgac gaatgggatg ccattctctg ggacgcaaag       240
+     tgctgcatca tcaacacccg cagcaacgac ctctttgacg cttaccttct ttccgagagc       300
+     tccctcttcg tctacgacag caagatcatg atcaagactt gcggaacaac aacgctcctt       360
+     ttgatgctcc ctcgtctcct tgaagtcgtc cgcgagatct gcggagaggc cgtgaccgtg       420
+     gagtttctcc agttttctcg ctcttctttc ctcttcccac aagagcagag gttcccccac       480
+     accagtttcg aacaggaagt caagtttttg cagcagtact ttgacggtga tgcttacact       540
+     ctgggtcgtc tcaacggccc tacgtggcat ctttacatcg ccgattacac cgaaacaaaa       600
+     cgaaaggccc aagaatttac cgaccaaagc atcgaggtca tcatgtacga ccttgacccc       660
+     acaagcatgg cacatttttt caagaacgag tcctttgtca gcgctgagga agtcacacgg       720
+     gcttccggca tcaaaggtct gatgctggag ggcacgctca tcgacgactt tagcttcgac       780
+     ccttgtggtt attctttgaa cgcccttaat ggcaacgttc actacacaat ccacatcacc       840
+     cctgaagctc actgcagcta tgtgagcttt gagaccaact tgccgtctac cgactacgtc       900
+     gctctggtct ccaatgtcat ttctgtcttc cgcccaggca gattcgccgt cgccctcata       960
+     gccgaccagc attccatcgc tggtgattcc gacctgttca agatgaactc tgatgtggag      1020
+     ggatactccc tgaaggacaa caccgcccac aagtttgccg gctcatacaa agcaatctac      1080
+     tgctactacg cccgcaacga cgcctcctcc tctgtctctc aggaagcaag tcagaaggtt      1140
+     cccaagggtg ttttgggagc cgctcgtgcc gacggcctcg agtctgcttc ggccctcaaa      1200
+     aaccctgtcg gtgccgtttc tggaggtgtt tcttctcagc cctctgcatc ctctgaaaag      1260
+     gcaaccaaga cgcgatacac tggctggggc cagtgtgccg accttttcga cgagctcaat      1320
+     gtcgaaaaga ttccagactc tgtcgagatt ccgagtctga tccgagccaa gatcaatcag      1380
+     gaagaaatgg aagaagcatt ctttttgatg gacctcggca tcgtcgcaga gaaattctct      1440
+     gaatggacca agaagcttcc acgtgtccag cctttctatg cattgaagtg caacaccaat      1500
+     cccggaatcc tcaagatgct caatcgcttt ggctgccact tccagtgttc cacctaa         1557
+//

@@ -1,0 +1,99 @@
+ID   CAN8053134; SV 1; linear; genomic DNA; WGS; PLN; 2274 BP.
+XX
+PA   CBFFQN010000650.1
+XX
+PR   Project:PRJEB94023;
+XX
+DT   31-AUG-2025 (Created)
+DT   21-OCT-2025 (Last updated)
+XX
+DE   Gracilaria gracilis hypothetical protein
+XX
+KW   WGS.
+XX
+OS   Gracilaria gracilis
+OC   Eukaryota; Rhodophyta; Florideophyceae; Rhodymeniophycidae; Gracilariales;
+OC   Gracilariaceae; Gracilaria.
+XX
+RN   [1]
+RA   Lipinska P A., Haas F., Borg M., Coelho S.;
+RT   ;
+RL   Submitted (18-JUL-2025) to the INSDC.
+RL   Max Planck Institute for Biology Tuebingen, Department of Algal Development
+RL   and Evolution, Max-Planck-Ring 5, 72076 Tuebingen, Germany
+XX
+DR   MD5; 1340d8e2f5556e1647eab1326a897e97.
+DR   BioSample; SAMEA118776838.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..2274
+FT                   /organism="Gracilaria gracilis"
+FT                   /mol_type="genomic DNA"
+FT                   /collection_date="2020-06-05"
+FT                   /note="contig: tig00001220_pilon"
+FT                   /db_xref="taxon:2777"
+FT                   /submitter_seqid="tig00001220_pilon"
+FT                   /geo_loc_name=France
+FT   CDS             CBFFQN010000650.1:307879..310152
+FT                   /codon_start=1
+FT                   /transl_table=1
+FT                   /locus_tag="GGRAF_LOCUS6297"
+FT                   /note="ID:Ggra1542.t1.CDS1"
+FT                   /note="source:AUGUSTUS"
+FT                   /protein_id="CAN8053134.1"
+FT                   /translation="MTSSCTADGAAPFEGVEKKLSVHFYAHAAHPSASLRSIARSAVER
+FT                   ILQCACCCVLSVCRNAHYDAYLLSESSLFVGDQLFVIKTCGTTTLLSALSHILDAAAAL
+FT                   HLLPEWLSFSRVRYSFPHAQTFPHDCFENEEAFIDSTLHACELSFEKFVHTRCNWYLYH
+FT                   ARFARAPQQQQQQPDAARSTLDVYMFDLDEQCMRQFAFEQREQLVGTDHAHAVTKQSGV
+FT                   ARLLHECDVVDAFNFAPCGYSMNALRSRTYCTVHVTPEAAASYVSFEVSGDVRSVPLLV
+FT                   AKAVRLFKPKRFTLSLLGATLEQHQHTQNVATLLQAHFACTGARGALSCTPVGDLHASV
+FT                   CSFRCVERAPAPAPAPALDACSSSSSSSSSVALHVGKRYGAVAVGDGVRGVQLANTLAA
+FT                   ASDGRHCARPRGATLMVDLSCVERQLTQLARVAGAHVQLRYLVKTNAAHGVLALLNQLG
+FT                   ASFDASDDADVRALESAGVRAERIVLTSTLLPAEHTARRVGALAAFCGAHAAHAVQLAV
+FT                   ACHKLLEIHVLHGCVAQLDQLLRLVAARGARVRGVAFHGRSDLPLVRRVLRRVRDGARS
+FT                   LALHPLRVVLGERADHRDDDDDHHHDDDDDDDDDDDDDEVCVARAREVAACVSGARVEA
+FT                   TVGARVVRDAVSVRLEVVGRRRRQHGPVLYYLSDGAYGALNALMMRRGARQRASACGSG
+FT                   VGALSDAVLFGPTCDGLDVLWRGAVREMNVGDFVVLAGVAHFGGATPFNGLGAVLRTCY
+FT                   FVRV"
+XX
+SQ   Sequence 2274 BP; 323 A; 737 C; 829 G; 385 T; 0 other;
+     atgacgtcgt cgtgcacggc tgatggcgcc gctccgttcg agggcgtcga gaagaagctt        60
+     tccgtgcact tttacgcaca tgcagcccat cccagcgcct cgttgcgatc gattgcgcgc       120
+     agcgcagttg agcgtatctt gcagtgcgct tgttgttgcg tgctatcggt gtgtcgaaac       180
+     gcgcactatg acgcgtatct gttgtcggaa tcttcgttgt ttgttggcga tcagctgttt       240
+     gtgatcaaga cgtgtggcac caccacgttg ctgagcgcgc tgtcgcacat cttggacgcg       300
+     gctgcggcgc tgcacctgct gcccgagtgg ctgtcgttct ctcgcgtgcg atacagtttt       360
+     ccacacgctc agacgtttcc gcacgactgc ttcgagaacg aggaggcgtt catcgacagc       420
+     acgctgcacg cgtgcgagct cagctttgaa aagtttgtac acacgcgatg caactggtat       480
+     ctgtaccacg cgcgattcgc acgcgcgcca cagcagcagc agcagcagcc agatgcggct       540
+     cgtagcacgc tggacgtgta catgttcgat ctggacgagc aatgcatgcg gcagtttgcg       600
+     tttgagcagc gcgagcagct ggtcggtacg gaccacgcgc acgcggtcac caagcagagc       660
+     ggcgtggcgc ggctgctgca cgagtgcgac gtggtggacg cgttcaactt tgcgccgtgc       720
+     ggctactcca tgaacgcgct gcgctcgcgc acgtactgca cggtgcacgt gacgccggag       780
+     gcggcggcgt cgtacgtgtc gttcgaggtg agcggcgacg tgcgcagcgt gccgctgctg       840
+     gtggcaaagg cggtgcgtct gttcaagccc aaacgcttca cgctgtcatt gctgggcgcc       900
+     acgctggagc aacaccagca cacccaaaac gtggccacgt tgttgcaggc gcactttgcg       960
+     tgcaccggtg cgcgcggcgc gctcagctgc acgccggtgg gcgacctgca cgcgtccgtg      1020
+     tgttcgtttc gatgcgttga gcgcgcgcca gcgccagcgc cagcgccagc gctcgatgcg      1080
+     tgcagcagca gcagcagcag cagcagcagc gtggcgctgc acgtgggcaa gcgctacggc      1140
+     gcggtggccg ttggcgacgg cgtgcgcggc gtgcagctgg ccaacacgct ggcggcggcc      1200
+     agcgacgggc gccactgcgc gcggccgcgc ggcgccacgc tcatggtgga cctcagctgc      1260
+     gtggagcgcc agctgacgca gctggcgcgc gtggccggtg cgcacgtgca gctgcgctac      1320
+     ctggtgaaga ccaacgcggc gcacggcgtg ctggcgctgc tcaaccaact gggcgccagc      1380
+     tttgacgcca gcgacgacgc cgacgtgcgc gcgctggaga gcgccggcgt gcgcgccgag      1440
+     cgcatcgtgc tcacgtccac gctgctgccc gcggagcaca ccgcgcggcg cgtgggcgcg      1500
+     ctggccgcct tctgcggcgc gcacgccgcg catgccgtgc agctcgccgt cgcttgccac      1560
+     aagctgctcg agatccatgt gctgcacggc tgcgtcgcgc agctcgacca gctgctgcga      1620
+     ctggtggcgg cgcgcggcgc gcgcgtgcgc ggcgtcgcct ttcatgggcg cagcgacttg      1680
+     ccgctggtgc gtcgcgtgct gcgccgcgtg cgcgacggcg cgcgctcgct cgcgctgcac      1740
+     ccgctgcgcg tcgtgctcgg cgagcgcgct gaccaccgcg atgacgacga tgaccaccac      1800
+     cacgacgacg acgacgacga cgacgacgac gacgacgacg acgaggtgtg cgtggcgcgc      1860
+     gcgcgcgagg tggcggcgtg tgtaagcggc gcgcgcgtgg aggccacggt gggcgcgcgc      1920
+     gtggtgcgcg acgctgtgag cgtgcggctg gaagtggtgg gacggcggcg ccggcagcac      1980
+     ggacccgtgc tgtactacct gagcgacggc gcgtacggcg cgctcaacgc gctcatgatg      2040
+     cggcgcggcg cgcgccaacg cgccagcgcg tgcggcagcg gcgtgggcgc gctgtcggac      2100
+     gccgtgctgt tcggccccac gtgcgacggg ctggacgtgc tgtggcgagg cgctgtgcgc      2160
+     gaaatgaacg tcggcgactt tgtggtgctt gccggcgtgg cgcactttgg cggcgctacg      2220
+     cccttcaacg gcttgggcgc tgtgctgcgg acgtgctact ttgtgcgcgt gtaa            2274
+//

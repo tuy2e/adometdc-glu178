@@ -1,0 +1,346 @@
+id	kind	organism	group	segment	coverage_of_human_1_422	coverage_method	core_call	in_tree	why
+A0A6T9JEL0	fusion	Alexandrium catenella	Alveolata	450-815	345	sequence	no structural read	True	
+A0A6T1MV08	fusion	Alexandrium monilatum	Alveolata	452-817	340	sequence	no structural read	True	
+A0A6T1MYB6	fusion	Alexandrium monilatum	Alveolata	428-793	340	sequence	no structural read	True	
+A0A6T1NRD2	fusion	Alexandrium monilatum	Alveolata	452-694	57	sequence	no structural read	False	covers 57 < 211
+A0A6T3TK94	fusion	Alexandrium tamarense	Alveolata	544-949	359	sequence	no structural read	True	
+UPI00196EE42E	fusion	Alexandrium tamarense	Alveolata	610-950	285	sequence	no structural read	True	
+A0A6T3U287	fusion	Alexandrium tamarense	Alveolata	452-821	340	sequence	no structural read	True	
+A0A6T4GYH0	fusion	Alexandrium tamarense	Alveolata	502-906	356	sequence	no structural read	True	
+A0A6T2WKT0	fusion	Alexandrium tamarense	Alveolata	411-768	332	sequence	no structural read	True	
+A0A6U5ELH5	fusion	Amphidinium massartii	Alveolata	431-800	332	sequence	no structural read	True	
+UPI0016E0294D	fusion	Apocalathium aciculiferum	Alveolata	446-811	344	sequence	no structural read	True	
+UPI0016C1D230	fusion	Apocalathium aciculiferum	Alveolata	448-814	331	sequence	no structural read	True	
+UPI00172DB5E3	fusion	Apocalathium aciculiferum	Alveolata	444-809	344	sequence	no structural read	True	
+UPI0016D425BA	fusion	Apocalathium aciculiferum	Alveolata	439-804	332	sequence	no structural read	True	
+UPI0016FF88B7	fusion	Apocalathium aciculiferum	Alveolata	437-802	332	sequence	no structural read	True	
+A0A6T5GM14	fusion	Azadinium spinosum	Alveolata	478-850	346	sequence	no structural read	True	
+A0ABQ7JEA1	fusion	Cardiosporidium cionae	Alveolata	569-1070	357	sequence	no structural read	True	
+A0A0G4F124	fusion	Chromera velia	Alveolata	618-1041	387	structure (p10)	undetermined	True	
+A0A6T3RBZ4	fusion	Durinskia baltica	Alveolata	487-855	345	sequence	no structural read	True	
+A0A6U9YNS9	fusion	Gymnoxanthella radiolariae	Alveolata	434-802	341	sequence	no structural read	True	
+UPI003EC9801A	fusion	Haemoproteus majoris	Alveolata	871-1490	378	sequence	no structural read	True	
+A0A653H4L8	fusion	Hepatocystis sp. ex Piliocolobus tephrosceles	Alveolata	1206-1752	361	sequence	no structural read	True	
+A0A6U7JQB1	fusion	Heterocapsa arctica	Alveolata	488-563	61	sequence	no structural read	False	covers 61 < 211
+A0A6U5S121	fusion	Heterocapsa rotundata	Alveolata	507-872	329	sequence	no structural read	True	
+A0A6U5S5N9	fusion	Heterocapsa rotundata	Alveolata	525-890	329	sequence	no structural read	True	
+A0A6V5L487	fusion	Heterocapsa sp. RCC1516	Alveolata	458-839	341	sequence	no structural read	True	
+A0A6V4UHU9	fusion	Karlodinium veneficum	Alveolata	460-826	331	sequence	no structural read	True	
+UPI0016E04C1C	fusion	Karlodinium veneficum	Alveolata	457-823	331	sequence	no structural read	True	
+UPI001701775D	fusion	Kryptoperidinium foliaceum	Alveolata	513-881	338	sequence	no structural read	True	
+UPI0016D6B8ED	fusion	Kryptoperidinium foliaceum	Alveolata	513-881	328	sequence	no structural read	True	
+A0A6U7G8W9	fusion	Kryptoperidinium triquetrum	Alveolata	225-302	64	sequence	no structural read	False	covers 64 < 211
+UPI001AB91350	fusion	Lingulaulax polyedra	Alveolata	521-891	337	sequence	no structural read	True	
+A0A6T3X7A1	fusion	Lingulaulax polyedra	Alveolata	442-814	340	sequence	no structural read	True	
+UPI0022F864FC	fusion	Mesodinium pulex	Alveolata	330-696	329	sequence	no structural read	True	
+UPI0022FC6240	fusion	Mesodinium pulex	Alveolata	504-870	329	sequence	no structural read	True	
+UPI0022F7E90C	fusion	Mesodinium pulex	Alveolata	526-892	329	sequence	no structural read	True	
+A0A7S1AKA3	fusion	Noctiluca scintillans	Alveolata	399-766	380	structure (p10)	intact	True	
+A0A6V4AY69	fusion	Oxyrrhis marina	Alveolata	424-787	340	sequence	no structural read	True	
+A0A2P9C306	fusion	Plasmodium adleri (nom. inval.)	Alveolata	798-1466	247	sequence	no structural read	True	
+A0A509AGS9	fusion	Plasmodium berghei	Alveolata	862-1403	361	sequence	no structural read	True	
+A0A0Y9UXV6	fusion	Plasmodium berghei	Alveolata	862-1403	361	sequence	no structural read	True	
+Q4YQC2	fusion	Plasmodium berghei	Alveolata	748-1142	265	sequence	no structural read	True	
+A0A2P9CQE3	fusion	Plasmodium billcollinsi	Alveolata	814-1371	361	sequence	no structural read	True	
+A0A2P9GLB6	fusion	Plasmodium billcollinsi	Alveolata	864-1431	361	sequence	no structural read	True	
+A0A2P9D8D3	fusion	Plasmodium blacklocki (nom. inval.)	Alveolata	849-1463	361	sequence	no structural read	True	
+A0ACB9Y8J1	fusion	Plasmodium brasilianum	Alveolata	932-1453	361	sequence	no structural read	True	
+A0A4V0K3R1	fusion	Plasmodium chabaudi	Alveolata	852-1374	354	sequence	no structural read	True	
+A0A1D3LHJ9	fusion	Plasmodium chabaudi adami	Alveolata	853-1375	354	sequence	no structural read	True	
+A0A1C6XH34	fusion	Plasmodium chabaudi adami	Alveolata	853-1375	354	sequence	no structural read	True	
+A0A1C6X904	fusion	Plasmodium chabaudi chabaudi	Alveolata	852-1374	354	sequence	no structural read	True	
+A0A1B1DW15	fusion	Plasmodium coatneyi	Alveolata	823-1349	361	sequence	no structural read	True	
+K6V8T8	fusion	Plasmodium cynomolgi (strain B)	Alveolata	932-1382	361	sequence	no structural read	True	
+Q9Y1L5	fusion	Plasmodium falciparum	Alveolata	845-1419	361	sequence	no structural read	True	
+Q8IJ77	fusion	Plasmodium falciparum	Alveolata	857-1434	389	structure (p10)	intact	True	
+Q9U8D4	fusion	Plasmodium falciparum	Alveolata	845-1419	361	sequence	no structural read	True	
+A0A0L7K9I5	fusion	Plasmodium falciparum	Alveolata	844-1415	361	sequence	no structural read	True	
+W4J2C0	fusion	Plasmodium falciparum	Alveolata	850-1430	361	sequence	no structural read	True	
+W7F6W1	fusion	Plasmodium falciparum (isolate 7G8)	Alveolata	848-1419	361	sequence	no structural read	True	
+A0A0L7LXK0	fusion	Plasmodium falciparum (isolate Dd2)	Alveolata	846-1420	361	sequence	no structural read	True	
+A0A2I0BRE9	fusion	Plasmodium falciparum (isolate NF54)	Alveolata	856-1433	361	sequence	no structural read	True	
+A0A024VK72	fusion	Plasmodium falciparum FCH/4	Alveolata	847-1564	361	sequence	no structural read	True	
+A0A0L1IFH4	fusion	Plasmodium falciparum IGH-CR14	Alveolata	850-1424	361	sequence	no structural read	True	
+A0A024WP08	fusion	Plasmodium falciparum MaliPS096_E11	Alveolata	848-1422	361	sequence	no structural read	True	
+W4IGG8	fusion	Plasmodium falciparum NF135/5.C10	Alveolata	847-1421	361	sequence	no structural read	True	
+A0A0L0CUY5	fusion	Plasmodium falciparum RAJ116	Alveolata	852-1423	361	sequence	no structural read	True	
+A0A024W5H0	fusion	Plasmodium falciparum Tanzania (2000708)	Alveolata	861-1451	375	sequence	no structural read	True	
+W7JXH5	fusion	Plasmodium falciparum UGT5.1	Alveolata	858-1436	361	sequence	no structural read	True	
+A0A024V6H4	fusion	Plasmodium falciparum Vietnam Oak-Knoll (FVO)	Alveolata	844-1419	361	sequence	no structural read	True	
+A0A0D9QIT5	fusion	Plasmodium fragile	Alveolata	853-1393	371	sequence	no structural read	True	
+A0A151LL77	fusion	Plasmodium gaboni	Alveolata	818-1375	361	sequence	no structural read	True	
+A0A2P9C2V6	fusion	Plasmodium gaboni	Alveolata	819-1376	361	sequence	no structural read	True	
+A0A1J1GXQ1	fusion	Plasmodium gallinaceum	Alveolata	857-1336	361	sequence	no structural read	True	
+A0A1Y1JBX6	fusion	Plasmodium gonderi	Alveolata	874-1513	329	sequence	no structural read	True	
+W7A4D8	fusion	Plasmodium inui San Antonio 1	Alveolata	883-1440	371	sequence	no structural read	True	
+A0A384LE31	fusion	Plasmodium knowlesi	Alveolata	858-1393	361	sequence	no structural read	True	
+A0A1A8VUP1	fusion	Plasmodium malariae	Alveolata	932-1453	361	sequence	no structural read	True	
+A0A1D3TG90	fusion	Plasmodium ovale	Alveolata	907-1462	361	sequence	no structural read	True	
+A0A1C3KQ77	fusion	Plasmodium ovale	Alveolata	988-1551	361	sequence	no structural read	True	
+A0A1A8VMW6	fusion	Plasmodium ovale curtisi	Alveolata	923-1547	340	sequence	no structural read	True	
+A0A1A8YPA3	fusion	Plasmodium ovale wallikeri	Alveolata	950-1495	361	sequence	no structural read	True	
+A0A1A8YN63	fusion	Plasmodium ovale wallikeri	Alveolata	934-1479	361	sequence	no structural read	True	
+A0A2P9BEZ8	fusion	Plasmodium praefalciparum (nom. ined.)	Alveolata	841-1419	361	sequence	no structural read	True	
+A0A060RYU4	fusion	Plasmodium reichenowi	Alveolata	849-1408	361	sequence	no structural read	True	
+A0A151LFN8	fusion	Plasmodium reichenowi	Alveolata	847-1401	361	sequence	no structural read	True	
+A0A2P9DG25	fusion	Plasmodium reichenowi	Alveolata	854-1408	361	sequence	no structural read	True	
+A0A1J1H2N9	fusion	Plasmodium relictum	Alveolata	849-1328	363	sequence	no structural read	True	
+A0A6V7SLE9	fusion	Plasmodium vinckei	Alveolata	851-1373	361	sequence	no structural read	True	
+A0A6V7RZD7	fusion	Plasmodium vinckei brucechwatti	Alveolata	850-1372	361	sequence	no structural read	True	
+A0A6V7RYC3	fusion	Plasmodium vinckei lentum	Alveolata	850-1372	361	sequence	no structural read	True	
+W7AE04	fusion	Plasmodium vinckei petteri	Alveolata	850-1372	361	sequence	no structural read	True	
+A0A081ICA4	fusion	Plasmodium vinckei vinckei	Alveolata	833-1355	354	sequence	no structural read	True	
+A0A8S4HHB4	fusion	Plasmodium vivax	Alveolata	922-1450	361	sequence	no structural read	True	
+A5KDQ6	fusion	Plasmodium vivax	Alveolata	914-1442	361	sequence	no structural read	True	
+A0A1L0CSS6	fusion	Plasmodium vivax	Alveolata	906-1434	361	sequence	no structural read	True	
+UPI0023B6FB67	fusion	Plasmodium vivax	Alveolata	895-1428	361	sequence	no structural read	True	
+A0A1G4GUM3	fusion	Plasmodium vivax	Alveolata	906-1434	361	sequence	no structural read	True	
+A0A1G4H9W7	fusion	Plasmodium vivax	Alveolata	928-1456	361	sequence	no structural read	True	
+A0A0J9SWZ9	fusion	Plasmodium vivax (strain Brazil I)	Alveolata	906-1439	361	sequence	no structural read	True	
+A0A0J9V631	fusion	Plasmodium vivax India VII	Alveolata	906-1434	361	sequence	no structural read	True	
+A0A0J9TH68	fusion	Plasmodium vivax Mauritania I	Alveolata	914-1442	361	sequence	no structural read	True	
+A0A0J9U0R9	fusion	Plasmodium vivax North Korean	Alveolata	917-1445	361	sequence	no structural read	True	
+Q7RFF2	fusion	Plasmodium yoelii	Alveolata	862-1404	354	sequence	no structural read	True	
+V7PHE3	fusion	Plasmodium yoelii 17X	Alveolata	865-1407	354	sequence	no structural read	True	
+UPI0017090670	fusion	Scrippsiella hangoei	Alveolata	479-896	344	sequence	no structural read	True	
+UPI0016C6736F	fusion	Scrippsiella hangoei	Alveolata	461-827	337	sequence	no structural read	True	
+UPI001718F1CD	fusion	Scrippsiella hangoei	Alveolata	439-804	332	sequence	no structural read	True	
+UPI001700BF28	fusion	Scrippsiella hangoei	Alveolata	459-825	337	sequence	no structural read	True	
+UPI00172BB759	fusion	Scrippsiella hangoei	Alveolata	479-852	332	sequence	no structural read	True	
+UPI0016E00446	fusion	Scrippsiella hangoei	Alveolata	441-806	332	sequence	no structural read	True	
+UPI0016F85706	fusion	Scrippsiella hangoei	Alveolata	446-811	344	sequence	no structural read	True	
+A0A6T3UGG9	fusion	Scrippsiella trochoidea	Alveolata	506-871	331	sequence	no structural read	True	
+A0A6U6QKT5	fusion	Togula jolla	Alveolata	455-829	331	sequence	no structural read	True	
+A0A0G4EYD2	fusion	Vitrella brassicaformis	Alveolata	668-1029	381	structure (p10)	undetermined	True	
+A0A6U9NGK1	fusion	Zooxanthella nutricula	Alveolata	479-766	266	sequence	no structural read	True	
+UPI0022FB4D1A	fusion	uncultured alveolate	Alveolata	290-651	349	sequence	no structural read	True	
+A0A4R2JAR7	fusion	Actinocrispum wychmicini	Bacteria	1-269	280	structure (p10)	undetermined	True	
+UPI0007C4E7B4	fusion	Actinomycetes	Bacteria	1-265	237	sequence	no structural read	True	
+A0A2N3WC07	fusion	Actinomycetes	Bacteria	1-265	282	structure (p10)	undetermined	True	
+A0A428YTQ9	fusion	Actinomycetes	Bacteria	1-239	263	structure (p10)	undetermined	True	
+D9VBH0	fusion	Actinomycetes	Bacteria	1-261	237	sequence	no structural read	True	
+UPI000B140B54	fusion	Actinomycetes	Bacteria	1-265	238	sequence	no structural read	True	
+UPI004803C50C	fusion	Actinophytocola sp.	Bacteria	1-242	236	sequence	no structural read	True	
+UPI00268D0094	fusion	Actinosynnema sp. ALI-1.44	Bacteria	1-360	311	sequence	no structural read	True	
+A0A1V2P5S9	fusion	Actinosynnema sp. ALI-1.44	Bacteria	1-334	354	structure (p10)	undetermined	True	
+A0ABX0BYM8	fusion	Amycolatopsis	Bacteria	1-265	238	sequence	no structural read	True	
+A0A178WWK5	fusion	Amycolatopsis	Bacteria	1-258	282	structure (p10)	undetermined	True	
+UPI003370CFEE	fusion	Amycolatopsis albidoflavus	Bacteria	1-258	238	sequence	no structural read	True	
+UPI00036BF155	fusion	Amycolatopsis benzoatilytica	Bacteria	1-239	238	sequence	no structural read	True	
+UPI0003A6B286	fusion	Amycolatopsis benzoatilytica	Bacteria	1-261	245	sequence	no structural read	True	
+UPI001ABF7924	fusion	Amycolatopsis circi	Bacteria	1-258	238	sequence	no structural read	True	
+UPI000E227C3A	fusion	Amycolatopsis circi	Bacteria	1-265	238	sequence	no structural read	True	
+UPI001C721CE1	fusion	Amycolatopsis dendrobii	Bacteria	1-257	238	sequence	no structural read	True	
+A0A7W3VY89	fusion	Amycolatopsis dendrobii	Bacteria	1-265	282	structure (p10)	undetermined	True	
+A0A8E1W7I6	fusion	Amycolatopsis echigonensis	Bacteria	1-265	282	structure (p10)	undetermined	True	
+UPI001C81539F	fusion	Amycolatopsis echigonensis	Bacteria	1-257	238	sequence	no structural read	True	
+UPI003A5236E8	fusion	Amycolatopsis echigonensis	Bacteria	1-238	226	sequence	no structural read	True	
+UPI00068EDC01	fusion	Amycolatopsis jejuensis	Bacteria	1-258	238	sequence	no structural read	True	
+UPI0005270716	fusion	Amycolatopsis jejuensis	Bacteria	1-261	238	sequence	no structural read	True	
+UPI00161B2541	fusion	Amycolatopsis jiangsuensis	Bacteria	1-257	238	sequence	no structural read	True	
+A0A840IRI3	fusion	Amycolatopsis jiangsuensis	Bacteria	1-265	283	structure (p10)	undetermined	True	
+UPI001070221A	fusion	Amycolatopsis nivea	Bacteria	1-265	237	sequence	no structural read	True	
+UPI0003A47673	fusion	Amycolatopsis orientalis	Bacteria	1-265	237	sequence	no structural read	True	
+UPI000685DF3D	fusion	Amycolatopsis orientalis	Bacteria	1-258	237	sequence	no structural read	True	
+UPI000688CEE6	fusion	Amycolatopsis orientalis	Bacteria	1-261	238	sequence	no structural read	True	
+UPI00039C5750	fusion	Amycolatopsis orientalis DSM 43388	Bacteria	1-257	238	sequence	no structural read	True	
+UPI001927BBE1	fusion	Amycolatopsis rubida	Bacteria	1-257	238	sequence	no structural read	True	
+UPI000B85F38C	fusion	Amycolatopsis saalfeldensis	Bacteria	1-363	317	sequence	no structural read	True	
+A0A1H8XGU0	fusion	Amycolatopsis saalfeldensis	Bacteria	1-360	374	structure (p10)	undetermined	True	
+UPI001C42F751	fusion	Amycolatopsis saalfeldensis	Bacteria	1-359	317	sequence	no structural read	True	
+UPI0030B3CBF2	fusion	Amycolatopsis sp. A1MSW2902	Bacteria	1-265	237	sequence	no structural read	True	
+A0A2K8LNJ3	fusion	Amycolatopsis sp. AA4	Bacteria	1-257	281	structure (p10)	undetermined	True	
+A0A8G0DY54	fusion	Amycolatopsis sp. DSM 110486	Bacteria	1-334	300	sequence	no structural read	True	
+A0A974Z9W3	fusion	Amycolatopsis sp. FDAARGOS 1241	Bacteria	1-333	353	structure (p10)	undetermined	True	
+UPI001F9BFCB1	fusion	Amycolatopsis sp. Poz14	Bacteria	1-265	237	sequence	no structural read	True	
+UPI0026B9519D	fusion	Amycolatopsis suaedae	Bacteria	1-336	292	sequence	no structural read	True	
+A0A4Q7JAE6	fusion	Amycolatopsis suaedae	Bacteria	1-358	376	structure (p10)	undetermined	True	
+UPI00068B28A7	fusion	Kibdelosporangium aridum	Bacteria	1-272	238	sequence	no structural read	True	
+A0A1W2EJG6	fusion	Kibdelosporangium aridum	Bacteria	1-265	282	structure (p10)	undetermined	True	
+UPI0009FBE781	fusion	Kibdelosporangium aridum	Bacteria	1-239	236	sequence	no structural read	True	
+UPI0007C46A25	fusion	Kibdelosporangium aridum	Bacteria	1-239	236	sequence	no structural read	True	
+UPI000AA1A293	fusion	Kibdelosporangium aridum subsp. largum	Bacteria	1-265	238	sequence	no structural read	True	
+A0ABS4TJG5	fusion	Kibdelosporangium banguiense	Bacteria	1-265	238	sequence	no structural read	True	
+UPI001AE6D9F8	fusion	Kibdelosporangium banguiense	Bacteria	1-269	238	sequence	no structural read	True	
+UPI001564A819	fusion	Kibdelosporangium persicum	Bacteria	1-239	236	sequence	no structural read	True	
+UPI001C26DFB4	fusion	Kibdelosporangium persicum	Bacteria	1-259	238	sequence	no structural read	True	
+A0ABX2EWQ9	fusion	Kibdelosporangium persicum	Bacteria	1-265	238	sequence	no structural read	True	
+A0A0N9IDG2	fusion	Kibdelosporangium phytohabitans	Bacteria	1-268	282	structure (p10)	undetermined	True	
+UPI0009F99147	fusion	Kibdelosporangium phytohabitans	Bacteria	1-316	238	sequence	no structural read	True	
+UPI0019FA3811	fusion	Kibdelosporangium phytohabitans	Bacteria	1-265	238	sequence	no structural read	True	
+UPI0007C7932D	fusion	Kibdelosporangium phytohabitans	Bacteria	1-239	236	sequence	no structural read	True	
+UPI0007C7B459	fusion	Kibdelosporangium sp. MJ126-NF4	Bacteria	1-239	236	sequence	no structural read	True	
+UPI0006960043	fusion	Kibdelosporangium sp. MJ126-NF4	Bacteria	1-254	238	sequence	no structural read	True	
+A0A0K3B4D9	fusion	Kibdelosporangium sp. MJ126-NF4	Bacteria	1-217	241	structure (p10)	undetermined	True	
+A0ACG4DQ57	fusion	Pseudonocardia nantongensis	Bacteria	1-260	213	sequence	no structural read	True	
+UPI00069089CE	fusion	Rhodococcus rhodnii	Bacteria	1-272	238	sequence	no structural read	True	
+UPI0018F8B29C	fusion	Streptomyces sp. AA4	Bacteria	1-223	221	sequence	no structural read	True	
+UPI00256FE547	fusion	Streptomyces sp. AA4	Bacteria	1-233	221	sequence	no structural read	True	
+UPI0006900420	fusion	Streptomyces sp. NRRL F-3213	Bacteria	1-258	237	sequence	no structural read	True	
+A0A2E3ETT7	fusion	Tistrella	Bacteria	190-559	362	structure (p10)	degraded	True	
+UPI0023698E55	fusion	bacterium	Bacteria	501-602	102	sequence	no structural read	False	covers 102 < 211
+UPI00106EF908	fusion	unclassified Amycolatopsis	Bacteria	1-265	237	sequence	no structural read	True	
+A0A6T0RWN7	fusion	Gloeochaete wittrockiana	Glaucocystophyceae	410-763	352	sequence	no structural read	True	
+A0A7S1KLJ4	fusion	Percolomonas cosmopolitus	Heterolobosea	389-798	379	structure (p10)	degraded	True	
+A0A8C9GKE0	fusion	Piliocolobus tephrosceles	Metazoa	1109-1532	292	sequence	no structural read	True	
+UPI00403BC8E0	fusion	Agarophyton chilense	Rhodophyta	603-721	91	sequence	no structural read	False	covers 91 < 211
+UPI00417AE514	fusion	Delisea pulchra	Rhodophyta	689-856	118	sequence	no structural read	False	covers 118 < 211
+A0A9C7PQ51	fusion	Galdieria partita	Rhodophyta	434-762	346	structure (p10)	degraded	True	
+A0A9C7PSW2	fusion	Galdieria partita	Rhodophyta	434-762	346	structure (p10)	degraded	True	
+UPI00207E5336	fusion	Galdieria sulphuraria	Rhodophyta	429-772	302	sequence	no structural read	True	
+M2YAF1	fusion	Galdieria sulphuraria	Rhodophyta	421-764	358	structure (p10)	degraded	True	
+A0AAV9I966	fusion	Galdieria yellowstonensis	Rhodophyta	424-772	355	structure (p10)	degraded	True	
+UPI00403B59D6	fusion	Gracilaria gracilis	Rhodophyta	421-757	305	sequence	no structural read	True	
+A0A2V3IZY9	fusion	Gracilariopsis chorda	Rhodophyta	393-730	340	structure (p10)	degraded	True	
+A0A1X6PGY4	fusion	Porphyra umbilicalis	Rhodophyta	343-746	304	structure (p10)	degraded	True	
+UPI003E63B0D5	fusion	Pyropia vietnamensis	Rhodophyta	672-1036	308	sequence	no structural read	True	
+A0ACC3CDY0	fusion	Pyropia yezoensis	Rhodophyta	711-1072	310	sequence	no structural read	True	
+A0AAV8UZF7	fusion	Rhodosorus marinus	Rhodophyta	440-809	353	structure (p10)	degraded	True	
+UPI0034ACD96C	fusion	Heribaudiella fluviatilis	Stramenopiles	700-1176	352	sequence	no structural read	True	
+A0A9D4ZGS2	fusion	Adiantum capillus-veneris	Viridiplantae	448-811	380	structure (p10)	intact	True	
+UPI0026F5908A	fusion	Adiantum nelumboides	Viridiplantae	442-812	351	sequence	no structural read	True	
+UPI00270145B2	fusion	Adiantum nelumboides	Viridiplantae	443-813	351	sequence	no structural read	True	
+A0AAW1T1C3	fusion	Apatococcus fuscideae	Viridiplantae	352-727	373	structure (p10)	intact	True	
+A0AAW1STH3	fusion	Apatococcus fuscideae	Viridiplantae	294-411	135	structure (p10)	undetermined	False	covers 135 < 211
+A0AAW1RFQ0	fusion	Apatococcus lobatus	Viridiplantae	539-912	383	structure (p10)	intact	True	
+A0A3M7KV61	fusion	Auxenochlorella protothecoides	Viridiplantae	505-806	307	structure (p10)	undetermined	True	
+A0A087SFF4	fusion	Auxenochlorella protothecoides	Viridiplantae	505-806	307	structure (p10)	undetermined	True	
+A0A1D2AC22	fusion	Auxenochlorella protothecoides	Viridiplantae	508-547	65	structure (p10)	undetermined	False	covers 65 < 211
+A0ACS3USW8	fusion	Auxenochlorella protothecoides x Auxenochlorella symbiontica	Viridiplantae	504-880	356	sequence	no structural read	True	
+A0ACS3UUC8	fusion	Auxenochlorella protothecoides x Auxenochlorella symbiontica	Viridiplantae	114-257	94	sequence	no structural read	False	covers 94 < 211
+UPI003DED54FA	fusion	Auxenochlorella protothecoides x Auxenochlorella symbiontica	Viridiplantae	508-880	347	sequence	no structural read	True	
+UPI00256AEE67	fusion	Bryopsis sp. KO-2023	Viridiplantae	419-777	345	sequence	no structural read	True	
+UPI003E849B82	fusion	Calypogeia fissa	Viridiplantae	514-988	351	sequence	no structural read	True	
+UPI003E84D60F	fusion	Calypogeia fissa	Viridiplantae	514-992	361	sequence	no structural read	True	
+A0A8T2T887	fusion	Ceratopteris richardii	Viridiplantae	439-805	388	structure (p10)	intact	True	
+A0A8T2TAW1	fusion	Ceratopteris richardii	Viridiplantae	403-769	388	structure (p10)	intact	True	
+A0A8T2T5U0	fusion	Ceratopteris richardii	Viridiplantae	457-823	388	structure (p10)	intact	True	
+A0A8T2T6R3	fusion	Ceratopteris richardii	Viridiplantae	369-735	388	structure (p10)	intact	True	
+A0A8T2V5S6	fusion	Ceratopteris richardii	Viridiplantae	413-787	391	structure (p10)	intact	True	
+A0A8T2V9N7	fusion	Ceratopteris richardii	Viridiplantae	481-855	391	structure (p10)	intact	True	
+A0A8T2V9B8	fusion	Ceratopteris richardii	Viridiplantae	513-887	391	structure (p10)	intact	True	
+A0A8T2VH64	fusion	Ceratopteris richardii	Viridiplantae	383-757	391	structure (p10)	intact	True	
+A0AAD5H3G8	fusion	Chlorella ohadii	Viridiplantae	417-824	383	structure (p10)	intact	True	
+A0A2P6TST6	fusion	Chlorella sorokiniana	Viridiplantae	1578-1983	365	sequence	no structural read	True	
+A0ACF8QCP6	fusion	Chlorella vulgaris	Viridiplantae	2164-2572	365	sequence	no structural read	True	
+A0A9D4Z1M3	fusion	Chlorella vulgaris	Viridiplantae	477-885	390	structure (p10)	intact	True	
+UPI0019713C57	fusion	Chloropicon mariensis	Viridiplantae	486-862	355	sequence	no structural read	True	
+A0A5B8MZ45	fusion	Chloropicon primus	Viridiplantae	471-834	380	structure (p10)	intact	True	
+A0A7S2SYH4	fusion	Chloropicon primus	Viridiplantae	198-563	382	structure (p10)	intact	True	
+UPI003D4E3111	fusion	Chloropicon roscoffensis	Viridiplantae	472-835	353	sequence	no structural read	True	
+UPI003D44361E	fusion	Chloropicon roscoffensis	Viridiplantae	472-835	353	sequence	no structural read	True	
+A0A7S3CEE4	fusion	Chloropicon roscoffensis	Viridiplantae	472-835	381	structure (p10)	intact	True	
+UPI00256B0A12	fusion	Closterium sp. NIES-64	Viridiplantae	490-947	349	sequence	no structural read	True	
+UPI00255E298F	fusion	Closterium sp. NIES-65	Viridiplantae	490-947	349	sequence	no structural read	True	
+UPI00256BD7B6	fusion	Closterium sp. Naga37s-1	Viridiplantae	569-1023	349	sequence	no structural read	True	
+UPI00256CCA27	fusion	Closterium sp. Naga37s-1	Viridiplantae	576-1032	349	sequence	no structural read	True	
+UPI0025662740	fusion	Closterium sp. Yama58-4	Viridiplantae	611-1062	349	sequence	no structural read	True	
+UPI00255D987A	fusion	Closterium sp. Yama58-4	Viridiplantae	706-1159	349	sequence	no structural read	True	
+A0ACE1S3P2	fusion	Coccomyxa elongata	Viridiplantae	503-871	351	sequence	no structural read	True	
+UPI0041CE4EE6	fusion	Coccomyxa sp. KJ	Viridiplantae	509-877	342	sequence	no structural read	True	
+A0A8J9S1S8	fusion	Coccomyxa sp. Obi	Viridiplantae	509-877	380	structure (p10)	intact	True	
+A0ABR2Z651	fusion	Coccomyxa subellipsoidea	Viridiplantae	471-850	344	sequence	no structural read	True	
+A0AAV1HSQ3	fusion	Coccomyxa viridis	Viridiplantae	471-835	380	structure (p10)	intact	True	
+A0ABP1FZH3	fusion	Coccomyxa viridis	Viridiplantae	482-848	354	sequence	no structural read	True	
+A0A6U1YT63	fusion	Crustomastix stigmatica	Viridiplantae	517-888	357	sequence	no structural read	True	
+A0AAE0FQH6	fusion	Cymbomonas tetramitiformis	Viridiplantae	445-807	382	structure (p10)	intact	True	
+A0A6T6TKC6	fusion	Dolichomastix tenuilepis	Viridiplantae	523-678	154	sequence	no structural read	False	covers 154 < 211
+A0A6T6TE00	fusion	Dolichomastix tenuilepis	Viridiplantae	523-905	352	sequence	no structural read	True	
+A0AAW1QKD7	fusion	Elliptochloris bilobata	Viridiplantae	414-780	381	structure (p10)	intact	True	
+A0A1Y1HLG4	fusion	Klebsormidium nitens	Viridiplantae	440-864	383	structure (p10)	intact	True	
+A0A6U3FW60	fusion	Mantoniella antarctica	Viridiplantae	580-991	359	sequence	no structural read	True	
+A0A7S0SHS1	fusion	Mantoniella antarctica	Viridiplantae	594-992	378	structure (p10)	intact	True	
+UPI00465AA030	fusion	Marchantia paleacea	Viridiplantae	447-858	357	sequence	no structural read	True	
+A0AAF6ASZ4	fusion	Marchantia polymorpha	Viridiplantae	447-859	398	structure (p10)	intact	True	
+A0A176VBL3	fusion	Marchantia polymorpha subsp. ruderalis	Viridiplantae	532-944	395	structure (p10)	intact	True	
+A0A2P6V5T4	fusion	Micractinium conductrix	Viridiplantae	481-886	385	structure (p10)	intact	True	
+UPI003A817EFF	fusion	Micractinium sp. CCAP 211/92	Viridiplantae	481-886	365	sequence	no structural read	True	
+A0ACF7VFR7	fusion	Micractinium tetrahymenae	Viridiplantae	488-893	365	sequence	no structural read	True	
+C1E5E7	fusion	Micromonas commoda	Viridiplantae	634-1039	386	structure (p10)	intact	True	
+A0A6U2E738	fusion	Micromonas pusilla	Viridiplantae	497-903	361	sequence	no structural read	True	
+A0A6U0QXM9	fusion	Micromonas pusilla	Viridiplantae	543-948	359	sequence	no structural read	True	
+A0A7S0KUD0	fusion	Micromonas pusilla	Viridiplantae	543-949	384	structure (p10)	intact	True	
+A0A7R9TNK0	fusion	Micromonas pusilla	Viridiplantae	610-1019	381	structure (p10)	intact	True	
+A0A6U0DZB1	fusion	Micromonas pusilla	Viridiplantae	565-974	361	sequence	no structural read	True	
+C1MNA9	fusion	Micromonas pusilla (strain CCMP1545)	Viridiplantae	610-1019	382	structure (p10)	intact	True	
+A0A8T2HKV0	fusion	Nannochloris sp. 'desiccata'	Viridiplantae	483-848	381	structure (p10)	intact	True	
+A0A8T2HQ82	fusion	Nannochloris sp. 'desiccata'	Viridiplantae	525-890	383	structure (p10)	intact	True	
+A0A8T2W6N8	fusion	Nannochloris sp. 'desiccata'	Viridiplantae	483-848	383	structure (p10)	intact	True	
+UPI001C373895	fusion	Nannochloris sp. 'desiccata'	Viridiplantae	525-890	355	sequence	no structural read	True	
+UPI003A1E0F79	fusion	Nannochloris sp. 'desiccata'	Viridiplantae	458-823	355	sequence	no structural read	True	
+UPI003E326C11	fusion	Parachlorella kessleri	Viridiplantae	500-849	335	sequence	no structural read	True	
+A0A7S1GH73	fusion	Picochlorum oklahomense	Viridiplantae	232-494	283	structure (p10)	undetermined	True	
+UPI0030877445	fusion	Picochlorum sp. SENEW3	Viridiplantae	536-904	352	sequence	no structural read	True	
+A0A6U9SDW3	fusion	Picocystis salinarum	Viridiplantae	472-842	356	sequence	no structural read	True	
+A0A6U0PMV0	fusion	Prasinoderma coloniale	Viridiplantae	540-909	342	sequence	no structural read	True	
+A0AAD9ING6	fusion	Prototheca wickerhamii	Viridiplantae	466-694	243	structure (p10)	undetermined	True	
+A0ACT2CGQ9	fusion	Pseudoscourfieldia marina	Viridiplantae	463-856	349	sequence	no structural read	True	
+A0A830HJR7	fusion	Pycnococcus provasolii	Viridiplantae	463-856	386	structure (p10)	intact	True	
+UPI003D3B712B	fusion	Pycnococcus provasolii	Viridiplantae	463-856	349	sequence	no structural read	True	
+A0A6V2XV37	fusion	Pyramimonas parkeae	Viridiplantae	492-864	348	sequence	no structural read	True	
+A0A6V2XUL8	fusion	Pyramimonas parkeae	Viridiplantae	314-688	351	sequence	no structural read	True	
+A0ABD1ZJ46	fusion	Riccia fluitans	Viridiplantae	449-858	394	structure (p10)	intact	True	
+A0ABD1ZJA7	fusion	Riccia fluitans	Viridiplantae	448-857	393	structure (p10)	intact	True	
+A0ABD3ICE8	fusion	Riccia sorocarpa	Viridiplantae	413-824	393	structure (p10)	intact	True	
+A0ABD3ICG1	fusion	Riccia sorocarpa	Viridiplantae	446-904	395	structure (p10)	intact	True	
+UPI000D1C7E6E	fusion	Selaginella moellendorffii	Viridiplantae	428-823	362	sequence	no structural read	True	
+UPI000D1C7A16	fusion	Selaginella moellendorffii	Viridiplantae	428-820	362	sequence	no structural read	True	
+A0AAW1PV56	fusion	Symbiochloris irregularis	Viridiplantae	425-798	381	structure (p10)	intact	True	
+A0A6T8QRB2	fusion	Tetraselmis astigmatica	Viridiplantae	456-833	352	sequence	no structural read	True	
+A0A6U1H0L7	fusion	Tetraselmis chui	Viridiplantae	467-836	342	sequence	no structural read	True	
+A0A061RZV3	fusion	Tetraselmis sp. GSL018	Viridiplantae	462-835	382	structure (p10)	intact	True	
+A0A6V1UPV8	fusion	Tetraselmis striata	Viridiplantae	459-834	364	sequence	no structural read	True	
+UPI003FA50ABC	fusion	Trebouxia sp. A48	Viridiplantae	461-843	352	sequence	no structural read	True	
+UPI0032F171AD	fusion	Trebouxia sp. C0004	Viridiplantae	460-836	352	sequence	no structural read	True	
+UPI003EF4DE17	fusion	Trebouxia sp. C0004	Viridiplantae	460-764	236	sequence	no structural read	True	
+UPI0032FB0F5E	fusion	Trebouxia sp. C0005	Viridiplantae	383-761	354	sequence	no structural read	True	
+UPI0033022BC4	fusion	Trebouxia sp. C0006	Viridiplantae	317-693	352	sequence	no structural read	True	
+UPI003EFAEB2A	fusion	Trebouxia sp. C0006	Viridiplantae	462-838	352	sequence	no structural read	True	
+UPI0038727EB7	fusion	Trebouxia sp. C0009 RCD-2024	Viridiplantae	456-651	173	sequence	no structural read	False	covers 173 < 211
+UPI003871A089	fusion	Trebouxia sp. C0009 RCD-2024	Viridiplantae	456-838	352	sequence	no structural read	True	
+UPI0038720A48	fusion	Trebouxia sp. C0010 RCD-2024	Viridiplantae	456-838	352	sequence	no structural read	True	
+A0AAW1PYA1	fusion	[Myrmecia] bisecta	Viridiplantae	485-831	366	structure (p10)	undetermined	True	
+UPI002567789E	fusion	unclassified Closterium	Viridiplantae	490-947	349	sequence	no structural read	True	
+A0A9P3J9N9	fusion	unclassified Closterium peracerosum-strigosum-littorale complex	Viridiplantae	501-964	387	structure (p10)	undetermined	True	
+A0A5J4Y8F2	fusion	unclassified Trebouxia	Viridiplantae	462-838	382	structure (p10)	intact	True	
+UPI0022F665C1	fusion	uncultured Mantoniella	Viridiplantae	580-991	359	sequence	no structural read	True	
+UPI001AB276C2	fusion	uncultured Micromonas	Viridiplantae	546-807	254	sequence	no structural read	True	
+UPI0022FCFCE2	fusion	uncultured Pyramimonadales	Viridiplantae	262-629	355	sequence	no structural read	True	
+UPI001A872EF3	fusion	uncultured Pyramimonas	Viridiplantae	437-800	350	sequence	no structural read	True	
+UPI0049530031	fusion	Collodictyon triciliatum	other	438-824	360	sequence	no structural read	True	
+UPI004952E73C	fusion	Collodictyon triciliatum	other	275-641	335	sequence	no structural read	True	
+UPI0049530F21	fusion	Diphylleia rotans	other	474-518	44	sequence	no structural read	False	covers 44 < 211
+P11926	reference	ODC human	reference	whole	422	sequence		True	
+P07805	reference	ODC Trypanosoma brucei	reference	whole	404	sequence		True	
+P08432	reference	ODC yeast	reference	whole	364	sequence		True	
+P93351	reference	ODC tobacco (plant)	reference	whole	360	sequence		True	
+Q84527	reference	ADC chlorella virus PBCV-1 (ODC-fold)	reference	whole	355	sequence		True	
+Q9SI64	reference	ADC1 Arabidopsis	reference	whole	261	sequence		True	
+O23141	reference	ADC2 Arabidopsis	reference	whole	259	sequence		True	
+P21170	reference	ADC SpeA E. coli	reference	whole	224	sequence		True	
+P00861	reference	DAPDC LysA E. coli	reference	whole	332	sequence		True	
+Q56575	reference	CANSDC Vibrio alginolyticus	reference	whole	192	sequence		False	low coverage
+A8FNH9	reference	CANSDC Campylobacter jejuni	reference	whole	263	sequence		True	
+O14977	reference	AZIN1 human (inactive ODC paralog)	reference	whole	401	sequence		True	
+Q96A70	reference	AZIN2 human (ODC-like)	reference	whole	412	sequence		True	
+O50657	reference	LDC/ODC Selenomonas ruminantium	reference	whole	343	sequence		True	
+A0A8F1NN86	reference	LDC2 Phlegmariurus tetrastichus (plant)	reference	whole	356	sequence		True	
+Q949X7	reference	DAPDC1 Arabidopsis	reference	whole	358	sequence		True	
+UPI0021C4CABB	standalone	Galdieria partita	standalone PLP decarboxylase	whole	384	sequence		True	
+UPI0021C4D23B	standalone	Galdieria partita	standalone PLP decarboxylase	whole	368	sequence		True	
+UPI0021C4D74F	standalone	Galdieria partita	standalone PLP decarboxylase	whole	329	sequence		True	
+UPI0021C4E8AD	standalone	Galdieria partita	standalone PLP decarboxylase	whole	363	sequence		True	
+UPI001702386F	standalone	Rhodosorus marinus	standalone PLP decarboxylase	whole	359	sequence		True	
+UPI0017429AE9	standalone	Rhodosorus marinus	standalone PLP decarboxylase	whole	317	sequence		True	
+UPI00249615BA	standalone	Rhodosorus marinus	standalone PLP decarboxylase	whole	357	sequence		True	
+UPI0019748BC5	standalone	Rhodosorus marinus	standalone PLP decarboxylase	whole	359	sequence		True	
+UPI0016D05EEF	standalone	Rhodosorus marinus	standalone PLP decarboxylase	whole	116	sequence		False	covers 116 < 211
+UPI0024983FC5	standalone	Rhodosorus marinus	standalone PLP decarboxylase	whole	359	sequence		True	
+UPI00171E2F90	standalone	Rhodosorus marinus	standalone PLP decarboxylase	whole	255	sequence		True	
+UPI00172E381D	standalone	Rhodosorus marinus	standalone PLP decarboxylase	whole	245	sequence		True	
+UPI000D81CFB8	standalone	Gracilariopsis chorda	standalone PLP decarboxylase	whole	344	sequence		True	
+UPI000D9E831A	standalone	Gracilariopsis chorda	standalone PLP decarboxylase	whole	372	sequence		True	
+UPI000D836759	standalone	Gracilariopsis chorda	standalone PLP decarboxylase	whole	363	sequence		True	
+UPI001738FFC2	standalone	Percolomonas cosmopolitus	standalone PLP decarboxylase	whole	344	sequence		True	
+UPI0016D2107E	standalone	Percolomonas cosmopolitus	standalone PLP decarboxylase	whole	333	sequence		True	
+UPI0016CBA8E8	standalone	Percolomonas cosmopolitus	standalone PLP decarboxylase	whole	374	sequence		True	

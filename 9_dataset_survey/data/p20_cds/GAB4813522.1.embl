@@ -1,0 +1,117 @@
+ID   GAB4813522; SV 1; linear; genomic DNA; WGS; PLN; 2550 BP.
+XX
+PA   BAAHLN010000005.1
+XX
+PR   Project:PRJDB20539;
+XX
+DT   04-JUN-2025 (Created)
+DT   04-JUN-2025 (Last updated)
+XX
+DE   Parachlorella kessleri hypothetical protein
+XX
+KW   WGS; STANDARD_DRAFT.
+XX
+OS   Parachlorella kessleri
+OC   Eukaryota; Viridiplantae; Chlorophyta; core chlorophytes; Trebouxiophyceae;
+OC   Chlorellales; Chlorellaceae; Parachlorella.
+XX
+RN   [1]
+RA   Ishii K., Asano M., Kazama Y., Takeshita T., Bisova K., Zachleder V.,
+RA   Toyoda A., Abe T., Kawano S.;
+RT   "Internal ploidy and heritable chromosome fragmentation in P. kessleri";
+RL   Algal Res.:(2025).
+XX
+RN   [2]
+RA   Ishii K., Kawano S.;
+RT   ;
+RL   Submitted (28-APR-2025) to the INSDC.
+RL   Contact:Shigeyuki Kawano The University of Tokyo, Graduate School of
+RL   Frontier Sciences; Wakashiba 178-4-4, Kashiwa, Chiba 277-0871, Japan
+XX
+DR   MD5; 9fec25460a911d9184ca0d6a6754bc3b.
+DR   BioSample; SAMD00896632.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..2550
+FT                   /organism="Parachlorella kessleri"
+FT                   /strain="NIES-2152"
+FT                   /mol_type="genomic DNA"
+FT                   /db_xref="taxon:3074"
+FT                   /culture_collection="NIES:2152"
+FT                   /submitter_seqid="Scaffolds_4"
+FT   CDS             complement(join(BAAHLN010000005.1:257605..258108,
+FT                   BAAHLN010000005.1:258489..258966,
+FT                   BAAHLN010000005.1:259421..259575,
+FT                   BAAHLN010000005.1:259909..260156,
+FT                   BAAHLN010000005.1:260618..260733,
+FT                   BAAHLN010000005.1:261598..261724,
+FT                   BAAHLN010000005.1:262057..262206,
+FT                   BAAHLN010000005.1:262652..262828,
+FT                   BAAHLN010000005.1:263165..263759))
+FT                   /codon_start=1
+FT                   /locus_tag="N2152v2_000568"
+FT                   /product="hypothetical protein"
+FT                   /note="gene ID: 568_g"
+FT                   /protein_id="GAB4813522.1"
+FT                   /translation="MTAADMNEEVFACPVFEGSEKRISVTFAAGPNTPPHGLRSLSRAQ
+FT                   LDAMLDLAACQIVSYRSNAHFDAYVLSESSLFVYPDRMVLKTCGTTKLLSCVEYMEELA
+FT                   ASLGMAPSRVKYTRASFLFPEQQPAPHTSFDHECQFLHGAFSRLGRTSAYVLGDALNGL
+FT                   QWHVFVAGLCDLPAKPLAPPPPRRRQPPLSPTWPAGTDEAGLSSQSAERPIYTLEVCMT
+FT                   GLSARKAAQFFRGEDFVSAQHVTLGSGIQGLVPGAVIDDYVFEPCGYSMNGQQGGVFST
+FT                   IHITPEDGFSYASFELCGYDPEAVDTADLVSRVVEVFHPRQVGVTLSLDSSASAAATLG
+FT                   WSGGFLIPPKYVAHSSSYQEFKAGGYVAYFALEGERAAAGKAGSDSDASSPRAVLKHCP
+FT                   SFHTITPLGSEDAMHDTASDDSRGAGAHVGSPSAFMRASLMSSMSGLSLMGSSAEIGVE
+FT                   DVLALHNAVPLLRGDGASVDGHMRGLISRHRLEDTFFVVDLGAVQRCYSAWTEAMPGVR
+FT                   PYYTVRCNPDRALLSMLAALGCGFSCAAESEVHLVLSLGIPADRILFSSACKRPRDVRF
+FT                   AAQKGVRLTTFACVGELCKLARWQPGARALLRLTAAHSVDSAGAAGRGADGADPASWTE
+FT                   LFQTAQALGVEVAGVSVALGAAADVDRALALAKQAFDTGRAHGCAMKVLDIGCAAFESA
+FT                   HCQAGDTLATLTAALCPALDAHFPTGCGVRVMAEAGHCFAESAATLASLVYARRLQPSG
+FT                   EGYDYWVAADGQAWAGSDACGAAPGGAPRALLMHGAGAKAAPCTVHGPAAGALCCALPE
+FT                   CQEGDWVVLPRWGAYCGAGEVLGAMDTPTFYVCSREA"
+XX
+SQ   Sequence 2550 BP; 357 A; 894 C; 851 G; 448 T; 0 other;
+     atgaccgccg cggacatgaa cgaggaggtt tttgcctgcc ccgtgtttga gggcagcgag        60
+     aagcgcatca gcgtgacgtt tgccgcgggg ccgaacaccc cgccgcacgg cctgcgcagc       120
+     ctcagccgcg cgcagctgga tgccatgctc gacctggcgg catgccagat tgtcagctac       180
+     cgctccaatg cccacttcga cgcgtacgtg ctgtcagagt cgtcgctgtt tgtctacccc       240
+     gaccgcatgg tgctcaagac ctgcggcacc accaagcttc tgagctgcgt ggagtacatg       300
+     gaggagctcg cggcatccct cggcatggcg ccatcccgcg tgaaatacac ccgcgccagc       360
+     tttctgttcc ccgagcagca gccggcaccg cacacctcct tcgaccacga gtgccagttc       420
+     ctgcacggcg ccttctcgcg cctcggccgc acctctgcct acgtgctcgg cgacgccctc       480
+     aatggcctcc agtggcacgt ctttgtggca ggtctgtgtg acttgcccgc aaagccactc       540
+     gcgccgccgc cgccacggcg gaggcagccg cccctgtcgc cgacgtggcc ggcaggtacc       600
+     gacgaggccg gcctgtcctc ccagagtgca gagcgcccca tttacacgct ggaggtgtgc       660
+     atgacgggcc tcagcgcccg gaaggcggcg cagtttttcc gcggcgagga ctttgtcagc       720
+     gcccagcacg tgacgctggg ctcgggcatt caaggcctgg tgccgggggc agtcatcgat       780
+     gactacgtgt ttgagccgtg cggctactcc atgaacggcc agcagggggg cgtcttctct       840
+     accatccaca tcacccccga ggacggcttc tcttatgcct cctttgagct gtgtggctat       900
+     gaccccgagg cagttgacac tgccgacctg gtgtccaggg tcgtggaggt gttccaccct       960
+     cgccaagtgg gggtcacgct gtctctggac tcatccgcct ctgccgcggc aacgctcggc      1020
+     tggtcaggcg gcttcctcat cccgccaaag tatgtggccc actcgtcatc gtaccaggag      1080
+     ttcaaggctg gcggctacgt ggcgtatttt gcgctggagg gggagagggc ggcggccggc      1140
+     aaggctggca gcgactcaga cgcaagctcc ccgcgcgccg tgctcaagca ctgcccctcg      1200
+     ttccacacca ttacgcccct gggcagcgag gacgctatgc acgacacggc cagcgacgac      1260
+     tcgcggggcg ccggcgccca cgtcggctcc ccctctgcct tcatgagagc ctctctaatg      1320
+     agttccatga gtggtctaag cctgatgggg tcttccgctg agattggcgt cgaagacgtg      1380
+     ctggcgctgc acaacgcggt gcccctcctg cggggcgacg gcgccagcgt cgatggccac      1440
+     atgcgcggcc tgatctcccg ccaccgtttg gaagacacct ttttcgtggt ggacctggga      1500
+     gctgtgcagc gctgctacag tgcctggacg gaggccatgc ccggcgtacg cccctactac      1560
+     accgtcaggt gcaaccccga ccgcgccctg ctgtccatgc tggctgcgct gggctgtggc      1620
+     ttcagctgtg ccgctgagtc agaggtgcac ctggtgctgt ccctggggat ccccgcggat      1680
+     cggatcctct tctccagcgc ctgcaagcgc ccccgagacg tgcgctttgc cgcccagaag      1740
+     ggcgtccgcc tgaccacctt tgcctgcgtg ggcgagctct gcaaacttgc caggtggcag      1800
+     cccggcgccc gcgccctgct gcgcctcacc gcagcccaca gcgtggacag cgccggcgcc      1860
+     gcagggcggg gcgccgatgg cgccgaccct gccagctgga ctgagctgtt ccagacggcc      1920
+     caggcgcttg gtgtggaggt ggcgggggtc agcgtggccc ttggggccgc tgctgacgtg      1980
+     gacagggcgc tggcgctggc gaagcaggcc tttgacactg gcagggcgca tggctgcgcc      2040
+     atgaaggttc tggacatcgg ctgcgccgcc tttgagtccg cccactgcca ggctggcgac      2100
+     accctcgcca cgctgacggc cgcgctgtgc cccgcgctgg acgcgcactt ccccactggc      2160
+     tgcggcgtgc gcgtcatggc cgaggcgggg cactgctttg ctgagtcagc cgccacgctg      2220
+     gcatccctcg tctacgcccg gcgcctccag ccctccgggg agggctacga ctactgggtt      2280
+     gccgcagacg gccaggcgtg ggcaggcagc gacgcctgcg gcgccgcccc cggcggcgcg      2340
+     ccgcgcgccc tgctgatgca tggcgccggc gccaaggcag cgccatgcac cgtgcacggg      2400
+     cctgctgcgg gcgcgctgtg ctgcgctcta ccagagtgcc aggagggcga ctgggtggtg      2460
+     ctgccccgat ggggtgccta ctgtggggca ggggaggtcc tgggggcgat ggataccccc      2520
+     accttctatg tttgctctcg tgaggcctga                                       2550
+//

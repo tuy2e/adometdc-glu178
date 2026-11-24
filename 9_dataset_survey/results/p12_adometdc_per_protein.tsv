@@ -1,0 +1,655 @@
+accession	organism	kind	stratum	odc_status	group	catalytic_kept	catalytic_lost	catalytic_unresolved	catalytic_frac	interface_kept	interface_lost	interface_unresolved	interface_frac	d_interface_minus_catalytic	fisher_p_interface_vs_catalytic
+A0A7S1KLJ4	Percolomonas cosmopolitus	fusion (our 23)	Heterolobosea	degraded	fusion, ODC degraded	5	0	0	1	3	17	5	0.15	-0.85	0.00105
+A0A9C7PQ51	Galdieria partita	fusion (our 23)	Rhodophyta	degraded	fusion, ODC degraded	5	0	0	1	4	10	11	0.286	-0.714	0.0108
+A0A1Y1HLG4	Klebsormidium nitens	fusion (our 23)	Streptophyta	intact	fusion, ODC intact	5	0	0	1	6	12	7	0.333	-0.667	0.0137
+A0AAV8UZF7	Rhodosorus marinus	fusion (our 23)	Rhodophyta	degraded	fusion, ODC degraded	5	0	0	1	5	10	10	0.333	-0.667	0.0325
+A0AAW1PYA1	[Myrmecia] bisecta	fusion (our 23)	Chlorophyta	undetermined	fusion, other	5	0	0	1	3	16	6	0.158	-0.842	0.00132
+A0A9D4ZGS2	Adiantum capillus-veneris	fusion (our 23)	Streptophyta	intact	fusion, ODC intact	5	0	0	1	4	15	6	0.211	-0.789	0.00296
+A0ABD3ICG1	Riccia sorocarpa	fusion (our 23)	Streptophyta	intact	fusion, ODC intact	4	1	0	0.8	5	11	9	0.312	-0.488	0.119
+A0A2P6V5T4	Micractinium conductrix	fusion (our 23)	Chlorophyta	intact	fusion, ODC intact	5	0	0	1	4	15	6	0.211	-0.789	0.00296
+A0A087SFF4	Auxenochlorella protothecoides	fusion (our 23)	Chlorophyta	undetermined	fusion, other	5	0	0	1	4	15	6	0.211	-0.789	0.00296
+A0AAW1RFQ0	Apatococcus lobatus	fusion (our 23)	Chlorophyta	intact	fusion, ODC intact	5	0	0	1	2	17	6	0.105	-0.895	0.000494
+A0A1D2AC22	Auxenochlorella protothecoides	fusion (our 23)	Chlorophyta	incomplete	fusion, other	5	0	0	1	4	17	4	0.19	-0.81	0.00192
+A0AAE0FQH6	Cymbomonas tetramitiformis	fusion (our 23)	Chlorophyta	intact	fusion, ODC intact	5	0	0	1	5	14	6	0.263	-0.737	0.00593
+A0A061RZV3	Tetraselmis sp. GSL018	fusion (our 23)	Chlorophyta	intact	fusion, ODC intact	5	0	0	1	6	11	8	0.353	-0.647	0.0351
+C1E5E7	Micromonas commoda	fusion (our 23)	Chlorophyta	intact	fusion, ODC intact	5	0	0	1	5	16	4	0.238	-0.762	0.00383
+A0A9P3J9N9	Closterium sp. NIES-68	fusion (our 23)	Streptophyta	undetermined	fusion, other	5	0	0	1	6	12	7	0.333	-0.667	0.0137
+A0A5B8MZ45	Chloropicon primus	fusion (our 23)	Chlorophyta	intact	fusion, ODC intact	5	0	0	1	5	5	15	0.5	-0.5	0.101
+A0AAD9ING6	Prototheca wickerhamii	fusion (our 23)	Chlorophyta	incomplete	fusion, other	5	0	0	1	4	12	9	0.25	-0.75	0.00619
+A0AAW1T1C3	Apatococcus fuscideae	fusion (our 23)	Chlorophyta	intact	fusion, ODC intact	5	0	0	1	2	16	7	0.111	-0.889	0.000624
+A0A2V3IZY9	Gracilariopsis chorda	fusion (our 23)	Rhodophyta	degraded	fusion, ODC degraded	5	0	0	1	2	7	16	0.222	-0.778	0.021
+A0A830HJR7	Pycnococcus provasolii	fusion (our 23)	Chlorophyta	intact	fusion, ODC intact	5	0	0	1	1	4	20	0.2	-0.8	0.0476
+A0A8T2T6R3	Ceratopteris richardii	fusion (our 23)	Streptophyta	intact	fusion, ODC intact	3	0	2	1	3	17	5	0.15	-0.85	0.0113
+A0A0G4EYD2	Vitrella brassicaformis CCMP3155	fusion (our 23)	(unknown)	undetermined	fusion, other	4	0	1	1	3	13	9	0.188	-0.812	0.00722
+A0AAW1STH3	Apatococcus fuscideae	fusion (our 23)	Chlorophyta	incomplete	fusion, other	2	0	3	1	2	14	9	0.125	-0.875	0.0392
+Q8IJ77	Plasmodium falciparum	fusion (new, p10)	Alveolata	degraded	fusion, ODC degraded	4	0	1	1	1	19	5	0.05	-0.95	0.000471
+A0A3M7KV61	Auxenochlorella protothecoides	fusion (new, p10)	Viridiplantae	undetermined	fusion, other	5	0	0	1	4	16	5	0.2	-0.8	0.00237
+A0A8T2T887	Ceratopteris richardii	fusion (new, p10)	Viridiplantae	intact	fusion, ODC intact	5	0	0	1	3	17	5	0.15	-0.85	0.00105
+A0ABD1ZJ46	Riccia fluitans	fusion (new, p10)	Viridiplantae	intact	fusion, ODC intact	5	0	0	1	6	12	7	0.333	-0.667	0.0137
+A0A7S0PU70	Micromonas pusilla	fusion (new, p10)	Viridiplantae		fusion, other	5	0	0	1	5	16	4	0.238	-0.762	0.00383
+A0A8T2TAW1	Ceratopteris richardii	fusion (new, p10)	Viridiplantae	intact	fusion, ODC intact	5	0	0	1	3	17	5	0.15	-0.85	0.00105
+A0ABD3ICE8	Riccia sorocarpa	fusion (new, p10)	Viridiplantae	intact	fusion, ODC intact	5	0	0	1	4	4	17	0.5	-0.5	0.105
+A0AAF6ASZ4	Marchantia polymorpha	fusion (new, p10)	Viridiplantae	intact	fusion, ODC intact	5	0	0	1	6	13	6	0.316	-0.684	0.0109
+A0ABD1ZJA7	Riccia fluitans	fusion (new, p10)	Viridiplantae	intact	fusion, ODC intact	5	0	0	1	6	12	7	0.333	-0.667	0.0137
+A0A7S2SYH4	Chloropicon primus	fusion (new, p10)	Viridiplantae	intact	fusion, ODC intact	0	2	3	0	0	4	21	0	0	1
+A0A8T2T5U0	Ceratopteris richardii	fusion (new, p10)	Viridiplantae	intact	fusion, ODC intact	5	0	0	1	3	14	8	0.176	-0.824	0.00213
+A0AAD5H3G8	Chlorella ohadii	fusion (new, p10)	Viridiplantae	intact	fusion, ODC intact	5	0	0	1	3	5	17	0.375	-0.625	0.0754
+A0AAV1HSQ3	Coccomyxa viridis	fusion (new, p10)	Viridiplantae	intact	fusion, ODC intact	5	0	0	1	6	12	7	0.333	-0.667	0.0137
+A0A176VBL3	Marchantia polymorpha subsp. ruderalis	fusion (new, p10)	Viridiplantae	intact	fusion, ODC intact	5	0	0	1	6	13	6	0.316	-0.684	0.0109
+A0A7S0IK59	Micromonas pusilla	fusion (new, p10)	Viridiplantae		fusion, other	5	0	0	1	5	14	6	0.263	-0.737	0.00593
+A0A7S0KUD0	Micromonas pusilla	fusion (new, p10)	Viridiplantae	intact	fusion, ODC intact	5	0	0	1	5	15	5	0.25	-0.75	0.00474
+A0A7S3CEE4	Chloropicon roscoffensis	fusion (new, p10)	Viridiplantae	intact	fusion, ODC intact	5	0	0	1	6	14	5	0.3	-0.7	0.0087
+A0A9D4Z1M3	Chlorella vulgaris	fusion (new, p10)	Viridiplantae	intact	fusion, ODC intact	5	0	0	1	4	16	5	0.2	-0.8	0.00237
+A0AAV9I966	Galdieria yellowstonensis	fusion (new, p10)	Rhodophyta	degraded	fusion, ODC degraded	5	0	0	1	3	8	14	0.273	-0.727	0.0256
+A0A2E3ETT7	Tistrella	fusion (new, p10)	Bacteria	degraded	fusion, ODC degraded	0	1	4	0	0	3	22	0	0	1
+A0A0G4F124	Chromera velia	fusion (new, p10)	Alveolata	undetermined	fusion, other	4	0	1	1	1	2	22	0.333	-0.667	0.143
+A0A1X6PGY4	Porphyra umbilicalis	fusion (new, p10)	Rhodophyta	degraded	fusion, ODC degraded	2	0	3	1	0	0	25			
+A0A8T2HKV0	Nannochloris sp. 'desiccata'	fusion (new, p10)	Viridiplantae	intact	fusion, ODC intact	5	0	0	1	4	14	7	0.222	-0.778	0.00374
+A0AAW1PV56	Symbiochloris irregularis	fusion (new, p10)	Viridiplantae	intact	fusion, ODC intact	5	0	0	1	4	18	3	0.182	-0.818	0.00156
+A0A7S1VYU5	Alexandrium catenella	fusion (new, p10)	Alveolata		fusion, other	5	0	0	1	3	16	6	0.158	-0.842	0.00132
+A0A7R9TNK0	Micromonas pusilla	fusion (new, p10)	Viridiplantae	intact	fusion, ODC intact	5	0	0	1	4	14	7	0.222	-0.778	0.00374
+C1MNA9	Micromonas pusilla (strain CCMP1545)	fusion (new, p10)	Viridiplantae	intact	fusion, ODC intact	5	0	0	1	4	14	7	0.222	-0.778	0.00374
+A0A7S0SHS1	Mantoniella antarctica	fusion (new, p10)	Viridiplantae	intact	fusion, ODC intact	5	0	0	1	3	8	14	0.273	-0.727	0.0256
+A0A8T2HQ82	Nannochloris sp. 'desiccata'	fusion (new, p10)	Viridiplantae	intact	fusion, ODC intact	5	0	0	1	4	15	6	0.211	-0.789	0.00296
+A0A8T2V5S6	Ceratopteris richardii	fusion (new, p10)	Viridiplantae	intact	fusion, ODC intact	5	0	0	1	6	16	3	0.273	-0.727	0.00572
+A0A8T2W6N8	Nannochloris sp. 'desiccata'	fusion (new, p10)	Viridiplantae	intact	fusion, ODC intact	5	0	0	1	4	15	6	0.211	-0.789	0.00296
+A0A8J9S1S8	Coccomyxa sp. Obi	fusion (new, p10)	Viridiplantae	intact	fusion, ODC intact	5	0	0	1	5	14	6	0.263	-0.737	0.00593
+A0A8T2V9N7	Ceratopteris richardii	fusion (new, p10)	Viridiplantae	intact	fusion, ODC intact	5	0	0	1	6	15	4	0.286	-0.714	0.00702
+A0A8T2V9B8	Ceratopteris richardii	fusion (new, p10)	Viridiplantae	intact	fusion, ODC intact	5	0	0	1	6	15	4	0.286	-0.714	0.00702
+A0AAW1QKD7	Elliptochloris bilobata	fusion (new, p10)	Viridiplantae	intact	fusion, ODC intact	5	0	0	1	5	13	7	0.278	-0.722	0.00749
+M2YAF1	Galdieria sulphuraria	fusion (new, p10)	Rhodophyta	degraded	fusion, ODC degraded	5	0	0	1	4	8	13	0.333	-0.667	0.0294
+A0A5J4Y8F2	unclassified Trebouxia	fusion (new, p10)	Viridiplantae	intact	fusion, ODC intact	5	0	0	1	7	11	7	0.389	-0.611	0.0373
+A0A7S1AKA3	Noctiluca scintillans	fusion (new, p10)	Alveolata	intact	fusion, ODC intact	1	0	4	1	0	0	25			
+A0A7S1GH73	Picochlorum oklahomense	fusion (new, p10)	Viridiplantae	incomplete	fusion, other	3	0	2	1	0	6	19	0	-1	0.0119
+A0A8T2VH64	Ceratopteris richardii	fusion (new, p10)	Viridiplantae	intact	fusion, ODC intact	5	0	0	1	3	9	13	0.25	-0.75	0.00905
+A0A9C7PSW2	Galdieria partita	fusion (new, p10)	Rhodophyta	degraded	fusion, ODC degraded	5	0	0	1	4	8	13	0.333	-0.667	0.0294
+A0A5E4BU92	Marmota monax	standalone AdoMetDC	Chordata		standalone AdoMetDC	5	0	0	1	23	0	2	1	0	1
+A0A8C6RU48	Nannospalax galili	standalone AdoMetDC	Chordata		standalone AdoMetDC	5	0	0	1	23	0	2	1	0	1
+A0A6P3QTY2	Pteropus vampyrus	standalone AdoMetDC	Chordata		standalone AdoMetDC	5	0	0	1	23	0	2	1	0	1
+A0A4W2E2S2	Bos indicus x Bos taurus	standalone AdoMetDC	Chordata		standalone AdoMetDC	5	0	0	1	22	1	2	0.957	-0.0435	1
+A0A6I9YC22	Thamnophis sirtalis	standalone AdoMetDC	Chordata		standalone AdoMetDC	5	0	0	1	19	5	1	0.792	-0.208	0.553
+A0A7K5HQB5	Crotophaga sulcirostris	standalone AdoMetDC	Chordata		standalone AdoMetDC	5	0	0	1	19	5	1	0.792	-0.208	0.553
+A0A851Y2W7	Eolophus roseicapilla	standalone AdoMetDC	Chordata		standalone AdoMetDC	5	0	0	1	18	5	2	0.783	-0.217	0.55
+A0A6P3FSU5	Octodon degus	standalone AdoMetDC	Chordata		standalone AdoMetDC	5	0	0	1	19	3	3	0.864	-0.136	1
+A0A7K8QD44	Smithornis capensis	standalone AdoMetDC	Chordata		standalone AdoMetDC	5	0	0	1	19	5	1	0.792	-0.208	0.553
+A0A7J7EWE0	Diceros bicornis minor	standalone AdoMetDC	Chordata		standalone AdoMetDC	5	0	0	1	23	0	2	1	0	1
+A0A3P8QEX4	Astatotilapia calliptera	standalone AdoMetDC	Chordata		standalone AdoMetDC	5	0	0	1	19	5	1	0.792	-0.208	0.553
+A0A7J6BAQ6	Ameiurus melas	standalone AdoMetDC	Chordata		standalone AdoMetDC	5	0	0	1	15	9	1	0.625	-0.375	0.153
+A0AAZ3RXR8	Oncorhynchus tshawytscha	standalone AdoMetDC	Chordata		standalone AdoMetDC	5	0	0	1	18	5	2	0.783	-0.217	0.55
+L8HYJ9	Bos mutus	standalone AdoMetDC	Chordata		standalone AdoMetDC	5	0	0	1	20	2	3	0.909	-0.0909	1
+A0A8C5YHZ4	Microcebus murinus	standalone AdoMetDC	Chordata		standalone AdoMetDC	5	0	0	1	22	1	2	0.957	-0.0435	1
+A0AAJ7QG12	Lates calcarifer	standalone AdoMetDC	Chordata		standalone AdoMetDC	5	0	0	1	18	5	2	0.783	-0.217	0.55
+H9Z7K8	Macaca mulatta	standalone AdoMetDC	Chordata		standalone AdoMetDC	5	0	0	1	23	0	2	1	0	1
+A0AAW1Z6N4	Culter alburnus	standalone AdoMetDC	Chordata		standalone AdoMetDC	5	0	0	1	16	8	1	0.667	-0.333	0.283
+W5NK49	Lepisosteus oculatus	standalone AdoMetDC	Chordata		standalone AdoMetDC	5	0	0	1	18	6	1	0.75	-0.25	0.553
+A0A8C4U160	Falco tinnunculus	standalone AdoMetDC	Chordata		standalone AdoMetDC	5	0	0	1	19	5	1	0.792	-0.208	0.553
+Q4TB87	Tetraodon nigroviridis	standalone AdoMetDC	Chordata		standalone AdoMetDC	5	0	0	1	17	7	1	0.708	-0.292	0.296
+A0A8C0UUR4	Cyanistes caeruleus	standalone AdoMetDC	Chordata		standalone AdoMetDC	5	0	0	1	18	5	2	0.783	-0.217	0.55
+A0A835U2A1	Lamprotornis superbus	standalone AdoMetDC	Chordata		standalone AdoMetDC	5	0	0	1	17	4	4	0.81	-0.19	0.555
+A0A665WM51	Echeneis naucrates	standalone AdoMetDC	Chordata		standalone AdoMetDC	5	0	0	1	8	4	13	0.667	-0.333	0.261
+A0A6A4RST6	Scophthalmus maximus	standalone AdoMetDC	Chordata		standalone AdoMetDC	5	0	0	1	18	5	2	0.783	-0.217	0.55
+A0AAN7SCH0	Mycteria americana	standalone AdoMetDC	Chordata		standalone AdoMetDC	5	0	0	1	18	5	2	0.783	-0.217	0.55
+A0A7M4E0U7	Crocodylus porosus	standalone AdoMetDC	Chordata		standalone AdoMetDC	5	0	0	1	17	5	3	0.773	-0.227	0.547
+A0A8C3FN43	Chrysemys picta bellii	standalone AdoMetDC	Chordata		standalone AdoMetDC	5	0	0	1	18	5	2	0.783	-0.217	0.55
+Q4TB86	Tetraodon nigroviridis	standalone AdoMetDC	Chordata		standalone AdoMetDC	5	0	0	1	13	9	3	0.591	-0.409	0.136
+A0A6P6F0N1	Octodon degus	standalone AdoMetDC	Chordata		standalone AdoMetDC	5	0	0	1	15	0	10	1	0	1
+A0A8B9REQ3	Astyanax mexicanus	standalone AdoMetDC	Chordata		standalone AdoMetDC	5	0	0	1	10	4	11	0.714	-0.286	0.53
+A0A2I0UQB5	Limosa lapponica baueri	standalone AdoMetDC	Chordata		standalone AdoMetDC	5	0	0	1	18	5	2	0.783	-0.217	0.55
+A0A3B3BX38	Oryzias melastigma	standalone AdoMetDC	Chordata		standalone AdoMetDC	5	0	0	1	12	2	11	0.857	-0.143	1
+A0A803Y7R7	Meleagris gallopavo	standalone AdoMetDC	Chordata		standalone AdoMetDC	5	0	0	1	18	5	2	0.783	-0.217	0.55
+A0A6I8Q5Y2	Xenopus tropicalis	standalone AdoMetDC	Chordata		standalone AdoMetDC	5	0	0	1	12	2	11	0.857	-0.143	1
+A0A2D4PGG8	Micrurus surinamensis	standalone AdoMetDC	Chordata		standalone AdoMetDC	5	0	0	1	19	5	1	0.792	-0.208	0.553
+A0AAE0PQW9	Hemibagrus guttatus	standalone AdoMetDC	Chordata		standalone AdoMetDC	5	0	0	1	15	8	2	0.652	-0.348	0.281
+A0AAJ7UEA7	Petromyzon marinus	standalone AdoMetDC	Chordata		standalone AdoMetDC	5	0	0	1	13	10	2	0.565	-0.435	0.128
+A0AAZ3RVT9	Oncorhynchus tshawytscha	standalone AdoMetDC	Chordata		standalone AdoMetDC	5	0	0	1	12	2	11	0.857	-0.143	1
+A0A4W3JK94	Callorhinchus milii	standalone AdoMetDC	Chordata		standalone AdoMetDC	5	0	0	1	10	4	11	0.714	-0.286	0.53
+A0A8J9YPT0	Branchiostoma lanceolatum	standalone AdoMetDC	Chordata		standalone AdoMetDC	5	0	0	1	13	9	3	0.591	-0.409	0.136
+A0A9Q1GXK8	Holothuria leucospilota	standalone AdoMetDC	Echinodermata		standalone AdoMetDC	5	0	0	1	14	10	1	0.583	-0.417	0.134
+A0A2C9GQ11	Anopheles arabiensis	standalone AdoMetDC	Arthropoda		standalone AdoMetDC	5	0	0	1	10	14	1	0.417	-0.583	0.0421
+A0A817VP00	Rotaria sp. Silwood2	standalone AdoMetDC	Rotifera		standalone AdoMetDC	5	0	0	1	11	11	3	0.5	-0.5	0.0598
+A0A6M2DTS0	Xenopsylla cheopis	standalone AdoMetDC	Arthropoda		standalone AdoMetDC	5	0	0	1	10	14	1	0.417	-0.583	0.0421
+A0A1E1XB41	Amblyomma aureolatum	standalone AdoMetDC	Arthropoda		standalone AdoMetDC	5	0	0	1	12	12	1	0.5	-0.5	0.0588
+A7SIS5	Nematostella vectensis	standalone AdoMetDC	Cnidaria		standalone AdoMetDC	5	0	0	1	12	12	1	0.5	-0.5	0.0588
+A0A553PF24	Tigriopus californicus	standalone AdoMetDC	Arthropoda		standalone AdoMetDC	5	0	0	1	13	11	1	0.542	-0.458	0.126
+A0A6A4WI58	Amphibalanus amphitrite	standalone AdoMetDC	Arthropoda		standalone AdoMetDC	5	0	0	1	11	11	3	0.5	-0.5	0.0598
+A0A813MU04	Adineta steineri	standalone AdoMetDC	Rotifera		standalone AdoMetDC	5	0	0	1	11	11	3	0.5	-0.5	0.0598
+A0AAW1V4E9	Henosepilachna vigintioctopunctata	standalone AdoMetDC	Arthropoda		standalone AdoMetDC	5	0	0	1	11	12	2	0.478	-0.522	0.0525
+A0AAW2I192	Menopon gallinae	standalone AdoMetDC	Arthropoda		standalone AdoMetDC	5	0	0	1	11	13	1	0.458	-0.542	0.0476
+A0A3B1JEH4	Astyanax mexicanus	standalone AdoMetDC	Chordata		standalone AdoMetDC	5	0	0	1	11	4	10	0.733	-0.267	0.53
+A0AAV7CBS7	Engystomops pustulosus	standalone AdoMetDC	Chordata		standalone AdoMetDC	4	0	1	1	19	5	1	0.792	-0.208	1
+A0A8C4QAL1	Eptatretus burgeri	standalone AdoMetDC	Chordata		standalone AdoMetDC	5	0	0	1	10	13	2	0.435	-0.565	0.0437
+A0A0J9R0X2	Drosophila simulans	standalone AdoMetDC	Arthropoda		standalone AdoMetDC	5	0	0	1	11	12	2	0.478	-0.522	0.0525
+A0A9Q0INF3	Muraenolepis orangiensis	standalone AdoMetDC	Chordata		standalone AdoMetDC	5	0	0	1	16	6	3	0.727	-0.273	0.555
+H2Z5U5	Ciona savignyi	standalone AdoMetDC	Chordata		standalone AdoMetDC	5	0	0	1	12	10	3	0.545	-0.455	0.124
+A0A8D8RPG3	Cacopsylla melanoneura	standalone AdoMetDC	Arthropoda		standalone AdoMetDC	5	0	0	1	8	12	5	0.4	-0.6	0.0391
+A0A7J7J819	Bugula neritina	standalone AdoMetDC	Bryozoa		standalone AdoMetDC	5	0	0	1	10	13	2	0.435	-0.565	0.0437
+A0A8S9XJL8	Apolygus lucorum	standalone AdoMetDC	Arthropoda		standalone AdoMetDC	5	0	0	1	7	16	2	0.304	-0.696	0.00806
+A0A818WK36	Rotaria sp. Silwood1	standalone AdoMetDC	Rotifera		standalone AdoMetDC	5	0	0	1	11	11	3	0.5	-0.5	0.0598
+A0A6J2TYJ8	Scaptodrosophila lebanonensis	standalone AdoMetDC	Arthropoda		standalone AdoMetDC	5	0	0	1	8	15	2	0.348	-0.652	0.0131
+A0A7L4I818	Scopus umbretta	standalone AdoMetDC	Chordata		standalone AdoMetDC	3	0	2	1	18	4	3	0.818	-0.182	1
+A0A9Q0NER8	Pseudolycoriella hygida	standalone AdoMetDC	Arthropoda		standalone AdoMetDC	5	0	0	1	11	9	5	0.55	-0.45	0.123
+A0A8T0FXY3	Argiope bruennichi	standalone AdoMetDC	Arthropoda		standalone AdoMetDC	5	0	0	1	10	12	3	0.455	-0.545	0.047
+A0A6J8BV83	Mytilus coruscus	standalone AdoMetDC	Mollusca		standalone AdoMetDC	5	0	0	1	11	13	1	0.458	-0.542	0.0476
+A0A226DZH4	Folsomia candida	standalone AdoMetDC	Arthropoda		standalone AdoMetDC	5	0	0	1	8	13	4	0.381	-0.619	0.0391
+A0A8D1A3D0	Sus scrofa	standalone AdoMetDC	Chordata		standalone AdoMetDC	5	0	0	1	14	1	10	0.933	-0.0667	1
+D3AYZ5	Heterostelium album PN500	standalone AdoMetDC	Evosea		standalone AdoMetDC	5	0	0	1	8	15	2	0.348	-0.652	0.0131
+A0A8S0ZBH5	Arctia plantaginis	standalone AdoMetDC	Arthropoda		standalone AdoMetDC	5	0	0	1	8	14	3	0.364	-0.636	0.0159
+E4XPA1	Oikopleura dioica	standalone AdoMetDC	Chordata		standalone AdoMetDC	5	0	0	1	7	15	3	0.318	-0.682	0.00981
+A0A0N0PA84	Papilio xuthus	standalone AdoMetDC	Arthropoda		standalone AdoMetDC	5	0	0	1	7	13	5	0.35	-0.65	0.0149
+A0A368G0B4	Ancylostoma caninum	standalone AdoMetDC	Nematoda		standalone AdoMetDC	5	0	0	1	11	13	1	0.458	-0.542	0.0476
+T2MH94	Hydra vulgaris	standalone AdoMetDC	Cnidaria		standalone AdoMetDC	5	0	0	1	9	12	4	0.429	-0.571	0.0425
+A0A016SLU8	Ancylostoma ceylanicum	standalone AdoMetDC	Nematoda		standalone AdoMetDC	5	0	0	1	10	13	2	0.435	-0.565	0.0437
+A0A814WM76	Adineta ricciae	standalone AdoMetDC	Rotifera		standalone AdoMetDC	5	0	0	1	8	6	11	0.571	-0.429	0.128
+A0A0L0FPH6	Sphaeroforma arctica JP610	standalone AdoMetDC	Eukaryota (no phylum)		standalone AdoMetDC	5	0	0	1	11	12	2	0.478	-0.522	0.0525
+A0A0M3JWR9	Anisakis simplex	standalone AdoMetDC	Nematoda		standalone AdoMetDC	5	0	0	1	12	12	1	0.5	-0.5	0.0588
+A0A0K2TJT2	Lepeophtheirus salmonis	standalone AdoMetDC	Arthropoda		standalone AdoMetDC	5	0	0	1	10	8	7	0.556	-0.444	0.122
+A0A5S6Q7B5	Trichuris muris	standalone AdoMetDC	Nematoda		standalone AdoMetDC	5	0	0	1	11	13	1	0.458	-0.542	0.0476
+A0A1X7V9R0	Amphimedon queenslandica	standalone AdoMetDC	Porifera		standalone AdoMetDC	5	0	0	1	10	13	2	0.435	-0.565	0.0437
+A0A2P2ICU2	Hirondellea gigas	standalone AdoMetDC	Arthropoda		standalone AdoMetDC	5	0	0	1	9	13	3	0.409	-0.591	0.0407
+A0AA36GLZ2	Cylicocyclus nassatus	standalone AdoMetDC	Nematoda		standalone AdoMetDC	5	0	0	1	10	13	2	0.435	-0.565	0.0437
+A0A9P1MLY0	Auanema sp. JU1783	standalone AdoMetDC	Nematoda		standalone AdoMetDC	5	0	0	1	9	14	2	0.391	-0.609	0.0407
+A0A818S1J9	Adineta steineri	standalone AdoMetDC	Rotifera		standalone AdoMetDC	5	0	0	1	11	9	5	0.55	-0.45	0.123
+A0A2J8PUD3	Pan troglodytes	standalone AdoMetDC	Chordata		standalone AdoMetDC	3	0	2	1	15	0	10	1	0	1
+A0AAV7JXU3	Oopsacas minuta	standalone AdoMetDC	Porifera		standalone AdoMetDC	5	0	0	1	11	12	2	0.478	-0.522	0.0525
+A0A915DWN3	Ditylenchus dipsaci	standalone AdoMetDC	Nematoda		standalone AdoMetDC	5	0	0	1	9	14	2	0.391	-0.609	0.0407
+A0A0N4ZNN1	Parastrongyloides trichosuri	standalone AdoMetDC	Nematoda		standalone AdoMetDC	5	0	0	1	9	15	1	0.375	-0.625	0.0169
+A0A1D2M5E6	Orchesella cincta	standalone AdoMetDC	Arthropoda		standalone AdoMetDC	5	0	0	1	7	16	2	0.304	-0.696	0.00806
+A0A834JG83	Vespula germanica	standalone AdoMetDC	Arthropoda		standalone AdoMetDC	5	0	0	1	6	6	13	0.5	-0.5	0.102
+A0A336LU59	Culicoides sonorensis	standalone AdoMetDC	Arthropoda		standalone AdoMetDC	4	0	1	1	9	15	1	0.375	-0.625	0.0349
+F2UJ25	Salpingoeca rosetta	standalone AdoMetDC	Eukaryota (no phylum)		standalone AdoMetDC	5	0	0	1	10	13	2	0.435	-0.565	0.0437
+A0A9P1AT65	Caenorhabditis sp. 36 PRJEB53466	standalone AdoMetDC	Nematoda		standalone AdoMetDC	5	0	0	1	8	15	2	0.348	-0.652	0.0131
+A0AAQ4E5Q5	Amblyomma americanum	standalone AdoMetDC	Arthropoda		standalone AdoMetDC	5	0	0	1	12	12	1	0.5	-0.5	0.0588
+A0A2A2KYA3	Diploscapter pachys	standalone AdoMetDC	Nematoda		standalone AdoMetDC	5	0	0	1	9	13	3	0.409	-0.591	0.0407
+L8GRS6	Acanthamoeba castellanii str. Neff	standalone AdoMetDC	Discosea		standalone AdoMetDC	5	0	0	1	6	17	2	0.261	-0.739	0.0047
+A0A6I8VMF7	Drosophila pseudoobscura pseudoobscura	standalone AdoMetDC	Arthropoda		standalone AdoMetDC	5	0	0	1	7	7	11	0.5	-0.5	0.106
+A0A1D1WAS4	Ramazzottius varieornatus	standalone AdoMetDC	Tardigrada		standalone AdoMetDC	5	0	0	1	6	15	4	0.286	-0.714	0.00702
+A0A085MCI7	Trichuris suis	standalone AdoMetDC	Nematoda		standalone AdoMetDC	5	0	0	1	11	11	3	0.5	-0.5	0.0598
+A0A0H5S2Y1	Brugia malayi	standalone AdoMetDC	Nematoda		standalone AdoMetDC	5	0	0	1	9	15	1	0.375	-0.625	0.0169
+A0A9Q0LYE1	Blomia tropicalis	standalone AdoMetDC	Arthropoda		standalone AdoMetDC	5	0	0	1	7	16	2	0.304	-0.696	0.00806
+A0A914QI52	Panagrolaimus davidi	standalone AdoMetDC	Nematoda		standalone AdoMetDC	5	0	0	1	11	13	1	0.458	-0.542	0.0476
+A0A7S2XIB0	Lotharella oceanica	standalone AdoMetDC	Cercozoa		standalone AdoMetDC	5	0	0	1	8	16	1	0.333	-0.667	0.0108
+A0A0D6MBF8	Ancylostoma ceylanicum	standalone AdoMetDC	Nematoda		standalone AdoMetDC	5	0	0	1	10	12	3	0.455	-0.545	0.047
+A0AAF5Q1V8	Wuchereria bancrofti	standalone AdoMetDC	Nematoda		standalone AdoMetDC	5	0	0	1	9	15	1	0.375	-0.625	0.0169
+A0A7E4ZXU5	Panagrellus redivivus	standalone AdoMetDC	Nematoda		standalone AdoMetDC	5	0	0	1	11	13	1	0.458	-0.542	0.0476
+A0A7J7KBH6	Bugula neritina	standalone AdoMetDC	Bryozoa		standalone AdoMetDC	5	0	0	1	10	14	1	0.417	-0.583	0.0421
+A0A401PW83	Scyliorhinus torazame	standalone AdoMetDC	Chordata		standalone AdoMetDC	5	0	0	1	9	5	11	0.643	-0.357	0.257
+A0A814M7L7	Adineta ricciae	standalone AdoMetDC	Rotifera		standalone AdoMetDC	5	0	0	1	8	6	11	0.571	-0.429	0.128
+A0A267GPS5	Macrostomum lignano	standalone AdoMetDC	Platyhelminthes		standalone AdoMetDC	5	0	0	1	9	13	3	0.409	-0.591	0.0407
+D7FY29	Ectocarpus siliculosus	standalone AdoMetDC	Eukaryota (no phylum)		standalone AdoMetDC	5	0	0	1	7	15	3	0.318	-0.682	0.00981
+A0A7S0H6L0	Amorphochlora amoebiformis	standalone AdoMetDC	Cercozoa		standalone AdoMetDC	5	0	0	1	8	14	3	0.364	-0.636	0.0159
+A0A1X2HLL1	Syncephalastrum racemosum	standalone AdoMetDC	Mucoromycota		standalone AdoMetDC	5	0	0	1	5	17	3	0.227	-0.773	0.00312
+A0A7E6F123	Octopus vulgaris	standalone AdoMetDC	Mollusca		standalone AdoMetDC	4	0	1	1	12	12	1	0.5	-0.5	0.113
+U9URA4	Rhizophagus irregularis DAOM 181602=DAOM 197198	standalone AdoMetDC	Glomeromycota		standalone AdoMetDC	5	0	0	1	8	14	3	0.364	-0.636	0.0159
+A0A9N9HG29	Funneliformis mosseae	standalone AdoMetDC	Glomeromycota		standalone AdoMetDC	5	0	0	1	8	14	3	0.364	-0.636	0.0159
+A0A7S1PE01	Vitrella brassicaformis	standalone AdoMetDC	Eukaryota (no phylum)		standalone AdoMetDC	5	0	0	1	3	18	4	0.143	-0.857	0.000851
+A0A0J9XK89	Geotrichum candidum	standalone AdoMetDC	Ascomycota		standalone AdoMetDC	5	0	0	1	7	15	3	0.318	-0.682	0.00981
+A0A0R3SFV5	Hymenolepis diminuta	standalone AdoMetDC	Platyhelminthes		standalone AdoMetDC	5	0	0	1	5	17	3	0.227	-0.773	0.00312
+A0A1Y1VVY8	Anaeromyces robustus	standalone AdoMetDC	Neocallimastigomycota		standalone AdoMetDC	5	0	0	1	5	18	2	0.217	-0.783	0.00256
+S7NPF3	Myotis brandtii	standalone AdoMetDC	Chordata		standalone AdoMetDC	3	0	2	1	15	0	10	1	0	1
+B4Q8U4	Drosophila simulans	standalone AdoMetDC	Arthropoda		standalone AdoMetDC	5	0	0	1	11	11	3	0.5	-0.5	0.0598
+A0A167NG05	Phycomyces blakesleeanus NRRL 1555(-)	standalone AdoMetDC	Mucoromycota		standalone AdoMetDC	5	0	0	1	9	14	2	0.391	-0.609	0.0407
+A0A0R3TQ40	Rodentolepis nana	standalone AdoMetDC	Platyhelminthes		standalone AdoMetDC	5	0	0	1	5	18	2	0.217	-0.783	0.00256
+A0AAV2Z8E4	Lagenidium giganteum	standalone AdoMetDC	Oomycota		standalone AdoMetDC	5	0	0	1	9	14	2	0.391	-0.609	0.0407
+A0A9W8AFU1	Tieghemiomyces parasiticus	standalone AdoMetDC	Kickxellomycota		standalone AdoMetDC	5	0	0	1	7	15	3	0.318	-0.682	0.00981
+A0A914ZUV8	Parascaris univalens	standalone AdoMetDC	Nematoda		standalone AdoMetDC	5	0	0	1	13	7	5	0.65	-0.35	0.274
+A0A1R1XNS6	Smittium culicis	standalone AdoMetDC	Kickxellomycota		standalone AdoMetDC	5	0	0	1	6	17	2	0.261	-0.739	0.0047
+A0A2U3XBJ0	Leptonychotes weddellii	standalone AdoMetDC	Chordata		standalone AdoMetDC	4	0	1	1	15	0	10	1	0	1
+A0A137P9V0	Conidiobolus coronatus NRRL 28638	standalone AdoMetDC	Entomophthoromycota		standalone AdoMetDC	5	0	0	1	4	16	5	0.2	-0.8	0.00237
+D2VKX5	Naegleria gruberi	standalone AdoMetDC	Heterolobosea		standalone AdoMetDC	5	0	0	1	5	17	3	0.227	-0.773	0.00312
+A0A2T9Z4D8	Furculomyces boomerangus	standalone AdoMetDC	Kickxellomycota		standalone AdoMetDC	5	0	0	1	6	16	3	0.273	-0.727	0.00572
+L1JMA4	Guillardia theta CCMP2712	standalone AdoMetDC	Eukaryota (no phylum)		standalone AdoMetDC	5	0	0	1	6	17	2	0.261	-0.739	0.0047
+A0A0A8L2A9	Kluyveromyces dobzhanskii CBS 2104	standalone AdoMetDC	Ascomycota		standalone AdoMetDC	5	0	0	1	5	17	3	0.227	-0.773	0.00312
+A0A168LQ91	Absidia glauca	standalone AdoMetDC	Mucoromycota		standalone AdoMetDC	5	0	0	1	8	15	2	0.348	-0.652	0.0131
+A0A1E4TLB4	Tortispora caseinolytica NRRL Y-17796	standalone AdoMetDC	Ascomycota		standalone AdoMetDC	5	0	0	1	8	14	3	0.364	-0.636	0.0159
+A0A4V6TME5	Wallemia hederae	standalone AdoMetDC	Basidiomycota		standalone AdoMetDC	5	0	0	1	10	12	3	0.455	-0.545	0.047
+M4BIM5	Hyaloperonospora arabidopsidis Emoy2	standalone AdoMetDC	Oomycota		standalone AdoMetDC	5	0	0	1	10	13	2	0.435	-0.565	0.0437
+A0A2T9ZIF8	Smittium megazygosporum	standalone AdoMetDC	Kickxellomycota		standalone AdoMetDC	5	0	0	1	4	17	4	0.19	-0.81	0.00192
+F4NRZ4	Batrachochytrium dendrobatidis JAM81	standalone AdoMetDC	Chytridiomycota		standalone AdoMetDC	5	0	0	1	5	18	2	0.217	-0.783	0.00256
+A0A4P9XGI8	Thamnocephalis sphaerospora	standalone AdoMetDC	Zoopagomycota		standalone AdoMetDC	5	0	0	1	7	15	3	0.318	-0.682	0.00981
+A0A182NB14	Anopheles dirus	standalone AdoMetDC	Arthropoda		standalone AdoMetDC	5	0	0	1	5	7	13	0.417	-0.583	0.0441
+A0A0E9NHI7	Saitoella complicata NRRL Y-17804	standalone AdoMetDC	Ascomycota		standalone AdoMetDC	5	0	0	1	10	12	3	0.455	-0.545	0.047
+A0A024TG05	Aphanomyces invadans	standalone AdoMetDC	Oomycota		standalone AdoMetDC	5	0	0	1	6	17	2	0.261	-0.739	0.0047
+A0AA39YW69	Cercophora samala	standalone AdoMetDC	Ascomycota		standalone AdoMetDC	5	0	0	1	9	13	3	0.409	-0.591	0.0407
+A0A915HRU8	Romanomermis culicivorax	standalone AdoMetDC	Nematoda		standalone AdoMetDC	5	0	0	1	9	5	11	0.643	-0.357	0.257
+A0AAW2ZDM5	Acrasis kona	standalone AdoMetDC	Heterolobosea		standalone AdoMetDC	5	0	0	1	4	20	1	0.167	-0.833	0.00106
+A0A915F040	Echinococcus canadensis	standalone AdoMetDC	Platyhelminthes		standalone AdoMetDC	5	0	0	1	12	11	2	0.522	-0.478	0.125
+A0AAD5TWS6	Clydaea vesicula	standalone AdoMetDC	Chytridiomycota		standalone AdoMetDC	5	0	0	1	6	15	4	0.286	-0.714	0.00702
+A0A4D9CSB4	Nannochloropsis salina CCMP1776	standalone AdoMetDC	Eukaryota (no phylum)		standalone AdoMetDC	5	0	0	1	5	17	3	0.227	-0.773	0.00312
+A0A507CE25	Synchytrium microbalum	standalone AdoMetDC	Chytridiomycota		standalone AdoMetDC	5	0	0	1	7	16	2	0.304	-0.696	0.00806
+A0A6A5B9P7	Naegleria fowleri	standalone AdoMetDC	Heterolobosea		standalone AdoMetDC	5	0	0	1	5	18	2	0.217	-0.783	0.00256
+A0A6H5KT37	Ectocarpus sp. CCAP 1310/34	standalone AdoMetDC	Eukaryota (no phylum)		standalone AdoMetDC	5	0	0	1	7	15	3	0.318	-0.682	0.00981
+A0AAD5TL82	Geranomyces variabilis	standalone AdoMetDC	Chytridiomycota		standalone AdoMetDC	5	0	0	1	7	16	2	0.304	-0.696	0.00806
+A0A1Y1WDM7	Linderina pennispora	standalone AdoMetDC	Kickxellomycota		standalone AdoMetDC	5	0	0	1	7	15	3	0.318	-0.682	0.00981
+T0REK4	Saprolegnia diclina VS20	standalone AdoMetDC	Oomycota		standalone AdoMetDC	5	0	0	1	9	14	2	0.391	-0.609	0.0407
+R4XA02	Taphrina deformans PYCC 5710	standalone AdoMetDC	Ascomycota		standalone AdoMetDC	5	0	0	1	10	13	2	0.435	-0.565	0.0437
+A0A139A9Z0	Gonapodya prolifera JEL478	standalone AdoMetDC	Monoblepharomycota		standalone AdoMetDC	5	0	0	1	4	17	4	0.19	-0.81	0.00192
+A0A4T0J5C3	Wallemia ichthyophaga	standalone AdoMetDC	Basidiomycota		standalone AdoMetDC	5	0	0	1	10	12	3	0.455	-0.545	0.047
+A0A1Y2CM92	Rhizoclosmatium globosum	standalone AdoMetDC	Chytridiomycota		standalone AdoMetDC	5	0	0	1	6	15	4	0.286	-0.714	0.00702
+A0A177W760	Batrachochytrium dendrobatidis JEL423	standalone AdoMetDC	Chytridiomycota		standalone AdoMetDC	5	0	0	1	5	19	1	0.208	-0.792	0.00212
+A0A7S1XYU7	Phaeomonas parva	standalone AdoMetDC	Eukaryota (no phylum)		standalone AdoMetDC	5	0	0	1	4	18	3	0.182	-0.818	0.00156
+Q9P7E3	Schizosaccharomyces pombe 972h-	standalone AdoMetDC	Ascomycota		standalone AdoMetDC	5	0	0	1	6	16	3	0.273	-0.727	0.00572
+A0A2T9YQI0	Smittium simulii	standalone AdoMetDC	Kickxellomycota		standalone AdoMetDC	5	0	0	1	6	16	3	0.273	-0.727	0.00572
+G7E6F2	Mixia osmundae IAM 14324	standalone AdoMetDC	Basidiomycota		standalone AdoMetDC	5	0	0	1	8	15	2	0.348	-0.652	0.0131
+A0AAE1TU56	Petrolisthes manimaculis	standalone AdoMetDC	Arthropoda		standalone AdoMetDC	5	0	0	1	10	13	2	0.435	-0.565	0.0437
+A0A7S2HLM3	Octactis speculum	standalone AdoMetDC	Eukaryota (no phylum)		standalone AdoMetDC	5	0	0	1	4	15	6	0.211	-0.789	0.00296
+A0A1S3H4J4	Lingula anatina	standalone AdoMetDC	Brachiopoda		standalone AdoMetDC	5	0	0	1	6	8	11	0.429	-0.571	0.0445
+A0A835ZL65	Tribonema minus	standalone AdoMetDC	Eukaryota (no phylum)		standalone AdoMetDC	5	0	0	1	6	17	2	0.261	-0.739	0.0047
+A0AAV7CDI1	Engystomops pustulosus	standalone AdoMetDC	Chordata		standalone AdoMetDC	3	0	2	1	17	4	4	0.81	-0.19	1
+A0A0N4YKN4	Nippostrongylus brasiliensis	standalone AdoMetDC	Nematoda		standalone AdoMetDC	5	0	0	1	9	13	3	0.409	-0.591	0.0407
+A0A383VCH4	Tetradesmus obliquus	standalone AdoMetDC	Chlorophyta		standalone AdoMetDC	5	0	0	1	6	15	4	0.286	-0.714	0.00702
+A0A388KA10	Chara braunii	standalone AdoMetDC	Streptophyta		standalone AdoMetDC	5	0	0	1	4	16	5	0.2	-0.8	0.00237
+D8S2S4	Selaginella moellendorffii	standalone AdoMetDC	Streptophyta		standalone AdoMetDC	5	0	0	1	4	16	5	0.2	-0.8	0.00237
+A0A2R5GFL0	Hondaea fermentalgiana	standalone AdoMetDC	Eukaryota (no phylum)		standalone AdoMetDC	5	0	0	1	8	15	2	0.348	-0.652	0.0131
+A0A6A7G5L4	Hirondellea gigas	standalone AdoMetDC	Arthropoda		standalone AdoMetDC	5	0	0	1	9	11	5	0.45	-0.55	0.0464
+A0A1D2VKS9	Ascoidea rubescens DSM 1968	standalone AdoMetDC	Ascomycota		standalone AdoMetDC	5	0	0	1	5	16	4	0.238	-0.762	0.00383
+A0A7S0C0C1	Proboscia inermis	standalone AdoMetDC	Bacillariophyta		standalone AdoMetDC	5	0	0	1	8	14	3	0.364	-0.636	0.0159
+A0A1Y5I9G0	Ostreococcus tauri	standalone AdoMetDC	Chlorophyta		standalone AdoMetDC	5	0	0	1	5	15	5	0.25	-0.75	0.00474
+A0A9W9R7D6	Penicillium brevicompactum	standalone AdoMetDC	Ascomycota		standalone AdoMetDC	5	0	0	1	8	14	3	0.364	-0.636	0.0159
+A0AAD6TG09	Mycena alexandri	standalone AdoMetDC	Basidiomycota		standalone AdoMetDC	5	0	0	1	9	15	1	0.375	-0.625	0.0169
+A0A8J5BQQ2	Yarrowia sp. E02	standalone AdoMetDC	Ascomycota		standalone AdoMetDC	5	0	0	1	7	15	3	0.318	-0.682	0.00981
+A0A0B4RYL6	Mayetiola destructor	standalone AdoMetDC	Arthropoda		standalone AdoMetDC	5	0	0	1	7	7	11	0.5	-0.5	0.106
+A0A9W8DN27	Mycoemilia scoparia	standalone AdoMetDC	Kickxellomycota		standalone AdoMetDC	5	0	0	1	8	13	4	0.381	-0.619	0.0391
+A0AAV0AT53	Phakopsora pachyrhizi	standalone AdoMetDC	Basidiomycota		standalone AdoMetDC	5	0	0	1	8	14	3	0.364	-0.636	0.0159
+A0A3N4LI57	Terfezia boudieri ATCC MYA-4762	standalone AdoMetDC	Ascomycota		standalone AdoMetDC	5	0	0	1	9	13	3	0.409	-0.591	0.0407
+A0A8H7Q0L9	Umbelopsis isabellina	standalone AdoMetDC	Mucoromycota		standalone AdoMetDC	5	0	0	1	8	13	4	0.381	-0.619	0.0391
+A0A2V0NXK3	Raphidocelis subcapitata	standalone AdoMetDC	Chlorophyta		standalone AdoMetDC	5	0	0	1	6	15	4	0.286	-0.714	0.00702
+A0A0D7AFJ9	Fistulina hepatica ATCC 64428	standalone AdoMetDC	Basidiomycota		standalone AdoMetDC	5	0	0	1	9	13	3	0.409	-0.591	0.0407
+A0A9D4U7K2	Adiantum capillus-veneris	standalone AdoMetDC	Streptophyta		standalone AdoMetDC	5	0	0	1	3	17	5	0.15	-0.85	0.00105
+J9FES8	Wuchereria bancrofti	standalone AdoMetDC	Nematoda		standalone AdoMetDC	5	0	0	1	7	8	10	0.467	-0.533	0.0547
+F0Y0A9	Aureococcus anophagefferens	standalone AdoMetDC	Eukaryota (no phylum)		standalone AdoMetDC	5	0	0	1	4	13	8	0.235	-0.765	0.00478
+A0A9W7EFJ6	Triparma strigata	standalone AdoMetDC	Eukaryota (no phylum)		standalone AdoMetDC	5	0	0	1	6	17	2	0.261	-0.739	0.0047
+A0A9P5PXK7	Rhodocollybia butyracea	standalone AdoMetDC	Basidiomycota		standalone AdoMetDC	5	0	0	1	9	15	1	0.375	-0.625	0.0169
+A0AAF6C0Z4	Marchantia polymorpha subsp. ruderalis	standalone AdoMetDC	Streptophyta		standalone AdoMetDC	5	0	0	1	6	16	3	0.273	-0.727	0.00572
+C5LKE7	Perkinsus marinus ATCC 50983	standalone AdoMetDC	Perkinsozoa		standalone AdoMetDC	5	0	0	1	6	17	2	0.261	-0.739	0.0047
+A0AAD7XHA9	Chrysophaeum taylorii	standalone AdoMetDC	Eukaryota (no phylum)		standalone AdoMetDC	5	0	0	1	7	15	3	0.318	-0.682	0.00981
+A0A0D0E6Q6	Paxillus rubicundulus Ve08.2h10	standalone AdoMetDC	Basidiomycota		standalone AdoMetDC	5	0	0	1	8	16	1	0.333	-0.667	0.0108
+A0A914GR39	Globodera rostochiensis	standalone AdoMetDC	Nematoda		standalone AdoMetDC	4	0	1	1	9	14	2	0.391	-0.609	0.0407
+A0AAJ5YYQ7	Malassezia arunalokei	standalone AdoMetDC	Basidiomycota		standalone AdoMetDC	5	0	0	1	8	15	2	0.348	-0.652	0.0131
+A0AB34J494	Prymnesium parvum	standalone AdoMetDC	Haptophyta		standalone AdoMetDC	5	0	0	1	5	17	3	0.227	-0.773	0.00312
+A0A7S0R6E5	Chlamydomonas leiostraca	standalone AdoMetDC	Chlorophyta		standalone AdoMetDC	5	0	0	1	3	17	5	0.15	-0.85	0.00105
+G2QW83	Thermothielavioides terrestris NRRL 8126	standalone AdoMetDC	Ascomycota		standalone AdoMetDC	5	0	0	1	9	13	3	0.409	-0.591	0.0407
+A0A7D9CYM7	Brettanomyces bruxellensis	standalone AdoMetDC	Ascomycota		standalone AdoMetDC	5	0	0	1	5	17	3	0.227	-0.773	0.00312
+A0A1S3GVS4	Dipodomys ordii	standalone AdoMetDC	Chordata		standalone AdoMetDC	3	0	2	1	15	0	10	1	0	1
+A0A671SXU1	Sinocyclocheilus anshuiensis	standalone AdoMetDC	Chordata		standalone AdoMetDC	3	0	2	1	16	7	2	0.696	-0.304	0.54
+A0A2K1JDM4	Physcomitrium patens	standalone AdoMetDC	Streptophyta		standalone AdoMetDC	5	0	0	1	6	16	3	0.273	-0.727	0.00572
+A9UXX6	Monosiga brevicollis	standalone AdoMetDC	Eukaryota (no phylum)		standalone AdoMetDC	5	0	0	1	5	8	12	0.385	-0.615	0.0359
+A0A8J6GFZ7	Microtus ochrogaster	standalone AdoMetDC	Chordata		standalone AdoMetDC	3	0	2	1	15	3	7	0.833	-0.167	1
+A0A7R9GBR6	Notodromas monacha	standalone AdoMetDC	Arthropoda		standalone AdoMetDC	5	0	0	1	13	9	3	0.591	-0.409	0.136
+A0AAV8TMW9	Erythroxylum novogranatense	standalone AdoMetDC	Streptophyta		standalone AdoMetDC	5	0	0	1	3	19	3	0.136	-0.864	0.000694
+A0A6V7P430	Ananas comosus var. bracteatus	standalone AdoMetDC	Streptophyta		standalone AdoMetDC	5	0	0	1	5	16	4	0.238	-0.762	0.00383
+A0A5J5AIS5	Nyssa sinensis	standalone AdoMetDC	Streptophyta		standalone AdoMetDC	5	0	0	1	6	14	5	0.3	-0.7	0.0087
+W3VHY8	Moesziomyces aphidis	standalone AdoMetDC	Basidiomycota		standalone AdoMetDC	5	0	0	1	9	13	3	0.409	-0.591	0.0407
+A0AAN8V5U6	Dillenia turbinata	standalone AdoMetDC	Streptophyta		standalone AdoMetDC	5	0	0	1	5	15	5	0.25	-0.75	0.00474
+A0A804KKT8	Musa acuminata subsp. malaccensis	standalone AdoMetDC	Streptophyta		standalone AdoMetDC	5	0	0	1	4	15	6	0.211	-0.789	0.00296
+A0AAN6YYW6	Parathielavia appendiculata	standalone AdoMetDC	Ascomycota		standalone AdoMetDC	5	0	0	1	9	13	3	0.409	-0.591	0.0407
+A0A427XLH2	Apiotrichum porosum	standalone AdoMetDC	Basidiomycota		standalone AdoMetDC	5	0	0	1	7	15	3	0.318	-0.682	0.00981
+A0A8D0Z278	Sus scrofa	standalone AdoMetDC	Chordata		standalone AdoMetDC	3	0	2	1	8	0	17	1	0	1
+A0A9K3LMG5	Nitzschia inconspicua	standalone AdoMetDC	Bacillariophyta		standalone AdoMetDC	5	0	0	1	8	13	4	0.381	-0.619	0.0391
+D8RS12	Selaginella moellendorffii	standalone AdoMetDC	Streptophyta		standalone AdoMetDC	5	0	0	1	3	20	2	0.13	-0.87	0.00057
+A0A371GJQ5	Mucuna pruriens	standalone AdoMetDC	Streptophyta		standalone AdoMetDC	5	0	0	1	6	15	4	0.286	-0.714	0.00702
+A0A1E3QH79	Babjeviella inositovora NRRL Y-12698	standalone AdoMetDC	Ascomycota		standalone AdoMetDC	5	0	0	1	3	19	3	0.136	-0.864	0.000694
+A0A4V3XF93	Bondarzewia mesenterica	standalone AdoMetDC	Basidiomycota		standalone AdoMetDC	5	0	0	1	9	15	1	0.375	-0.625	0.0169
+A0A7S0RQX6	Pyramimonas obovata	standalone AdoMetDC	Chlorophyta		standalone AdoMetDC	5	0	0	1	7	15	3	0.318	-0.682	0.00981
+A0AAQ3QT57	Canna indica	standalone AdoMetDC	Streptophyta		standalone AdoMetDC	5	0	0	1	5	16	4	0.238	-0.762	0.00383
+A0AAD3D8K8	Chaetoceros tenuissimus	standalone AdoMetDC	Bacillariophyta		standalone AdoMetDC	5	0	0	1	7	15	3	0.318	-0.682	0.00981
+A0A058Z0V1	Fonticula alba	standalone AdoMetDC	Eukaryota (no phylum)		standalone AdoMetDC	5	0	0	1	4	19	2	0.174	-0.826	0.00128
+A0A803MDH3	Chenopodium quinoa	standalone AdoMetDC	Streptophyta		standalone AdoMetDC	5	0	0	1	4	18	3	0.182	-0.818	0.00156
+A0A8S4GYX5	Pedinophyceae sp. YPF-701	standalone AdoMetDC	Chlorophyta		standalone AdoMetDC	5	0	0	1	3	18	4	0.143	-0.857	0.000851
+W1PB32	Amborella trichopoda	standalone AdoMetDC	Streptophyta		standalone AdoMetDC	5	0	0	1	6	17	2	0.261	-0.739	0.0047
+A0AAW1JL46	Saponaria officinalis	standalone AdoMetDC	Streptophyta		standalone AdoMetDC	5	0	0	1	4	16	5	0.2	-0.8	0.00237
+A0A7S4BFL3	Chrysotila carterae	standalone AdoMetDC	Haptophyta		standalone AdoMetDC	5	0	0	1	3	20	2	0.13	-0.87	0.00057
+A0AAN7GBL4	Trapa incisa	standalone AdoMetDC	Streptophyta		standalone AdoMetDC	5	0	0	1	5	14	6	0.263	-0.737	0.00593
+A0A9D4SK96	Dermatophagoides farinae	standalone AdoMetDC	Arthropoda		standalone AdoMetDC	5	0	0	1	7	15	3	0.318	-0.682	0.00981
+A0ABD3QT96	Cyclotella cryptica	standalone AdoMetDC	Bacillariophyta		standalone AdoMetDC	5	0	0	1	7	14	4	0.333	-0.667	0.012
+A0A316V8T5	Meira miltonrushii	standalone AdoMetDC	Basidiomycota		standalone AdoMetDC	5	0	0	1	8	16	1	0.333	-0.667	0.0108
+A0A1G4JB95	Lachancea meyersii CBS 8951	standalone AdoMetDC	Ascomycota		standalone AdoMetDC	5	0	0	1	5	17	3	0.227	-0.773	0.00312
+U5KLR5	Crithidia acanthocephali	standalone AdoMetDC	Euglenozoa		standalone AdoMetDC	5	0	0	1	4	19	2	0.174	-0.826	0.00128
+A0A9Q0H1J2	Protea cynaroides	standalone AdoMetDC	Streptophyta		standalone AdoMetDC	5	0	0	1	6	16	3	0.273	-0.727	0.00572
+A0A316UZT3	Jaminaea rosea	standalone AdoMetDC	Basidiomycota		standalone AdoMetDC	5	0	0	1	8	16	1	0.333	-0.667	0.0108
+A0AAV2CPZ8	Linum trigynum	standalone AdoMetDC	Streptophyta		standalone AdoMetDC	5	0	0	1	5	16	4	0.238	-0.762	0.00383
+A0A9Q0MA78	Blomia tropicalis	standalone AdoMetDC	Arthropoda		standalone AdoMetDC	5	0	0	1	6	14	5	0.3	-0.7	0.0087
+A0A1E4SWV6	[Candida] arabinofermentans NRRL YB-2248	standalone AdoMetDC	(unknown)		standalone AdoMetDC	5	0	0	1	5	17	3	0.227	-0.773	0.00312
+A0A6A4HXC8	Gymnopus androsaceus JB14	standalone AdoMetDC	Basidiomycota		standalone AdoMetDC	5	0	0	1	9	14	2	0.391	-0.609	0.0407
+A0A7R9VAB0	Chlamydomonas euryale	standalone AdoMetDC	Chlorophyta		standalone AdoMetDC	5	0	0	1	5	15	5	0.25	-0.75	0.00474
+A0A7J7MNK7	Kingdonia uniflora	standalone AdoMetDC	Streptophyta		standalone AdoMetDC	5	0	0	1	7	13	5	0.35	-0.65	0.0149
+A0A7J6NZI2	Perkinsus olseni	standalone AdoMetDC	Perkinsozoa		standalone AdoMetDC	5	0	0	1	6	16	3	0.273	-0.727	0.00572
+A0A066VX37	Tilletiaria anomala UBC 951	standalone AdoMetDC	Basidiomycota		standalone AdoMetDC	5	0	0	1	8	15	2	0.348	-0.652	0.0131
+A0A094HS56	Pseudogymnoascus sp. VKM F-4520 (FW-2644)	standalone AdoMetDC	Ascomycota		standalone AdoMetDC	5	0	0	1	7	15	3	0.318	-0.682	0.00981
+A0A6H5KVY3	Ectocarpus sp. CCAP 1310/34	standalone AdoMetDC	Eukaryota (no phylum)		standalone AdoMetDC	5	0	0	1	7	15	3	0.318	-0.682	0.00981
+A0A5E8AZI3	Magnusiomyces paraingens	standalone AdoMetDC	Ascomycota		standalone AdoMetDC	5	0	0	1	7	16	2	0.304	-0.696	0.00806
+C4YQW7	Candida albicans WO-1	standalone AdoMetDC	Ascomycota		standalone AdoMetDC	5	0	0	1	5	14	6	0.263	-0.737	0.00593
+A0A0R3U8U0	Mesocestoides corti	standalone AdoMetDC	Platyhelminthes		standalone AdoMetDC	5	0	0	1	10	13	2	0.435	-0.565	0.0437
+A0AAD2GAL3	Cylindrotheca closterium	standalone AdoMetDC	Bacillariophyta		standalone AdoMetDC	5	0	0	1	7	14	4	0.333	-0.667	0.012
+A0AAD4MY50	Ditylenchus destructor	standalone AdoMetDC	Nematoda		standalone AdoMetDC	5	0	0	1	6	8	11	0.429	-0.571	0.0445
+A0A9W8AJG6	Dispira parvispora	standalone AdoMetDC	Kickxellomycota		standalone AdoMetDC	5	0	0	1	5	15	5	0.25	-0.75	0.00474
+A0A7S1NHJ9	Eutreptiella gymnastica	standalone AdoMetDC	Euglenozoa		standalone AdoMetDC	5	0	0	1	5	17	3	0.227	-0.773	0.00312
+A0AA36CUD0	Mesorhabditis spiculigera	standalone AdoMetDC	Nematoda		standalone AdoMetDC	5	0	0	1	11	12	2	0.478	-0.522	0.0525
+A0AAN6GNE9	Tilletia horrida	standalone AdoMetDC	Basidiomycota		standalone AdoMetDC	5	0	0	1	9	14	2	0.391	-0.609	0.0407
+A0A7S2HLL7	Octactis speculum	standalone AdoMetDC	Eukaryota (no phylum)		standalone AdoMetDC	5	0	0	1	3	8	14	0.273	-0.727	0.0256
+A0A316YEF9	Acaromyces ingoldii	standalone AdoMetDC	Basidiomycota		standalone AdoMetDC	5	0	0	1	9	14	2	0.391	-0.609	0.0407
+A0A6I9T845	Sesamum indicum	standalone AdoMetDC	Streptophyta		standalone AdoMetDC	5	0	0	1	4	17	4	0.19	-0.81	0.00192
+A0A316VTV2	Ceraceosorus guamensis	standalone AdoMetDC	Basidiomycota		standalone AdoMetDC	5	0	0	1	8	15	2	0.348	-0.652	0.0131
+A0A8J1VMI2	Tremellales sp. Tagirdzhanova-0007	standalone AdoMetDC	Basidiomycota		standalone AdoMetDC	5	0	0	1	8	14	3	0.364	-0.636	0.0159
+I7HIN8	Oryza sativa	standalone AdoMetDC	Streptophyta		standalone AdoMetDC	5	0	0	1	6	11	8	0.353	-0.647	0.0351
+A0AAV1ZEE4	Larinioides sclopetarius	standalone AdoMetDC	Arthropoda		standalone AdoMetDC	4	0	1	1	10	12	3	0.455	-0.545	0.1
+A0A523ECC8	Acidobacteriota bacterium	standalone AdoMetDC	Acidobacteriota		standalone AdoMetDC	5	0	0	1	5	17	3	0.227	-0.773	0.00312
+A0A9W4XIB6	Candida verbasci	standalone AdoMetDC	Ascomycota		standalone AdoMetDC	5	0	0	1	5	16	4	0.238	-0.762	0.00383
+A0A811R1J6	Miscanthus lutarioriparius	standalone AdoMetDC	Streptophyta		standalone AdoMetDC	5	0	0	1	5	17	3	0.227	-0.773	0.00312
+A0A1B0CJG1	Lutzomyia longipalpis	standalone AdoMetDC	Arthropoda		standalone AdoMetDC	5	0	0	1	10	14	1	0.417	-0.583	0.0421
+H0H0U6	Saccharomyces cerevisiae x Saccharomyces kudriavzevii VIN7	standalone AdoMetDC	Ascomycota		standalone AdoMetDC	5	0	0	1	5	17	3	0.227	-0.773	0.00312
+A0A1J4JSX7	Tritrichomonas foetus	standalone AdoMetDC	Parabasalia		standalone AdoMetDC	5	0	0	1	4	20	1	0.167	-0.833	0.00106
+A0A139ISG1	Pseudocercospora musae	standalone AdoMetDC	Ascomycota		standalone AdoMetDC	5	0	0	1	8	15	2	0.348	-0.652	0.0131
+A0A699Z047	Haematococcus lacustris	standalone AdoMetDC	Chlorophyta		standalone AdoMetDC	5	0	0	1	4	16	5	0.2	-0.8	0.00237
+A0A067KRC8	Jatropha curcas	standalone AdoMetDC	Streptophyta		standalone AdoMetDC	5	0	0	1	5	15	5	0.25	-0.75	0.00474
+I2GYB1	Henningerozyma blattae CBS 6284	standalone AdoMetDC	Ascomycota		standalone AdoMetDC	5	0	0	1	6	15	4	0.286	-0.714	0.00702
+A0A161ZWL5	Daucus carota subsp. sativus	standalone AdoMetDC	Streptophyta		standalone AdoMetDC	5	0	0	1	5	16	4	0.238	-0.762	0.00383
+A0A9P8E7Z8	Aureobasidium melanogenum	standalone AdoMetDC	Ascomycota		standalone AdoMetDC	5	0	0	1	8	14	3	0.364	-0.636	0.0159
+A0A7I4B4B9	Physcomitrium patens	standalone AdoMetDC	Streptophyta		standalone AdoMetDC	5	0	0	1	6	14	5	0.3	-0.7	0.0087
+A0A2V0PIG8	Raphidocelis subcapitata	standalone AdoMetDC	Chlorophyta		standalone AdoMetDC	5	0	0	1	6	15	4	0.286	-0.714	0.00702
+A0A3N2PJ90	Sodiomyces alkalinus F11	standalone AdoMetDC	Ascomycota		standalone AdoMetDC	5	0	0	1	8	14	3	0.364	-0.636	0.0159
+A0A0X3PY31	Schistocephalus solidus	standalone AdoMetDC	Platyhelminthes		standalone AdoMetDC	5	0	0	1	9	14	2	0.391	-0.609	0.0407
+A0A7V5C8L4	Desulfobacterales bacterium	standalone AdoMetDC	Thermodesulfobacteriota		standalone AdoMetDC	5	0	0	1	5	18	2	0.217	-0.783	0.00256
+A0A8K0JPL4	Filobasidium floriforme	standalone AdoMetDC	Basidiomycota		standalone AdoMetDC	5	0	0	1	8	16	1	0.333	-0.667	0.0108
+A0A2T0FJ61	Wickerhamiella sorbophila	standalone AdoMetDC	Ascomycota		standalone AdoMetDC	5	0	0	1	4	17	4	0.19	-0.81	0.00192
+A0A0B1PCF9	Erysiphe necator	standalone AdoMetDC	Ascomycota		standalone AdoMetDC	5	0	0	1	7	15	3	0.318	-0.682	0.00981
+A0A9P4GM30	Cucurbitaria berberidis CBS 394.84	standalone AdoMetDC	Ascomycota		standalone AdoMetDC	5	0	0	1	8	14	3	0.364	-0.636	0.0159
+A0AAJ0DP22	Colletotrichum cuscutae	standalone AdoMetDC	Ascomycota		standalone AdoMetDC	5	0	0	1	8	14	3	0.364	-0.636	0.0159
+A0A401FWD8	Desulfonema ishimotonii	standalone AdoMetDC	Thermodesulfobacteriota		standalone AdoMetDC	5	0	0	1	6	16	3	0.273	-0.727	0.00572
+A0A958LMC4	Bdellovibrionales bacterium	standalone AdoMetDC	Bdellovibrionota		standalone AdoMetDC	5	0	0	1	5	19	1	0.208	-0.792	0.00212
+D8S8F9	Selaginella moellendorffii	standalone AdoMetDC	Streptophyta		standalone AdoMetDC	5	0	0	1	4	8	13	0.333	-0.667	0.0294
+A0A0K9P907	Zostera marina	standalone AdoMetDC	Streptophyta		standalone AdoMetDC	5	0	0	1	5	18	2	0.217	-0.783	0.00256
+A0A317XTD9	Testicularia cyperi	standalone AdoMetDC	Basidiomycota		standalone AdoMetDC	5	0	0	1	8	14	3	0.364	-0.636	0.0159
+A0A8C9YNV1	Sander lucioperca	standalone AdoMetDC	Chordata		standalone AdoMetDC	2	0	3	1	13	2	10	0.867	-0.133	1
+A0A0B1SR16	Oesophagostomum dentatum	standalone AdoMetDC	Nematoda		standalone AdoMetDC	5	0	0	1	10	12	3	0.455	-0.545	0.047
+A0A7I8LB94	Spirodela intermedia	standalone AdoMetDC	Streptophyta		standalone AdoMetDC	5	0	0	1	3	16	6	0.158	-0.842	0.00132
+A0A194R5A8	Papilio machaon	standalone AdoMetDC	Arthropoda		standalone AdoMetDC	5	0	0	1	7	14	4	0.333	-0.667	0.012
+A0A433Q636	Jimgerdemannia flammicorona	standalone AdoMetDC	Mucoromycota		standalone AdoMetDC	5	0	0	1	8	14	3	0.364	-0.636	0.0159
+A0A5J4YU04	Porphyridium purpureum	standalone AdoMetDC	Rhodophyta		standalone AdoMetDC	5	0	0	1	7	4	14	0.636	-0.364	0.245
+A0A061ICB5	Cricetulus griseus	standalone AdoMetDC	Chordata		standalone AdoMetDC	3	0	2	1	12	0	13	1	0	1
+A0A958NY25	Bdellovibrionales bacterium	standalone AdoMetDC	Bdellovibrionota		standalone AdoMetDC	5	0	0	1	4	20	1	0.167	-0.833	0.00106
+A0A849WBL8	Candidatus Brocadiia bacterium	standalone AdoMetDC	Planctomycetota		standalone AdoMetDC	5	0	0	1	4	17	4	0.19	-0.81	0.00192
+A0A8T2V644	Ceratopteris richardii	standalone AdoMetDC	Streptophyta		standalone AdoMetDC	5	0	0	1	2	19	4	0.0952	-0.905	0.000319
+A0A7S3EXJ6	Haptolina ericina	standalone AdoMetDC	Haptophyta		standalone AdoMetDC	5	0	0	1	3	18	4	0.143	-0.857	0.000851
+A0A4Y0BGC1	Anopheles funestus	standalone AdoMetDC	Arthropoda		standalone AdoMetDC	4	0	1	1	10	13	2	0.435	-0.565	0.0978
+Q587A7	Trypanosoma brucei brucei TREU927	standalone AdoMetDC	Euglenozoa		standalone AdoMetDC	5	0	0	1	2	20	3	0.0909	-0.909	0.00026
+A0A0D2WL10	Capsaspora owczarzaki ATCC 30864	standalone AdoMetDC	Eukaryota (no phylum)		standalone AdoMetDC	5	0	0	1	2	9	14	0.182	-0.818	0.00481
+A0A834RDZ0	Sarcoptes scabiei	standalone AdoMetDC	Arthropoda		standalone AdoMetDC	5	0	0	1	9	13	3	0.409	-0.591	0.0407
+A0A6A5SD87	Clathrospora elynae	standalone AdoMetDC	Ascomycota		standalone AdoMetDC	5	0	0	1	8	14	3	0.364	-0.636	0.0159
+A0A1E4ZPX2	PVC group bacterium (ex Bugula neritina AB1)	standalone AdoMetDC	Pseudomonadati (no phylum)		standalone AdoMetDC	5	0	0	1	5	16	4	0.238	-0.762	0.00383
+A0A6T6CWQ1	Compsopogon caeruleus	standalone AdoMetDC	Rhodophyta		standalone AdoMetDC	5	0	0	1	5	10	10	0.333	-0.667	0.0325
+A0A958N316	Bdellovibrionales bacterium	standalone AdoMetDC	Bdellovibrionota		standalone AdoMetDC	5	0	0	1	5	20	0	0.2	-0.8	0.00177
+A0A834WIQ2	Senna tora	standalone AdoMetDC	Streptophyta		standalone AdoMetDC	5	0	0	1	5	11	9	0.312	-0.688	0.0124
+A0AAN7KAB4	Trapa natans	standalone AdoMetDC	Streptophyta		standalone AdoMetDC	5	0	0	1	5	14	6	0.263	-0.737	0.00593
+A0ABD3KXJ4	Eucalyptus globulus	standalone AdoMetDC	Streptophyta		standalone AdoMetDC	5	0	0	1	4	18	3	0.182	-0.818	0.00156
+A0A445GRQ0	Glycine soja	standalone AdoMetDC	Streptophyta		standalone AdoMetDC	5	0	0	1	5	15	5	0.25	-0.75	0.00474
+A0A960KMN9	Acidobacteriota bacterium	standalone AdoMetDC	Acidobacteriota		standalone AdoMetDC	5	0	0	1	5	18	2	0.217	-0.783	0.00256
+V7BRZ3	Phaseolus vulgaris	standalone AdoMetDC	Streptophyta		standalone AdoMetDC	5	0	0	1	5	15	5	0.25	-0.75	0.00474
+A0A6G1G724	Eremomyces bilateralis CBS 781.70	standalone AdoMetDC	Ascomycota		standalone AdoMetDC	5	0	0	1	8	14	3	0.364	-0.636	0.0159
+A0A0S8EYC3	Myxococcales bacterium SG8_38_1	standalone AdoMetDC	Myxococcota		standalone AdoMetDC	5	0	0	1	6	17	2	0.261	-0.739	0.0047
+A0AA36N0Z0	Effrenium voratum	standalone AdoMetDC	Eukaryota (no phylum)		standalone AdoMetDC	5	0	0	1	7	14	4	0.333	-0.667	0.012
+A0A7S3TQM9	Emiliania huxleyi	standalone AdoMetDC	Haptophyta		standalone AdoMetDC	5	0	0	1	2	16	7	0.111	-0.889	0.000624
+A0A7S2JC55	Haptolina brevifila	standalone AdoMetDC	Haptophyta		standalone AdoMetDC	5	0	0	1	2	19	4	0.0952	-0.905	0.000319
+A0A4W6BTB7	Lates calcarifer	standalone AdoMetDC	Chordata		standalone AdoMetDC	2	0	3	1	13	2	10	0.867	-0.133	1
+A0A2D6JKZ9	Pseudobdellovibrionaceae bacterium	standalone AdoMetDC	Bdellovibrionota		standalone AdoMetDC	5	0	0	1	7	16	2	0.304	-0.696	0.00806
+A0A2A2KY33	Diploscapter pachys	standalone AdoMetDC	Nematoda		standalone AdoMetDC	5	0	0	1	9	14	2	0.391	-0.609	0.0407
+A0A2D6ETJ2	Desulfobacter sp.	standalone AdoMetDC	Thermodesulfobacteriota		standalone AdoMetDC	5	0	0	1	6	17	2	0.261	-0.739	0.0047
+I4YE58	Wallemia mellicola CBS 633.66	standalone AdoMetDC	Basidiomycota		standalone AdoMetDC	5	0	0	1	9	13	3	0.409	-0.591	0.0407
+A0A1E7FKD8	Fragilariopsis cylindrus CCMP1102	standalone AdoMetDC	Bacillariophyta		standalone AdoMetDC	5	0	0	1	5	9	11	0.357	-0.643	0.0325
+A0AAV5Q2X6	Martiniozyma asiatica (nom. inval.)	standalone AdoMetDC	Ascomycota		standalone AdoMetDC	5	0	0	1	4	18	3	0.182	-0.818	0.00156
+A0A8H6YQC9	Mycena venus	standalone AdoMetDC	Basidiomycota		standalone AdoMetDC	4	0	1	1	9	15	1	0.375	-0.625	0.0349
+A0A1J3I8B7	Noccaea caerulescens	standalone AdoMetDC	Streptophyta		standalone AdoMetDC	5	0	0	1	4	16	5	0.2	-0.8	0.00237
+A0A0L6URT9	Puccinia sorghi	standalone AdoMetDC	Basidiomycota		standalone AdoMetDC	5	0	0	1	2	17	6	0.105	-0.895	0.000494
+Q42613	Brassica juncea	standalone AdoMetDC	Streptophyta		standalone AdoMetDC	5	0	0	1	5	16	4	0.238	-0.762	0.00383
+A0A6A5Z688	Lophiotrema nucula	standalone AdoMetDC	Ascomycota		standalone AdoMetDC	5	0	0	1	8	14	3	0.364	-0.636	0.0159
+A0A212EY80	Danaus plexippus plexippus	standalone AdoMetDC	Arthropoda		standalone AdoMetDC	5	0	0	1	7	16	2	0.304	-0.696	0.00806
+C3ZXE0	Branchiostoma floridae	standalone AdoMetDC	Chordata		standalone AdoMetDC	5	0	0	1	13	11	1	0.542	-0.458	0.126
+A0AAN9I527	Clitoria ternatea	standalone AdoMetDC	Streptophyta		standalone AdoMetDC	5	0	0	1	4	16	5	0.2	-0.8	0.00237
+A0A8C7GKA2	Oncorhynchus kisutch	standalone AdoMetDC	Chordata		standalone AdoMetDC	2	0	3	1	13	2	10	0.867	-0.133	1
+A0A915PPH5	Setaria digitata	standalone AdoMetDC	Nematoda		standalone AdoMetDC	5	0	0	1	8	5	12	0.615	-0.385	0.249
+D7L5M3	Arabidopsis lyrata subsp. lyrata	standalone AdoMetDC	Streptophyta		standalone AdoMetDC	5	0	0	1	2	20	3	0.0909	-0.909	0.00026
+A0A8H8NWF4	Rhizoctonia solani	standalone AdoMetDC	Basidiomycota		standalone AdoMetDC	3	0	2	1	8	16	1	0.333	-0.667	0.0564
+A0A453KWE0	Aegilops tauschii subsp. strangulata	standalone AdoMetDC	Streptophyta		standalone AdoMetDC	5	0	0	1	6	7	12	0.462	-0.538	0.101
+A0A958PF55	Bdellovibrionales bacterium	standalone AdoMetDC	Bdellovibrionota		standalone AdoMetDC	5	0	0	1	5	18	2	0.217	-0.783	0.00256
+A0AAN8V7Z3	Dillenia turbinata	standalone AdoMetDC	Streptophyta		standalone AdoMetDC	5	0	0	1	4	15	6	0.211	-0.789	0.00296
+A3LZD3	Scheffersomyces stipitis CBS 6054	standalone AdoMetDC	Ascomycota		standalone AdoMetDC	5	0	0	1	4	18	3	0.182	-0.818	0.00156
+A0A8A4TT08	Sulfidibacter corallicola	standalone AdoMetDC	Acidobacteriota		standalone AdoMetDC	5	0	0	1	4	17	4	0.19	-0.81	0.00192
+A0AAV5QWG1	Pichia kluyveri	standalone AdoMetDC	Ascomycota		standalone AdoMetDC	5	0	0	1	1	18	6	0.0526	-0.947	0.000141
+A0A0F2MEI7	Sporothrix schenckii 1099-18	standalone AdoMetDC	Ascomycota		standalone AdoMetDC	5	0	0	1	8	14	3	0.364	-0.636	0.0159
+A0AAV9J0S9	Cyanidium caldarium	standalone AdoMetDC	Rhodophyta		standalone AdoMetDC	5	0	0	1	5	7	13	0.417	-0.583	0.0441
+A0A087H7G3	Arabis alpina	standalone AdoMetDC	Streptophyta		standalone AdoMetDC	5	0	0	1	3	19	3	0.136	-0.864	0.000694
+A0A2H9ZZ79	Apostasia shenzhenica	standalone AdoMetDC	Streptophyta		standalone AdoMetDC	5	0	0	1	2	21	2	0.087	-0.913	0.000214
+B7FPB8	Phaeodactylum tricornutum CCAP 1055/1	standalone AdoMetDC	Bacillariophyta		standalone AdoMetDC	5	0	0	1	5	9	11	0.357	-0.643	0.0325
+A0A4W4E756	Electrophorus electricus	standalone AdoMetDC	Chordata		standalone AdoMetDC	2	0	3	1	11	4	10	0.733	-0.267	1
+A0A2G6HZI1	Acidobacteriota bacterium	standalone AdoMetDC	Acidobacteriota		standalone AdoMetDC	5	0	0	1	4	17	4	0.19	-0.81	0.00192
+A0A0C2MFE8	Thelohanellus kitauei	standalone AdoMetDC	Cnidaria		standalone AdoMetDC	5	0	0	1	4	17	4	0.19	-0.81	0.00192
+A0A4W3J8I5	Callorhinchus milii	standalone AdoMetDC	Chordata		standalone AdoMetDC	2	0	3	1	10	5	10	0.667	-0.333	1
+A0A6J1EQF0	Cucurbita moschata	standalone AdoMetDC	Streptophyta		standalone AdoMetDC	5	0	0	1	5	14	6	0.263	-0.737	0.00593
+A0A329SCT9	Phytophthora cactorum	standalone AdoMetDC	Oomycota		standalone AdoMetDC	5	0	0	1	9	14	2	0.391	-0.609	0.0407
+K8F0K1	Bathycoccus prasinos	standalone AdoMetDC	Chlorophyta		standalone AdoMetDC	5	0	0	1	5	16	4	0.238	-0.762	0.00383
+A0A0S8BHN0	Anaerolineae bacterium SG8_19	standalone AdoMetDC	Chloroflexota		standalone AdoMetDC	5	0	0	1	7	16	2	0.304	-0.696	0.00806
+A0A803QAT9	Cannabis sativa	standalone AdoMetDC	Streptophyta		standalone AdoMetDC	5	0	0	1	6	14	5	0.3	-0.7	0.0087
+A0A0C2F0N5	Sporothrix brasiliensis 5110	standalone AdoMetDC	Ascomycota		standalone AdoMetDC	5	0	0	1	8	14	3	0.364	-0.636	0.0159
+A0A932JPK8	Elusimicrobiota bacterium	standalone AdoMetDC	Elusimicrobiota		standalone AdoMetDC	5	0	0	1	5	18	2	0.217	-0.783	0.00256
+A0A9R1RA46	Triticum turgidum subsp. durum	standalone AdoMetDC	Streptophyta		standalone AdoMetDC	5	0	0	1	5	5	15	0.5	-0.5	0.101
+A0A7C0Z9L7	Desulfobacteraceae bacterium	standalone AdoMetDC	Thermodesulfobacteriota		standalone AdoMetDC	5	0	0	1	5	17	3	0.227	-0.773	0.00312
+A0A8H6B5Z9	Brettanomyces bruxellensis	standalone AdoMetDC	Ascomycota		standalone AdoMetDC	5	0	0	1	3	10	12	0.231	-0.769	0.00654
+A0A8S9ZNE1	Meloidogyne graminicola	standalone AdoMetDC	Nematoda		standalone AdoMetDC	5	0	0	1	11	12	2	0.478	-0.522	0.0525
+A0A356KY66	Planctomycetota bacterium	standalone AdoMetDC	Planctomycetota		standalone AdoMetDC	5	0	0	1	6	18	1	0.25	-0.75	0.00389
+A0A7Y2E840	Candidatus Eiseniibacteriota bacterium	standalone AdoMetDC	Candidatus Eiseniibacteriota		standalone AdoMetDC	4	1	0	0.8	6	18	1	0.25	-0.55	0.0357
+A0A7J9BR63	Gossypium gossypioides	standalone AdoMetDC	Streptophyta		standalone AdoMetDC	5	0	0	1	4	7	14	0.364	-0.636	0.0337
+A0AA43CE50	Acidobacteriota bacterium	standalone AdoMetDC	Acidobacteriota		standalone AdoMetDC	4	1	0	0.8	6	17	2	0.261	-0.539	0.041
+A0A5D3CX49	Cucumis melo var. makuwa	standalone AdoMetDC	Streptophyta		standalone AdoMetDC	5	0	0	1	4	16	5	0.2	-0.8	0.00237
+A0A6V7KGM7	Bracon brevicornis	standalone AdoMetDC	Arthropoda		standalone AdoMetDC	3	0	2	1	8	17	0	0.32	-0.68	0.0504
+A0A8T2QKH7	Ceratopteris richardii	standalone AdoMetDC	Streptophyta		standalone AdoMetDC	5	0	0	1	3	15	7	0.167	-0.833	0.00166
+A0A6P5QK22	Mus caroli	standalone AdoMetDC	Chordata		standalone AdoMetDC	2	0	3	1	13	1	11	0.929	-0.0714	1
+A0A7J0GTE9	Actinidia rufa	standalone AdoMetDC	Streptophyta		standalone AdoMetDC	5	0	0	1	5	10	10	0.333	-0.667	0.0325
+A0A2S5KXK5	Proteobacteria bacterium 228	standalone AdoMetDC	Pseudomonadota		standalone AdoMetDC	5	0	0	1	5	18	2	0.217	-0.783	0.00256
+A0A2P5FNB4	Trema orientale	standalone AdoMetDC	Streptophyta		standalone AdoMetDC	5	0	0	1	6	7	12	0.462	-0.538	0.101
+R7Q777	Chondrus crispus	standalone AdoMetDC	Rhodophyta		standalone AdoMetDC	5	0	0	1	1	10	14	0.0909	-0.909	0.00137
+A0A2E4Y5B3	Halobacteriovoraceae bacterium	standalone AdoMetDC	Bdellovibrionota		standalone AdoMetDC	5	0	0	1	6	18	1	0.25	-0.75	0.00389
+A0AAP0K8W1	Stephania japonica	standalone AdoMetDC	Streptophyta		standalone AdoMetDC	5	0	0	1	4	15	6	0.211	-0.789	0.00296
+A0AAV4WLY2	Caerostris extrusa	standalone AdoMetDC	Arthropoda		standalone AdoMetDC	2	0	3	1	11	11	3	0.5	-0.5	0.482
+A0A9E7FLV3	Musa troglodytarum	standalone AdoMetDC	Streptophyta		standalone AdoMetDC	5	0	0	1	3	17	5	0.15	-0.85	0.00105
+A0A9D5UJF6	Shewanella sp.	standalone AdoMetDC	Pseudomonadota		standalone AdoMetDC	5	0	0	1	4	16	5	0.2	-0.8	0.00237
+A0AAD0T6M5	Halobacteriovorax sp. BALOs_7	standalone AdoMetDC	Bdellovibrionota		standalone AdoMetDC	5	0	0	1	5	18	2	0.217	-0.783	0.00256
+A0A6A1VNA9	Morella rubra	standalone AdoMetDC	Streptophyta		standalone AdoMetDC	5	0	0	1	5	14	6	0.263	-0.737	0.00593
+A0A9E7EKZ1	Musa troglodytarum	standalone AdoMetDC	Streptophyta		standalone AdoMetDC	5	0	0	1	2	20	3	0.0909	-0.909	0.00026
+A0A1F3V8E0	Bdellovibrionales bacterium RIFOXYC1_FULL_37_79	standalone AdoMetDC	Bdellovibrionota		standalone AdoMetDC	5	0	0	1	7	16	2	0.304	-0.696	0.00806
+A0A1U7VUC3	Nicotiana sylvestris	standalone AdoMetDC	Streptophyta		standalone AdoMetDC	5	0	0	1	4	19	2	0.174	-0.826	0.00128
+I0YJ18	Coccomyxa subellipsoidea C-169	standalone AdoMetDC	Chlorophyta		standalone AdoMetDC	5	0	0	1	5	6	14	0.455	-0.545	0.0934
+A0A2U9QYU9	Pichia kudriavzevii	standalone AdoMetDC	Ascomycota		standalone AdoMetDC	5	0	0	1	3	17	5	0.15	-0.85	0.00105
+A0A9E1DWM2	Desulfobacterales bacterium	standalone AdoMetDC	Thermodesulfobacteriota		standalone AdoMetDC	5	0	0	1	5	9	11	0.357	-0.643	0.0325
+A0A4U1ESQ4	Monodon monoceros	standalone AdoMetDC	Chordata		standalone AdoMetDC	1	1	3	0.5	19	1	5	0.95	0.45	0.177
+A0A3M1C127	Bdellovibrio sp.	standalone AdoMetDC	Bdellovibrionota		standalone AdoMetDC	5	0	0	1	6	17	2	0.261	-0.739	0.0047
+A0A059CKT5	Eucalyptus grandis	standalone AdoMetDC	Streptophyta		standalone AdoMetDC	5	0	0	1	4	8	13	0.333	-0.667	0.0294
+A0A9D4VMF8	Pisum sativum	standalone AdoMetDC	Streptophyta		standalone AdoMetDC	5	0	0	1	5	7	13	0.417	-0.583	0.0441
+A0A2E7US95	Deltaproteobacteria bacterium	standalone AdoMetDC	Myxococcota		standalone AdoMetDC	5	0	0	1	4	18	3	0.182	-0.818	0.00156
+A0A976JI81	Deltaproteobacteria bacterium	standalone AdoMetDC	Myxococcota		standalone AdoMetDC	5	0	0	1	5	19	1	0.208	-0.792	0.00212
+A0A835GZS0	Coptis chinensis	standalone AdoMetDC	Streptophyta		standalone AdoMetDC	5	0	0	1	3	5	17	0.375	-0.625	0.0754
+A0A059LLS1	Helicosporidium sp. ATCC 50920	standalone AdoMetDC	Chlorophyta		standalone AdoMetDC	5	0	0	1	5	15	5	0.25	-0.75	0.00474
+A0A8B8GRY9	Sipha flava	standalone AdoMetDC	Arthropoda		standalone AdoMetDC	4	0	1	1	7	15	3	0.318	-0.682	0.0221
+A0A1Y1YV73	Basidiobolus meristosporus CBS 931.73	standalone AdoMetDC	Basidiobolomycota		standalone AdoMetDC	4	0	1	1	7	15	3	0.318	-0.682	0.0221
+A0AA88HF63	Artemia franciscana	standalone AdoMetDC	Arthropoda		standalone AdoMetDC	4	0	1	1	11	13	1	0.458	-0.542	0.102
+A0A917JXN5	Shewanella gelidii	standalone AdoMetDC	Pseudomonadota		standalone AdoMetDC	5	0	0	1	4	15	6	0.211	-0.789	0.00296
+A0A2V2WHV6	Trypanosoma cruzi	standalone AdoMetDC	Euglenozoa		standalone AdoMetDC	5	0	0	1	3	20	2	0.13	-0.87	0.00057
+A0A2E1Q6Q2	Pseudobdellovibrionaceae bacterium	standalone AdoMetDC	Bdellovibrionota		standalone AdoMetDC	5	0	0	1	4	19	2	0.174	-0.826	0.00128
+A0A9P6WPF2	Pichia californica	standalone AdoMetDC	Ascomycota		standalone AdoMetDC	5	0	0	1	1	9	15	0.1	-0.9	0.002
+A0A0T6B3E6	Oryctes borbonicus	standalone AdoMetDC	Arthropoda		standalone AdoMetDC	5	0	0	1	7	7	11	0.5	-0.5	0.106
+A0A5N5STY4	Armadillidium nasatum	standalone AdoMetDC	Arthropoda		standalone AdoMetDC	4	0	1	1	10	11	4	0.476	-0.524	0.105
+A0A0L6WY00	Termitomyces sp. J132	standalone AdoMetDC	Basidiomycota		standalone AdoMetDC	5	0	0	1	9	15	1	0.375	-0.625	0.0169
+A0A6D2KQI7	Microthlaspi erraticum	standalone AdoMetDC	Streptophyta		standalone AdoMetDC	5	0	0	1	1	20	4	0.0476	-0.952	9.12e-05
+A0A0E0K2A4	Oryza punctata	standalone AdoMetDC	Streptophyta		standalone AdoMetDC	5	0	0	1	5	7	13	0.417	-0.583	0.0441
+A0AAN7VEM6	Pyrocoelia pectoralis	standalone AdoMetDC	Arthropoda		standalone AdoMetDC	3	0	2	1	8	6	11	0.571	-0.429	0.515
+A0A9W7AQ06	Triparma laevis f. inornata	standalone AdoMetDC	Eukaryota (no phylum)		standalone AdoMetDC	5	0	0	1	3	10	12	0.231	-0.769	0.00654
+D7KC12	Arabidopsis lyrata subsp. lyrata	standalone AdoMetDC	Streptophyta		standalone AdoMetDC	5	0	0	1	0	6	19	0	-1	0.00216
+A0A5K1C1R2	Nymphaea colorata	standalone AdoMetDC	Streptophyta		standalone AdoMetDC	5	0	0	1	4	16	5	0.2	-0.8	0.00237
+A0A928UIQ5	Pseudobdellovibrionaceae bacterium	standalone AdoMetDC	Bdellovibrionota		standalone AdoMetDC	5	0	0	1	5	18	2	0.217	-0.783	0.00256
+A0A4R1KGL8	Celerinatantimonas diazotrophica	standalone AdoMetDC	Pseudomonadota		standalone AdoMetDC	5	0	0	1	3	19	3	0.136	-0.864	0.000694
+A0A2E3XPS9	Halobacteriovoraceae bacterium	standalone AdoMetDC	Bdellovibrionota		standalone AdoMetDC	5	0	0	1	3	20	2	0.13	-0.87	0.00057
+A0A0C4F8Q0	Puccinia triticina 1-1 BBBD Race 1	standalone AdoMetDC	Basidiomycota		standalone AdoMetDC	5	0	0	1	2	17	6	0.105	-0.895	0.000494
+A0A1L1SV28	Mus musculus	standalone AdoMetDC	Chordata		standalone AdoMetDC	4	0	1	1	15	0	10	1	0	1
+A0A2H0QP72	Bdellovibrio sp. CG11_big_fil_rev_8_21_14_0_20_39_38	standalone AdoMetDC	Bdellovibrionota		standalone AdoMetDC	5	0	0	1	4	19	2	0.174	-0.826	0.00128
+Q0HW77	Shewanella sp. MR-7	standalone AdoMetDC	Pseudomonadota		standalone AdoMetDC	4	1	0	0.8	6	15	4	0.286	-0.514	0.0549
+A0A0C3LM77	Shewanella sp. cp20	standalone AdoMetDC	Pseudomonadota		standalone AdoMetDC	5	0	0	1	6	15	4	0.286	-0.714	0.00702
+A0A4Y9Z4D8	Dentipellis fragilis	standalone AdoMetDC	Basidiomycota		standalone AdoMetDC	5	0	0	1	6	8	11	0.429	-0.571	0.0445
+A0A099P0P7	Pichia kudriavzevii	standalone AdoMetDC	Ascomycota		standalone AdoMetDC	5	0	0	1	2	10	13	0.167	-0.833	0.00339
+A0A8S1EUL9	Caenorhabditis bovis	standalone AdoMetDC	Nematoda		standalone AdoMetDC	4	0	1	1	8	16	1	0.333	-0.667	0.0242
+A0A955YM59	Myxococcales bacterium	standalone AdoMetDC	Myxococcota		standalone AdoMetDC	5	0	0	1	4	19	2	0.174	-0.826	0.00128
+A0AAJ4ANX2	Shewanella sp. YLB-09	standalone AdoMetDC	Pseudomonadota		standalone AdoMetDC	5	0	0	1	6	14	5	0.3	-0.7	0.0087
+A0A0D9WCL7	Leersia perrieri	standalone AdoMetDC	Streptophyta		standalone AdoMetDC	5	0	0	1	2	20	3	0.0909	-0.909	0.00026
+A0ABD1DNI2	Culex pipiens pipiens	standalone AdoMetDC	Arthropoda		standalone AdoMetDC	4	0	1	1	5	8	12	0.385	-0.615	0.0824
+A0A960L2X5	Acidobacteriota bacterium	standalone AdoMetDC	Acidobacteriota		standalone AdoMetDC	5	0	0	1	4	16	5	0.2	-0.8	0.00237
+A0A182GY49	Aedes albopictus	standalone AdoMetDC	Arthropoda		standalone AdoMetDC	4	0	1	1	5	7	13	0.417	-0.583	0.0885
+T1GVF3	Megaselia scalaris	standalone AdoMetDC	Arthropoda		standalone AdoMetDC	4	0	1	1	6	7	12	0.462	-0.538	0.103
+A0A665WNV2	Echeneis naucrates	standalone AdoMetDC	Chordata		standalone AdoMetDC	2	0	3	1	3	6	16	0.333	-0.667	0.182
+G3UBI2	Loxodonta africana	standalone AdoMetDC	Chordata		standalone AdoMetDC	2	1	2	0.667	6	4	15	0.6	-0.0667	1
+A0A8T2UHC5	Ceratopteris richardii	standalone AdoMetDC	Streptophyta		standalone AdoMetDC	5	0	0	1	4	16	5	0.2	-0.8	0.00237
+A0A1B8CY79	Pseudogymnoascus sp. 24MN13	standalone AdoMetDC	Ascomycota		standalone AdoMetDC	5	0	0	1	6	8	11	0.429	-0.571	0.0445
+A0A8J5MKL9	Homarus americanus	standalone AdoMetDC	Arthropoda		standalone AdoMetDC	3	0	2	1	10	12	3	0.455	-0.545	0.22
+B1KRD5	Shewanella woodyi ATCC 51908	standalone AdoMetDC	Pseudomonadota		standalone AdoMetDC	5	0	0	1	6	16	3	0.273	-0.727	0.00572
+A0A2B4SZ25	Stylophora pistillata	standalone AdoMetDC	Cnidaria		standalone AdoMetDC	3	0	2	1	10	14	1	0.417	-0.583	0.0978
+A0A6L5NWG7	Shewanella sp. XMDDZSB0408	standalone AdoMetDC	(unknown)		standalone AdoMetDC	5	0	0	1	4	17	4	0.19	-0.81	0.00192
+D7LQR4	Arabidopsis lyrata subsp. lyrata	standalone AdoMetDC	Streptophyta		standalone AdoMetDC	5	0	0	1	4	15	6	0.211	-0.789	0.00296
+A0A4C1X2C4	Eumeta japonica	standalone AdoMetDC	Arthropoda		standalone AdoMetDC	5	0	0	1	8	14	3	0.364	-0.636	0.0159
+A0A7J9F4N5	Gossypium trilobum	standalone AdoMetDC	Streptophyta		standalone AdoMetDC	5	0	0	1	5	7	13	0.417	-0.583	0.0441
+A0A8S1INK8	Ostreobium quekettii	standalone AdoMetDC	Chlorophyta		standalone AdoMetDC	5	0	0	1	6	8	11	0.429	-0.571	0.0445
+A0A958KI97	Bdellovibrionales bacterium	standalone AdoMetDC	Bdellovibrionota		standalone AdoMetDC	5	0	0	1	6	16	3	0.273	-0.727	0.00572
+A0A1Y1MYM0	Photinus pyralis	standalone AdoMetDC	Arthropoda		standalone AdoMetDC	5	0	0	1	6	8	11	0.429	-0.571	0.0445
+A0A1H7PC65	Colwellia chukchiensis	standalone AdoMetDC	Pseudomonadota		standalone AdoMetDC	5	0	0	1	7	16	2	0.304	-0.696	0.00806
+A0A5K3FWM5	Mesocestoides corti	standalone AdoMetDC	Platyhelminthes		standalone AdoMetDC	3	0	2	1	10	13	2	0.435	-0.565	0.22
+A0A1E3NH42	Pichia membranifaciens NRRL Y-2026	standalone AdoMetDC	Ascomycota		standalone AdoMetDC	5	0	0	1	3	9	13	0.25	-0.75	0.00905
+A0A3P3Y7K6	Plasmodiophora brassicae	standalone AdoMetDC	Endomyxa		standalone AdoMetDC	5	0	0	1	2	9	14	0.182	-0.818	0.00481
+A0AAV5BI72	Eleusine coracana subsp. coracana	standalone AdoMetDC	Streptophyta		standalone AdoMetDC	5	0	0	1	5	16	4	0.238	-0.762	0.00383
+A0A9R1NZ58	Triticum turgidum subsp. durum	standalone AdoMetDC	Streptophyta		standalone AdoMetDC	3	0	2	1	5	16	4	0.238	-0.762	0.0277
+A0AAW2MUA7	Sesamum angustifolium	standalone AdoMetDC	Streptophyta		standalone AdoMetDC	5	0	0	1	4	9	12	0.308	-0.692	0.0294
+A0A7C1AG17	Desulfobacteraceae bacterium	standalone AdoMetDC	Thermodesulfobacteriota		standalone AdoMetDC	5	0	0	1	3	18	4	0.143	-0.857	0.000851
+A0A023GG67	Amblyomma triste	standalone AdoMetDC	Arthropoda		standalone AdoMetDC	3	0	2	1	11	11	3	0.5	-0.5	0.23
+A0A7S2PX74	Zooxanthella nutricula	standalone AdoMetDC	Eukaryota (no phylum)		standalone AdoMetDC	5	0	0	1	5	16	4	0.238	-0.762	0.00383
+A0A2H1WKU2	Spodoptera frugiperda	standalone AdoMetDC	Arthropoda		standalone AdoMetDC	5	0	0	1	6	6	13	0.5	-0.5	0.102
+G9IS08	Miscanthus sinensis	standalone AdoMetDC	Streptophyta		standalone AdoMetDC	5	0	0	1	5	7	13	0.417	-0.583	0.0441
+A0A7R9AWZ4	Timema shepardi	standalone AdoMetDC	Arthropoda		standalone AdoMetDC	3	0	2	1	8	12	5	0.4	-0.6	0.0932
+A0A833SBE1	Frieseomelitta varia	standalone AdoMetDC	Arthropoda		standalone AdoMetDC	3	0	2	1	6	7	12	0.462	-0.538	0.212
+A0A183GLL0	Heligmosomoides polygyrus	standalone AdoMetDC	Nematoda		standalone AdoMetDC	3	0	2	1	10	12	3	0.455	-0.545	0.22
+A0A662X2J7	Nothophytophthora sp. Chile5	standalone AdoMetDC	Oomycota		standalone AdoMetDC	3	0	2	1	8	15	2	0.348	-0.652	0.0635
+A0A956AJ92	Myxococcales bacterium	standalone AdoMetDC	Myxococcota		standalone AdoMetDC	4	1	0	0.8	4	16	5	0.2	-0.6	0.0235
+A0AAN6E757	Coemansia sp. RSA 2522	standalone AdoMetDC	Kickxellomycota		standalone AdoMetDC	5	0	0	1	6	7	12	0.462	-0.538	0.101
+A0AAV5RFM3	Starmerella bacillaris	standalone AdoMetDC	Ascomycota		standalone AdoMetDC	5	0	0	1	2	10	13	0.167	-0.833	0.00339
+A0A958PQC6	Bdellovibrionales bacterium	standalone AdoMetDC	Bdellovibrionota		standalone AdoMetDC	4	0	1	1	2	22	1	0.0833	-0.917	0.000733
+A0A023GGB8	Amblyomma triste	standalone AdoMetDC	Arthropoda		standalone AdoMetDC	2	0	3	1	10	4	11	0.714	-0.286	1
+A0A293LT01	Ornithodoros erraticus	standalone AdoMetDC	Arthropoda		standalone AdoMetDC	2	0	3	1	10	4	11	0.714	-0.286	1
+A0A914T0V9	Panagrolaimus sp. PS1159	standalone AdoMetDC	Nematoda		standalone AdoMetDC	3	0	2	1	8	7	10	0.533	-0.467	0.245
+A0A9N8KHQ3	Aureobasidium uvarum	standalone AdoMetDC	Ascomycota		standalone AdoMetDC	3	0	2	1	8	13	4	0.381	-0.619	0.0815
+A0A8X7TNL1	Brassica carinata	standalone AdoMetDC	Streptophyta		standalone AdoMetDC	5	0	0	1	5	17	3	0.227	-0.773	0.00312
+A0A6G3MI07	Henneguya salminicola	standalone AdoMetDC	Cnidaria		standalone AdoMetDC	5	0	0	1	1	10	14	0.0909	-0.909	0.00137
+A4GXE8	Tripidium arundinaceum	standalone AdoMetDC	Streptophyta		standalone AdoMetDC	5	0	0	1	5	7	13	0.417	-0.583	0.0441
+A0AAW2RKS2	Sesamum angustifolium	standalone AdoMetDC	Streptophyta		standalone AdoMetDC	5	0	0	1	4	17	4	0.19	-0.81	0.00192
+A0A7S1CXK8	Cyclophora tenuis	standalone AdoMetDC	Bacillariophyta		standalone AdoMetDC	4	0	1	1	7	14	4	0.333	-0.667	0.0261
+A0A4Y6IBM5	Shewanella sp. SNU WT4	standalone AdoMetDC	Pseudomonadota		standalone AdoMetDC	5	0	0	1	5	16	4	0.238	-0.762	0.00383
+A0A8D8J8A0	Culex pipiens	standalone AdoMetDC	Arthropoda		standalone AdoMetDC	2	0	3	1	6	8	11	0.429	-0.571	0.467
+Q333A8	Plantago major	standalone AdoMetDC	Streptophyta		standalone AdoMetDC	4	0	1	1	5	14	6	0.263	-0.737	0.0142
+A0A2E5JKU5	Halobacteriovorax sp.	standalone AdoMetDC	Bdellovibrionota		standalone AdoMetDC	5	0	0	1	4	19	2	0.174	-0.826	0.00128
+A0A0L0D250	Thecamonas trahens ATCC 50062	standalone AdoMetDC	Eukaryota (no phylum)		standalone AdoMetDC	4	1	0	0.8	4	9	12	0.308	-0.492	0.118
+A0A7R9CVE6	Timema cristinae	standalone AdoMetDC	Arthropoda		standalone AdoMetDC	3	0	2	1	5	8	12	0.385	-0.615	0.2
+A0A502L123	Litorilituus lipolyticus	standalone AdoMetDC	Pseudomonadota		standalone AdoMetDC	5	0	0	1	5	11	9	0.312	-0.688	0.0124
+A0A411PD31	Shewanella maritima	standalone AdoMetDC	Pseudomonadota		standalone AdoMetDC	5	0	0	1	3	10	12	0.231	-0.769	0.00654
+A0A1Y1MCT1	Photinus pyralis	standalone AdoMetDC	Arthropoda		standalone AdoMetDC	3	0	2	1	6	7	12	0.462	-0.538	0.212
+A0A7J6WWH5	Thalictrum thalictroides	standalone AdoMetDC	Streptophyta		standalone AdoMetDC	4	0	1	1	5	17	3	0.227	-0.773	0.00843
+A0A7S3GBT7	Palpitomonas bilix	standalone AdoMetDC	Eukaryota (no phylum)		standalone AdoMetDC	1	4	0	0.2	2	19	4	0.0952	-0.105	0.488
+G9F9P6	Hevea brasiliensis	standalone AdoMetDC	Streptophyta		standalone AdoMetDC	5	0	0	1	3	7	15	0.3	-0.7	0.0256
+A0A8R7TK29	Triticum urartu	standalone AdoMetDC	Streptophyta		standalone AdoMetDC	4	0	1	1	5	7	13	0.417	-0.583	0.0885
+A0AAE0T417	Potamilus streckersoni	standalone AdoMetDC	Mollusca		standalone AdoMetDC	2	0	3	1	8	6	11	0.571	-0.429	0.5
+A0A5B7CU82	Portunus trituberculatus	standalone AdoMetDC	Arthropoda		standalone AdoMetDC	3	0	2	1	8	11	6	0.421	-0.579	0.214
+A0A2Y9LDZ3	Delphinapterus leucas	standalone AdoMetDC	Chordata		standalone AdoMetDC	2	0	3	1	14	1	10	0.933	-0.0667	1
+E9P1K7	Musa acuminata AAA Group	standalone AdoMetDC	Streptophyta		standalone AdoMetDC	4	0	1	1	7	15	3	0.318	-0.682	0.0221
+A0A9J6DEN6	Rhipicephalus microplus	standalone AdoMetDC	Arthropoda		standalone AdoMetDC	4	0	1	1	10	4	11	0.714	-0.286	0.524
+M4UAE0	Psychromonas sp. CNPT3	standalone AdoMetDC	Pseudomonadota		standalone AdoMetDC	5	0	0	1	2	9	14	0.182	-0.818	0.00481
+Q3LUS1	Populus maximowiczii x Populus nigra	standalone AdoMetDC	Streptophyta		standalone AdoMetDC	5	0	0	1	4	8	13	0.333	-0.667	0.0294
+A0A8J4Q729	Castanea mollissima	standalone AdoMetDC	Streptophyta		standalone AdoMetDC	3	0	2	1	5	16	4	0.238	-0.762	0.0277
+A0A3L6T5Q0	Panicum miliaceum	standalone AdoMetDC	Streptophyta		standalone AdoMetDC	3	0	2	1	6	15	4	0.286	-0.714	0.0415
+A0A8W8J7D7	Magallana gigas	standalone AdoMetDC	Mollusca		standalone AdoMetDC	3	0	2	1	4	7	14	0.364	-0.636	0.192
+A0A2G9HWJ0	Handroanthus impetiginosus	standalone AdoMetDC	Streptophyta		standalone AdoMetDC	4	0	1	1	5	16	4	0.238	-0.762	0.00996
+A0A0D8Y5R5	Dictyocaulus viviparus	standalone AdoMetDC	Nematoda		standalone AdoMetDC	2	0	3	1	7	6	12	0.538	-0.462	0.486
+A0A7J0H5K9	Actinidia rufa	standalone AdoMetDC	Streptophyta		standalone AdoMetDC	4	0	1	1	6	15	4	0.286	-0.714	0.0166
+A0A397ZZN3	Brassica rapa	standalone AdoMetDC	Streptophyta		standalone AdoMetDC	5	0	0	1	5	8	12	0.385	-0.615	0.0359
+A0A4Y8A1I9	Psychromonas sp. RZ22	standalone AdoMetDC	Pseudomonadota		standalone AdoMetDC	5	0	0	1	2	7	16	0.222	-0.778	0.021
+A0A9N8Z8V4	Diversispora eburnea	standalone AdoMetDC	Glomeromycota		standalone AdoMetDC	4	0	1	1	2	10	13	0.167	-0.833	0.00824
+A0A4S8M015	Dendrothele bispora CBS 962.96	standalone AdoMetDC	Basidiomycota		standalone AdoMetDC	3	0	2	1	9	15	1	0.375	-0.625	0.0752
+A0A087UVD7	Stegodyphus mimosarum	standalone AdoMetDC	Arthropoda		standalone AdoMetDC	2	0	3	1	9	5	11	0.643	-0.357	1
+A0A7S4F0J5	Chrysotila carterae	standalone AdoMetDC	Haptophyta		standalone AdoMetDC	3	0	2	1	3	20	2	0.13	-0.87	0.00769
+A0A8R7PHM5	Triticum urartu	standalone AdoMetDC	Streptophyta		standalone AdoMetDC	3	0	2	1	5	7	13	0.417	-0.583	0.2
+A0AAD9N6D8	Paralvinella palmiformis	standalone AdoMetDC	Annelida		standalone AdoMetDC	3	0	2	1	3	12	10	0.2	-0.8	0.0245
+A0AA38GR21	Taxus chinensis	standalone AdoMetDC	Streptophyta		standalone AdoMetDC	5	0	0	1	7	3	15	0.7	-0.3	0.505
+A0A6G0VTD8	Aphis craccivora	standalone AdoMetDC	Arthropoda		standalone AdoMetDC	3	0	2	1	5	7	13	0.417	-0.583	0.2
+A0A8S9JTL7	Brassica cretica	standalone AdoMetDC	Streptophyta		standalone AdoMetDC	3	0	2	1	5	19	1	0.208	-0.792	0.0191
+A0A914S8G9	Parascaris equorum	standalone AdoMetDC	Nematoda		standalone AdoMetDC	5	0	0	1	2	1	22	0.667	-0.333	0.375
+A0AAV9BIP7	Acorus gramineus	standalone AdoMetDC	Streptophyta		standalone AdoMetDC	3	0	2	1	6	16	3	0.273	-0.727	0.0365
+A0AAD2E585	Fraxinus pennsylvanica	standalone AdoMetDC	Streptophyta		standalone AdoMetDC	3	0	2	1	5	16	4	0.238	-0.762	0.0277
+A0A564Z369	Hymenolepis diminuta	standalone AdoMetDC	Platyhelminthes		standalone AdoMetDC	3	0	2	1	1	10	14	0.0909	-0.909	0.011
+A0A3L6QIS0	Panicum miliaceum	standalone AdoMetDC	Streptophyta		standalone AdoMetDC	3	0	2	1	5	16	4	0.238	-0.762	0.0277
+A0A661SUE2	Deltaproteobacteria bacterium	standalone AdoMetDC	Myxococcota		standalone AdoMetDC	4	0	1	1	4	18	3	0.182	-0.818	0.00468
+A0A0N4TAQ2	Brugia pahangi	standalone AdoMetDC	Nematoda		standalone AdoMetDC	2	0	3	1	7	8	10	0.467	-0.533	0.471
+A0A2H5MW63	Citrus unshiu	standalone AdoMetDC	Streptophyta		standalone AdoMetDC	3	0	2	1	3	9	13	0.25	-0.75	0.044
+A0A7I8JKG8	Spirodela intermedia	standalone AdoMetDC	Streptophyta		standalone AdoMetDC	5	0	0	1	0	0	25			
+A0A7R9J501	Timema californicum	standalone AdoMetDC	Arthropoda		standalone AdoMetDC	2	1	2	0.667	8	11	6	0.421	-0.246	0.571
+A0A7J0DJZ3	Actinidia rufa	standalone AdoMetDC	Streptophyta		standalone AdoMetDC	2	0	3	1	5	7	13	0.417	-0.583	0.462
+A0A7X6A7U4	Acidobacteriota bacterium	standalone AdoMetDC	Acidobacteriota		standalone AdoMetDC	3	0	2	1	6	17	2	0.261	-0.739	0.0323
+A0A445DAY2	Arachis hypogaea	standalone AdoMetDC	Streptophyta		standalone AdoMetDC	3	0	2	1	5	18	2	0.217	-0.783	0.0215
+C5KEB9	Perkinsus marinus ATCC 50983	standalone AdoMetDC	Perkinsozoa		standalone AdoMetDC	3	0	2	1	6	8	11	0.429	-0.571	0.206
+A0A4S8J7K2	Musa balbisiana	standalone AdoMetDC	Streptophyta		standalone AdoMetDC	3	0	2	1	6	15	4	0.286	-0.714	0.0415
+A0A4S8IKX2	Musa balbisiana	standalone AdoMetDC	Streptophyta		standalone AdoMetDC	3	0	2	1	4	17	4	0.19	-0.81	0.0173
+A0A131ZXQ5	Sarcoptes scabiei	standalone AdoMetDC	Arthropoda		standalone AdoMetDC	2	0	3	1	6	8	11	0.429	-0.571	0.467
+A0AA37WWK6	Paraferrimonas haliotis	standalone AdoMetDC	Pseudomonadota		standalone AdoMetDC	5	0	0	1	2	8	15	0.2	-0.8	0.00699
+H2Z5U6	Ciona savignyi	standalone AdoMetDC	Chordata		standalone AdoMetDC	2	0	3	1	8	6	11	0.571	-0.429	0.5
+A0A8X8AZK9	Brassica carinata	standalone AdoMetDC	Streptophyta		standalone AdoMetDC	2	0	3	1	5	15	5	0.25	-0.75	0.0909
+A0A6A4LJA7	Rhododendron williamsianum	standalone AdoMetDC	Streptophyta		standalone AdoMetDC	3	0	2	1	5	15	5	0.25	-0.75	0.0316
+A0A4Y9ZE03	Hericium alpestre	standalone AdoMetDC	Basidiomycota		standalone AdoMetDC	2	0	3	1	6	8	11	0.429	-0.571	0.467
+A0A0S4JRG8	Bodo saltans	standalone AdoMetDC	Euglenozoa		standalone AdoMetDC	0	4	1	0	5	16	4	0.238	0.238	0.549
+A0A972DB31	Myxococcales bacterium	standalone AdoMetDC	Myxococcota		standalone AdoMetDC	5	0	0	1	2	8	15	0.2	-0.8	0.00699
+A0A9Q1MVX2	Anisodus acutangulus	standalone AdoMetDC	Streptophyta		standalone AdoMetDC	3	0	2	1	3	18	4	0.143	-0.857	0.00988
+A0AA41UZP1	Papaver nudicaule	standalone AdoMetDC	Streptophyta		standalone AdoMetDC	3	0	2	1	3	9	13	0.25	-0.75	0.044
+D6PPT7	Capsella grandiflora	standalone AdoMetDC	Streptophyta		standalone AdoMetDC	3	0	2	1	5	8	12	0.385	-0.615	0.2
+A0A5K3FRB4	Mesocestoides corti	standalone AdoMetDC	Platyhelminthes		standalone AdoMetDC	3	0	2	1	3	7	15	0.3	-0.7	0.0699
+G0TXA5	Trypanosoma vivax Y486	standalone AdoMetDC	Euglenozoa		standalone AdoMetDC	1	3	1	0.25	4	17	4	0.19	-0.0595	1
+W2S7S0	Cyphellophora europaea CBS 101466	standalone AdoMetDC	Ascomycota		standalone AdoMetDC	2	0	3	1	6	8	11	0.429	-0.571	0.467
+A0A418YCS6	Motilimonas pumila	standalone AdoMetDC	Pseudomonadota		standalone AdoMetDC	5	0	0	1	1	2	22	0.333	-0.667	0.107
+A0A8S4SDF2	Pararge aegeria aegeria	standalone AdoMetDC	Arthropoda		standalone AdoMetDC	3	1	1	0.75	6	7	12	0.462	-0.288	0.576
+A0A5N6RU24	Carpinus fangiana	standalone AdoMetDC	Streptophyta		standalone AdoMetDC	3	0	2	1	3	10	12	0.231	-0.769	0.0357
+A0A660KUC0	Carpinus fangiana	standalone AdoMetDC	Streptophyta		standalone AdoMetDC	3	0	2	1	2	16	7	0.111	-0.889	0.00752
+A0A8B8LW03	Abrus precatorius	standalone AdoMetDC	Streptophyta		standalone AdoMetDC	4	1	0	0.8	5	6	14	0.455	-0.345	0.308
+W6KKF7	Phytomonas sp. EM1	standalone AdoMetDC	Euglenozoa		standalone AdoMetDC	0	5	0	0	3	17	5	0.15	0.15	1
+A0A8S1E2U5	Cloeon dipterum	standalone AdoMetDC	Arthropoda		standalone AdoMetDC	3	0	2	1	8	6	11	0.571	-0.429	0.515
+A0A7S0RZ56	Pyramimonas obovata	standalone AdoMetDC	Chlorophyta		standalone AdoMetDC	2	0	3	1	4	8	13	0.333	-0.667	0.165
+A0A9Q0UKL8	Salix purpurea	standalone AdoMetDC	Streptophyta		standalone AdoMetDC	3	0	2	1	3	16	6	0.158	-0.842	0.013
+A0A7J6TQC4	Perkinsus olseni	standalone AdoMetDC	Perkinsozoa		standalone AdoMetDC	2	0	3	1	5	8	12	0.385	-0.615	0.2
+B7FFN8	Medicago truncatula	standalone AdoMetDC	Streptophyta		standalone AdoMetDC	3	0	2	1	3	11	11	0.214	-0.786	0.0294
+A0A5K0VKC0	Nymphaea colorata	standalone AdoMetDC	Streptophyta		standalone AdoMetDC	3	0	2	1	4	13	8	0.235	-0.765	0.0307
+A0AAP0X3W0	Liquidambar formosana	standalone AdoMetDC	Streptophyta		standalone AdoMetDC	2	1	2	0.667	3	16	6	0.158	-0.509	0.117
+S9VCY8	Angomonas deanei	standalone AdoMetDC	Euglenozoa		standalone AdoMetDC	0	5	0	0	3	17	5	0.15	0.15	1
+A0AAE1WGB2	Sesamum angolense	standalone AdoMetDC	Streptophyta		standalone AdoMetDC	2	0	3	1	4	9	12	0.308	-0.692	0.143
+A0A9D4YFW3	Pisum sativum	standalone AdoMetDC	Streptophyta		standalone AdoMetDC	3	0	2	1	0	10	15	0	-1	0.0035
+A0A0X3NIR9	Schistocephalus solidus	standalone AdoMetDC	Platyhelminthes		standalone AdoMetDC	2	0	3	1	7	6	12	0.538	-0.462	0.486
+A0A093ZSI7	Pseudogymnoascus sp. VKM F-3775	standalone AdoMetDC	Ascomycota		standalone AdoMetDC	2	0	3	1	6	8	11	0.429	-0.571	0.467
+A0A9Q0ZZY1	Salix koriyanagi	standalone AdoMetDC	Streptophyta		standalone AdoMetDC	2	0	3	1	5	7	13	0.417	-0.583	0.462
+A0A2U1LXK1	Artemisia annua	standalone AdoMetDC	Streptophyta		standalone AdoMetDC	2	0	3	1	4	7	14	0.364	-0.636	0.192
+A0A7J6WZZ7	Thalictrum thalictroides	standalone AdoMetDC	Streptophyta		standalone AdoMetDC	2	0	3	1	5	7	13	0.417	-0.583	0.462
+A0AAW2QIJ5	Sesamum radiatum	standalone AdoMetDC	Streptophyta		standalone AdoMetDC	2	0	3	1	3	9	13	0.25	-0.75	0.11
+A0A7S1R469	Neobodo designis	standalone AdoMetDC	Euglenozoa		standalone AdoMetDC	0	4	1	0	4	18	3	0.182	0.182	1
+A0AA39RES9	Acer saccharum	standalone AdoMetDC	Streptophyta		standalone AdoMetDC	2	0	3	1	4	8	13	0.333	-0.667	0.165
+A0A8C3AIG1	Cyclopterus lumpus	standalone AdoMetDC	Chordata		standalone AdoMetDC	0	0	5		13	2	10	0.867		
+A0AAD7PXU0	Quillaja saponaria	standalone AdoMetDC	Streptophyta		standalone AdoMetDC	2	0	3	1	4	17	4	0.19	-0.81	0.0593
+A0A396H0Y8	Medicago truncatula	standalone AdoMetDC	Streptophyta		standalone AdoMetDC	2	0	3	1	5	7	13	0.417	-0.583	0.462
+Q2PEM9	Vitis vinifera	standalone AdoMetDC	Streptophyta		standalone AdoMetDC	5	0	0	1	5	6	14	0.455	-0.545	0.0934
+E9B186	Leishmania mexicana MHOM/GT/2001/U1103	standalone AdoMetDC	Euglenozoa		standalone AdoMetDC	0	4	1	0	3	17	5	0.15	0.15	1
+A0A7S0VS19	Hemiselmis tepida	standalone AdoMetDC	Eukaryota (no phylum)		standalone AdoMetDC	2	0	3	1	4	10	11	0.286	-0.714	0.125
+A0A6A4LL36	Rhododendron williamsianum	standalone AdoMetDC	Streptophyta		standalone AdoMetDC	3	0	2	1	3	15	7	0.167	-0.833	0.015
+A0A7S1GHS3	Picochlorum oklahomense	standalone AdoMetDC	Chlorophyta		standalone AdoMetDC	2	0	3	1	4	9	12	0.308	-0.692	0.143
+A0A182S7A7	Anopheles maculatus	standalone AdoMetDC	Arthropoda		standalone AdoMetDC	2	0	3	1	6	8	11	0.429	-0.571	0.467
+A0A7J0EFM8	Actinidia rufa	standalone AdoMetDC	Streptophyta		standalone AdoMetDC	2	0	3	1	5	14	6	0.263	-0.737	0.1
+A0A1B0D2U6	Phlebotomus papatasi	standalone AdoMetDC	Arthropoda		standalone AdoMetDC	2	0	3	1	7	6	12	0.538	-0.462	0.486
+A0AAV0Z7Y9	Vicia faba	standalone AdoMetDC	Streptophyta		standalone AdoMetDC	2	1	2	0.667	0	0	25			
+A0AAW2X9B7	Sesamum latifolium	standalone AdoMetDC	Streptophyta		standalone AdoMetDC	2	0	3	1	4	6	15	0.4	-0.6	0.455
+T2BBJ3	Triticum aestivum	standalone AdoMetDC	Streptophyta		standalone AdoMetDC	2	0	3	1	5	7	13	0.417	-0.583	0.462
+A9EIX6	Shewanella benthica KT99	standalone AdoMetDC	Pseudomonadota		standalone AdoMetDC	2	0	3	1	4	9	12	0.308	-0.692	0.143
+A0A0D3G325	Oryza barthii	standalone AdoMetDC	Streptophyta		standalone AdoMetDC	2	0	3	1	1	6	18	0.143	-0.857	0.0833
+S9UUR4	Strigomonas culicis	standalone AdoMetDC	Euglenozoa		standalone AdoMetDC	1	4	0	0.2	3	10	12	0.231	0.0308	1
+A0A7J6LM22	Perkinsus chesapeaki	standalone AdoMetDC	Perkinsozoa		standalone AdoMetDC	2	0	3	1	0	0	25			

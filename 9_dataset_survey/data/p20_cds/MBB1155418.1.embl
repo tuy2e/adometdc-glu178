@@ -1,0 +1,93 @@
+ID   MBB1155418; SV 1; linear; genomic DNA; CON; BCT; 1521 BP.
+XX
+PA   JACGZW010000006.1
+XX
+PR   Project:PRJNA654516;
+XX
+DT   10-AUG-2020 (Created)
+DT   10-AUG-2020 (Last updated)
+XX
+DE   Amycolatopsis sp. DR6-1 adenosylmethionine decarboxylase
+XX
+KW   WGS.
+XX
+OS   Amycolatopsis sp. DR6-1
+OC   Bacteria; Actinobacteria; Pseudonocardiales; Pseudonocardiaceae;
+OC   Amycolatopsis; unclassified Amycolatopsis.
+XX
+RN   [1]
+RA   Tedsree N., Kuncharoen N., Likhitwitayawuid K., Tanasupawat S.;
+RT   "Amycolatopsis sp. nov. DR6-1 isolated from Dendrobium heterocarpum";
+RL   Unpublished.
+XX
+RN   [2]
+RA   Tedsree N., Tanasupawat S.;
+RT   ;
+RL   Submitted (04-AUG-2020) to the INSDC.
+RL   Biochemistry and Microbiology, Chulalonkorn University, Phayathai, Bangkok,
+RL   Bangkok 10330, Thailand
+XX
+DR   MD5; 2d7c2d11c41a1d9643d9a4bc30a359d4.
+DR   BioSample; SAMN15719521.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..1521
+FT                   /organism="Amycolatopsis sp. DR6-1"
+FT                   /host="Dendrobium heterocarpum"
+FT                   /strain="DR6-1"
+FT                   /mol_type="genomic DNA"
+FT                   /country="Thailand: Ubon Ratchathani"
+FT                   /isolation_source="root"
+FT                   /collection_date="21-Jan-2019"
+FT                   /db_xref="taxon:2760662"
+FT   CDS             complement(JACGZW010000006.1:403818..405338)
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /gene="speD"
+FT                   /locus_tag="H4281_19920"
+FT                   /product="adenosylmethionine decarboxylase"
+FT                   /EC_number="4.1.1.50"
+FT                   /note="Derived by automated computational analysis using
+FT                   gene prediction method: Protein Homology."
+FT                   /inference="COORDINATES: similar to AA
+FT                   sequence:RefSeq:WP_009073608.1"
+FT                   /protein_id="MBB1155418.1"
+FT                   /translation="MTEGFSQVLERCRAFLEERQPPTPCLVVDLDVVRGNCERLRRALP
+FT                   EARMYYAVKANPAPEVVRVLRQAGAGFDVAGREEIELCLAQGVRPDSLSYGNPVKKARD
+FT                   IEFAHRVGVRRFTFDSLEDLEKLAEFAPGSTVSCRILVDSPGSQTPFGRKFGCSAEMAV
+FT                   DLLARAAELGLDPEGVAFHVGSQHGDPRAWEAGIAAAGEVTRAVAERGVSLRGLNIGGG
+FT                   FPVGYLSEPPPLTEYAAVVRDAVGRHFAVVPELSFEPGRAVVASAGVIRSEVVLVSRKS
+FT                   AADEKRWVYLDIGRYGGLAETENEAIAYRLVTAHDGGPDGPVVVAGPTCDGDDVLYQRT
+FT                   PYRLPLALRAGDYVDIPDAGAYTQSYSSVSFNGFPPLRSYFVGGEAGGVGEFAGRHVLA
+FT                   EFSGVAAELLDDPVFLCESLERVLDKAGATVCELTYKQFEPHGVTAMALLSESHASIHT
+FT                   YPERGSAFVDVFTCGHKADPELAVQLLRDLLGASVSRVTTIHRGQEDS"
+XX
+SQ   Sequence 1521 BP; 208 A; 401 C; 617 G; 295 T; 0 other;
+     gtgactgaag ggttctcgca ggttctggaa cgttgccggg cgttcctgga ggagcggcag        60
+     ccgccgacgc cgtgtctggt cgtggacctt gacgtggtgc gcgggaactg cgagcggctt       120
+     cgccgggcgc tgccggaagc gcggatgtac tacgcggtca aggctaatcc ggcgccggag       180
+     gtcgtgcggg ttcttcggca agcgggagcg ggattcgacg tcgcggggcg cgaggagatc       240
+     gagctgtgtc tcgcgcaagg ggtgcggccc gattcgctgt cctatggcaa cccggtgaag       300
+     aaggcgcggg acatcgagtt cgcgcaccgc gtgggggtgc ggcggtttac cttcgacagc       360
+     ctggaagact tggaaaagct cgcggagttc gcgccgggat cgactgtctc gtgccggatt       420
+     ctcgtggaca gtcctggatc gcagacgccg ttcgggcgca agttcggctg ttccgcggag       480
+     atggcggtcg acctgctggc gcgggcggcg gagctggggc tggacccgga aggggtcgcg       540
+     tttcacgttg ggtcgcagca tggtgatccg cgggcctggg aagccgggat cgctgccgcg       600
+     ggcgaggtga ctcgtgcggt ggcggagcgc ggggtttcct tgcgaggctt gaatatcggc       660
+     ggcgggtttc cggttggcta tctgagcgag ccgccgccgt tgacggagta cgcggccgtt       720
+     gttcgcgacg cggtggggcg gcatttcgcg gtggtgcctg agctgtcgtt cgagccgggg       780
+     cgggcggtgg tggcgtcggc cggggtgatt cgcagcgagg tcgtgctggt gtcgcgcaag       840
+     tccgcggcgg acgagaagcg ttgggtgtac ctcgacatcg gccggtacgg cgggcttgcc       900
+     gagacggaga acgaggcgat cgcgtaccga ttggtcactg cgcacgatgg cggtccggac       960
+     gggcccgttg tggtcgctgg gccgacgtgc gacggggacg acgtgcttta tcagcgcacg      1020
+     ccgtatcggt tgccgttggc gttgcgggct ggggattacg tcgatattcc ggacgctggg      1080
+     gcgtacacgc aaagttattc ttcggtgtcg ttcaacgggt ttccgccgct gcggtcgtac      1140
+     ttcgtcggcg gggaggccgg tggagtgggg gaattcgctg ggcggcatgt gctcgcggag      1200
+     ttttccgggg tggccgcgga gctgctcgac gacccggtgt ttctgtgcga gagcttggaa      1260
+     cgcgtgctgg acaaggctgg cgcgacggtg tgcgagctga cgtacaagca gttcgaaccg      1320
+     cacggggtga cggcgatggc gttgctgtcg gagtcgcacg cttcgatcca cacctacccg      1380
+     gagcgcgggt cggcgttcgt ggatgtgttc acctgcgggc acaaggcgga tccggaactg      1440
+     gcggttcagt tgttgcggga cttgctcggc gcgagtgttt cacgggtgac cactatccac      1500
+     agaggacagg aagacagttg a                                                1521
+//

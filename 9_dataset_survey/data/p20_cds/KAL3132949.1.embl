@@ -1,0 +1,114 @@
+ID   KAL3132949; SV 1; linear; genomic DNA; WGS; PLN; 1956 BP.
+XX
+PA   JBJFZA010000081.1
+XX
+PR   Project:PRJNA932175;
+XX
+DT   25-NOV-2024 (Created)
+DT   25-NOV-2024 (Last updated)
+XX
+DE   Trebouxia sp. C0009 RCD-2024 Mitochondrial 2-oxoadipate and 2-oxoglutarate
+DE   transporter, variant 2
+XX
+KW   WGS.
+XX
+OS   Trebouxia sp. C0009 RCD-2024
+OC   Eukaryota; Viridiplantae; Chlorophyta; core chlorophytes; Trebouxiophyceae;
+OC   Trebouxiales; Trebouxiaceae; Trebouxia.
+XX
+RN   [1]
+RX   PUBMED; 39475309.
+RA   Poquita-Du R.C., Otte J., Calchera A., Schmitt I.;
+RT   "Genome-Wide Comparisons Reveal Extensive Divergence Within the Lichen
+RT   Photobiont Genus, Trebouxia";
+RL   Genome Biol Evol 16(10):(2024).
+XX
+RN   [2]
+RA   Du R.C.;
+RT   ;
+RL   Submitted (09-MAR-2023) to the INSDC.
+RL   Senckenberg Biodiversity and Climate Research Center, Senckenberg
+RL   Gesellschaft fur Naturforschung, Senckenberganlage 25, Frankfurt am Main
+RL   60325, Germany
+XX
+DR   MD5; 0cdcadeee63a12631db42a0be4fc5dd6.
+DR   BioSample; SAMN41077995.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..1956
+FT                   /organism="Trebouxia sp. C0009 RCD-2024"
+FT                   /isolate="C0009"
+FT                   /mol_type="genomic DNA"
+FT                   /lat_lon="37.88146 N 121.91402 W"
+FT                   /isolation_source="scrub vegetation"
+FT                   /collection_date="2016-07-08"
+FT                   /db_xref="taxon:3373144"
+FT                   /submitter_seqid="contig_86"
+FT                   /geo_loc_name=USA: California
+FT   CDS             complement(join(JBJFZA010000081.1:730280..730522,
+FT                   JBJFZA010000081.1:730932..731327,
+FT                   JBJFZA010000081.1:731646..732602,
+FT                   JBJFZA010000081.1:732927..733286))
+FT                   /codon_start=1
+FT                   /gene="ODC1_1"
+FT                   /locus_tag="ABBQ38_006861"
+FT                   /product="Mitochondrial 2-oxoadipate and 2-oxoglutarate
+FT                   transporter, variant 2"
+FT                   /EC_number="4.1.1.17"
+FT                   /note="EggNog:ENOG5037JRD; COG:E; GO_function: GO:0003824
+FT                   -catalytic activity [Evidence IEA]; GO_function: GO:0004014
+FT                   - adenosylmethionine decarboxylase activity [Evidence IEA];
+FT                   GO_process: GO:0006597 - spermine biosynthetic process
+FT                   [Evidence IEA]; GO_process: GO:0006596 - polyamine
+FT                   biosynthetic process [Evidence IEA]; GO_process: GO:0008295
+FT                   - spermidine biosynthetic process [Evidence IEA]"
+FT                   /protein_id="KAL3132949.1"
+FT                   /translation="MVSAEAWPSPVFEGSEKRLEVDFLPTAGSGLRSLNRNQLDELLQN
+FT                   AGCCIVSDRHNEQFDAYVLSESSLFVFPTKLVLKTCGTTKILHAIPILLELAASTGCSP
+FT                   KRCKYSRASFLFPHHQPEVYQCFDQEVAYLKQHFGNLGHGGDAHILGDASNGLQWHVYV
+FT                   ADADHTTPRQSQAGPATYSLEVCMTQLCPQKALQFFRNDTFVSAQHTSTASGIQRLVPN
+FT                   ALIDDYVFEPCGYSMNSMEGAGFSTIHITPEEGFSYASFEISNYATASLDINQLVSTVV
+FT                   DIFNPGKMTVALTVDTNLPCCMWGESVQTPAPYTCHASVSQTFSCGGRTAFYSMARDAN
+FT                   THMEADAVSPMTVLESPASLMSFSCVSDSDRFSGLDTASSSAAGDDVIRSSAPKESAPP
+FT                   PPAAEAVDSQMVSVMKVLECYNATMIDVGSDAAYDAFIKKTVQDQAVEDPLYLLDLGAV
+FT                   RRLYQAWVDLMPRVHPFYAVKCNTDPAMVSLLAALGAGFDCASEWEADTVLGLGVPAER
+FT                   IVFANACKRPCDIRFAAAKGLKLTTFDTESELHKLARWHPSTETLLRIRADDTQARCQL
+FT                   GNKYGALMEDCAGLLALAQRLNIQVVGVAFHVGSGATNPQAFADAIAAARLVGCLFLHS
+FT                   CCTSLAGCSCDTYSIA"
+XX
+SQ   Sequence 1956 BP; 415 A; 568 C; 529 G; 444 T; 0 other;
+     atggtgtcag cagaggcctg gccgtcaccg gtcttcgaag gttccgaaaa gcgcttggaa        60
+     gtagacttcc ttcctacggc tggcagcggt ctacgcagcc tcaaccgcaa tcaactagac       120
+     gaattacttc aaaatgcagg ctgctgcata gtgtcagaca ggcacaatga gcagtttgac       180
+     gcttatgtgt tgtcagaatc cagtctattc gttttcccaa caaaactggt gctgaagacc       240
+     tgcggcacca ccaagatact gcatgccatc ccaatactgc tggagttggc tgccagcact       300
+     ggctgtagtc ccaagcgttg caagtactcc agagcctctt tcctgtttcc gcaccatcag       360
+     ccagaggtgt accagtgctt tgaccaggag gttgcatacc tgaagcaaca tttcggcaac       420
+     ctcggtcatg gaggcgacgc tcacattctt ggtgatgcca gcaacggcct gcagtggcat       480
+     gtctatgttg cagacgctga ccacacaacg cctcgacagt ctcaggcagg acctgccaca       540
+     tattcccttg aggtctgcat gacgcaactc tgtccacaga aggcgcttca gttcttcagg       600
+     aacgacacct tcgtttctgc acagcacacg agcacagcca gcggcattca gcgcctggtc       660
+     cccaacgccc tgattgatga ctacgtcttt gagccatgtg ggtacagcat gaacagcatg       720
+     gagggtgcgg gtttcagcac catccacatc accccagagg agggcttcag ctatgctagc       780
+     ttcgaaatct ccaactatgc caccgccagc ctggacatca accagcttgt ctccactgtg       840
+     gtagacatct tcaaccccgg gaagatgacg gtggcactga cagtggacac caacctgcct       900
+     tgctgcatgt ggggtgagtc agttcagacc ccagctccct atacctgtca tgcttcagtc       960
+     agtcagacgt ttagctgcgg tggccgtaca gctttttaca gcatggccag ggatgccaac      1020
+     acccacatgg aggcggatgc cgtcagccca atgactgtac tcgagagtcc cgccagtctg      1080
+     atgtccttca gctgtgtctc agattcagac aggttcagcg gcctcgacac agcttcctcg      1140
+     tcagctgctg gtgatgatgt catcaggagt tctgcgccga aggagagtgc gcccccgcca      1200
+     cctgctgcag aagctgtgga cagtcagatg gtgtctgtga tgaaggtgct ggagtgctac      1260
+     aatgctacca tgattgatgt gggcagtgat gctgcctatg atgccttcat caagaagact      1320
+     gtgcaagatc aagctgtgga ggaccccttg tacctgctgg acctaggagc tgtcaggcgc      1380
+     ctctaccaag cctgggtcga cctgatgcct cgggtgcacc ccttctatgc tgtcaagtgc      1440
+     aacacagacc cagccatggt gtcccttctg gcagccctcg gagccggctt tgactgcgcc      1500
+     tcagaatggg aggctgacac agtcttgggc ttgggcgtgc cagccgagcg aattgtgttc      1560
+     gccaatgcat gcaagcggcc atgcgacatc agatttgcag cagccaaggg cttgaagctg      1620
+     accacctttg acactgagag cgagctgcac aagcttgccc ggtggcaccc ctccacagag      1680
+     acactgctgc gtatccgtgc tgatgacaca caggcacggt gtcagcttgg caacaagtat      1740
+     ggtgctttga tggaggactg tgctggcttg ctggcgcttg cccagcgcct taacatccaa      1800
+     gtggttggag tggccttcca cgtgggcagt ggtgccacca accctcaggc ctttgctgat      1860
+     gcaattgctg ctgctcgcct ggtaggctgc ctctttttgc acagctgctg cacttccttg      1920
+     gcaggctgtt cttgtgacac ctatagcatt gcctga                                1956
+//

@@ -1,0 +1,102 @@
+ID   ATY10007; SV 1; linear; genomic DNA; STD; PRO; 1497 BP.
+XX
+PA   CP024894.1
+XX
+PR   Project:PRJNA418302;
+XX
+DT   01-DEC-2017 (Rel. 135, Created)
+DT   01-DEC-2017 (Rel. 135, Last updated, Version 3)
+XX
+DE   Amycolatopsis sp. AA4 adenosylmethionine decarboxylase
+XX
+KW   .
+XX
+OS   Amycolatopsis sp. AA4
+OC   Bacteria; Actinobacteria; Pseudonocardiales; Pseudonocardiaceae;
+OC   Amycolatopsis; unclassified Amycolatopsis.
+XX
+RN   [1]
+RA   Pishchany G., Koren S., Kolter R.;
+RT   "Amycolatopsis sp. AA4";
+RL   Unpublished.
+XX
+RN   [2]
+RA   Pishchany G., Koren S., Kolter R.;
+RT   ;
+RL   Submitted (14-NOV-2017) to the INSDC.
+RL   Microbiology and Immunobiology, Harvard Medical School, 77 Avenue Louis
+RL   Pasteur, Boston, MA 02130, USA
+XX
+DR   MD5; 30384802b8f03b2bf9cfaea94d52b29c.
+DR   BioSample; SAMN08025209.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..1497
+FT                   /organism="Amycolatopsis sp. AA4"
+FT                   /strain="AA4"
+FT                   /mol_type="genomic DNA"
+FT                   /country="Nigeria"
+FT                   /isolation_source="Soil"
+FT                   /collection_date="2006"
+FT                   /db_xref="taxon:1896961"
+FT   CDS             CP024894.1:1159125..1160621
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /gene="speD"
+FT                   /locus_tag="CU254_05670"
+FT                   /product="adenosylmethionine decarboxylase"
+FT                   /note="Derived by automated computational analysis using
+FT                   gene prediction method: Protein Homology."
+FT                   /db_xref="GOA:A0A2K8LNJ3"
+FT                   /db_xref="InterPro:IPR000183"
+FT                   /db_xref="InterPro:IPR002433"
+FT                   /db_xref="InterPro:IPR003826"
+FT                   /db_xref="InterPro:IPR009006"
+FT                   /db_xref="InterPro:IPR016067"
+FT                   /db_xref="InterPro:IPR017716"
+FT                   /db_xref="InterPro:IPR022643"
+FT                   /db_xref="InterPro:IPR022644"
+FT                   /db_xref="InterPro:IPR022653"
+FT                   /db_xref="InterPro:IPR029066"
+FT                   /db_xref="UniProtKB/TrEMBL:A0A2K8LNJ3"
+FT                   /inference="COORDINATES:similar to AA
+FT                   sequence:RefSeq:WP_020662139.1"
+FT                   /protein_id="ATY10007.1"
+FT                   /translation="MERCQAFLEERQPPTPCLVVDLDVVRGSCARLRAVLPEARMYYAV
+FT                   KANPAPEVVRVVRQAGAGFDVAGREEIELCLAQGVRPESLSYGNPVKKARDIEFAHRVG
+FT                   VRRFTFDSREDLEKLAEFAPGATVSCRILVDSPGALTPFGRKFGCDPAMAAELLVRAAE
+FT                   LGLDPEGIAFHVGSQHVDPRAWEAGIAAAGEVTRAVAQRGVSLRGLNIGGGFPVGYLTE
+FT                   PPSLEEYAAVIRDAVGRHFAVAPELSFEPGRAVVASAGVIRSEVVLVSRKSAADEKRWV
+FT                   YLDIGRYGGLAETENEAIAYRLVTAHDGGPDGPVVVAGPTCDGDDVLYQRTPYRLPLAL
+FT                   RAGDYVDIPHAGAYTQSYSSVSFNGFPPLRAYFIGGESAGVGEFAGRHVLAEFSGVAAE
+FT                   LLDDPAFLCESLERALDKAGATVCELTYKQFEPHGVTAMALLSESHASIHTYPERGSAF
+FT                   VDVFTCGRKADPELAVHLLRDLLGASVSRVTTIHRGQEDS"
+XX
+SQ   Sequence 1497 BP; 202 A; 395 C; 603 G; 297 T; 0 other;
+     ttggagcgct gccaggcgtt cctggaggaa cggcagccgc cgacgccgtg tctcgtcgtg        60
+     gatcttgacg tcgtgcgcgg aagctgcgcg cggctccgcg cggtgctgcc ggaagcgcgg       120
+     atgtactacg cggtcaaggc caatccggcg cccgaggtcg tgcgggtggt tcggcaagcc       180
+     ggggcggggt ttgacgtcgc ggggcgcgag gagatcgaat tgtgtctcgc gcaaggggtg       240
+     cggccggagt cgctgtctta tggcaacccg gtgaagaaag cgcgggacat cgaattcgcg       300
+     catcgcgtcg gggtgcggcg gtttaccttt gacagccggg aggatctgga gaagctcgcc       360
+     gagttcgcgc cgggggcgac ggtttcatgc cggattctgg tggacagtcc tggggcgttg       420
+     acgccgttcg ggcggaagtt cgggtgtgat cccgcgatgg cggccgagtt gctggttcgg       480
+     gctgccgagc tggggctgga tccggaaggg atcgcgtttc acgtggggtc gcagcatgtc       540
+     gatccgcggg cttgggaggc cgggatcgct gctgcgggcg aggtgactcg tgcggtggcg       600
+     cagcgcgggg tttccttgcg tggcttgaac atcggcggcg gatttccggt tggctatctg       660
+     actgagccgc cgtcgttgga ggaatacgcg gcggtcattc gcgacgcggt ggggcggcat       720
+     ttcgcggtgg cccctgagct gtcgttcgag ccggggcggg ctgtggtggc ctcggcgggg       780
+     gtgattcgca gcgaggtcgt gctggtttcg cgcaagtccg cggcggacga gaagcgttgg       840
+     gtgtatctcg acatcggccg gtacggcggg cttgccgaga cggagaacga ggcgatcgcg       900
+     taccggttgg ttaccgcgca tgacgggggt ccggacgggc ccgttgtggt tgcggggccg       960
+     acctgcgacg gggacgacgt gctttatcag cgcacgccgt atcggttgcc gttggcgttg      1020
+     cgggcggggg attacgtcga tattccgcac gcaggggcgt acacgcaaag ttactcttcg      1080
+     gtgtcgttca acggttttcc gccgttgcgg gcgtacttca tcggcgggga atccgctggc      1140
+     gtaggggaat tcgccggacg gcatgtgctg gctgagtttt ccggggtggc cgcggagttg      1200
+     ctcgacgatc cggcgttctt gtgcgagagc ttggaacgcg cgctggacaa ggccggtgcg      1260
+     acggtgtgcg agctgacgta caagcagttc gagccgcacg gtgtgacggc gatggcgttg      1320
+     ctgtcggagt cgcacgcttc gattcacacg tatccggagc gcgggtcggc attcgtggac      1380
+     gtgttcacgt gcgggcgcaa ggcggatccg gagctggcgg ttcacttgct gcgggacttg      1440
+     ctcggcgcga gcgtttcgcg ggtcaccact atccaccgag gacaggaaga cagttga         1497
+//

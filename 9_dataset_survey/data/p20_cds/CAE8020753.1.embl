@@ -1,0 +1,114 @@
+ID   CAE8020753; SV 1; linear; transcribed RNA; TSA; PLN; 2067 BP.
+XX
+PA   HBPA01021765.1
+XX
+PR   Project:PRJEB37159;
+XX
+DT   18-FEB-2021 (Rel. 144, Created)
+DT   18-FEB-2021 (Rel. 144, Last updated, Version 1)
+XX
+DE   Pyramimonas parkeae hypothetical protein
+XX
+KW   TSA; Transcriptome Shotgun Assembly.
+XX
+OS   Pyramimonas parkeae
+OC   Eukaryota; Viridiplantae; Chlorophyta; Pyramimonadophyceae;
+OC   Pyramimonadales; Pyramimonadaceae; Pyramimonas;
+OC   Pyramimonas subgen. Trichocystis.
+XX
+RN   [1]
+RA   Scheremetjew M., Meng A., Cochrane G., Corre E., Pelletier E., Niang G.,
+RA   Holt S., Finn R., Kale V.;
+RT   ;
+RL   Submitted (14-JAN-2021) to the INSDC.
+RL   Roscoff Biological Station - Sorbonne University, CNRS / Sorbonne
+RL   Universite, STATION BIOLOGIQUE DE ROSCOFF, Place Georges Teissier, 29680
+RL   Roscoff, France
+XX
+DR   MD5; d125f279ac8014d09e99ca0ef23fa2d5.
+DR   BioSample; SAMN02739987.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..2067
+FT                   /organism="Pyramimonas parkeae"
+FT                   /strain="CCMP726"
+FT                   /mol_type="transcribed RNA"
+FT                   /db_xref="taxon:36894"
+FT   CDS             HBPA01021765.1:1277..3343
+FT                   /codon_start=1
+FT                   /transl_table=1
+FT                   /locus_tag="PPAR00386_LOCUS11075"
+FT                   /note="ID:cds.TRINITY-DN19534-c0-g1-i2.p1"
+FT                   /note="source:transdecoder"
+FT                   /inference="protein motif:KEGG:00330+4.1.1.50"
+FT                   /inference="protein motif:GO:0003824"
+FT                   /inference="protein motif:InterPro:IPR016067"
+FT                   /inference="protein motif:MetaCyc:PWY-6834"
+FT                   /inference="protein motif:GO:0008295"
+FT                   /inference="protein motif:InterPro:IPR000183"
+FT                   /inference="protein motif:InterPro:IPR009006"
+FT                   /inference="protein motif:GO:0004014"
+FT                   /inference="protein motif:InterPro:IPR029066"
+FT                   /inference="protein motif:InterPro:IPR022657"
+FT                   /inference="protein motif:InterPro:IPR002433"
+FT                   /inference="protein motif:InterPro:IPR022653"
+FT                   /inference="protein motif:GO:0006597"
+FT                   /inference="protein motif:Reactome:R-HSA-351202"
+FT                   /inference="protein motif:InterPro:IPR022643"
+FT                   /inference="protein motif:KEGG:00270+4.1.1.50"
+FT                   /inference="protein motif:InterPro:IPR022644"
+FT                   /inference="protein motif:GO:0006596"
+FT                   /inference="protein motif:InterPro:IPR001985"
+FT                   /inference="ab initio prediction:InterProScan:5.28-67.0"
+FT                   /protein_id="CAE8020753.1"
+FT                   /translation="MPLIVTLINLSPYSCVSGLVQLKRATLEVCMTELCTARASLFSQG
+FT                   TAISAKECTNSTGIRKLLPCTDIDDFVFDPCGYSMNGLEGEGFSTIHVTPEDGFSYASV
+FT                   ELSGYKQMDIPGLVAQIAKIFQPGQMVVALSLDRGAVVDRALDVCKYSSGEQLALPEDL
+FT                   DLQHDGGVSLQVMPDGGCVSFHRLRTPGSLLAAKDCIKAGAQATPHHVAVKAIQGTNGL
+FT                   DDDERKGSETPPPYSPEGFATTEDTTTDEEEDTVRADHAAKKLRTLPPAPVISEAVQAV
+FT                   ATRFKAQKLAVGRAALNTFLCETTATTEEDCFYVVDLGVVLKRYEVWRSTMPRVEPFYA
+FT                   VKCFGDPALLATLAAAGCNFDCASPAEMEAVLRMGVGPERIIYANACKPPKHIAFAKAH
+FT                   GVRVMTYDNEAELVKIAKYFPEAELVLRLRADDPAARCPLGDKYGAEEYEIEPLLTAAK
+FT                   AASLRVIGISFHVGSGAKDPNSFSLAVAVARQAFDTAERLGMQKMTLLDIGGGFSGGIG
+FT                   GALDGDEEDGVVMERVAASINQSLEKYFPVDDGVRVISEPGRYFAEASATLCASVFGRR
+FT                   IRPREQTGNEADTHAYWISDGLYGSFNCLLYDHATAIVRPLDPKEGHPRFPSTLFGPTC
+FT                   DGLDTVLRGAQLPILELGDWVVFDSMGAYTKSAGGDFNGFSVSGIKTYYTFCR"
+XX
+SQ   Sequence 2067 BP; 460 A; 491 C; 606 G; 510 T; 0 other;
+     atgcctctga ttgtgacttt gataaatctc agtccttatt cttgtgtgtc cggacttgtg        60
+     cagcttaagc gtgcaacgct tgaggtttgc atgactgagc tgtgcacagc gcgtgccagt       120
+     cttttttccc aaggaactgc catctctgcc aaggaatgca ccaactctac tggcatccgt       180
+     aagcttttac catgtacaga tattgatgac ttcgtattcg acccttgtgg gtacagcatg       240
+     aatgggttgg agggagaggg tttctcgacc atacatgtga cccctgagga tggctttagc       300
+     tatgcctcgg tggagctaag cggctacaaa cagatggaca ttccagggct tgtggcacag       360
+     attgccaaaa tattccaacc tggccagatg gtggtggcac tgtccttgga tcgtggggca       420
+     gttgttgatc gtgctcttga tgtctgcaaa tattccagtg gcgagcagct agcactacct       480
+     gaggatctgg acctccaaca tgacggagga gtcagtctgc aggtgatgcc tgatggaggg       540
+     tgtgtgtcat tccaccgatt gcgtacccct ggcagtcttc tggctgccaa ggattgcatc       600
+     aaggcggggg cgcaggccac gcctcatcat gtggcagtta aggcgattca gggaaccaat       660
+     ggactggatg atgatgagcg taaaggcagt gagacgcctc ctccttactc tccagagggc       720
+     tttgcaacta cggaggacac aacaacagat gaggaggagg acactgtcag agcagaccat       780
+     gctgcaaaga agctgcgcac ccttcctcct gccccggtca tatccgaggc agtgcaagct       840
+     gtggcaacac gattcaaggc ccaaaaactg gctgtgggac gcgccgctct caacacattt       900
+     ctgtgcgaaa caacagctac aaccgaggaa gactgcttct atgtggtcga tttgggtgtt       960
+     gttctaaaac gctacgaggt gtggcggagc accatgcctc gtgtggagcc cttttatgct      1020
+     gtgaagtgtt tcggagaccc tgcgctgctc gcaactctgg cggcagctgg ctgcaacttt      1080
+     gattgtgcct ctcctgcgga aatggaggct gtgctacgca tgggtgtggg gccagagcgc      1140
+     atcatctatg ccaacgcctg caagcctccg aagcacattg cgtttgccaa agcgcatggt      1200
+     gttcgagtta tgacatacga caatgaagca gagctggtga agatagccaa gtattttcct      1260
+     gaggcagagc tagtgctgag actgcgagca gatgacccgg cagcgcgatg ccctcttggg      1320
+     gacaagtatg gggcagagga atatgagatt gaaccactcc tgactgctgc caaggctgcc      1380
+     agcttaaggg tgattggtat cagtttccat gtggggtcag gtgccaagga tcccaattcg      1440
+     ttcagtcttg ctgtagctgt tgctcgtcaa gcttttgata ctgcggagcg cctggggatg      1500
+     caaaagatga ccctcctgga tattggtggg ggcttctctg gaggaatagg aggtgctctt      1560
+     gatggtgacg aagaggatgg tgttgtgatg gagcgagttg ctgcatccat caatcaatct      1620
+     ttggaaaagt atttccctgt ggacgatggt gtgcgtgtaa tctcagagcc cgggcgctac      1680
+     tttgcggaag cctcagcaac gctgtgtgcc agtgtattcg gtcggcgaat ccgacctcga      1740
+     gaacagacgg ggaatgaggc agacacgcat gcttattgga tttcggacgg tttgtatggc      1800
+     tctttcaact gcttgctgta tgaccacgcc acggcgattg tgcgccctct tgaccctaaa      1860
+     gaaggacatc caaggtttcc ttcaacactt tttgggccga catgtgatgg actggataca      1920
+     gtgctgcgag gtgcacagtt accaattttg gaactgggcg actgggtggt attcgacagc      1980
+     atgggtgcct acaccaaaag tgcgggcgga gatttcaatg gcttctctgt ctccggtatc      2040
+     aagacgtact acactttttg cagatga                                          2067
+//

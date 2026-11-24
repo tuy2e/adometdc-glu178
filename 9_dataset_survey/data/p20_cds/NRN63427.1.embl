@@ -1,0 +1,149 @@
+ID   NRN63427; SV 1; linear; genomic DNA; WGS; PRO; 1542 BP.
+XX
+PA   JAAATY010000001.1
+XX
+PR   Project:PRJNA578297;
+XX
+DE   Kibdelosporangium persicum S-adenosylmethionine decarboxylase proenzyme
+XX
+KW   WGS.
+XX
+OS   Kibdelosporangium persicum
+OC   Bacteria; Actinobacteria; Pseudonocardiales; Pseudonocardiaceae;
+OC   Kibdelosporangium.
+XX
+RN   [1]
+RA   Safaei N., Zaburannyi N., Mueller R., Wink J.;
+RT   "Kibdelosporangium persica a novel Actinomycetes from a hot desert in
+RT   Iran";
+RL   Unpublished.
+XX
+RN   [2]
+RA   Safaei N., Zaburannyi N., Mueller R., Wink J.;
+RT   ;
+RL   Submitted (14-JAN-2020) to the INSDC.
+RL   MINS, Helmholtz Institute for Pharmaceutical Research Saarland, Campus
+RL   E8.1, Saarbruecken 66123, Germany
+XX
+DR   MD5; fc0c6d7e636dd66f22649e252f980fc3.
+DR   BioSample; SAMN13056085.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..1542
+FT                   /organism="Kibdelosporangium persicum"
+FT                   /strain="4NS15"
+FT                   /mol_type="genomic DNA"
+FT                   /country="Iran:Kerman"
+FT                   /isolation_source="soil"
+FT                   /collected_by="Nasim Safaei"
+FT                   /collection_date="20-Dec-2017"
+FT                   /db_xref="taxon:2698649"
+FT                   /type_material="type strain of Kibdelosporangium persicum"
+FT                   /submitter_seqid="sequence_01"
+FT   CDS             JAAATY010000001.1:703805..705346
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /locus_tag="GC106_6280"
+FT                   /product="S-adenosylmethionine decarboxylase proenzyme"
+FT                   /db_xref="GO:1901135"
+FT                   /db_xref="GO:1901137"
+FT                   /db_xref="GO:1901360"
+FT                   /db_xref="GO:1901362"
+FT                   /db_xref="GO:1901564"
+FT                   /db_xref="GO:1901566"
+FT                   /db_xref="GO:1901576"
+FT                   /db_xref="GO:1901657"
+FT                   /db_xref="GO:1901659"
+FT                   /db_xref="GO:0003824"
+FT                   /db_xref="GO:0004014"
+FT                   /db_xref="GO:0004586"
+FT                   /db_xref="GO:0006139"
+FT                   /db_xref="GO:0006557"
+FT                   /db_xref="GO:0006576"
+FT                   /db_xref="GO:0006595"
+FT                   /db_xref="GO:0006596"
+FT                   /db_xref="GO:0006725"
+FT                   /db_xref="GO:0006790"
+FT                   /db_xref="GO:0006807"
+FT                   /db_xref="GO:0008152"
+FT                   /db_xref="GO:0008216"
+FT                   /db_xref="GO:0008295"
+FT                   /db_xref="GO:0008792"
+FT                   /db_xref="GO:0009058"
+FT                   /db_xref="GO:0009116"
+FT                   /db_xref="GO:0009119"
+FT                   /db_xref="GO:0009163"
+FT                   /db_xref="GO:0009308"
+FT                   /db_xref="GO:0009309"
+FT                   /db_xref="GO:0009987"
+FT                   /db_xref="GO:0016829"
+FT                   /db_xref="GO:0016830"
+FT                   /db_xref="GO:0016831"
+FT                   /db_xref="GO:0018130"
+FT                   /db_xref="GO:0019438"
+FT                   /db_xref="GO:0034404"
+FT                   /db_xref="GO:0034641"
+FT                   /db_xref="GO:0034654"
+FT                   /db_xref="GO:0042278"
+FT                   /db_xref="GO:0042401"
+FT                   /db_xref="GO:0042451"
+FT                   /db_xref="GO:0042455"
+FT                   /db_xref="GO:0044106"
+FT                   /db_xref="GO:0044237"
+FT                   /db_xref="GO:0044238"
+FT                   /db_xref="GO:0044249"
+FT                   /db_xref="GO:0044271"
+FT                   /db_xref="GO:0044272"
+FT                   /db_xref="GO:0044281"
+FT                   /db_xref="GO:0044283"
+FT                   /db_xref="GO:0046128"
+FT                   /db_xref="GO:0046129"
+FT                   /db_xref="GO:0046483"
+FT                   /db_xref="GO:0046499"
+FT                   /db_xref="GO:0055086"
+FT                   /db_xref="GO:0071704"
+FT                   /db_xref="GO:0072521"
+FT                   /db_xref="GO:0072522"
+FT                   /db_xref="GO:0097164"
+FT                   /inference="COORDINATES: ab initio
+FT                   prediction:prodigal:3.0.0-rc.1"
+FT                   /protein_id="NRN63427.1"
+FT                   /translation="MIDALPLAPERIRAFLDDRRPPTPCLVIDLDTVRESHTRLREALP
+FT                   EARMYYAVKANPAPEIIRLLAAEGCGFDVAGREEIDLVLGQGARPELISYGNPIKKARD
+FT                   IAYAHRVGVRRFTFDSETDLETIATFAPGSGVSCRILVDGTGSQTPFGHKFGCAPAMAA
+FT                   RLLVRAAALGLDPEGVAFHVGSQHLDPAAWEPWIAAAGDVTRSVAAQGVALRGLNIGGG
+FT                   FPGRYLVDPPPLSAYADTIRAAIARHFDHPVDLAIEPGRVLVAEAGVIRSEVVLVSRKS
+FT                   DTDDKRWVYLDIGRYGGMAETENEAIAYRLQTAHDDEPCGPVVIAGPSCDGDDVLYQRT
+FT                   RYDLPLSLQAGDYVDILSTGAYTQSYSSVAFNGFPPLRTYFVGGHPASVPSEAGEVGEF
+FT                   AGRHVLAEFEGVSAELLDDAPFLCESLQRALEKAGATVCDMTFKQFEPQGVTVLALLSE
+FT                   SHASIHSYPERGAVFIDVFTCGRVADPELAVNLLRDMLNAGVSRISVIHRGQEDR"
+XX
+SQ   Sequence 1542 BP; 235 A; 513 C; 545 G; 249 T; 0 other;
+     gtgatcgacg ccctcccgct ggcgccggag cgcatcagag cgttcctgga cgaccgcagg        60
+     ccacccaccc cgtgtctcgt gatcgacctc gacacggtgc gggaaagcca taccaggctg       120
+     cgggaagcac tcccggaagc gaggatgtac tacgccgtca aggccaaccc ggcgccggag       180
+     atcatcaggc tgctggccgc cgaggggtgc ggcttcgacg tggcggggcg cgaggaaatc       240
+     gacctggtcc tcggccaggg cgcccggccg gagctgatct cgtacggcaa tccgatcaag       300
+     aaggcccggg acatcgcgta cgcccaccgg gtgggtgtcc ggcggttcac cttcgacagc       360
+     gagaccgacc tggagacgat cgccaccttc gcgccgggct caggcgtgtc ctgccggatc       420
+     ctggtggacg gcaccggatc gcagacgccg ttcgggcaca agttcgggtg cgcgcccgcg       480
+     atggccgccc ggctgctcgt ccgggccgcg gcactcggtc ttgaccccga aggcgtagcg       540
+     ttccacgtcg gctcccagca cctcgatcca gcggcgtggg agccgtggat cgccgcggcg       600
+     ggcgacgtca cccgatcggt cgccgcgcag ggggtcgccc tgcggggctt gaacatcggc       660
+     ggcggcttcc ccggccggta cctggtcgac ccgccgccgc tgagcgcgta cgccgacacg       720
+     atccgtgccg cgatcgcacg gcatttcgac cacccggtcg acctggccat cgagcccggc       780
+     cgggtgctcg tcgccgaggc gggcgtgatc cgcagcgagg tcgtgctggt gtcgcgcaaa       840
+     tccgacaccg acgacaaacg ctgggtctac ctggacatcg ggcgctacgg cgggatggcc       900
+     gaaactgaga acgaggccat cgcgtaccgg ttacagaccg cgcacgacga cgagccgtgc       960
+     ggtcccgtag tgatcgccgg gccttcgtgc gacggtgatg acgtgctgta ccaacgcact      1020
+     cgttacgacc tgccgctctc gttacaggca ggcgactacg tcgacattct gagtacgggt      1080
+     gcgtacacgc agagctactc ttcggtggct ttcaacgggt tcccgccgct gcggacgtat      1140
+     tttgtcggcg gccatccggc ttcggtgccg tccgaggccg gtgaggtcgg cgagttcgcc      1200
+     ggccggcacg tgctggccga gttcgagggc gtgtcggcgg agctgctgga cgacgccccg      1260
+     ttcctgtgcg agagcctgca acgcgcgctc gagaaggccg gcgcgaccgt gtgcgacatg      1320
+     acgttcaagc agttcgagcc gcagggtgtg accgtgctgg cgctgctgtc ggagtcgcac      1380
+     gcgtccatcc actcgtaccc ggaacgtggt gcggtgttca tcgacgtgtt cacctgcggc      1440
+     cgggtcgctg accctgagtt ggcggtgaac ttgttgcggg acatgctcaa cgcgggcgtg      1500
+     tcccggatca gtgttatcca cagaggacag gaggaccggt ga                         1542
+//

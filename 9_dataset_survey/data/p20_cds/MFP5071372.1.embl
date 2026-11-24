@@ -1,0 +1,115 @@
+ID   MFP5071372; SV 1; linear; genomic DNA; WGS; BCT; 2577 BP.
+XX
+PA   JBKGXT010000015.1
+XX
+PR   Project:PRJNA1205359;
+XX
+DT   07-JAN-2025 (Created)
+DT   07-JAN-2025 (Last updated)
+XX
+DE   Pseudonocardia nantongensis adenosylmethionine decarboxylase
+XX
+KW   WGS.
+XX
+OS   Pseudonocardia nantongensis
+OC   Bacteria; Bacillati; Actinomycetota; Actinomycetes; Pseudonocardiales;
+OC   Pseudonocardiaceae; Pseudonocardia.
+XX
+RN   [1]
+RA   Khanoonkon C., Duangmal K.;
+RT   ;
+RL   Submitted (01-JAN-2025) to the INSDC.
+RL   Microbiology, Kasetsart University, 50 Ngam Wong Wan Rd, Bangkok 10900,
+RL   Thailand
+XX
+DR   MD5; 764ecaefba77305e6868ed46b20d80db.
+DR   BioSample; SAMN46047612.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..2577
+FT                   /organism="Pseudonocardia nantongensis"
+FT                   /host="Tamarix chinensis"
+FT                   /strain="KLBMP 1282"
+FT                   /mol_type="genomic DNA"
+FT                   /isolation_source="surface-sterilized leaves"
+FT                   /collection_date="2012"
+FT                   /db_xref="taxon:1181885"
+FT                   /type_material="type strain of Pseudonocardia nantongensis"
+FT                   /submitter_seqid="NODE_15_length_160808_cov_72.311810"
+FT                   /geo_loc_name=China
+FT   CDS             complement(JBKGXT010000015.1:47793..50369)
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /gene="speD"
+FT                   /locus_tag="ACLFMI_17140"
+FT                   /product="adenosylmethionine decarboxylase"
+FT                   /EC_number="4.1.1.50"
+FT                   /note="Derived by automated computational analysis using
+FT                   gene prediction method: Protein Homology. GO_function:
+FT                   GO:0004014 - adenosylmethionine decarboxylase activity
+FT                   [Evidence IEA]; GO_process: GO:0008295 - spermidine
+FT                   biosynthetic process [Evidence IEA]"
+FT                   /inference="COORDINATES: protein motif:HMM:NF014803.5"
+FT                   /protein_id="MFP5071372.1"
+FT                   /translation="MHLSPGLEKILAVPRRTPFLALDPQVVRERYRALSAAFAGARLLY
+FT                   AVKACPEPAVLAALVAEGAGFDVASHAEIELCLAAGADPDLLQHGNPVRGPGAATAAAA
+FT                   LGVRRFVTDSAEDVDALAAEAPGARVQVRLSVDDTGSATPFHGKFGTLPGEAVALLGRV
+FT                   ADRGLVPAGLTFHAGSQQTRPQTYAAAVRLALDVAGRAGLRRPELDLGGGWPVAYRAPV
+FT                   VGPEPFAAAVDAAVDAGVAAGRVDGVDLLLEPGRALVAEAGVLRATVLRVSRRPGIDHR
+FT                   RWVYLDVGRYQGLAETEGEAIGYPVHVPGRAGTTPAGPCVLAGPTCDGDDVIYRRTPVP
+FT                   LPLDLTAGEPVDLLRTGAYTSSYASVGFNGFGPLDVVVAEGVAEGGAGGGAGGEWPGDM
+FT                   NRATGTRAPVTRRLPYPDVSPSTSLNAPAPTVAGELHPSVELTGSSLPALPSTASPVGR
+FT                   HVLAELGGIDPRVLDDSERLRTDLDAALTDAGARVRQIVTERFEPQGVTVVAVLAESHA
+FT                   SIHTWPEHGGMHVDVFTCGESADPVAAVRNLATRVGAGDTALQVVDRGGAPRTVTEPIS
+FT                   EGLTRRWELGRVRHVAHTGFQKVVIADTEHGVTLFCDDERQSTEHTQRTYHEALVWPGA
+FT                   LLARNLERVLVVGSSEGVACEMAVAAGATHVDHVDIDTEAVRICAEYLPYGYTPESLAA
+FT                   AERGDGPVQLTYGDGREFVLDATEHWDLILVDLPDERPDEPDAQINQLYSEDFVRACAD
+FT                   RLTEGGVLVFQAGSPAVWRDATLKSAWQRFASVFGATGGRGVYIGCEEHEWAFLAGVRE
+FT                   PLDDPGEAAAARLASMPSRPQEWDGTALRHRLVAPLSLRRLTSPTP"
+XX
+SQ   Sequence 2577 BP; 297 A; 978 C; 977 G; 325 T; 0 other;
+     gtgcatctga gccccggact ggagaagatc ctcgccgtcc cccgccggac gccgttcctg        60
+     gcactcgatc cgcaggtggt gcgcgagcgc taccgcgcgc tgagtgcggc gttcgcgggg       120
+     gcgcggctgc tgtacgcggt caaggcctgc ccggaaccgg cggtgctggc cgcgctggtc       180
+     gccgagggcg cagggttcga cgtcgcctcg cacgccgaga tcgagctgtg cctggccgcc       240
+     ggcgctgacc cggacctgct ccagcacggc aacccggtcc gtggtcccgg cgccgcgacg       300
+     gccgcggcgg cgctgggggt gcgccggttc gtcaccgaca gcgccgagga cgtcgacgcg       360
+     ctggccgccg aggctcccgg cgcccgggtc caggtccggc tctcggtcga cgacaccggt       420
+     tcggcgacgc cgttccacgg caagttcggc acgctgcccg gtgaggcggt cgcgttgctg       480
+     ggccgggtcg cggaccgcgg gctggtcccg gccggactga ccttccacgc cggctcccag       540
+     cagacccgcc cgcagaccta cgccgcggcg gtgcggctcg cgctggacgt cgccggccgg       600
+     gccggtctgc gccgtcccga gctggacctc ggcggcggct ggccggtggc ctaccgggcc       660
+     ccggtcgtcg ggccggagcc gttcgccgcc gccgtcgacg ccgcggtcga cgccggtgtc       720
+     gccgccggcc gggtggacgg cgtggacctg ctcctggaac cggggcgggc gctggtcgcc       780
+     gaggcggggg tgctgcgcgc gaccgtgctg cgggtgtccc gcagacccgg gatcgaccac       840
+     cggcgctggg tctacctcga tgtcggccgc taccaggggc tcgccgagac cgagggggaa       900
+     gcgatcgggt accccgtgca cgtccccggc cgggccggga cgaccccggc cggcccctgc       960
+     gtgctggccg gccccacctg cgacggcgac gacgtcatct accgccgcac cccggtcccg      1020
+     ctgccgctgg acctgaccgc gggcgagccg gtggacctgc tgcgcaccgg cgcctacacc      1080
+     tcgagctacg cctcggtcgg gttcaacggc ttcggcccgc tcgacgtcgt ggtcgcggaa      1140
+     ggagtcgcgg aaggaggcgc cggaggaggc gccggggggg agtggccggg tgacatgaac      1200
+     cgggccacgg ggacgcgcgc cccggtcacg agacggttac cgtatccgga cgtgtcaccc      1260
+     tccacctcgc tgaacgcgcc cgcgccgacc gtcgccgggg agctgcatcc gagcgtcgag      1320
+     ctgaccggct cgtcgctgcc ggcgctgccc agtacggcct cgccggtcgg ccggcacgtc      1380
+     ctggcggagc tcggcgggat cgacccgcgg gtgctcgacg actccgagcg gctgcgcacc      1440
+     gacctggacg cggccctgac cgatgccggc gcccgggtcc gccagatcgt caccgagcgg      1500
+     ttcgagccgc agggcgtgac ggtcgtcgcc gtcctcgccg agtcgcacgc gtcgatccac      1560
+     acctggccgg agcacggcgg gatgcacgtg gacgtgttca cctgcgggga gagcgccgac      1620
+     ccggtcgccg ccgtgcggaa cctggccacc cgggtcgggg ccggggacac cgcgctgcag      1680
+     gtcgtggacc ggggcggcgc cccgcgcacg gtgaccgagc cgatctccga ggggctgacc      1740
+     cggcgctggg agctgggccg ggtccggcac gtcgcgcaca ccgggttcca gaaggtcgtc      1800
+     atcgccgaca ccgagcacgg cgtcacgctg ttctgcgacg acgagcgcca gtccaccgag      1860
+     cacacccagc ggacctacca cgaggccctc gtgtggccgg gtgcgctgct ggcccgcaac      1920
+     ctcgagcggg tcctggtcgt cgggtccagc gagggcgtcg cctgcgagat ggcggtcgcg      1980
+     gccggggcca cccacgtcga ccacgtcgac atcgacaccg aggccgtccg gatctgcgcc      2040
+     gagtacctgc cctacggcta cacccccgag tcgctcgccg ccgccgagcg cggcgacggc      2100
+     ccggtgcagc tcacctacgg cgacggccgg gagttcgtcc tggacgccac cgagcactgg      2160
+     gacctgatcc tcgtcgacct gcccgacgag cgcccggacg agccggacgc ccagatcaac      2220
+     cagctctact ccgaggactt cgtccgggcc tgcgcggacc ggctcaccga gggcggggtg      2280
+     ctggtgttcc aggccggcag cccggcggtg tggcgcgacg ccaccctgaa gtcggcctgg      2340
+     cagcggttcg cctcggtgtt cggcgccacc ggcggtcgcg gcgtctacat cggctgcgag      2400
+     gagcacgagt gggcgttcct ggccggggtc cgcgagccgc tcgacgaccc gggcgaggcc      2460
+     gccgcggccc ggctggcgtc gatgccgtcc cggccgcagg agtgggacgg gaccgcgctg      2520
+     cggcaccgcc tggtcgcacc gttgtcgttg cgccgcctca cctccccgac cccctga         2577
+//

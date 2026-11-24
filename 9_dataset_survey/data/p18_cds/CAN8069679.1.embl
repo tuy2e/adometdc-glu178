@@ -1,0 +1,97 @@
+ID   CAN8069679; SV 1; linear; genomic DNA; WGS; PLN; 2166 BP.
+XX
+PA   CBFFQO010021931.1
+XX
+PR   Project:PRJEB94023;
+XX
+DT   31-AUG-2025 (Created)
+DT   21-OCT-2025 (Last updated)
+XX
+DE   Agarophyton chilense hypothetical protein
+XX
+KW   WGS.
+XX
+OS   Agarophyton chilense
+OC   Eukaryota; Rhodophyta; Florideophyceae; Rhodymeniophycidae; Gracilariales;
+OC   Gracilariaceae; Agarophyton.
+XX
+RN   [1]
+RA   Lipinska P A., Haas F., Borg M., Coelho S.;
+RT   ;
+RL   Submitted (18-JUL-2025) to the INSDC.
+RL   Max Planck Institute for Biology Tuebingen, Department of Algal Development
+RL   and Evolution, Max-Planck-Ring 5, 72076 Tuebingen, Germany
+XX
+DR   MD5; b1d419385698831f7f9a610cb7a134c2.
+DR   BioSample; SAMEA118776837.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..2166
+FT                   /organism="Agarophyton chilense"
+FT                   /mol_type="genomic DNA"
+FT                   /collection_date="2017-11-01"
+FT                   /note="contig: NODE_2973_length_3084_cov_6.449378"
+FT                   /db_xref="taxon:2510777"
+FT                   /submitter_seqid="NODE_2973_length_3084_cov_6.449378"
+FT                   /geo_loc_name=Chile
+FT   CDS             complement(CBFFQO010021931.1:214..2379)
+FT                   /codon_start=1
+FT                   /transl_table=1
+FT                   /locus_tag="GCHILF_LOCUS3958"
+FT                   /note="ID:Gchil_F20_g6467.t1.CDS1"
+FT                   /note="source:AUGUSTUS"
+FT                   /protein_id="CAN8069679.1"
+FT                   /translation="MTSSTFVQPPFEGPEKKLSAIFRPHPNHPSASLRSIPRQTIETIL
+FT                   RAASCSVLSVRHNAHFDAYLLSESSLFVSDHTFTIKTCGTTALLNALSPMFHTAALLHL
+FT                   RPVSLSFSRVRYAFPNAQPYPHDCFENEVTFIDHALQACAVKFEKFVQTTSNWFLYHAR
+FT                   FQHANRHEQNAHRNTLDIYMFDLDDQYLSNFQYEKRQQLIGNDEPDGVTKQSGISRFVH
+FT                   DYDVVDAFNFEPCGYSMNALNSLTYCTVHVTPEPACSYVSYEISGDLPNISLLVAKIVR
+FT                   LFKPRSFTLSLLGGGLEEHDQCNKVANRIQADFACTWPLCRTKVGDFYASVCSFRARTH
+FT                   EVQLSATEVGEVDSVAFQVGKQFGAVAVDEGVSGVELARQVLSKNGGVGGGGATLMVDL
+FT                   CRVEREMREVRSAVGRDVELRYLVKVNGARGLCALINEAGAMFEASDEMDVIALESVGV
+FT                   CREKIALVSTVVCEELIGRVGAVAVYSGGTVVEMAARHGVSVEIRVVDGIVSEIEGVVE
+FT                   DVVAWGARVSGVGFDGRVEGAVAKSVLERVCNAVGGGEGMRVVLGEVGDGAGCLREEEV
+FT                   AKMVAKMDGEMDGKRVVATVGTRVVREAVSARLEIVGRKRREKGPTLYYVSDGAYGMLN
+FT                   EVMMGGKVRVCGAVRADDKDTGTARHAVVFGPTCDSLDVVWSGAVCEMHVGDHVVVEAL
+FT                   GAVGGATRFNGLGARTLELYFVRHSAL"
+XX
+SQ   Sequence 2166 BP; 450 A; 457 C; 730 G; 529 T; 0 other;
+     atgacgtctt ctacttttgt tcaacctccg tttgagggcc ctgagaagaa gttatccgca        60
+     atttttcgtc cgcatccaaa tcatccgtct gcctccctgc gatccatacc ccgtcaaaca       120
+     atcgaaacta ttttgcgtgc tgcgtcctgt tccgtgctct ctgtgcgtca taatgcccat       180
+     tttgatgcct acttgttgtc tgaatcttcc ttgtttgtta gtgatcatac gtttaccatc       240
+     aaaacgtgtg gcactaccgc tttgctcaat gcgttatccc cgatgtttca cacggctgct       300
+     ttgttacatc tgcgcccagt gtcactgtct ttttctcgag tgcgttacgc ttttccaaac       360
+     gcgcagccat atccacacga ttgctttgaa aatgaagtca ctttcatcga ccatgcgtta       420
+     caagcatgcg ctgtgaaatt tgaaaagttt gtgcaaacaa catccaattg gtttttgtac       480
+     catgcacgct ttcagcacgc taaccgtcat gaacaaaacg cccatcgaaa cacgttggat       540
+     atttacatgt tcgatttgga tgatcaatac ttgtcaaact ttcaatatga aaaacgtcaa       600
+     caacttattg gcaatgatga accggatggc gttaccaaac agagcggtat ttctcgcttt       660
+     gtacacgact atgacgtagt ggacgccttc aactttgaac cgtgtggata ctcgatgaat       720
+     gctttgaatt ctctcacgta ctgcacagtc catgtcacgc cggagccggc ttgttcttat       780
+     gtgtcgtatg agatcagtgg cgatctgccc aatatatcac tgctggtcgc taagatagtt       840
+     cgcttattca agcccaggtc gttcacactt tcattgctgg gaggtggctt ggaagaacat       900
+     gatcaatgca acaaagtagc aaaccgaatt caggctgatt tcgcgtgcac ctggccgctg       960
+     tgcaggacaa aagttggcga tttttatgct tctgtgtgct cgttccgagc acgtacacac      1020
+     gaggtgcagt tgagcgccac tgaggtgggc gaggtggaca gcgttgcgtt tcaagtgggg      1080
+     aagcagtttg gggccgtggc ggttgatgaa ggcgtgtcgg gtgtagagct ggccaggcag      1140
+     gtgctgtcga agaacggagg cgttgggggc ggtggggcca cgctgatggt cgatctgtgc      1200
+     cgcgtggaac gtgagatgag agaggttcgc agtgcagttg ggcgcgacgt ggagctgagg      1260
+     tacctagtga aggtgaacgg ggcgcgcgga ttgtgtgcgt tgataaatga ggccggggcg      1320
+     atgtttgagg caagcgatga gatggacgtg attgctttag aaagtgtggg ggtgtgtcgc      1380
+     gaaaaaattg cgctagtttc aaccgtggtt tgcgaggagc tgattggtag ggtgggcgct      1440
+     gttgcggttt acagcggcgg gacggtggtt gagatggcgg ctcgacacgg tgtgagcgtt      1500
+     gagattcgcg tggtggacgg aatagtgtcg gagattgaag gtgttgtgga ggatgtggtt      1560
+     gcgtgggggg cgcgagttag cggggtgggc tttgacgggc gggttgaggg ggcggtggcg      1620
+     aagagcgtgt tggagagagt ttgcaacgcg gttggcgggg gggagggaat gagggtggtg      1680
+     ctgggggagg tgggagatgg ggcggggtgc ttgagggaag aggaggtagc gaagatggtg      1740
+     gccaaaatgg acggggagat ggacggaaag cgggtagttg caacggtggg aacgcgcgta      1800
+     gtgcgcgagg cagtgagcgc gagacttgag attgtgggac ggaaacgacg ggagaaaggc      1860
+     cccacgctgt actacgtgag cgacggcgcg tacggcatgc tgaacgaggt gatgatgggc      1920
+     ggcaaggtac gcgtgtgcgg ggcggtgcgc gccgacgaca aagacacagg cacggcgcga      1980
+     cacgcagtgg tgtttggacc gacgtgcgac agtttggacg tcgtgtggag cggcgccgtg      2040
+     tgcgagatgc acgtgggcga tcacgtggtg gtggaggcgc ttggcgccgt gggcggcgcc      2100
+     acacgcttca acggccttgg cgcgcgcact ttggagttgt attttgtgcg ccatagcgcg      2160
+     ctgtag                                                                 2166
+//

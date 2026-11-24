@@ -1,0 +1,2 @@
+run_accession	scientific_name	tax_id	instrument_platform	instrument_model	library_source	library_strategy	library_selection	read_count	base_count	study_accession	experiment_title
+DRR337154	Galdieria partita	83374	PACBIO_SMRT	Sequel	GENOMIC	WGS	RANDOM	616414	11891557269	PRJDB12742	Sequel sequencing: Sequel sequencing of SAMD00436389

@@ -1,0 +1,188 @@
+run_accession	scientific_name	tax_id	instrument_platform	instrument_model	library_source	library_strategy	library_selection	read_count	base_count	study_accession	experiment_title
+SRR10663267	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	OTHER	other	572177	8997289703	PRJNA581960	Sequel sequencing: Ceratopteris richardii M.Whitten #5841 Standard Draft
+SRR10663299	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	OTHER	other	604923	9533477261	PRJNA581960	Sequel sequencing: Ceratopteris richardii M.Whitten #5841 Standard Draft
+SRR10663305	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	OTHER	other	371147	2370985575	PRJNA581960	Sequel sequencing: Ceratopteris richardii M.Whitten #5841 Standard Draft
+SRR10663306	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	OTHER	other	410127	2726604542	PRJNA581960	Sequel sequencing: Ceratopteris richardii M.Whitten #5841 Standard Draft
+SRR10663308	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	OTHER	other	452885	3092802803	PRJNA581960	Sequel sequencing: Ceratopteris richardii M.Whitten #5841 Standard Draft
+SRR10663315	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	OTHER	other	354812	5198026169	PRJNA581960	Sequel sequencing: Ceratopteris richardii M.Whitten #5841 Standard Draft
+SRR10663322	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	OTHER	other	406110	6141840362	PRJNA581960	Sequel sequencing: Ceratopteris richardii M.Whitten #5841 Standard Draft
+SRR10663329	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	OTHER	other	335273	4910216998	PRJNA581960	Sequel sequencing: Ceratopteris richardii M.Whitten #5841 Standard Draft
+SRR10663332	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	OTHER	other	305312	4555493374	PRJNA581960	Sequel sequencing: Ceratopteris richardii M.Whitten #5841 Standard Draft
+SRR10663337	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	OTHER	other	632913	8435270808	PRJNA581960	Sequel sequencing: Ceratopteris richardii M.Whitten #5841 Standard Draft
+SRR10663339	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	OTHER	other	652142	8277129237	PRJNA581960	Sequel sequencing: Ceratopteris richardii M.Whitten #5841 Standard Draft
+SRR10663342	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	OTHER	other	625803	8443673181	PRJNA581960	Sequel sequencing: Ceratopteris richardii M.Whitten #5841 Standard Draft
+SRR10663344	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	OTHER	other	516857	7134903944	PRJNA581960	Sequel sequencing: Ceratopteris richardii M.Whitten #5841 Standard Draft
+SRR10663346	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	OTHER	other	609867	7969120685	PRJNA581960	Sequel sequencing: Ceratopteris richardii M.Whitten #5841 Standard Draft
+SRR10663348	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	OTHER	other	564046	7649663649	PRJNA581960	Sequel sequencing: Ceratopteris richardii M.Whitten #5841 Standard Draft
+SRR12605706	Ceratopteris richardii	49495	PACBIO_SMRT	PacBio RS II	TRANSCRIPTOMIC	OTHER	other	128896418	298152860041	PRJNA651775	PacBio RS II sequencing: Ceratopteris richardii Hn-n (M.Whitten #5841)Transcriptome
+SRR14783801	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	WGS	RANDOM	891007	5307730179	PRJNA729743	Sequel sequencing: PacBio long-read sequencing of Ceratopteris richardii genome
+SRR14783816	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	WGS	RANDOM	990364	5842606236	PRJNA729743	Sequel sequencing: PacBio long-read sequencing of Ceratopteris richardii genome
+SRR14783817	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	WGS	RANDOM	585413	3397111562	PRJNA729743	Sequel sequencing: PacBio long-read sequencing of Ceratopteris richardii genome
+SRR14783818	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	WGS	RANDOM	769629	4425061822	PRJNA729743	Sequel sequencing: PacBio long-read sequencing of Ceratopteris richardii genome
+SRR14793031	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	WGS	RANDOM	832779	5108416248	PRJNA729743	Sequel sequencing: PacBio long-read sequencing of Ceratopteris richardii genome
+SRR14793035	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	WGS	RANDOM	481415	3211481495	PRJNA729743	Sequel sequencing: PacBio long-read sequencing of Ceratopteris richardii genome
+SRR14793038	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	WGS	RANDOM	554203	3874880036	PRJNA729743	Sequel sequencing: PacBio long-read sequencing of Ceratopteris richardii genome
+SRR14793039	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	WGS	RANDOM	72242	414722210	PRJNA729743	Sequel sequencing: PacBio long-read sequencing of Ceratopteris richardii genome
+SRR14793047	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	WGS	RANDOM	150798	753246482	PRJNA729743	Sequel sequencing: PacBio long-read sequencing of Ceratopteris richardii genome
+SRR14793050	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	WGS	RANDOM	255754	1304222369	PRJNA729743	Sequel sequencing: PacBio long-read sequencing of Ceratopteris richardii genome
+SRR14793055	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	WGS	RANDOM	979982	5902897757	PRJNA729743	Sequel sequencing: PacBio long-read sequencing of Ceratopteris richardii genome
+SRR14793056	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	WGS	RANDOM	1013660	6157733693	PRJNA729743	Sequel sequencing: PacBio long-read sequencing of Ceratopteris richardii genome
+SRR20293857	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	WGS	RANDOM	242391	952626114	PRJNA729743	Sequel sequencing: Ceratopteris richardii Hn-n PacBio Sequel-456-PBFK-CLR
+SRR20293860	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	WGS	RANDOM	4008106	32746093170	PRJNA729743	Sequel sequencing: Ceratopteris richardii Hn-n PacBio Sequel-468-PBGJ-CLR
+SRR20293863	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	WGS	RANDOM	546081	9545680606	PRJNA729743	Sequel sequencing: Ceratopteris richardii Hn-n PacBio Sequel-509-PBHU-CLR
+SRR14792858	Ceratopteris richardii	49495	OXFORD_NANOPORE	PromethION	GENOMIC	WGS	RANDOM	1600000	10021709833	PRJNA729743	PromethION sequencing: Nanopore sequencing of CFern genome
+SRR14792859	Ceratopteris richardii	49495	OXFORD_NANOPORE	PromethION	GENOMIC	WGS	RANDOM	924138	5924477363	PRJNA729743	PromethION sequencing: Nanopore sequencing of CFern genome
+SRR10663268	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	OTHER	other	587149	8982719102	PRJNA581960	Sequel sequencing: Ceratopteris richardii M.Whitten #5841 Standard Draft
+SRR10663270	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	OTHER	other	566950	8490414907	PRJNA581960	Sequel sequencing: Ceratopteris richardii M.Whitten #5841 Standard Draft
+SRR10663272	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	OTHER	other	569577	8995384596	PRJNA581960	Sequel sequencing: Ceratopteris richardii M.Whitten #5841 Standard Draft
+SRR10663274	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	OTHER	other	566774	8437589072	PRJNA581960	Sequel sequencing: Ceratopteris richardii M.Whitten #5841 Standard Draft
+SRR10663277	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	OTHER	other	622719	9738127329	PRJNA581960	Sequel sequencing: Ceratopteris richardii M.Whitten #5841 Standard Draft
+SRR10663285	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	OTHER	other	614626	8375727595	PRJNA581960	Sequel sequencing: Ceratopteris richardii M.Whitten #5841 Standard Draft
+SRR10663288	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	OTHER	other	587944	9321391356	PRJNA581960	Sequel sequencing: Ceratopteris richardii M.Whitten #5841 Standard Draft
+SRR10663291	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	OTHER	other	607827	9447314311	PRJNA581960	Sequel sequencing: Ceratopteris richardii M.Whitten #5841 Standard Draft
+SRR10663295	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	OTHER	other	566317	8246962670	PRJNA581960	Sequel sequencing: Ceratopteris richardii M.Whitten #5841 Standard Draft
+SRR10663298	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	OTHER	other	613548	9574303756	PRJNA581960	Sequel sequencing: Ceratopteris richardii M.Whitten #5841 Standard Draft
+SRR10663300	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	OTHER	other	645551	9941414122	PRJNA581960	Sequel sequencing: Ceratopteris richardii M.Whitten #5841 Standard Draft
+SRR10663303	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	OTHER	other	597372	9438221660	PRJNA581960	Sequel sequencing: Ceratopteris richardii M.Whitten #5841 Standard Draft
+SRR10663311	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	OTHER	other	510631	3210120669	PRJNA581960	Sequel sequencing: Ceratopteris richardii M.Whitten #5841 Standard Draft
+SRR10663320	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	OTHER	other	282377	4183022164	PRJNA581960	Sequel sequencing: Ceratopteris richardii M.Whitten #5841 Standard Draft
+SRR10663324	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	OTHER	other	399660	6258082673	PRJNA581960	Sequel sequencing: Ceratopteris richardii M.Whitten #5841 Standard Draft
+SRR10663326	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	OTHER	other	528750	7677124380	PRJNA581960	Sequel sequencing: Ceratopteris richardii M.Whitten #5841 Standard Draft
+SRR10663328	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	OTHER	other	509941	7225362921	PRJNA581960	Sequel sequencing: Ceratopteris richardii M.Whitten #5841 Standard Draft
+SRR10663331	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	OTHER	other	382261	5291822418	PRJNA581960	Sequel sequencing: Ceratopteris richardii M.Whitten #5841 Standard Draft
+SRR10663334	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	OTHER	other	549022	7469962936	PRJNA581960	Sequel sequencing: Ceratopteris richardii M.Whitten #5841 Standard Draft
+SRR10663350	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	OTHER	other	653911	8298592687	PRJNA581960	Sequel sequencing: Ceratopteris richardii M.Whitten #5841 Standard Draft
+SRR10663354	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	OTHER	other	436643	6313816856	PRJNA581960	Sequel sequencing: Ceratopteris richardii M.Whitten #5841 Standard Draft
+SRR10663357	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	OTHER	other	437039	6247266461	PRJNA581960	Sequel sequencing: Ceratopteris richardii M.Whitten #5841 Standard Draft
+SRR14783802	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	WGS	RANDOM	767492	4449651444	PRJNA729743	Sequel sequencing: PacBio long-read sequencing of Ceratopteris richardii genome
+SRR14783809	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	WGS	RANDOM	765996	4932670175	PRJNA729743	Sequel sequencing: PacBio long-read sequencing of Ceratopteris richardii genome
+SRR14783814	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	WGS	RANDOM	765072	4696433852	PRJNA729743	Sequel sequencing: PacBio long-read sequencing of Ceratopteris richardii genome
+SRR14783815	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	WGS	RANDOM	893312	5575190178	PRJNA729743	Sequel sequencing: PacBio long-read sequencing of Ceratopteris richardii genome
+SRR14783820	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	WGS	RANDOM	716176	4142529882	PRJNA729743	Sequel sequencing: PacBio long-read sequencing of Ceratopteris richardii genome
+SRR14783831	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	WGS	RANDOM	663630	4172508717	PRJNA729743	Sequel sequencing: PacBio long-read sequencing of Ceratopteris richardii genome
+SRR14793028	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	WGS	RANDOM	1479155	7836372334	PRJNA729743	Sequel sequencing: PacBio long-read sequencing of Ceratopteris richardii genome
+SRR14793036	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	WGS	RANDOM	110790	637194662	PRJNA729743	Sequel sequencing: PacBio long-read sequencing of Ceratopteris richardii genome
+SRR14793042	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	WGS	RANDOM	265	8428423	PRJNA729743	Sequel sequencing: PacBio long-read sequencing of Ceratopteris richardii genome
+SRR14793044	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	WGS	RANDOM	294896	2262393857	PRJNA729743	Sequel sequencing: PacBio long-read sequencing of Ceratopteris richardii genome
+SRR14793045	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	WGS	RANDOM	301143	2330790355	PRJNA729743	Sequel sequencing: PacBio long-read sequencing of Ceratopteris richardii genome
+SRR14793049	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	WGS	RANDOM	187047	1421484144	PRJNA729743	Sequel sequencing: PacBio long-read sequencing of Ceratopteris richardii genome
+SRR14793052	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	WGS	RANDOM	1202575	6255698687	PRJNA729743	Sequel sequencing: PacBio long-read sequencing of Ceratopteris richardii genome
+SRR14793058	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	WGS	RANDOM	1004951	6300601326	PRJNA729743	Sequel sequencing: PacBio long-read sequencing of Ceratopteris richardii genome
+SRR20293859	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	WGS	RANDOM	570988	4557890197	PRJNA729743	Sequel sequencing: Ceratopteris richardii Hn-n PacBio Sequel-467-PBGJ-CLR
+SRR14792853	Ceratopteris richardii	49495	OXFORD_NANOPORE	PromethION	GENOMIC	WGS	RANDOM	1600000	9494097529	PRJNA729743	PromethION sequencing: Nanopore sequencing of CFern genome
+SRR14792860	Ceratopteris richardii	49495	OXFORD_NANOPORE	PromethION	GENOMIC	WGS	RANDOM	1600000	10270773449	PRJNA729743	PromethION sequencing: Nanopore sequencing of CFern genome
+SRR10663269	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	OTHER	other	603130	9429670712	PRJNA581960	Sequel sequencing: Ceratopteris richardii M.Whitten #5841 Standard Draft
+SRR10663271	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	OTHER	other	587163	8986507708	PRJNA581960	Sequel sequencing: Ceratopteris richardii M.Whitten #5841 Standard Draft
+SRR10663276	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	OTHER	other	583673	9159213199	PRJNA581960	Sequel sequencing: Ceratopteris richardii M.Whitten #5841 Standard Draft
+SRR10663279	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	OTHER	other	606775	9617797335	PRJNA581960	Sequel sequencing: Ceratopteris richardii M.Whitten #5841 Standard Draft
+SRR10663283	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	OTHER	other	652012	9873645505	PRJNA581960	Sequel sequencing: Ceratopteris richardii M.Whitten #5841 Standard Draft
+SRR10663284	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	OTHER	other	579134	9244432410	PRJNA581960	Sequel sequencing: Ceratopteris richardii M.Whitten #5841 Standard Draft
+SRR10663290	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	OTHER	other	605131	9590614120	PRJNA581960	Sequel sequencing: Ceratopteris richardii M.Whitten #5841 Standard Draft
+SRR10663312	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	OTHER	other	397520	2705822889	PRJNA581960	Sequel sequencing: Ceratopteris richardii M.Whitten #5841 Standard Draft
+SRR10663316	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	OTHER	other	509347	7264998876	PRJNA581960	Sequel sequencing: Ceratopteris richardii M.Whitten #5841 Standard Draft
+SRR10663318	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	OTHER	other	451327	6601023121	PRJNA581960	Sequel sequencing: Ceratopteris richardii M.Whitten #5841 Standard Draft
+SRR10663325	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	OTHER	other	431224	6380869058	PRJNA581960	Sequel sequencing: Ceratopteris richardii M.Whitten #5841 Standard Draft
+SRR10663330	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	OTHER	other	330122	4673962161	PRJNA581960	Sequel sequencing: Ceratopteris richardii M.Whitten #5841 Standard Draft
+SRR10663333	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	OTHER	other	575141	7551226336	PRJNA581960	Sequel sequencing: Ceratopteris richardii M.Whitten #5841 Standard Draft
+SRR10663336	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	OTHER	other	564783	7458645166	PRJNA581960	Sequel sequencing: Ceratopteris richardii M.Whitten #5841 Standard Draft
+SRR10663341	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	OTHER	other	536140	7262578737	PRJNA581960	Sequel sequencing: Ceratopteris richardii M.Whitten #5841 Standard Draft
+SRR10663345	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	OTHER	other	577415	7705677932	PRJNA581960	Sequel sequencing: Ceratopteris richardii M.Whitten #5841 Standard Draft
+SRR10663352	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	OTHER	other	440465	6353037784	PRJNA581960	Sequel sequencing: Ceratopteris richardii M.Whitten #5841 Standard Draft
+SRR10663353	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	OTHER	other	384602	5749475535	PRJNA581960	Sequel sequencing: Ceratopteris richardii M.Whitten #5841 Standard Draft
+SRR10663356	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	OTHER	other	365823	5471011692	PRJNA581960	Sequel sequencing: Ceratopteris richardii M.Whitten #5841 Standard Draft
+SRR20293855	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	WGS	RANDOM	4046299	69375627472	PRJNA729743	Sequel sequencing: Ceratopteris richardii Hn-n PacBio Sequel-510-PBHU-CLR
+SRR12605702	Ceratopteris richardii	49495	PACBIO_SMRT	PacBio RS II	TRANSCRIPTOMIC	OTHER	other	287447857	255736614846	PRJNA651774	PacBio RS II sequencing: Ceratopteris richardii M.Whitten #5841 Transcriptome
+SRR14783824	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	WGS	RANDOM	791271	4650338356	PRJNA729743	Sequel sequencing: PacBio long-read sequencing of Ceratopteris richardii genome
+SRR14783826	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	WGS	RANDOM	759356	4628659926	PRJNA729743	Sequel sequencing: PacBio long-read sequencing of Ceratopteris richardii genome
+SRR14793026	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	WGS	RANDOM	950395	4451705515	PRJNA729743	Sequel sequencing: PacBio long-read sequencing of Ceratopteris richardii genome
+SRR14793033	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	WGS	RANDOM	806224	4936013862	PRJNA729743	Sequel sequencing: PacBio long-read sequencing of Ceratopteris richardii genome
+SRR14793046	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	WGS	RANDOM	688221	4836756118	PRJNA729743	Sequel sequencing: PacBio long-read sequencing of Ceratopteris richardii genome
+SRR14793060	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	WGS	RANDOM	992841	5925559882	PRJNA729743	Sequel sequencing: PacBio long-read sequencing of Ceratopteris richardii genome
+SRR14792854	Ceratopteris richardii	49495	OXFORD_NANOPORE	PromethION	GENOMIC	WGS	RANDOM	1600000	9494779314	PRJNA729743	PromethION sequencing: Nanopore sequencing of CFern genome
+SRR20293856	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	WGS	RANDOM	234813	990737216	PRJNA729743	Sequel sequencing: Ceratopteris richardii Hn-n PacBio Sequel-457-PBFK-CLR
+SRR20293861	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	WGS	RANDOM	514828	8087160600	PRJNA729743	Sequel sequencing: Ceratopteris richardii Hn-n PacBio Sequel-492-PBHM-CLR
+SRR10663275	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	OTHER	other	574371	8930487975	PRJNA581960	Sequel sequencing: Ceratopteris richardii M.Whitten #5841 Standard Draft
+SRR10663281	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	OTHER	other	612088	9266280164	PRJNA581960	Sequel sequencing: Ceratopteris richardii M.Whitten #5841 Standard Draft
+SRR10663286	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	OTHER	other	577241	9029370765	PRJNA581960	Sequel sequencing: Ceratopteris richardii M.Whitten #5841 Standard Draft
+SRR10663287	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	OTHER	other	596237	9413133289	PRJNA581960	Sequel sequencing: Ceratopteris richardii M.Whitten #5841 Standard Draft
+SRR10663296	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	OTHER	other	636183	9869189165	PRJNA581960	Sequel sequencing: Ceratopteris richardii M.Whitten #5841 Standard Draft
+SRR10663309	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	OTHER	other	456873	2985031901	PRJNA581960	Sequel sequencing: Ceratopteris richardii M.Whitten #5841 Standard Draft
+SRR10663313	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	OTHER	other	335575	4933107117	PRJNA581960	Sequel sequencing: Ceratopteris richardii M.Whitten #5841 Standard Draft
+SRR10663323	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	OTHER	other	437748	6744406626	PRJNA581960	Sequel sequencing: Ceratopteris richardii M.Whitten #5841 Standard Draft
+SRR10663335	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	OTHER	other	578058	7604742878	PRJNA581960	Sequel sequencing: Ceratopteris richardii M.Whitten #5841 Standard Draft
+SRR10663338	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	OTHER	other	618528	8331916381	PRJNA581960	Sequel sequencing: Ceratopteris richardii M.Whitten #5841 Standard Draft
+SRR10663343	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	OTHER	other	649850	8429842780	PRJNA581960	Sequel sequencing: Ceratopteris richardii M.Whitten #5841 Standard Draft
+SRR10663349	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	OTHER	other	571439	7861214259	PRJNA581960	Sequel sequencing: Ceratopteris richardii M.Whitten #5841 Standard Draft
+SRR10663359	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	OTHER	other	409041	5535384142	PRJNA581960	Sequel sequencing: Ceratopteris richardii M.Whitten #5841 Standard Draft
+SRR12605704	Ceratopteris richardii	49495	PACBIO_SMRT	PacBio RS II	TRANSCRIPTOMIC	OTHER	other	123257023	317727423707	PRJNA651774	PacBio RS II sequencing: Ceratopteris richardii M.Whitten #5841 Transcriptome
+SRR12605705	Ceratopteris richardii	49495	PACBIO_SMRT	PacBio RS II	TRANSCRIPTOMIC	OTHER	other	208691015	195155658175	PRJNA651775	PacBio RS II sequencing: Ceratopteris richardii Hn-n (M.Whitten #5841)Transcriptome
+SRR14783804	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	WGS	RANDOM	629420	3603041405	PRJNA729743	Sequel sequencing: PacBio long-read sequencing of Ceratopteris richardii genome
+SRR14783805	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	WGS	RANDOM	663770	3954695439	PRJNA729743	Sequel sequencing: PacBio long-read sequencing of Ceratopteris richardii genome
+SRR14783806	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	WGS	RANDOM	141832	778204613	PRJNA729743	Sequel sequencing: PacBio long-read sequencing of Ceratopteris richardii genome
+SRR14783808	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	WGS	RANDOM	679552	4378954771	PRJNA729743	Sequel sequencing: PacBio long-read sequencing of Ceratopteris richardii genome
+SRR14783811	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	WGS	RANDOM	746970	4881846807	PRJNA729743	Sequel sequencing: PacBio long-read sequencing of Ceratopteris richardii genome
+SRR14783821	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	WGS	RANDOM	780831	4596059253	PRJNA729743	Sequel sequencing: PacBio long-read sequencing of Ceratopteris richardii genome
+SRR14783823	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	WGS	RANDOM	703675	4328131133	PRJNA729743	Sequel sequencing: PacBio long-read sequencing of Ceratopteris richardii genome
+SRR14783825	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	WGS	RANDOM	584807	3644050478	PRJNA729743	Sequel sequencing: PacBio long-read sequencing of Ceratopteris richardii genome
+SRR14783828	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	WGS	RANDOM	734346	4189786674	PRJNA729743	Sequel sequencing: PacBio long-read sequencing of Ceratopteris richardii genome
+SRR14783829	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	WGS	RANDOM	781865	4865770991	PRJNA729743	Sequel sequencing: PacBio long-read sequencing of Ceratopteris richardii genome
+SRR14793025	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	WGS	RANDOM	998982	5133690755	PRJNA729743	Sequel sequencing: PacBio long-read sequencing of Ceratopteris richardii genome
+SRR14793027	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	WGS	RANDOM	1316043	7014202597	PRJNA729743	Sequel sequencing: PacBio long-read sequencing of Ceratopteris richardii genome
+SRR14793029	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	WGS	RANDOM	1501883	8012617955	PRJNA729743	Sequel sequencing: PacBio long-read sequencing of Ceratopteris richardii genome
+SRR14793043	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	WGS	RANDOM	204427	1582587884	PRJNA729743	Sequel sequencing: PacBio long-read sequencing of Ceratopteris richardii genome
+SRR14793048	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	WGS	RANDOM	153503	1173037182	PRJNA729743	Sequel sequencing: PacBio long-read sequencing of Ceratopteris richardii genome
+SRR14793054	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	WGS	RANDOM	946693	5882316726	PRJNA729743	Sequel sequencing: PacBio long-read sequencing of Ceratopteris richardii genome
+SRR14793063	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	WGS	RANDOM	1091912	5677824081	PRJNA729743	Sequel sequencing: PacBio long-read sequencing of Ceratopteris richardii genome
+SRR14792852	Ceratopteris richardii	49495	OXFORD_NANOPORE	PromethION	GENOMIC	WGS	RANDOM	578656	3388214126	PRJNA729743	PromethION sequencing: Nanopore sequencing of CFern genome
+SRR14792857	Ceratopteris richardii	49495	OXFORD_NANOPORE	PromethION	GENOMIC	WGS	RANDOM	1600000	10015874408	PRJNA729743	PromethION sequencing: Nanopore sequencing of CFern genome
+SRR14792861	Ceratopteris richardii	49495	OXFORD_NANOPORE	PromethION	GENOMIC	WGS	RANDOM	1600000	10267355388	PRJNA729743	PromethION sequencing: Nanopore sequencing of CFern genome
+SRR10663273	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	OTHER	other	606050	9702970576	PRJNA581960	Sequel sequencing: Ceratopteris richardii M.Whitten #5841 Standard Draft
+SRR10663278	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	OTHER	other	552930	8679268149	PRJNA581960	Sequel sequencing: Ceratopteris richardii M.Whitten #5841 Standard Draft
+SRR10663280	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	OTHER	other	592686	8817526503	PRJNA581960	Sequel sequencing: Ceratopteris richardii M.Whitten #5841 Standard Draft
+SRR10663282	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	OTHER	other	621511	9831898971	PRJNA581960	Sequel sequencing: Ceratopteris richardii M.Whitten #5841 Standard Draft
+SRR10663289	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	OTHER	other	572178	8690499114	PRJNA581960	Sequel sequencing: Ceratopteris richardii M.Whitten #5841 Standard Draft
+SRR10663292	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	OTHER	other	596949	9284635083	PRJNA581960	Sequel sequencing: Ceratopteris richardii M.Whitten #5841 Standard Draft
+SRR10663293	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	OTHER	other	569207	9027718545	PRJNA581960	Sequel sequencing: Ceratopteris richardii M.Whitten #5841 Standard Draft
+SRR10663294	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	OTHER	other	623935	9806693803	PRJNA581960	Sequel sequencing: Ceratopteris richardii M.Whitten #5841 Standard Draft
+SRR10663297	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	OTHER	other	603816	9097685253	PRJNA581960	Sequel sequencing: Ceratopteris richardii M.Whitten #5841 Standard Draft
+SRR10663301	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	OTHER	other	685757	10427648623	PRJNA581960	Sequel sequencing: Ceratopteris richardii M.Whitten #5841 Standard Draft
+SRR10663302	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	OTHER	other	610179	9723155868	PRJNA581960	Sequel sequencing: Ceratopteris richardii M.Whitten #5841 Standard Draft
+SRR10663304	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	OTHER	other	467958	3187623168	PRJNA581960	Sequel sequencing: Ceratopteris richardii M.Whitten #5841 Standard Draft
+SRR10663307	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	OTHER	other	517509	3283068378	PRJNA581960	Sequel sequencing: Ceratopteris richardii M.Whitten #5841 Standard Draft
+SRR10663310	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	OTHER	other	438035	2741665615	PRJNA581960	Sequel sequencing: Ceratopteris richardii M.Whitten #5841 Standard Draft
+SRR10663314	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	OTHER	other	326401	4860449094	PRJNA581960	Sequel sequencing: Ceratopteris richardii M.Whitten #5841 Standard Draft
+SRR10663317	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	OTHER	other	384904	5789861500	PRJNA581960	Sequel sequencing: Ceratopteris richardii M.Whitten #5841 Standard Draft
+SRR10663319	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	OTHER	other	380426	5433056368	PRJNA581960	Sequel sequencing: Ceratopteris richardii M.Whitten #5841 Standard Draft
+SRR10663321	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	OTHER	other	388828	5805324116	PRJNA581960	Sequel sequencing: Ceratopteris richardii M.Whitten #5841 Standard Draft
+SRR10663327	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	OTHER	other	513946	7313404965	PRJNA581960	Sequel sequencing: Ceratopteris richardii M.Whitten #5841 Standard Draft
+SRR10663340	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	OTHER	other	587557	7781190351	PRJNA581960	Sequel sequencing: Ceratopteris richardii M.Whitten #5841 Standard Draft
+SRR10663347	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	OTHER	other	609690	7898112496	PRJNA581960	Sequel sequencing: Ceratopteris richardii M.Whitten #5841 Standard Draft
+SRR10663351	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	OTHER	other	509497	7341944068	PRJNA581960	Sequel sequencing: Ceratopteris richardii M.Whitten #5841 Standard Draft
+SRR10663355	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	OTHER	other	416124	5861797906	PRJNA581960	Sequel sequencing: Ceratopteris richardii M.Whitten #5841 Standard Draft
+SRR10663358	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	OTHER	other	452157	6255847660	PRJNA581960	Sequel sequencing: Ceratopteris richardii M.Whitten #5841 Standard Draft
+SRR14783803	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	WGS	RANDOM	619069	3505814841	PRJNA729743	Sequel sequencing: PacBio long-read sequencing of Ceratopteris richardii genome
+SRR14783807	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	WGS	RANDOM	127380	865142042	PRJNA729743	Sequel sequencing: PacBio long-read sequencing of Ceratopteris richardii genome
+SRR14783810	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	WGS	RANDOM	919439	5755122657	PRJNA729743	Sequel sequencing: PacBio long-read sequencing of Ceratopteris richardii genome
+SRR14783812	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	WGS	RANDOM	822447	5098310459	PRJNA729743	Sequel sequencing: PacBio long-read sequencing of Ceratopteris richardii genome
+SRR14783813	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	WGS	RANDOM	816135	4862125053	PRJNA729743	Sequel sequencing: PacBio long-read sequencing of Ceratopteris richardii genome
+SRR14783819	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	WGS	RANDOM	659040	4172622519	PRJNA729743	Sequel sequencing: PacBio long-read sequencing of Ceratopteris richardii genome
+SRR14783822	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	WGS	RANDOM	870748	5230429992	PRJNA729743	Sequel sequencing: PacBio long-read sequencing of Ceratopteris richardii genome
+SRR14783827	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	WGS	RANDOM	865043	5310674521	PRJNA729743	Sequel sequencing: PacBio long-read sequencing of Ceratopteris richardii genome
+SRR14783830	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	WGS	RANDOM	154046	925563549	PRJNA729743	Sequel sequencing: PacBio long-read sequencing of Ceratopteris richardii genome
+SRR14793024	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	WGS	RANDOM	1001849	6110220200	PRJNA729743	Sequel sequencing: PacBio long-read sequencing of Ceratopteris richardii genome
+SRR14793030	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	WGS	RANDOM	701088	4424831062	PRJNA729743	Sequel sequencing: PacBio long-read sequencing of Ceratopteris richardii genome
+SRR14793032	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	WGS	RANDOM	693317	4312237811	PRJNA729743	Sequel sequencing: PacBio long-read sequencing of Ceratopteris richardii genome
+SRR14793034	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	WGS	RANDOM	547044	3596653392	PRJNA729743	Sequel sequencing: PacBio long-read sequencing of Ceratopteris richardii genome
+SRR14793037	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	WGS	RANDOM	464818	3017997579	PRJNA729743	Sequel sequencing: PacBio long-read sequencing of Ceratopteris richardii genome
+SRR14793040	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	WGS	RANDOM	1185476	6068464405	PRJNA729743	Sequel sequencing: PacBio long-read sequencing of Ceratopteris richardii genome
+SRR14793041	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	WGS	RANDOM	2170	27583467	PRJNA729743	Sequel sequencing: PacBio long-read sequencing of Ceratopteris richardii genome
+SRR14793051	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	WGS	RANDOM	1391754	7088580447	PRJNA729743	Sequel sequencing: PacBio long-read sequencing of Ceratopteris richardii genome
+SRR14793053	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	WGS	RANDOM	1078724	6200389078	PRJNA729743	Sequel sequencing: PacBio long-read sequencing of Ceratopteris richardii genome
+SRR14793057	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	WGS	RANDOM	890668	5479934168	PRJNA729743	Sequel sequencing: PacBio long-read sequencing of Ceratopteris richardii genome
+SRR14793059	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	WGS	RANDOM	1011360	6086678585	PRJNA729743	Sequel sequencing: PacBio long-read sequencing of Ceratopteris richardii genome
+SRR14793061	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	WGS	RANDOM	1007675	6122582153	PRJNA729743	Sequel sequencing: PacBio long-read sequencing of Ceratopteris richardii genome
+SRR14793062	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	WGS	RANDOM	1137848	5553884983	PRJNA729743	Sequel sequencing: PacBio long-read sequencing of Ceratopteris richardii genome
+SRR20293858	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	WGS	RANDOM	1283722	3948924723	PRJNA729743	Sequel sequencing: Ceratopteris richardii Hn-n PacBio Sequel-458-PBFK-CLR
+SRR20293862	Ceratopteris richardii	49495	PACBIO_SMRT	Sequel	GENOMIC	WGS	RANDOM	3529914	55363002151	PRJNA729743	Sequel sequencing: Ceratopteris richardii Hn-n PacBio Sequel-494-PBHM-CLR
+SRR14792855	Ceratopteris richardii	49495	OXFORD_NANOPORE	PromethION	GENOMIC	WGS	RANDOM	1600000	9413095189	PRJNA729743	PromethION sequencing: Nanopore sequencing of CFern genome
+SRR14792856	Ceratopteris richardii	49495	OXFORD_NANOPORE	PromethION	GENOMIC	WGS	RANDOM	1225903	7670403685	PRJNA729743	PromethION sequencing: Nanopore sequencing of CFern genome

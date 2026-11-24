@@ -1,0 +1,132 @@
+ID   KAG6545263; SV 1; linear; genomic DNA; WGS; PLN; 2577 BP.
+XX
+PA   MUAA02000086.1
+XX
+PR   Project:PRJNA362997;
+XX
+DT   25-MAY-2021 (Created)
+DT   25-MAY-2021 (Last updated)
+XX
+DE   Marchantia paleacea hypothetical protein
+XX
+KW   WGS.
+XX
+OS   Marchantia paleacea
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Marchantiophyta;
+OC   Marchantiopsida; Marchantiidae; Marchantiales; Marchantiaceae; Marchantia.
+XX
+RN   [1]
+RX   PUBMED; 32123350.
+RA   Radhakrishnan G.V., Keller J., Rich M.K., Vernie T.,
+RA   Mbadinga Mbadinga D.L., Vigneron N., Cottret L., Clemente H.S.,
+RA   Libourel C., Cheema J., Linde A.M., Eklund D.M., Cheng S., Wong G.K.S.,
+RA   Lagercrantz U., Li F.W., Oldroyd G.E.D., Delaux P.M.;
+RT   "An ancestral signalling pathway is conserved in intracellular
+RT   symbioses-forming plant lineages";
+RL   Nat Plants 6(3):280-289(2020).
+XX
+RN   [2]
+RA   Rich M.K., Vigneron N., Libourel C., Keller J., Xue L., Hajheidhari M.,
+RA   Radhakrishnan G., Le Ru A., Diop I.S., Potente G., Conti E., Duijsings D.,
+RA   Batut A., Le Faouder P., Kodama K., Kyozuka J., Sallet E., Becard G.,
+RA   Rodrigez M., Ott T., Bertrand-Michel J., Ed Oldroyd G., Szovenyi P.,
+RA   Bucher M., Delaux P.-M.;
+RT   "Lipid metabolism recruitment drove mutualism evolution and plant
+RT   terrestrialization";
+RL   Unpublished.
+XX
+RN   [3]
+RA   Radhakrishnan G.V., Cheema J., Cooke A., Delaux P.-M., Oldroyd G.E.;
+RT   ;
+RL   Submitted (25-JAN-2017) to the INSDC.
+RL   Cell and Developmental Biology, John Innes Centre, Colney Lane, Norwich NR4
+RL   7UH, United Kingdom
+XX
+RN   [4]
+RA   Szoevenyi P., Diop I.S.;
+RT   ;
+RL   Submitted (04-MAR-2021) to the INSDC.
+RL   Dept. of Systematic and Evolutionary Botany, University of Zurich (UZH),
+RL   Zollikerstr 107, Zurich 8008, Switzerland
+XX
+DR   MD5; 507ee40839f79aa2511511034ed83f32.
+DR   BioSample; SAMN06251632.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..2577
+FT                   /organism="Marchantia paleacea"
+FT                   /isolate="Mexico"
+FT                   /mol_type="genomic DNA"
+FT                   /collected_by="Caspar Chater"
+FT                   /dev_stage="Thallus"
+FT                   /tissue_type="Thallus"
+FT                   /db_xref="taxon:56867"
+FT                   /submitter_seqid="utg000086"
+FT                   /geo_loc_name=Mexico: Veracruz
+FT   CDS             complement(MUAA02000086.1:1599650..1602226)
+FT                   /codon_start=1
+FT                   /locus_tag="Mapa_013376"
+FT                   /product="hypothetical protein"
+FT                   /protein_id="KAG6545263.1"
+FT                   /translation="MGVFAAPESGSVMEVKSCPGFEGFEKRLEVEFHPAPIFTDPAGRG
+FT                   LRALARAELDVMLDAAKCTIVAQLCNDEFDSYVLSESSLFVYPLKIVLKTCGTTQILKA
+FT                   IPPLLEFAAGLSLKIRRCKYTRGTFMFPAAQPYPHGSFSEEVGYLEQYFGDLGSGGKAY
+FT                   VMGNMAKFPNWHIYSASDENDSRDERTYTLEMCMTKLDKEKATQFFNADGKKSGADMTE
+FT                   AAGINELLPNSEICDFSFEPCGYSMNSIEGAAHSTIHVTPEDGFSFASFETMGYGAREV
+FT                   DLRGLVENVTSIFRPACFSMCLYATGSAGGGSCPGSWENSICPSGYVCDGTSRQELPCG
+FT                   SVAVFHTFKDSRYGAVAAVQALPLFQLLEQVLCEDEYVPERTLQSMKDPMRLSSCGRNS
+FT                   LWNLNGVVGGEMAEMFTQFDAAVIGSTLKDTDAFIRKKVNDSELESAFYVMDLGSVLRQ
+FT                   WKLWVTALPRVKPFYAVKCNPDAALLALLHKLGAGFDVASKSELKAVTDLGAVPENIIF
+FT                   ANPCKLPTHITEAGKYGVLRTTFDSESELYKLKKFLPHAEVILRIRADDPTARCQLGTK
+FT                   YGAELEECEQLLIVAKQLSLKVVGVAFHVGSGASDASAFAYGIECAKHVFDVAEAMGLN
+FT                   GMKILDIGGGFVSNASAGVNFATAATTINKALDKCFPVSMGVTVVAEPGRYFAEDAFTL
+FT                   ATYVFGCRMRKKGGTKVAEYWVNDGIYGSMNCLLYDHAVLSVRALSQDEDAEAEWGDKN
+FT                   AYQSTIFGPTCDGLDTLMRDIYLPELQCGDWLLFPRMGAYTKAAGSNFNGFSVKDIPTF
+FT                   YVYTCKEKDYSCFDHDFIGIDGSDSSEEYSIFSFGNISSSSSDDEQ"
+XX
+SQ   Sequence 2577 BP; 600 A; 549 C; 722 G; 706 T; 0 other;
+     atgggagttt ttgctgctcc tgagtctgga agcgtaatgg aggtcaaatc atgccctgga        60
+     tttgagggtt ttgagaaaag attggaagta gagttccacc cggccccaat attcactgat       120
+     cccgctggta ggggtttgag agctcttgca cgtgcagaat tggatgtgat gttggacgct       180
+     gcgaagtgta caattgttgc ccaactctgc aatgatgaat ttgactctta cgtgctgtca       240
+     gaatcgagcc tttttgtcta cccgttgaaa attgtcctga aaacctgtgg tactactcaa       300
+     atactgaaag ccataccgcc tttgctggaa tttgctgctg gactttcctt gaaaattcgt       360
+     cgctgcaagt atacccgagg tacatttatg tttcccgccg ctcagccata tccccatggg       420
+     agcttcagcg aggaggttgg gtatttggag cagtactttg gtgatctggg atcgggaggc       480
+     aaagcttacg tgatgggtaa tatggcaaag ttcccgaact ggcatattta ctctgcgtcg       540
+     gacgagaacg actcccgtga tgagcgcacg tacactttgg agatgtgtat gactaagcta       600
+     gacaaggaga aggcaacgca gttcttcaat gcagatggta agaagtcggg tgcggacatg       660
+     acggaggcgg cggggatcaa cgagcttctt cctaactccg aaatttgtga tttttcattt       720
+     gagccttgtg gttattctat gaattcaatc gaaggcgcag cacactcaac tattcacgtc       780
+     actccagaag atggattcag tttcgccagt tttgagacca tgggatatgg cgctcgggaa       840
+     gtggacctgc gaggcttggt ggagaatgtt acctccattt tcaggcctgc gtgcttctcg       900
+     atgtgccttt acgctactgg cagcgcggga ggtggatctt gcccagggtc ctgggagaat       960
+     tccatatgtc cgtctggtta cgtttgtgat ggtactagtc gacaggagct gccttgtggc      1020
+     agtgtcgcag tgtttcatac tttcaaggat tctcgttatg gggctgtggc tgctgtacaa      1080
+     gctctgccac tgtttcagct tctggagcag gtactttgcg aggacgagta cgtccccgag      1140
+     aggactttgc agtccatgaa agatcccatg cgcttgtcat catgcggtag aaattctctc      1200
+     tggaatttga acggcgtcgt gggaggagag atggcggaaa tgtttacaca atttgacgcg      1260
+     gctgtcatcg gatctactct caaagacacc gacgccttca ttaggaagaa ggtgaatgac      1320
+     agtgagttgg agagtgcttt ctatgtgatg gacttgggat cggttctgag gcaatggaaa      1380
+     ttatgggtaa cggctctgcc tcgtgttaaa cccttttacg cggttaagtg taatcccgac      1440
+     gctgctttgc ttgcactcct tcacaaactg ggagctggct ttgacgtggc gagcaaatcg      1500
+     gagttgaagg ctgtcaccga tcttggagca gtccctgaaa acataatatt tgccaaccct      1560
+     tgtaagcttc ctacacacat tacggaggca ggaaagtatg gtgttcttcg tacaacattt      1620
+     gactcagaat cagagcttta caagctgaag aagtttcttc cacacgccga agttatcctg      1680
+     cggattagag ctgacgatcc aacagctcgg tgtcagcttg gcaccaaata tggagctgaa      1740
+     cttgaagaat gtgagcagct tctaatcgtc gccaaacaac tcagtctgaa agtcgtaggt      1800
+     gttgcgtttc acgtgggtag tggtgcgtcc gacgcaagtg cctttgctta cgggattgag      1860
+     tgcgccaagc atgtgtttga cgttgctgaa gcaatgggtc tgaatggcat gaagattttg      1920
+     gacattggag gtgggttcgt gtcgaatgca tctgccgggg tgaacttcgc aaccgcagct      1980
+     acaaccatca acaaagccct tgataagtgt ttccctgtaa gcatgggtgt gactgttgtt      2040
+     gcggaacctg gcaggtattt cgcggaggat gccttcacct tggcaactta cgtttttggt      2100
+     tgccgcatgc gcaagaaggg cggtactaag gtggccgagt actgggtgaa tgatggtatt      2160
+     tatggatcca tgaattgttt gctctatgat catgcagtac tgtcggtccg ggctctttct      2220
+     caggacgagg atgcagaagc ggaatggggt gacaagaatg cctatcaatc cacgatcttt      2280
+     gggccaacgt gcgatggttt ggacactctg atgcgtgaca tctatttgcc cgagttgcag      2340
+     tgtggagatt ggcttttgtt tccacgcatg ggggcataca cgaaggctgc agggtccaac      2400
+     tttaatgggt tcagtgtcaa agacatacct accttctacg tctacacctg caaggaaaag      2460
+     gactattctt gcttcgacca tgatttcatc ggtattgatg gtagtgattc gagtgaagag      2520
+     tactcgatat ttagcttcgg taatatcagc agcagcagca gtgacgatga gcagtag         2577
+//

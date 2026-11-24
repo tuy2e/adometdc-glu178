@@ -1,0 +1,124 @@
+ID   OAE18299; SV 1; linear; genomic DNA; WGS; PLN; 2835 BP.
+XX
+PA   LVLJ01004085.1
+XX
+PR   Project:PRJNA310693;
+XX
+DT   16-MAY-2017 (Created)
+DT   16-MAY-2017 (Last updated)
+XX
+DE   Marchantia polymorpha subsp. ruderalis hypothetical protein
+XX
+KW   WGS.
+XX
+OS   Marchantia polymorpha subsp. ruderalis
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Marchantiophyta;
+OC   Marchantiopsida; Marchantiidae; Marchantiales; Marchantiaceae; Marchantia.
+XX
+RN   [1]
+RX   PUBMED; 27866889.
+RA   Honkanen S., Jones V.A., Morieri G., Champion C., Hetherington A.J.,
+RA   Kelly S., Proust H., Saint-Marcoux D., Prescott H., Dolan L.;
+RT   "The Mechanism Forming the Cell Surface of Tip-Growing Rooting Cells Is
+RT   Conserved among Land Plants";
+RL   Curr. Biol. 26(23):3238-3244(2016).
+XX
+RN   [2]
+RA   Champion C., Hetherington A.J., Kelly S., Saint-Marcoux D., Morieri G.,
+RA   Proust H., Dolan L.;
+RT   ;
+RL   Submitted (24-MAR-2016) to the INSDC.
+RL   Plant Sciences, Oxford University, South Parks Road, Oxford OX13RB, United
+RL   Kingdom
+XX
+DR   MD5; 04a3b8ac73c484e5506079bdacee03fe.
+DR   BioSample; SAMN04450698.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..2835
+FT                   /organism="Marchantia polymorpha subsp. ruderalis"
+FT                   /ecotype="Tak-1 + Tak-2"
+FT                   /mol_type="genomic DNA"
+FT                   /sex="pooled male and female"
+FT                   /dev_stage="1 month gametophyte"
+FT                   /tissue_type="Whole gametophyte"
+FT                   /db_xref="taxon:1480154"
+FT                   /submitter_seqid="scaffold436"
+FT                   /geo_loc_name=Japan: Takaragaike Park, Kyoto
+FT   CDS             complement(join(LVLJ01004085.1:344665..347250,
+FT                   LVLJ01004085.1:347675..347826,
+FT                   LVLJ01004085.1:349000..349096))
+FT                   /codon_start=1
+FT                   /locus_tag="AXG93_436s1300"
+FT                   /product="hypothetical protein"
+FT                   /inference="ab initio prediction:augustus-3.0.1"
+FT                   /protein_id="OAE18299.1"
+FT                   /translation="MCWAANGRRAKGRDGVFRVDPVDTVLFVARSNKGLNVIMEAKGGD
+FT                   EKNSSTSSWQYESPLGYVVEDVRPHGGVEKFRTAAYSNVNMGVCVAPESGNVMEVKSCP
+FT                   GFEGFEKRLEVEFHPAPLFSDPAGRGLRALARAELDVMLDAAKCTIVAQLCNEEFDSYV
+FT                   LSESSLFVYPLKIVLKTCGTTQILKAIPPLLEFAAGLSLKLRRCKYTRGTFMFPAAQPY
+FT                   PHGSFSEEVGYLEQYFGDLGSGGKAYVMGNMAKFPNWHIYSASDENDSSDERTYTLEMC
+FT                   MTKLDKEKASQFFNVDGKKSGADMTEAAGINELLPNSKICDFSFEPCGYSMNSIEGAAH
+FT                   STIHVTPEDGFSFASFETMGYGPREVDLVRLVENVTSIFRPACFSMCLYATGSAGGGSC
+FT                   PGSWEKSICPSGYVCDGTSRQELPCGSVAVFHTFKDSRFGAVAAVHALPLFQLPEQVLC
+FT                   EDEYVPGKSLVSKKDPKYSSSCGKNSLWNLNGVVGGEMAEVFTQFDAAVIGSTLKDTDS
+FT                   FIRKKVNDSELESAFYVMDLGSVLRQWKLWVTALPRVKPFYAVKCNPDAALLALLHKLG
+FT                   AGFDVASKSELKAVTDIGAVPENIIFANPCKLPTHITEAGKHGVLRTTFDSESELYKLK
+FT                   KFLPHAEVVLRIRADDPTARCQLGTKYGAELEECEQLLTVAKQLSLKVVGVAFHVGSGA
+FT                   SDASAFAYGIECAKYVFGVAEAMGLNDMKILDIGGGFVSNASAGVNFATAASTINKALD
+FT                   KCFPVSMGVTVIAEPGRFFAEDAFTLATYVFGCRMRKKGGTKQAEYWVNDGIYGSMNCL
+FT                   LYDHAVLSVRALSQDDDAEEEWRDRNVYQSTIFGPTCDGLDTVMRDIYLPELQCGDWLL
+FT                   WPRMGAYTKAAGSNFNGFNVKDIPTSYVYTCREKDYSCFDHDFLVTDGSESSEEYSIFS
+FT                   FGKYSSSSSSDDEQ"
+XX
+SQ   Sequence 2835 BP; 656 A; 648 C; 816 G; 715 T; 0 other;
+     atgtgctggg ctgcaaacgg gaggagggca aaagggcgcg acggggtgtt tagggtagac        60
+     ccggtcgaca ctgttctgtt cgtggctcgt tcgaacaaag gccttaatgt tataatggaa       120
+     gccaaaggag gtgacgaaaa gaattccagt actagttctt ggcagtacga gagccccctt       180
+     ggatacgttg tggaagacgt gcgccctcac ggtggtgtcg agaagttcag aactgctgca       240
+     tactcaaacg tcaacatggg agtttgtgtt gctcctgagt ctggaaacgt aatggaggtc       300
+     aaatcatgcc ctggatttga ggggtttgag aaaagattgg aagtagagtt ccaccctgcc       360
+     ccactattta gtgatcccgc gggtaggggt ttgagagctc tcgcccgtgc agaattggat       420
+     gttatgttgg acgctgcaaa gtgtacaatt gtggcccaac tctgcaacga agaatttgac       480
+     tcttacgtgc tgtcagaatc gagcctcttt gtctacccgt tgaagattgt cctgaaaacc       540
+     tgtggtacca ctcaaatact gaaagccata ccgcctttgc tggaatttgc cgctggactt       600
+     tccttgaaac ttcgtcgctg caagtacact cgagggacat ttatgtttcc cgccgctcag       660
+     ccatatcccc atgggagctt cagcgaggag gttgggtatt tggagcagta cttcggtgat       720
+     ttgggatcgg gaggcaaagc ttacgtgatg ggtaatatgg caaagtttcc gaactggcat       780
+     atctactctg cgtcggacga gaacgactcc agtgatgagc gcacgtacac tttggagatg       840
+     tgtatgacca agctagacaa ggagaaggcc tcgcagttct tcaatgtaga tggtaagaag       900
+     tcgggtgcgg acatgacgga ggcggcgggg atcaacgagc ttcttcctaa ctccaaaatt       960
+     tgtgattttt catttgagcc ttgcggttat tctatgaatt ctatcgaagg cgcagcacac      1020
+     tcaactattc atgtcactcc agaagatgga ttcagtttcg ccagttttga gactatggga      1080
+     tatggccctc gggaagtgga cctggtacgc ttggtggaga atgtcacctc cattttcagg      1140
+     cctgcgtgct tctcgatgtg cctttacgct actggcagcg cggggggtgg atcttgccca      1200
+     gggtcctggg aaaaatccat ttgtccgtct ggttacgtct gtgatggtac tagtcgacag      1260
+     gagctgcctt gtggcagtgt cgcagtgttt catactttta aggactctcg tttcggggct      1320
+     gtggctgctg tgcatgctct tccactattt cagcttccgg agcaggtact ttgcgaggat      1380
+     gagtacgtgc ccgggaagtc tttggtgtct aagaaagatc caaagtattc atcatcatgc      1440
+     ggtaagaatt ctctgtggaa tctgaacggt gtcgtgggag gagagatggc tgaagtgttc      1500
+     acacaattcg acgcggctgt catcggatcg actctcaagg acactgactc tttcatcagg      1560
+     aagaaggtga atgacagtga gctggagagt gctttctatg tgatggactt gggatcggtt      1620
+     ttgaggcaat ggaaattatg ggtaaccgct ctgcctcgtg tcaaaccctt ttatgcggtg      1680
+     aagtgtaatc ccgacgcggc tttgcttgca ctccttcaca aactgggagc tggctttgac      1740
+     gtggcgagca agtcggagct gaaggctgtc accgatattg gagcagttcc cgaaaacata      1800
+     atatttgcca acccctgtaa gcttcctacc cacattacgg aggcaggaaa gcatggtgta      1860
+     ctccgtacaa catttgactc agaatcagag ctttacaagc tgaagaagtt tcttccccac      1920
+     gccgaagttg ttctgcgtat cagagccgac gatccaacgg cgcggtgtca gctcggtacc      1980
+     aagtacggag ctgaacttga agaatgcgag cagctcctca ccgtcgcgaa gcaactaagc      2040
+     ctgaaagttg tgggtgttgc gtttcacgtg ggcagcggtg cgtcagacgc aagtgccttc      2100
+     gcgtacggaa tcgagtgtgc caaatatgtg tttggcgtcg cggaagcaat ggggctgaac      2160
+     gatatgaaga ttttggacat cggaggtggg ttcgtctcga atgcatccgc cggcgtgaac      2220
+     ttcgccaccg cagcgtcaac catcaacaaa gctctggaca agtgctttcc cgtcagcatg      2280
+     ggggtgactg tgattgcgga acctggcagg ttcttcgcgg aggatgcttt caccttggcg      2340
+     acgtacgtat tcggctgccg catgcgcaag aagggcggaa cgaaacaggc tgagtattgg      2400
+     gtcaatgacg gcatctatgg atccatgaac tgtctgctct acgaccatgc cgtgctgtcg      2460
+     gtgcgcgcgc tttctcaaga cgacgatgca gaggaagaat ggcgcgatag gaacgtctat      2520
+     cagtccacca tcttcgggcc gacctgtgac ggccttgaca ctgtgatgcg tgacatttat      2580
+     ctgccggagc tgcaatgcgg cgactggctg ttgtggccac gcatgggagc gtacaccaag      2640
+     gccgcagggt ctaatttcaa cggtttcaac gtcaaagaca tcccaacgtc ctacgtctac      2700
+     acttgcaggg agaaggatta ttcctgcttc gaccatgatt tcctcgttac tgatggtagt      2760
+     gaatctagtg aggagtattc aattttcagt tttggtaaat acagcagcag cagcagcagc      2820
+     gacgatgagc agtag                                                       2835
+//

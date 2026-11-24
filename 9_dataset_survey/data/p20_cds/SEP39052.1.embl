@@ -1,0 +1,90 @@
+ID   SEP39052; SV 1; linear; genomic DNA; WGS; PRO; 1521 BP.
+XX
+PA   FOEF01000007.1
+XX
+PR   Project:PRJEB16942;
+XX
+DT   29-OCT-2016 (Rel. 130, Created)
+DT   29-OCT-2016 (Rel. 130, Last updated, Version 1)
+XX
+DE   Amycolatopsis saalfeldensis ornithine decarboxylase
+XX
+KW   WGS.
+XX
+OS   Amycolatopsis saalfeldensis
+OC   Bacteria; Actinobacteria; Pseudonocardiales; Pseudonocardiaceae;
+OC   Amycolatopsis.
+XX
+RN   [1]
+RA   Varghese N., Submissions S.;
+RT   ;
+RL   Submitted (27-OCT-2016) to the INSDC.
+RL   DOE - JOINT GENOME INSTITUTE, LBNL, 2800 Mitchell Drive, Walnut Creek, CA
+RL   94598, 94598, USA
+XX
+DR   MD5; 6c9d0a56a00bf9b11164c91ddb34a6f3.
+DR   BioSample; SAMN04489732.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..1521
+FT                   /organism="Amycolatopsis saalfeldensis"
+FT                   /strain="DSM 44993"
+FT                   /mol_type="genomic DNA"
+FT                   /note="contig: Ga0074859_107"
+FT                   /db_xref="taxon:394193"
+FT   CDS             FOEF01000007.1:252998..254518
+FT                   /transl_table=11
+FT                   /locus_tag="SAMN04489732_107218"
+FT                   /product="ornithine decarboxylase"
+FT                   /db_xref="GOA:A0A1H8XGU0"
+FT                   /db_xref="InterPro:IPR000183"
+FT                   /db_xref="InterPro:IPR002433"
+FT                   /db_xref="InterPro:IPR003826"
+FT                   /db_xref="InterPro:IPR009006"
+FT                   /db_xref="InterPro:IPR016067"
+FT                   /db_xref="InterPro:IPR017716"
+FT                   /db_xref="InterPro:IPR022643"
+FT                   /db_xref="InterPro:IPR022644"
+FT                   /db_xref="InterPro:IPR022653"
+FT                   /db_xref="InterPro:IPR029066"
+FT                   /db_xref="UniProtKB/TrEMBL:A0A1H8XGU0"
+FT                   /protein_id="SEP39052.1"
+FT                   /translation="MIEALPQASLRCRAFLDDRSPPTPCLVVDLDVVRESYVRLREALP
+FT                   EARLYYAVKANPAPEVVRLLARAGAGFDVAGREEIELCLAQGVRPELISYGNTVKKARD
+FT                   IAFAHRAGVRRFTFDSLPDLENIAGHAPGSTVSCRILVDSPGSQTPFGQKFGCSPEMAA
+FT                   DLLTRAAALGLDAEGVAFHVGSQHLDPGAWEDGIAAAARVTRAVAARGVSLRGLNIGGG
+FT                   MPGRYATEPPPLAEYAAAIRASVERHFPVAPELAFEPGRAVVAGAGLIRSEVVLVSRKS
+FT                   PTDEKRWVYLDIGRYGGMAETENEAIAYRLETAHDGTPDGPVVIAGPTCDGDDVLYQRT
+FT                   PYRLPLALRAGDFVDILETGAYTQSYSSVSFNGFPPLRTYFLGGEPGEVGEFAGRHVLA
+FT                   EFSGVSPEVLDDAGFLCDSLQRALEKAGATVCELTFKRFEPQGITVLALLSESHASIHS
+FT                   YPERGSVFVDVFTCGRRADPELAVHLLQELLGAGAARTQTIHRGQEDG"
+XX
+SQ   Sequence 1521 BP; 203 A; 523 C; 562 G; 233 T; 0 other;
+     gtgatcgaag cgctcccgca ggcgtcgtta cggtgccgtg cgttcctgga cgaccgcagt        60
+     ccgccgacgc cgtgtctggt cgtcgacctc gatgtggtgc gggaaagcta tgtgcggctt       120
+     cgggaagcgc tgccggaggc tcggctgtac tacgcggtga aggcgaaccc ggcgccggag       180
+     gtggtgcggt tgctcgctcg cgcgggggcg ggcttcgatg tggccgggcg cgaggagatc       240
+     gaactctgcc tcgcccaggg ggttcggccg gagctgatct cctacggcaa cacggtgaag       300
+     aaggcgcgcg acatcgcgtt cgcccaccgg gccggggtgc gccggttcac cttcgacagc       360
+     ctcccggacc tcgagaacat cgccgggcac gcgcccgggt cgacggtgtc gtgccggatt       420
+     ctcgtggaca gccccggttc gcagaccccg ttcgggcaga agttcggctg tagccccgaa       480
+     atggcggccg acctgctcac gcgcgccgcc gccctcgggc tggacgcgga gggagtggcg       540
+     tttcacgtcg ggtcccagca cctcgacccg ggcgcttggg aggacggcat cgccgccgcc       600
+     gcgagggtca cccgcgcggt ggcggcgcga ggggtttcgt tgcgcggctt gaacatcggc       660
+     ggcgggatgc ccggccgtta cgcgaccgag ccgccaccgc tcgccgagta cgccgccgcc       720
+     atccgcgcgt cggtcgagcg gcattttccc gtcgcgccgg agctggcctt cgagccgggc       780
+     cgggcggtgg tcgccggggc cgggctgatc cgcagcgagg tcgtgctggt gtcccgcaag       840
+     tccccgacgg acgagaaacg ctgggtgtac ctggacatcg ggcgctacgg cgggatggcc       900
+     gagaccgaga acgaagccat cgcgtaccgc ctcgagaccg cccacgacgg caccccggac       960
+     ggcccggtcg tgatcgccgg ccccacctgc gacggcgacg acgtcctcta ccagcgcacc      1020
+     ccgtaccggc tgccgctggc gttgcgggcc ggtgacttcg tggacatcct ggagaccggc      1080
+     gcgtacacgc agagctactc gtcggtgtcg ttcaacggct ttcccccgtt gcggacgtat      1140
+     ttcctcggcg gcgagccggg cgaggtcggc gagttcgccg gccggcacgt gctcgcggag      1200
+     ttctcggggg tctcacccga ggtgctcgac gacgccgggt tcctgtgcga cagcctgcaa      1260
+     cgcgcgttgg agaaggcggg cgcgaccgtc tgcgagctga cgttcaagcg gttcgagccg      1320
+     cagggcatca ccgtgctcgc gctgctgtcc gagtcgcacg cttcgatcca ctcctacccc      1380
+     gagcgcgggt cggtgttcgt cgacgtgttc acctgcggcc gccgagccga cccggagctg      1440
+     gccgtgcacc tgctgcagga gctgctcggc gcgggcgcgg cccggaccca gaccatccac      1500
+     agaggacagg aagacggttg a                                                1521
+//

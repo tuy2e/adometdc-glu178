@@ -1,0 +1,96 @@
+ID   MBN9744622; SV 1; linear; genomic DNA; WGS; BCT; 1521 BP.
+XX
+PA   QJPO01000001.1
+XX
+PR   Project:PRJNA474237;
+XX
+DT   09-MAR-2021 (Created)
+DT   09-MAR-2021 (Last updated)
+XX
+DE   Amycolatopsis sp. A1MSW2902 adenosylmethionine decarboxylase
+XX
+KW   WGS.
+XX
+OS   Amycolatopsis sp. A1MSW2902
+OC   Bacteria; Actinobacteria; Pseudonocardiales; Pseudonocardiaceae;
+OC   Amycolatopsis; unclassified Amycolatopsis.
+XX
+RN   [1]
+RA   Holmes N.A., Lammerts R.A., Worsley S.F., Patrick E.H., Wilkinson B.,
+RA   Hutchings M.I.;
+RT   "Genome sequencing and biosynthetic gene cluster analysis of 20
+RT   antibiotic-producing actinomycete strains isolated from fungus-growing ant
+RT   nests";
+RL   Unpublished.
+XX
+RN   [2]
+RA   Holmes N.A., Lammerts R.A., Worsley S.F., Patrick E.H., Wilkinson B.,
+RA   Hutchings M.I.;
+RT   ;
+RL   Submitted (03-JUN-2018) to the INSDC.
+RL   School of Biological Sciences, University of East Anglia, Norwich Research
+RL   Park, Norwich, Norfolk NR4 7TJ, United Kingdom
+XX
+DR   MD5; 120cad7da813a226e1f0868e23c2df84.
+DR   BioSample; SAMN09295213.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..1521
+FT                   /organism="Amycolatopsis sp. A1MSW2902"
+FT                   /host="Mycocepurus smithii"
+FT                   /strain="A1MSW2902"
+FT                   /mol_type="genomic DNA"
+FT                   /country="Argentina: Iguazu"
+FT                   /collection_date="2009"
+FT                   /db_xref="taxon:687413"
+FT                   /submitter_seqid="Amycolatopsis_UM15_unitig_0"
+FT   CDS             complement(QJPO01000001.1:5826061..5827581)
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /gene="speD"
+FT                   /locus_tag="DMP23_26680"
+FT                   /product="adenosylmethionine decarboxylase"
+FT                   /note="Derived by automated computational analysis using
+FT                   gene prediction method: Protein Homology."
+FT                   /inference="COORDINATES: similar to AA
+FT                   sequence:RefSeq:WP_009073608.1"
+FT                   /protein_id="MBN9744622.1"
+FT                   /translation="MTEGFSQVLERCRAFLEERQPSTPCLVVDLDVVRGNCERLGQALP
+FT                   EARMYYAVKANPAPEVVRVLRQAGAGFDVAGREEIELCLAQGVRPELLSYGNTVKKARD
+FT                   IEFAHRVGVGRFTFDSLEDLEKIAEFAPGATVSCRILVDSPGSQTPFGRKFGCAPEMAV
+FT                   DLLVRAAGLGLDPEGVAFHVGSQHVDPRAWEVGIAAAGEVTRAVAERGVSLRGLNIGGG
+FT                   FPVGYLTEPPPLAEYAAVIRDALGRHFAVAPELSFEPGRAVVASAGVIRSEVVLVSRKS
+FT                   AADEKRWVYLDIGRYGGLAETENEAIAYRLVAAHDGGPDGPVVVAGPTCDGDNVLYQRT
+FT                   PYRLPLALRAGDYVDIPDAGAYTQSYSSVSFNGFPPLRSYFIGGEHGGVGEFAGRHVLA
+FT                   EFSGVSAELLDDPAFLCESLERVLDKAGATVCELTYKQFEPHGVTAMALLSESHASIHT
+FT                   YPERGSAFVDVFTCGHKADPEQAVQLLRDLLGASVSRVTTIHRGQEDS"
+XX
+SQ   Sequence 1521 BP; 206 A; 395 C; 614 G; 306 T; 0 other;
+     gtgactgaag ggttctcgca ggtgctggag cgttgccggg cgttcctgga ggagcggcag        60
+     ccgtcgacgc cgtgtctggt cgtggacctt gacgtggtgc gcgggaactg cgagcggctc       120
+     ggccaggcgt tgccggaagc gcggatgtat tacgcggtca aggctaatcc ggcgccggag       180
+     gtcgtgcggg ttcttcggca agcgggcgct gggttcgatg tcgcggggcg cgaggagatc       240
+     gagttgtgtc tcgcgcaagg ggtgcggccc gagttgctgt cctatggcaa cacggtgaag       300
+     aaggctcggg acatcgagtt cgcccatcgc gtgggggtgg ggcggtttac cttcgacagc       360
+     ctcgaggacc tcgagaagat cgcggagttc gcgcccggag cgacggtctc gtgccggatt       420
+     ctggtggaca gtcctggatc gcagacgccg ttcgggcgca agttcggctg tgctcccgag       480
+     atggcggtcg acctgctggt tcgggcggcg gggctggggc tggatccgga gggggtcgcg       540
+     tttcacgttg ggtcgcagca tgtcgatccg cgggcttggg aagtcgggat cgctgccgcg       600
+     ggcgaggtga ctcgtgcggt tgcggagcgc ggggtttcct tgcggggctt gaatattggc       660
+     ggtgggtttc ccgttgggta tttgactgag ccgcctccgt tggcggagta cgcggcggtt       720
+     attcgcgacg ccctcgggcg gcatttcgcg gtggcgcctg agttgtcgtt cgagccgggg       780
+     cgggcggtgg tggcgtcggc tggggtgatt cgcagcgagg tcgtgctggt gtcccgcaag       840
+     tccgcggcgg acgagaagcg ttgggtgtac ctcgacatcg gccggtacgg cgggctcgcc       900
+     gagacggaga acgaggcgat cgcgtaccgg ttggtcgccg cgcatgacgg cggtccggat       960
+     gggcctgtcg tggttgcggg gccgacgtgc gacggggaca acgtgcttta tcagcgcacg      1020
+     ccgtatcggt tgccgttggc gttgcgggct ggggattacg tcgatattcc ggacgctgga      1080
+     gcgtacacgc aaagctattc ttcggtgtcg ttcaacgggt ttccgccgct gcggtcatac      1140
+     ttcatcggag gggagcacgg cggggtcggg gaattcgctg gacggcatgt gctggctgag      1200
+     ttctccgggg tgtccgcgga gctgctcgac gatccggcgt ttctgtgcga gagcttggaa      1260
+     cgggtgctgg acaaggccgg cgcgacggtg tgcgagctga cgtacaagca gttcgaaccc      1320
+     cacggggtga cggcgatggc gttgctgtcg gagtcgcacg cttcgatcca cacgtatccg      1380
+     gagcgcgggt cggcgttcgt ggatgtgttc acgtgcgggc acaaggcgga tccggagcag      1440
+     gcggttcagt tgttgcggga cttgctcggc gcgagcgttt cgcgggtcac cactatccac      1500
+     agaggacagg aagacagttg a                                                1521
+//

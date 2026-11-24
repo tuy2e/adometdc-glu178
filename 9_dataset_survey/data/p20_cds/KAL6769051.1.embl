@@ -1,0 +1,77 @@
+ID   KAL6769051; SV 1; linear; genomic DNA; WGS; PLN; 774 BP.
+XX
+PA   JBMYHL010000012.1
+XX
+PR   Project:PRJNA1195244;
+XX
+DT   17-JUN-2025 (Created)
+DT   17-JUN-2025 (Last updated)
+XX
+DE   Auxenochlorella protothecoides x Auxenochlorella symbiontica DCA1
+XX
+KW   WGS.
+XX
+OS   Auxenochlorella protothecoides x Auxenochlorella symbiontica
+OC   Eukaryota; Viridiplantae; Chlorophyta; core chlorophytes; Trebouxiophyceae;
+OC   Chlorellales; Chlorellaceae; Auxenochlorella.
+XX
+RN   [1]
+RX   PUBMED; 41140129.
+RA   Craig R.J., Duenas M.A., Camacho D.J., Gallaher S.D.,
+RA   Avendano-Monsalve M.C., Lin Y.T., Blaby-Haas C.E., Moseley J.L.,
+RA   Merchant S.S.;
+RT   "Targeted genetic manipulation and yeast-like evolutionary genomics in the
+RT   green alga Auxenochlorella";
+RL   Plant Cell 37(11):(2025).
+XX
+RN   [2]
+RA   Craig R.J., Duenas M.A., Camacho D.J., Gallaher S.D., Moseley J.L.,
+RA   Merchant S.S.;
+RT   ;
+RL   Submitted (27-FEB-2025) to the INSDC.
+RL   QB3, UC Berkeley, Stanley Hall, University Drive, Berkeley, CA 94720, USA
+XX
+DR   MD5; b41f19a9cb249360709832f80a955c38.
+DR   BioSample; SAMN45466464.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..774
+FT                   /organism="Auxenochlorella protothecoides x Auxenochlorella
+FT                   symbiontica"
+FT                   /chromosome="12"
+FT                   /isolate="UTEX 250-A"
+FT                   /mol_type="genomic DNA"
+FT                   /dev_stage="vegetative"
+FT                   /tissue_type="whole cell"
+FT                   /db_xref="taxon:3385098"
+FT                   /submitter_seqid="B12"
+FT                   /geo_loc_name=Netherlands: Delft
+FT   CDS             complement(join(JBMYHL010000012.1:3718311..3718831,
+FT                   JBMYHL010000012.1:3720978..3721230))
+FT                   /codon_start=1
+FT                   /gene="DCA1"
+FT                   /locus_tag="ACKKBF_B17290"
+FT                   /product="DCA1"
+FT                   /protein_id="KAL6769051.1"
+FT                   /translation="MCVAALPCPAFEGSEKRISVSFSSRAGAVGAGLRALTRAELDALM
+FT                   DSAACLIVSARHHASHDAYVLSESSCFVYPDRIVVKTCGIAPAINAALEARFPGVEVVA
+FT                   EPGRFFAERIATLATAVFGARERSAGGDARDVGAIATPTVEDPTPHPTTRELFVTDGIY
+FT                   GSMNCMLYDHASPLPRALATDDRARGGLVPTTVFGPTCDGLDTLVRGHPLPAGLGVGSW
+FT                   LVWPDMGAYTICGASAFNGMDAVNVPRFYVWSVKP"
+XX
+SQ   Sequence 774 BP; 93 A; 302 C; 255 G; 124 T; 0 other;
+     atgtgcgtcg ccgccctgcc ctgccccgcc ttcgaggggt ctgagaagcg catcagcgtc        60
+     agcttctcct cccgtgcggg cgccgtcggc gccggcctgc gcgcgctgac ccgtgccgag       120
+     ctggacgcgc tgatggacag cgccgcctgc ctcatcgtgt cggcgcgcca ccacgccagc       180
+     cacgacgcct acgtcctgtc cgagtcctcc tgcttcgtct accctgaccg catcgtggtc       240
+     aagacctgcg gcatcgcgcc ggccatcaac gccgcgctgg aggcgcgctt cccgggcgtg       300
+     gaggtggtgg ccgagccggg acgcttcttc gcggagcgca tcgccacgct tgccaccgcc       360
+     gtgtttggcg cgcgcgagcg cagcgcgggc ggtgacgcca gggacgtggg cgccatcgcc       420
+     acccccaccg tcgaggaccc caccccccac cccaccacgc gcgagctctt cgtgaccgat       480
+     ggcatctacg gctccatgaa ctgcatgctg tacgaccacg ccagccccct gccgcgtgcg       540
+     ctggccaccg acgaccgcgc gcgcggcggt ctggtcccca ccaccgtgtt tgggcccacc       600
+     tgcgacgggc tggacacgct ggtgcggggc cacccgctgc ctgccgggct gggcgtcggc       660
+     tcgtggctgg tgtggcccga catgggggcc tacaccatct gcggcgcctc ggccttcaac       720
+     ggcatggacg cagtgaacgt tccccgtttc tacgtctggt ctgtgaagcc gtga             774
+//

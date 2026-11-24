@@ -1,0 +1,104 @@
+ID   CAD9712254; SV 1; linear; transcribed RNA; TSA; PLN; 1692 BP.
+XX
+PA   HBHL01001915.1
+XX
+PR   Project:PRJEB37117;
+XX
+DT   25-JAN-2021 (Created)
+DT   01-MAR-2021 (Last updated)
+XX
+DE   Chloropicon primus hypothetical protein
+XX
+KW   TPA; TSA; TPA:assembly; Third Party Data; Transcriptome Shotgun Assembly.
+XX
+OS   Chloropicon primus
+OC   Eukaryota; Viridiplantae; Chlorophyta; Chloropicophyceae; Chloropicales;
+OC   Chloropicaceae; Chloropicon.
+XX
+RN   [1]
+RA   Corre E., Pelletier E., Niang G., Scheremetjew M., Finn R., Kale V.,
+RA   Holt S., Cochrane G., Meng A., Brown T., Cohen L.;
+RT   ;
+RL   Submitted (11-JAN-2021) to the INSDC.
+RL   ELIXIR Workflow Implementation Study, CNRS / Sorbonne Universite, STATION
+RL   BIOLOGIQUE DE ROSCOFF, Place Georges Teissier, 29680 Roscoff, France
+XX
+DR   MD5; 972179ca1edab1d5ae49b2190d5a5842.
+DR   BioSample; SAMEA7574097.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..1692
+FT                   /organism="Chloropicon primus"
+FT                   /strain="CCMP1205"
+FT                   /mol_type="transcribed RNA"
+FT                   /db_xref="taxon:1764295"
+FT   CDS             HBHL01001915.1:<3..1694
+FT                   /codon_start=1
+FT                   /transl_table=1
+FT                   /locus_tag="CPRI1469_LOCUS1095"
+FT                   /note="ID:cds.MMETSP1469-doi:10.5281-zenodo.249982-Transcri
+FT                   pt-1172.p1"
+FT                   /note="source:transdecoder"
+FT                   /inference="protein motif:Reactome:R-HSA-351202"
+FT                   /inference="protein motif:InterPro:IPR022643"
+FT                   /inference="protein motif:GO:0003824"
+FT                   /inference="protein motif:InterPro:IPR016067"
+FT                   /inference="protein motif:InterPro:IPR022653"
+FT                   /inference="protein motif:KEGG:00330+4.1.1.50"
+FT                   /inference="protein motif:KEGG:00270+4.1.1.50"
+FT                   /inference="protein motif:InterPro:IPR029066"
+FT                   /inference="protein motif:GO:0008295"
+FT                   /inference="protein motif:InterPro:IPR009006"
+FT                   /inference="protein motif:GO:0006596"
+FT                   /inference="protein motif:GO:0004014"
+FT                   /inference="protein motif:InterPro:IPR000183"
+FT                   /inference="protein motif:InterPro:IPR022644"
+FT                   /inference="protein motif:InterPro:IPR001985"
+FT                   /inference="protein motif:GO:0006597"
+FT                   /inference="protein motif:InterPro:IPR002433"
+FT                   /inference="protein motif:MetaCyc:PWY-6834"
+FT                   /inference="ab initio prediction:InterProScan:5.28-67.0"
+FT                   /protein_id="CAD9712254.1"
+FT                   /translation="TIHITPEDSFSYASIEVCGIKRSEDFDSNAFVQLVADLFKPQSLY
+FT                   VVATCDGFASALEWCDCKLGHSEPGAGSGQMFEKLFSANQVMTRYGNCAFHAFASDGVR
+FT                   EEFGSGNMAAKLDKPPFSPITVLREDGMSFSDSSSSGSSEEAQRDETLLPLSESDMDTN
+FT                   FVKRVRADTIETSNCVERYAGCKIRELGLEDTFYVFDLGNVYRRMKTWQRLLPRVKPFY
+FT                   AVKCNPDPGVLSTLASLGTGFDCASQMELESVLSLGVSPDSVVYANACKRPSDLRHMRQ
+FT                   TGTLLTTFDSESELLKIKQYHPSAQVVLRIRADDPNARCYLGNKYGAETYEVEHLLRKT
+FT                   IELGLNLVGVSFHVGSGASDPEAFRMAIGLARQVFNAALALGITTMDLLDIGGGFSGGT
+FT                   GDGTEALGKVARVIRASLDKHFGEEGRYRIIAEPGRYFSEGACSLFTCVYGKRRREEKM
+FT                   EYWLTDGLYGSMNCVIYDHAKLAPKPFFLKSSAPVEDLDLYSSTLFGPTCDGLDTVLKD
+FT                   VMMPRLDNGDWIIFPAMGAYTISAASNFNGISACDPQIFYVVSKTE"
+XX
+SQ   Sequence 1692 BP; 351 A; 486 C; 509 G; 346 T; 0 other;
+     accatccaca tcacccccga ggacagcttt agctatgcca gcatcgaggt ctgcgggatc        60
+     aagaggtccg aggacttcga ctcgaacgcg tttgtgcagc tcgtggccga tctgttcaag       120
+     ccccaaagct tgtacgtcgt ggcaacgtgc gacggtttcg cctcagcttt ggagtggtgc       180
+     gactgcaagc ttggccactc tgagcctggc gcgggctccg ggcagatgtt tgagaagctg       240
+     ttctcagcca accaggtcat gactaggtac ggcaactgcg ccttccacgc cttcgcttcc       300
+     gatggcgtga gggaggagtt cggctctggc aacatggcgg ccaagctcga caagccgcct       360
+     ttctcgccaa tcactgttct cagggaggac ggcatgtcct tctccgactc gtccagcagc       420
+     ggcagtagcg aagaggccca gagagacgag actctccttc ctttgagcga gtctgacatg       480
+     gacaccaatt ttgtgaagcg tgttagggcg gacacgatcg agacgtccaa ctgcgtcgaa       540
+     agatacgcgg gctgcaagat cagggagttg ggccttgagg acactttcta cgtctttgat       600
+     ctgggcaacg tttaccggag gatgaagacg tggcagaggc tcttgcctag ggtaaagccc       660
+     ttctatgcgg tcaagtgcaa ccctgatccg ggcgtgcttt ccaccctggc gtccctgggc       720
+     actggttttg attgcgcatc ccaaatggag ctcgagtccg tcctgtccct cggagtttct       780
+     ccagattcgg tggtctacgc gaacgcctgc aagcgaccca gcgacctcag gcacatgagg       840
+     cagaccggaa ccctcttgac cacctttgac tcggagagcg agctcctgaa gatcaagcag       900
+     taccacccct ctgcccaagt cgtgctgaga atcagggcag acgacccgaa cgcgcggtgc       960
+     taccttggca acaagtacgg ggccgagact tacgaggtgg agcacctgct gaggaagacc      1020
+     atcgagctcg ggctgaacct cgttggagtc agcttccacg tgggaagcgg cgcgagcgat      1080
+     ccagaggcct tcagaatggc cattggcctg gccaggcagg ttttcaacgc cgccctggcg      1140
+     ctcgggatca ccacgatgga cttgctcgac atcggaggag gcttcagcgg gggcacgggc      1200
+     gacggcaccg aggccttggg aaaagtggcg agagtcatca gagcgagtct tgacaagcac      1260
+     tttggggagg agggaaggta caggatcatt gcggagcctg ggaggtactt ctccgaggga      1320
+     gcctgctccc tcttcacttg cgtctatggc aagaggagga gggaagaaaa gatggagtac      1380
+     tggctcacgg acggtctcta cggttcgatg aactgcgtga tctacgacca cgccaagctc      1440
+     gctcccaagc cgtttttcct caagtcctcg gcgcccgtgg aggacctgga cttgtattct      1500
+     tccaccctct tcgggccaac ttgtgatggc ttggacaccg tgctcaagga cgtgatgatg      1560
+     ccaaggctcg acaacgggga ctggatcatt ttccctgcga tgggcgccta caccatctcg      1620
+     gccgcttcca acttcaacgg catctctgcc tgcgacccac aaatctttta cgtggtgtcc      1680
+     aagacagaat aa                                                          1692
+//

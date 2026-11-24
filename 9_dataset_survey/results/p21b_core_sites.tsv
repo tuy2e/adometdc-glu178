@@ -1,0 +1,14 @@
+site	core	reason	active:ODC human	active:ODC Trypanosoma brucei	active:ODC yeast	active:ODC tobacco (plant)	active:AdoMetDC/ODC Plasmodium falciparum	active:LDC/ODC Selenomonas ruminantium	Q8IJ77_structure	plasmodium_65_human_residue	plasmodium_65_other	other_active_decarboxylases_human_residue	other_active_detail
+K69	True	human residue in all 6 active ODCs	K	K	K	K	K	K	K kept	65/65		7/9	ADC:K ADC1:K ADC2:K ADC:K DAPDC:K DAPDC1:K CANSDC:- CANSDC:- LDC2:K
+H197	True	human residue in all 6 active ODCs	H	H	H	H	H	H	H kept	65/65		9/9	ADC:H ADC1:H ADC2:H ADC:H DAPDC:H DAPDC1:H CANSDC:H CANSDC:H LDC2:H
+S200	True	human residue in all 6 active ODCs	S	S	S	S	S	S	S kept	65/65		7/9	ADC:S ADC1:S ADC2:S ADC:S DAPDC:S DAPDC1:S CANSDC:C CANSDC:A LDC2:S
+G237	True	human residue in all 6 active ODCs	G	G	G	G	G	G	G kept	65/65		9/9	ADC:G ADC1:G ADC2:G ADC:G DAPDC:G DAPDC1:G CANSDC:G CANSDC:G LDC2:G
+E274	True	human residue in all 6 active ODCs	E	E	E	E	E	E	E kept	65/65		9/9	ADC:E ADC1:E ADC2:E ADC:E DAPDC:E DAPDC1:E CANSDC:E CANSDC:E LDC2:E
+P275	True	human residue in all 6 active ODCs	P	P	P	P	P	P	P kept	65/65		6/9	ADC:P ADC1:S ADC2:S ADC:S DAPDC:P DAPDC1:P CANSDC:P CANSDC:P LDC2:P
+G276	True	human residue in all 6 active ODCs	G	G	G	G	G	G	G kept	65/65		9/9	ADC:G ADC1:G ADC2:G ADC:G DAPDC:G DAPDC1:G CANSDC:G CANSDC:G LDC2:G
+R277	True	human residue in all 6 active ODCs	R	R	R	R	R	R	R kept	64/65	S 1	7/9	ADC:R ADC1:R ADC2:R ADC:R DAPDC:R DAPDC1:R CANSDC:E CANSDC:E LDC2:R
+Y331	False	substituted in an active ODC: ODC yeast F, AdoMetDC/ODC Plasmodium falciparum F	Y	Y	F	Y	F	Y	F lost	0/65	F 62; - 2; G 1	4/9	ADC:F ADC1:Y ADC2:Y ADC:- DAPDC:- DAPDC1:Y CANSDC:Y CANSDC:R LDC2:H
+D332	True	human residue in all 6 active ODCs	D	D	D	D	D	D	D kept	63/65	- 2	2/9	ADC:E ADC1:- ADC2:- ADC:- DAPDC:- DAPDC1:D CANSDC:N CANSDC:E LDC2:D
+C360	True	human residue in all 6 active ODCs	C	C	C	C	C	C	C kept	62/65	- 2; T 1	6/9	ADC:C ADC1:- ADC2:- ADC:- DAPDC:C DAPDC1:C CANSDC:C CANSDC:C LDC2:C
+D361	True	human residue in all 6 active ODCs	D	D	D	D	D	D	D kept	63/65	- 2	2/9	ADC:D ADC1:- ADC2:- ADC:- DAPDC:E DAPDC1:E CANSDC:L CANSDC:L LDC2:D
+Y389	True	human residue in all 6 active ODCs	Y	Y	Y	Y	Y	Y	Y kept	61/65	- 4	6/9	ADC:Y ADC1:- ADC2:- ADC:- DAPDC:Y DAPDC1:Y CANSDC:Y CANSDC:Y LDC2:Y

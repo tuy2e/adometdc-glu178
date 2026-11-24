@@ -1,0 +1,82 @@
+ID   CAE2913698; SV 1; linear; transcribed RNA; TSA; PLN; 906 BP.
+XX
+PA   HBLK01025108.1
+XX
+PR   Project:PRJEB37117;
+XX
+DT   04-FEB-2021 (Created)
+DT   01-MAR-2021 (Last updated)
+XX
+DE   Heterocapsa triquetra hypothetical protein
+XX
+KW   TPA; TSA; TPA:assembly; Third Party Data; Transcriptome Shotgun Assembly.
+XX
+OS   Heterocapsa triquetra
+OC   Eukaryota; Sar; Alveolata; Dinophyceae; Peridiniales; Heterocapsaceae;
+OC   Heterocapsa.
+XX
+RN   [1]
+RA   Corre E., Pelletier E., Niang G., Scheremetjew M., Finn R., Kale V.,
+RA   Holt S., Cochrane G., Meng A., Brown T., Cohen L.;
+RT   ;
+RL   Submitted (14-JAN-2021) to the INSDC.
+RL   ELIXIR Workflow Implementation Study, CNRS / Sorbonne Universite, STATION
+RL   BIOLOGIQUE DE ROSCOFF, Place Georges Teissier, 29680 Roscoff, France
+XX
+DR   MD5; d5160ae99c17534a6b904fdc17b17dd7.
+DR   BioSample; SAMN02740042.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..906
+FT                   /organism="Heterocapsa triquetra"
+FT                   /strain="CCMP 448"
+FT                   /mol_type="transcribed RNA"
+FT                   /db_xref="taxon:66468"
+FT   CDS             HBLK01025108.1:<1..>906
+FT                   /codon_start=1
+FT                   /transl_table=1
+FT                   /locus_tag="HTRI0448_LOCUS13731"
+FT                   /note="ID:cds.MMETSP0448-doi:10.5281-zenodo.249982-Transcri
+FT                   pt-2940.p1"
+FT                   /note="source:transdecoder"
+FT                   /inference="protein motif:MetaCyc:PWY-6834"
+FT                   /inference="protein motif:GO:0004014"
+FT                   /inference="protein motif:InterPro:IPR016067"
+FT                   /inference="protein motif:GO:0006597"
+FT                   /inference="protein motif:Reactome:R-HSA-351202"
+FT                   /inference="protein motif:InterPro:IPR001985"
+FT                   /inference="protein motif:GO:0008295"
+FT                   /inference="protein motif:GO:0003824"
+FT                   /inference="protein motif:InterPro:IPR009006"
+FT                   /inference="protein motif:InterPro:IPR029066"
+FT                   /inference="protein motif:InterPro:IPR022644"
+FT                   /inference="protein motif:KEGG:00330+4.1.1.50"
+FT                   /inference="protein motif:KEGG:00270+4.1.1.50"
+FT                   /inference="ab initio prediction:InterProScan:5.28-67.0"
+FT                   /protein_id="CAE2913698.1"
+FT                   /translation="PQLDECFFEPIGFSANGAFGKHFTTVHITPQESCSYLSVETTTPL
+FT                   NREARRRFILGAEGMCHAKTLTVAEFALCSTLFSGAAPEVPGFEVVRSSQTVGKTFACA
+FT                   HHHYERLGGSVASSQSTGPPSCSPSPTLTCSSAPYTPRQRTTSLEVVEEIMKLVELPPS
+FT                   AGETEQRCPSVTCQAAKQQTHVVEVVSACRAPVLAAEAFLGAGHSCEVPEKDVPMSLLD
+FT                   TGALRRQADVWHRLLPRVEPFYAVKCNNHPDVLQTLWRKWQETGTGGFDAASPLEIQRV
+FT                   LDLGVDPATQIVYANPAKQGS"
+XX
+SQ   Sequence 906 BP; 153 A; 320 C; 295 G; 138 T; 0 other;
+     ccgcagctgg acgagtgctt cttcgagccg atcggctttt ctgccaacgg tgcgttcggg        60
+     aagcacttca ccacggtgca catcaccccg caagagagct gctcctacct ctcggtggag       120
+     acgacgacgc ccctgaaccg tgaagcgcgg cgcaggttca tcctcggcgc agagggcatg       180
+     tgccatgcga agacgctgac agtcgccgag tttgcgctgt gctccacgct cttctcgggt       240
+     gccgcccctg aagtgcccgg cttcgaggtc gtccgcagct cgcagaccgt cggaaagacg       300
+     ttcgcgtgcg cgcaccacca ctacgagcgc ctgggcggca gcgtggccag cagccagtcc       360
+     acgggcccgc ccagctgctc cccctcgccc acgctgacct gctcgtcggc gccgtacacg       420
+     cccaggcagc gcaccacgag cctggaggtc gtagaagaaa ttatgaagct cgtggagctc       480
+     ccaccgagcg ctggcgagac ggagcagcgg tgccccagcg tgacctgcca ggccgccaag       540
+     cagcagacgc atgtcgtcga ggtcgtcagc gcatgccggg cccccgtcct ggccgccgag       600
+     gcgttcctcg gcgccgggca cagctgcgag gtgcccgaga aggatgtccc catgagcctt       660
+     ctggataccg gcgcgctgag gcggcaggcc gacgtctggc atcggctgtt gcctcgcgtg       720
+     gagcccttct acgcggtcaa gtgcaacaac cacccagatg tgcttcagac gctctggcgc       780
+     aaatggcagg agacgggcac cggcggcttc gacgcggcga gcccactgga gatccagcgc       840
+     gtgctggacc ttggcgtcga ccctgcgacg cagatcgtct acgccaaccc ggccaagcag       900
+     ggctcg                                                                  906
+//

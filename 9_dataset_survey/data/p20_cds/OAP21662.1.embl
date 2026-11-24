@@ -1,0 +1,102 @@
+ID   OAP21662; SV 1; linear; genomic DNA; WGS; PRO; 1500 BP.
+XX
+PA   LWSF01000026.1
+XX
+PR   Project:PRJNA317178;
+XX
+DT   09-JUN-2016 (Rel. 129, Created)
+DT   16-JUN-2016 (Rel. 129, Last updated, Version 2)
+XX
+DE   Amycolatopsis sp. M39 Lysine/ornithine decarboxylase
+XX
+KW   WGS.
+XX
+OS   Amycolatopsis sp. M39
+OC   Bacteria; Actinobacteria; Pseudonocardiales; Pseudonocardiaceae;
+OC   Amycolatopsis.
+XX
+RN   [1]
+RA   Beemelmanns C., Kim K.H., Ramadhar T.R., Klassen J.L., Cao S., Wyche T.P.,
+RA   Hou Y., Poulsen M., Bugni T., Currie C.R., Clardy J.;
+RT   ;
+RL   Submitted (06-APR-2016) to the INSDC.
+RL   Leibniz Institute for Natural Product Research and Infection Biology e.V.,
+RL   Beutenbergstrasse 11a, Jena 07745, Germany
+XX
+DR   MD5; c539a4c34fc5e9298ea374833895b064.
+DR   BioSample; SAMN04600898.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..1500
+FT                   /organism="Amycolatopsis sp. M39"
+FT                   /host="termite"
+FT                   /strain="M39"
+FT                   /mol_type="genomic DNA"
+FT                   /country="South Africa"
+FT                   /isolation_source="tissue"
+FT                   /collected_by="Michael Poulsen"
+FT                   /collection_date="15-Jan-2012"
+FT                   /identified_by="Michael Poulsen"
+FT                   /db_xref="taxon:1825094"
+FT   CDS             complement(LWSF01000026.1:110801..112300)
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /gene="ldc"
+FT                   /locus_tag="A4R44_07685"
+FT                   /product="Lysine/ornithine decarboxylase"
+FT                   /EC_number="4.1.1.17"
+FT                   /db_xref="EnsemblGenomes-Gn:A4R44_07685"
+FT                   /db_xref="GOA:A0A178WWK5"
+FT                   /db_xref="InterPro:IPR000183"
+FT                   /db_xref="InterPro:IPR002433"
+FT                   /db_xref="InterPro:IPR003826"
+FT                   /db_xref="InterPro:IPR009006"
+FT                   /db_xref="InterPro:IPR016067"
+FT                   /db_xref="InterPro:IPR017716"
+FT                   /db_xref="InterPro:IPR022643"
+FT                   /db_xref="InterPro:IPR022644"
+FT                   /db_xref="InterPro:IPR022653"
+FT                   /db_xref="InterPro:IPR022657"
+FT                   /db_xref="InterPro:IPR029066"
+FT                   /db_xref="UniProtKB/TrEMBL:A0A178WWK5"
+FT                   /inference="ab initio prediction:Prodigal:2.6"
+FT                   /inference="similar to AA sequence:UniProtKB:O50657"
+FT                   /protein_id="OAP21662.1"
+FT                   /translation="MLERCRAFLEERQPPTPCLVVDLDVVRGNCERLRQVLPEARMYYA
+FT                   VKANPAPEVVRVLRQAGAGFDVAGREEIELCLAQGVRPELLSYGNTVKKARDIEFAHRV
+FT                   GVRRFTFDSLAELEKIAEFAPGATVSCRILVDSPGSRTPFGRKFGCDVEMAVDLVVRAA
+FT                   ELGLDPEGVAFHVGSQHVDPRAWEAGVAAAGEVTRAVAERGVCLRGLNIGGGFPVGYLT
+FT                   EPPPLAEYAAVIREAVGRHFAVTPELSFEPGRAVVASAGVIRSEVVLVSRKSAADEKRW
+FT                   VYLDIGRYGGLAETENEAIAYRLVTAHDGGPDGPVVVAGPTCDGDDVLYQRTPYRLPLA
+FT                   LRAGDYVDIPDAGAYTQSYSSVSFNGFPPLRSYFTGGEPGGVGEFAGRHVLAEFSGVSA
+FT                   ELLDDPVFLCESLERVLDKAGAAVCELTCKQFEPHGVTAMALLAESHASIHTYPERGSA
+FT                   FVDVFTCGRKADPELAVQLLRDLLGASVSRVTTIHRGQEDS"
+XX
+SQ   Sequence 1500 BP; 201 A; 393 C; 622 G; 284 T; 0 other;
+     gtgctggagc gttgccgggc gttcctggag gaacggcagc cgccgacgcc gtgtctggtc        60
+     gtggacctcg acgtggtgcg cgggaactgc gagcggcttc gccaggtgct gccggaagcg       120
+     cggatgtact acgcggtcaa ggctaatccg gcgccggagg tcgtgcgggt tcttcggcaa       180
+     gcgggagccg ggttcgatgt cgcggggcgc gaggagatcg aactgtgtct cgcgcagggg       240
+     gtgcggcccg agttgctgtc ctatggcaac acggtgaaga aggcgcggga catcgagttc       300
+     gcgcaccgcg tgggggtgcg gcggtttacc tttgacagcc tggcggagct ggagaagatc       360
+     gcggagttcg cgccgggggc gactgtctcg tgccggattc tggtcgacag tcctggatcg       420
+     cggacaccgt tcgggcgcaa gttcgggtgc gacgtcgaga tggcggtcga cctggtggtg       480
+     cgggcggcgg agctggggct ggatccggag ggggtcgcgt tccacgtcgg gtcgcagcat       540
+     gtcgatccgc gggcgtggga agccggggtc gctgccgccg gcgaggtgac tcgtgcggtg       600
+     gcggagcgcg gggtctgctt gcgggggttg aatattggcg gcggatttcc ggtcggctat       660
+     ctgactgagc cgccgccgct ggcggagtac gcggcggtta ttcgcgaggc ggtggggcgg       720
+     catttcgcgg tgacgcctga gttgtcgttc gagccggggc gggcggtggt ggcgtcggcc       780
+     ggggtgattc gcagcgaggt tgtgctggtg tcgcgcaagt ccgcggcgga tgagaagcgt       840
+     tgggtgtacc tcgacatcgg ccggtacggc gggctggccg agacggaaaa cgaggccatc       900
+     gcgtaccggt tggtcactgc gcatgatggc ggcccggacg ggcccgttgt ggtcgcgggg       960
+     ccgacgtgcg acggggatga cgtgctttat cagcgcacgc cgtatcggtt gccgttggcg      1020
+     ttgcgggcgg gggattacgt cgacatcccg gacgctggag cgtacacgca aagttattct      1080
+     tcggtgtcgt tcaacgggtt tccgccgttg cggtcgtact tcaccggcgg ggagcccggc      1140
+     ggggtcgggg aattcgccgg acggcatgtg ctggccgagt tttccggggt gtccgcggag      1200
+     ttgctcgacg acccggtgtt tctgtgcgag agcttggagc gggtactgga caaggccggc      1260
+     gcggcggtgt gcgagctgac ctgcaagcaa ttcgaaccgc acggggtgac ggcgatggcg      1320
+     ttgctggcgg agtcgcacgc ttcgattcac acgtatccgg agcgcggatc ggcgttcgtg      1380
+     gatgtgttca cgtgcgggcg caaggcggat ccggagctgg cggttcagtt gttgcgggac      1440
+     ttgctcggcg cgagcgtttc gcgggtcacc actatccaca gaggacagga agacagttga      1500
+//

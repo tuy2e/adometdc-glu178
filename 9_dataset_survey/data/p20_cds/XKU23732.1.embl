@@ -1,0 +1,110 @@
+ID   XKU23732; SV 1; linear; genomic DNA; STD; PLN; 2508 BP.
+XX
+PA   CP145477.1
+XX
+PR   Project:PRJNA596499;
+XX
+DT   04-DEC-2024 (Rel. 144, Created)
+DT   05-DEC-2024 (Rel. 144, Last updated, Version 1)
+XX
+DE   Chloropicon roscoffensis ornithine decarboxylase
+XX
+KW   .
+XX
+OS   Chloropicon roscoffensis
+OC   Eukaryota; Viridiplantae; Chlorophyta; Chloropicophyceae; Chloropicales;
+OC   Chloropicaceae; Chloropicon.
+XX
+RN   [1]
+RA   Lemieux C., Turmel M., Otis C., Pombert J.-F.;
+RT   "Complete genome sequence of the green alga Chloropicon roscoffensis
+RT   RCC2335";
+RL   Unpublished.
+XX
+RN   [2]
+RA   Lemieux C., Turmel M., Otis C., Pombert J.-F.;
+RT   ;
+RL   Submitted (30-JAN-2024) to the INSDC.
+RL   Biochimie, microbiologie et bio-informatique, Universite Laval, Pavillon
+RL   Charles-Eugene Marchand, 1030 ave de la medecine, Quebec, QC G1V 0A6,
+RL   Canada
+XX
+DR   MD5; 280e6586da15fe356c25daa79d2b039d.
+DR   BioSample; SAMN13625102.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..2508
+FT                   /organism="Chloropicon roscoffensis"
+FT                   /chromosome="18"
+FT                   /strain="RCC2335"
+FT                   /mol_type="genomic DNA"
+FT                   /lat_lon="35.22 N 139.62 E"
+FT                   /collection_date="2009-05-04"
+FT                   /db_xref="taxon:1461544"
+FT                   /geo_loc_name=Japan: Sagami Bay
+FT   CDS             complement(CP145477.1:251223..253730)
+FT                   /codon_start=1
+FT                   /locus_tag="GQ617_18g87340"
+FT                   /product="ornithine decarboxylase"
+FT                   /protein_id="XKU23732.1"
+FT                   /translation="MVTENNSFYPQPIFEGAEKRLEVDFEPAPLSGVHELMDVECHGAA
+FT                   QPHSDSEDLQSSSSATAVAGSLRAIKHGEWNKLLDPAQCSIVSWESNASCDAYLLSESS
+FT                   LFVYDRSLVLKTCGRTKILDAIPGILERALDGQRSSLTVARARYSRSAFKCPEQQPVPH
+FT                   TDFALEVSALNGLFGHLEGGGHAYVLGDQCTDALWHVYTAGAPPKGRGSTSTLEVCMTG
+FT                   LDPKYCEYFACKSDSNSPAQRACLRLECGLAKLLGKQDRVDDYVFDPCGYSMNAIRDER
+FT                   LVTIHITPEEGFSYASVEVSNLGPKDTLDASEFVGHVAALFGPQRVYVAATGDFLPAQY
+FT                   GGFGLAGGYSSVSCADQRVAGYGSCSFRAFATGQGGPLARGSGALAGLKGSAREPSSPV
+FT                   TVLGEERGASVEFSSSTSEGNDGTAAIRDPSDVDSLFIKRVSAETIESSCCVEEFAAAK
+FT                   IKQLSLEDTFYVFDLGNVYRRMLTWKRLLPRVRPFYAVKCNPDPGVLSTLAALGTGFDC
+FT                   ASEVELQSVLSLGVRPDSVVYANACKRPSDLRHMKHTGTQLTTFDSESELYKIKQYHPE
+FT                   ASCVLRIRADDPNARCFLGNKYGAEQREVEPLLAKASELGLRVVGVSFHVGSGASDPEA
+FT                   FRMAISLARGCFDAALRLGINTLNLLDIGGGFSGGSGDGREALESVAAVINESLDEHFG
+FT                   ADLGTLRVIAEPGRYFSEGACTLFTCVYGKRQRENRQEYWLTDGLYGSMNCVIYDHAEL
+FT                   KPRPLWIRSANSSATEGHPTTLFGPTCDGLDTVLKEVTMPKMENGDWVVFPQMGAYTIS
+FT                   AASNFNGISACDPQIFYVVSKRE"
+XX
+SQ   Sequence 2508 BP; 464 A; 741 C; 813 G; 490 T; 0 other;
+     atggtgacgg agaataacag tttttacccg cagcccatct tcgagggcgc cgagaagagg        60
+     ctcgaggtcg acttcgagcc cgcccccctg tctggggtcc atgagttgat ggacgtggag       120
+     tgccatggtg ccgcgcagcc ccactcggac tcggaggact tgcagtcctc ctcctcggcg       180
+     accgctgttg ccggcagcct cagggcgatc aagcacggcg agtggaacaa gctactggat       240
+     cccgcgcagt gctccatcgt ttcttgggag agcaacgcgt cttgcgacgc gtacctgctg       300
+     agcgagtcga gcctctttgt gtacgacagg agtctggtcc tgaagacttg cggcaggacc       360
+     aagatcttgg acgccattcc tggaatcctg gaacgcgcgc tggacggcca gcgctcgtct       420
+     ctcaccgtgg ccagggcgag gtactcgagg tcggccttca agtgtccgga gcagcagccc       480
+     gtgccgcaca ccgatttcgc gcttgaagtc tccgcgctga acggcctttt cggccacctc       540
+     gagggcggag ggcacgcgta cgtgctggga gatcaatgca cggatgccct gtggcacgtt       600
+     tataccgccg gggcgcctcc caagggccgc gggtcgacga gcacgctcga ggtctgcatg       660
+     actggccttg accccaagta ctgtgagtac tttgcgtgca agtctgattc aaactcgcca       720
+     gctcagaggg cttgcctcag attggagtgc ggcttggcca agctgttggg caagcaggac       780
+     cgggtggacg actacgtgtt tgatccttgc ggctactcga tgaatgcgat cagggacgag       840
+     aggctggtga ctatccacat caccccggag gagggattct cctacgcgag cgtcgaagtt       900
+     tccaacttgg gcccaaagga caccttggac gcctccgagt tcgtcggcca cgtcgccgca       960
+     ctcttcgggc cgcagagggt ctacgttgcg gccaccggtg actttcttcc cgcccagtat      1020
+     ggcggattcg ggctggccgg cggatactca agcgtgtctt gtgcagacca gcgcgttgct      1080
+     gggtatggat cttgctcctt cagggccttt gcgacgggcc agggcggccc cttggcgcgc      1140
+     ggctcgggtg ctttggcggg ccttaagggc tcggccaggg agccttcgtc tccggtgacc      1200
+     gtgcttggcg aggagagggg agccagcgtc gagttctcca gcagcaccag cgagggcaac      1260
+     gacggcactg ccgctataag ggatccctcg gacgtggact ccctgttcat caagagggtg      1320
+     agcgcggaga caatcgagtc ctcgtgctgc gtggaggagt tcgcggcggc caagatcaag      1380
+     cagctctccc ttgaggacac cttttatgtc tttgacctag gcaacgtgta cagaaggatg      1440
+     ctaacttgga agaggctgct ccctagggtt aggccgttct acgcggtcaa gtgcaacccg      1500
+     gaccctggtg tgctctccac tttggcggcg ctgggcacgg ggttcgactg cgctagtgaa      1560
+     gtcgagctcc agtccgtgct ttccttggga gtcaggccag actctgtggt gtatgccaac      1620
+     gcttgcaaga ggccctcaga cctgaggcac atgaagcaca ccggcactca gctgaccacc      1680
+     ttcgactcgg agtccgagct gtacaagatc aagcagtacc accctgaggc gagctgcgtg      1740
+     ctcaggattc gagcagacga ccccaacgcc aggtgctttc tgggaaacaa gtacggcgca      1800
+     gagcagcgag aggtggagcc actgctcgcc aaggcctcag agttggggct gagggttgtc      1860
+     ggggttagct tccacgtggg atccggcgcc agcgacccag aggccttcag gatggctatc      1920
+     tcgctcgccc gcggctgctt tgatgcggct ttgaggctcg gcatcaatac cctaaacctg      1980
+     cttgacattg gtggcgggtt cagcggtggt tctggggatg gcagggaggc cctcgagtcc      2040
+     gtcgcggcgg tcatcaacga gagcctcgac gagcactttg gcgccgacct cggcaccctg      2100
+     agagtgatcg cagagccggg caggtacttt tctgaggggg cctgcaccct gttcacttgc      2160
+     gtgtacggca agaggcaaag ggaaaacagg caagagtact ggctcacgga cgggctgtac      2220
+     ggctcgatga attgcgtgat ctacgaccac gcggagctca agccgagacc gctgtggata      2280
+     cggtccgcca attcttccgc cacggagggc catcccacaa cccttttcgg cccaacatgc      2340
+     gatggcctgg acaccgtgct taaggaggtc accatgccaa aaatggagaa cggggactgg      2400
+     gtggtcttcc cccagatggg cgcatacacc atctccgcgg cctccaactt taacgggatc      2460
+     tcggcctgcg acccgcagat cttctacgtg gtcagcaagc gcgagtag                   2508
+//

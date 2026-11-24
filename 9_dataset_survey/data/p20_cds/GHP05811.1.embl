@@ -1,0 +1,107 @@
+ID   GHP05811; SV 1; linear; genomic DNA; WGS; PLN; 2571 BP.
+XX
+PA   BNJQ01000011.1
+XX
+PR   Project:PRJDB10693;
+XX
+DE   Pycnococcus provasolii mitochondrial 2-oxoadipate and 2-oxoglutarate
+DE   transporter
+XX
+KW   WGS; STANDARD_DRAFT.
+XX
+OS   Pycnococcus provasolii
+OC   Eukaryota; Viridiplantae; Chlorophyta; Pycnococcaceae; Pycnococcus.
+XX
+RN   [1]
+RA   Suzuki S., Kawachi M.;
+RT   "Unveiling of a novel bifunctional photoreceptor, Dualchrome1, isolated
+RT   from a cosmopolitan green alga";
+RL   Unpublished.
+XX
+RN   [2]
+RA   Suzuki S., Kawachi M.;
+RT   ;
+RL   Submitted (30-OCT-2020) to the INSDC.
+RL   Contact:Shigekatsu Suzuki National Institute for Environmental Studies,
+RL   Center for Environmental Biology and Ecosystem studies; Onogawa 16-2,
+RL   Tsukuba, Ibaraki 305-0053, Japan
+XX
+DR   MD5; 26083f6e28e7244685077502e0946589.
+DR   BioSample; SAMD00253459.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..2571
+FT                   /organism="Pycnococcus provasolii"
+FT                   /strain="NIES 2893"
+FT                   /mol_type="genomic DNA"
+FT                   /db_xref="taxon:41880"
+FT                   /submitter_seqid="Scaffold_11"
+FT   CDS             BNJQ01000011.1:239866..242436
+FT                   /codon_start=1
+FT                   /locus_tag="PPROV_000455800"
+FT                   /product="mitochondrial 2-oxoadipate and 2-oxoglutarate
+FT                   transporter"
+FT                   /note="transcript_id:PP11G1140-T1"
+FT                   /protein_id="GHP05811.1"
+FT                   /translation="MALPPPVFEGSEKRLEVTFANAALSANALGLRLLPRSSIDELMTL
+FT                   ARCEVLSHTRGTAFDAYVLSESSLFVFPHKLVLKTCGNTKLLAALPRLLAHADALGLTP
+FT                   RCVRFTRFAYLFPALQPDPHRAFEDEASTIDAALINVQHFAHRSVSVAPCSGDRDDALY
+FT                   HVYVAAANEAAAVPEGATLEVCMSGLDPAYCANNFMHDSFDGCAKKTTEQCGLRAAAPL
+FT                   GDIVDAYVFDPCGYSMNGLHDAVGGFTTCHIAPEDACSYASVEVHVPSAKILADMLHAH
+FT                   VADAGGIQDAYLAIADSCRRLFGARNVVVAATGDATALAGAYAASGWHAAVTLSQSVAV
+FT                   CASVMESQTPPLSMAMAKVPAMQQAEEEEESRPDSPTAKSDGSEETMMATAASLMSSMS
+FT                   FSSESMETVLAGEDNKAGLMQPFVADCVLLKSWSVDQDAVCRQLAREHERLSCTEDSFY
+FT                   LMDLGVVSRRMEAWRHHLPRVTPFYAVKCNDNPRLLAHLVRLGCGFDSASPAELELAIR
+FT                   AGACSGIDAVSMQDRVVYANCCKPMSYLTHMQTTGACSLTTFDSSCELRKCVSKYPSCR
+FT                   LLLRIRADDPNARCQLGHKYGAEPEEAFALLEEAHALGANLAGVSFHVGSGGDDEEKNS
+FT                   QGDTSAAKAFRYAIATARELFDIGRERYGFTMNVLDIGGGFPGGENGMPGAHFVRTTRA
+FT                   IREELATHFPEQMGVRLIAEPGRYFAEAACTYATRIIGMRSRPTRREDGILVPHTDYTL
+FT                   SDGLYGSFNNVMYDHAELTYRVVHVSDDRANGISDGNATSARLFGPTCDGLDTVIENTM
+FT                   LPELSLGDLVVFPAMGAYTRTGSCDFNGVAVTAANFVFVSSQSD"
+XX
+SQ   Sequence 2571 BP; 442 A; 812 C; 825 G; 492 T; 0 other;
+     atggcgctcc cgccgccggt gttcgaaggc tctgagaagc gcctcgaggt gactttcgcc        60
+     aacgcagccc tgagcgccaa cgcgctgggc ctgcgccttc tcccgcgctc gtcgattgac       120
+     gagctcatga cgctcgcacg ctgcgaggtg ctttcgcaca cgcgcggcac cgcgttcgac       180
+     gcgtacgtgc tctcggaaag cagcctgttc gtctttccgc acaagctcgt gctgaagacg       240
+     tgcggcaaca ccaagctgct ggctgccctg ccgcgcctgc ttgctcacgc cgatgcgctt       300
+     ggcctcacgc cgcgctgcgt gcgctttacg cgattcgcgt acctcttccc tgccctgcag       360
+     cccgaccctc accgcgcttt cgaggacgag gcgtccacga tcgacgccgc tctcatcaac       420
+     gtgcagcact ttgcgcaccg atccgtgagc gtcgcgccat gcagcggcga ccgagacgac       480
+     gcgctctacc acgtgtacgt tgcggcggcg aacgaggctg ctgccgtgcc cgagggggcg       540
+     acgctcgagg tgtgcatgtc ggggcttgac ccggcgtact gcgccaacaa cttcatgcac       600
+     gactcgttcg acgggtgtgc caagaagacc acggaacagt gcggcctgcg cgccgccgcg       660
+     ccgctcggcg acatcgtcga cgcctacgtg ttcgatccat gtggatacag catgaatggc       720
+     ctgcacgacg cggtcggcgg cttcaccacg tgccacatcg cgccggagga tgcttgctcg       780
+     tacgcgagcg tcgaggtgca cgtgccatcc gcgaagatcc tcgcggacat gctgcacgca       840
+     cacgtggcgg acgctggtgg gattcaggat gcatatctcg cgattgccga ttcgtgccga       900
+     cgccttttcg gcgcgcgtaa tgtggtggtg gcggcgacgg gcgatgccac cgcgcttgct       960
+     ggtgcgtacg cggcttcggg atggcatgct gccgtcacgc tgtcgcagtc ggtggctgtg      1020
+     tgcgcctctg tgatggaatc acagacgccg ccgctttcga tggcgatggc gaaggtgccg      1080
+     gcgatgcagc aagcggagga ggaggaggag agtcgtcctg acagtcccac ggcgaagagc      1140
+     gacggctcgg aagagacgat gatggccacc gctgcgagcc tcatgagctc catgagcttc      1200
+     agcagcgaat ccatggaaac ggttcttgcc ggcgaggaca acaaagctgg cctgatgcag      1260
+     ccattcgtcg ccgactgcgt gctgctcaag tcgtggtctg tcgatcaaga tgccgtgtgc      1320
+     cgacagctcg cgcgggagca cgaaagactg tcgtgcacgg aggactcgtt ttacctgatg      1380
+     gaccttggcg ttgtcagccg acgcatggaa gcttggcgtc accatctccc gcgcgtgacg      1440
+     ccgttctacg cggttaagtg caacgacaac cctcgcctgc ttgcgcacct cgtgcgtctc      1500
+     ggctgcggtt tcgactcggc gagtcccgcg gagctggagc ttgccatccg agcgggcgca      1560
+     tgctctggca ttgatgccgt gtcgatgcaa gatcgtgtcg tgtacgccaa ctgctgcaag      1620
+     cccatgagct acctcaccca catgcagacg acgggcgcgt gctcgctgac gacgttcgat      1680
+     tcttcgtgcg agctgcgcaa gtgcgtctcc aagtaccctt cgtgccgtct tcttctgcgc      1740
+     attcgcgcgg atgatccaaa tgcccgatgc cagctcggtc acaagtacgg agccgagccg      1800
+     gaggaggcgt ttgcgctcct cgaggaagcg catgcgctcg gtgccaacct cgcgggcgtg      1860
+     agtttccacg tgggatctgg cggagacgac gaggagaaaa actcgcaggg cgacacgagt      1920
+     gccgccaagg ctttccgcta cgccatcgcg actgcgcgtg agctgttcga catcgggcgc      1980
+     gagcgctacg gcttcacgat gaatgtgctc gacattggtg gtggcttccc cggcggcgag      2040
+     aacggtatgc caggtgctca tttcgtgcgt acaacccgcg caatccgcga ggagcttgcc      2100
+     acgcactttc cagagcagat gggcgtacgc ctgattgccg agcccggccg atacttcgcc      2160
+     gaggcggcct gcacgtacgc gacccgcatt attgggatgc gcagtcgccc gacacgtcgc      2220
+     gaggatggca tcctggtacc tcacaccgac tacacgctca gcgatggcct gtacggaagt      2280
+     ttcaacaacg tgatgtacga tcatgcggag cttacgtacc gtgttgtgca tgtgagtgac      2340
+     gaccgtgcca acggcatctc ggatggaaat gcgacgagcg cgcgcctatt cgggccgact      2400
+     tgcgatggcc tcgacacagt gatagagaac acgatgcttc cggagctgtc actaggcgat      2460
+     cttgtggtgt tccccgccat gggcgcttac acgcgcaccg gctcgtgcga cttcaacggc      2520
+     gttgcggtga ctgcggcaaa cttcgttttt gtgtcgagcc agagcgacta g               2571
+//

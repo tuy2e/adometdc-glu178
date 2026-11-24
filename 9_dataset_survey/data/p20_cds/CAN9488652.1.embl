@@ -1,0 +1,120 @@
+ID   CAN9488652; SV 1; linear; genomic DNA; WGS; PLN; 2532 BP.
+XX
+PA   CBIHSB010000006.1
+XX
+PR   Project:PRJEB95800;
+XX
+DT   22-AUG-2025 (Created)
+DT   25-AUG-2025 (Last updated)
+XX
+DE   Trebouxia sp. A48 hypothetical protein
+XX
+KW   WGS.
+XX
+OS   Trebouxia sp. A48
+OC   Eukaryota; Viridiplantae; Chlorophyta; core chlorophytes; Trebouxiophyceae;
+OC   Trebouxiales; Trebouxiaceae; Trebouxia.
+XX
+RN   [1]
+RA   Maclean D., Macfadyen A.;
+RT   ;
+RL   Submitted (13-AUG-2025) to the INSDC.
+RL   JIC, The Sainsbury Laboratory, The Sainsbury Laboratory,, Norwich Research
+RL   Park,, Norwich, NR4 7UH,, UK., NR4 7UH, United Kingdom
+XX
+DR   MD5; 370d3b21f65ced4768754f9074478cec.
+DR   BioSample; SAMEA118906228.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..2532
+FT                   /organism="Trebouxia sp. A48"
+FT                   /strain="SAG 2671"
+FT                   /isolate="GTP0183"
+FT                   /mol_type="genomic DNA"
+FT                   /isolation_source="Xanthoria parietina lichen thallus"
+FT                   /collection_date="2024-10-23"
+FT                   /note="contig: GTX0536_6"
+FT                   /db_xref="taxon:3434820"
+FT                   /submitter_seqid="GTX0536_6"
+FT                   /geo_loc_name=United Kingdom:Norwich Research Park,
+FT                   Norwich, UK
+FT   CDS             join(CBIHSB010000006.1:687189..687548,
+FT                   CBIHSB010000006.1:687778..688749,
+FT                   CBIHSB010000006.1:688933..689328,
+FT                   CBIHSB010000006.1:689820..689987,
+FT                   CBIHSB010000006.1:690529..690693,
+FT                   CBIHSB010000006.1:691035..691505)
+FT                   /codon_start=1
+FT                   /transl_table=1
+FT                   /locus_tag="GTX0536_005064"
+FT                   /product="hypothetical protein"
+FT                   /note="GO_function: GO:0003824 - catalytic activity
+FT                   [Evidence IEA]; GO_function: GO:0004014 -adenosylmethionine
+FT                   decarboxylase activity [Evidence IEA]; GO_process:
+FT                   GO:0006597 - spermine biosynthetic process [Evidence IEA];
+FT                   GO_process: GO:0006596 - polyamine biosynthetic process
+FT                   [Evidence IEA]; GO_process: GO:0008295 - spermidine
+FT                   biosynthetic process [Evidence IEA]"
+FT                   /protein_id="CAN9488652.1"
+FT                   /translation="MASAEAWPSPVFEGSEKRLEVDFFPTAGSGLRGLSRFQLDQLLEN
+FT                   AGCCVVSDRHNEQFDAYVLSESSLFVFPTKLVLKTCGTTKILHAIPLLLELAAITGCSP
+FT                   KRCKYSRASFLFPHHQPEVYQCFDQEVAYLKRHFGNLGHGGDAYVLGDASNGLQWHVYV
+FT                   ADADHRAPHQPQAGPATYSLEVCMTELCPQKALQFFRNSSFVSAQHTSTASGIQRLVPN
+FT                   ALIDDFLFEPCGYSMNSMEGSGFSTIHITPEEGFSYASFEISNYATTSLDINQLVSTVV
+FT                   DIFNPGKMTVALTVDTNLPCCLWGESVQTPASYTCHASASQMFSCGGRTAFYSMARDAK
+FT                   SHTEAEPVSPMTVLESPASLMSFSCVSESDRFSTVDTASSSAVADDVIRGPASKEPAAK
+FT                   EVAPSAPAAEAVDSERVSVMKVLECFNATMIDVGNDATYDAFIKKTVQEQAVEDPLYLL
+FT                   DLGAVRRLYQAWVDLMPRVHPFYAVKCNTDPAMVSLLAALGAGFDCASEWEADTVLGLG
+FT                   VPPERIVFANACKRPCDIRFAAAKGLKLTTFDTESELHKLARWHPATETLLRIRADDTQ
+FT                   ARCQLGNKYGALMEDCAGLLALAHSLNIQVVGVAFHVGSGATNPQAFADAIAVARQVFD
+FT                   QGQELGFCMSILDIGGGFAGGCFDGTGTVQLGRVPLAVNAALDTFFPDPSVKVIAEPGR
+FT                   YFAEASCTFACMVFGIRAQKLLDGEQGYDYWITDGLYGSMNSVMYDHATLTTRALAAAG
+FT                   PVGFDKLKNESIVASEQSSAKEQLFKSTVFGPTCDGLDTVLTDYSLPKLCNGDWLVFPN
+FT                   MGAYTLSGASNFNGINSTDVKMFYLWSQRSV"
+XX
+SQ   Sequence 2532 BP; 542 A; 701 C; 669 G; 620 T; 0 other;
+     atggcctcag ctgaggcttg gccgtcgccg gtcttcgaag gttcagaaaa gcgtttggaa        60
+     gtagattttt ttcctacagc tggtagcggt ctacgcggcc tcagtcgctt tcagctagac       120
+     cagctgcttg agaacgcagg ctgctgcgtt gtctcagaca ggcacaatga gcaatttgac       180
+     gcatatgttc tatcagagtc cagcctgttc gtgttcccaa ccaaactggt attgaaaacc       240
+     tgtggcacca ccaagatact gcatgccatc ccactcctgc tggagttggc tgccatcact       300
+     ggttgcagtc ccaagcgatg caagtactcc agagcttctt tcctctttcc gcaccatcag       360
+     ccggaggtgt accagtgctt tgaccaggaa gttgcatacc tgaagcggca ctttggcaac       420
+     ctgggtcatg gaggcgatgc ttacgttctt ggtgatgcca gcaacggtct gcagtggcat       480
+     gtctatgttg ccgatgctga ccacagagca cctcatcagc ctcaggcagg tcctgctaca       540
+     tattccctgg aggtctgcat gactgagcta tgcccacaga aggcgcttca gttcttcagg       600
+     aacagttcct ttgtctctgc acagcacaca agcacggcca gtggcatcca gaggctggtc       660
+     cccaacgctc tgatcgatga tttccttttt gagccttgtg ggtacagcat gaacagcatg       720
+     gagggttcag gcttcagcac catccacatc acacctgagg agggtttcag ttacgccagt       780
+     tttgagatct ccaattatgc taccactagc ttggatatca accagcttgt ctccacagtg       840
+     gtggacattt ttaatccagg caagatgacg gttgcattga cagttgacac caacctgcct       900
+     tgctgccttt ggggcgaatc tgtacagacc ccagctagct atacctgcca tgcctcagct       960
+     agtcaaatgt tcagctgcgg cggccgcact gcattctaca gcatggctcg cgacgccaaa      1020
+     agtcacacag aagcagagcc agtcagccca atgacagtgc ttgagagtcc tgctagtctg      1080
+     atgtccttca gctgtgtctc agagtcagac agattcagca ccgtcgacac agcttcctca      1140
+     tcagctgtgg ctgatgacgt catcaggggc cctgcatcca aggagcctgc agccaaggag      1200
+     gtggctccat cagcacctgc tgcagaagct gtggacagtg aaagagtgtc tgtgatgaaa      1260
+     gtattggagt gcttcaatgc caccatgatt gacgtgggca acgatgccac ctacgatgcc      1320
+     ttcatcaaaa agacagtgca agagcaagca gtggaggacc ccctatatct attggacctg      1380
+     ggagctgtca ggcgcctgta ccaagcctgg gttgacctca tgcccagggt ccatcccttc      1440
+     tacgctgtca agtgcaacac agacccagcc atggtctccc tcctggcggc gcttggtgca      1500
+     ggctttgact gcgcttctga gtgggaggct gacactgtct tggggctggg tgtcccacct      1560
+     gagcgcatcg tgtttgccaa tgcatgcaag aggccgtgcg acatcaggtt tgcagcggcc      1620
+     aagggcctga agctgaccac ctttgacact gagagcgagc tgcacaagct tgccaggtgg      1680
+     caccccgcca cggagaccct gctgcgcatt cgtgctgatg acacacaggc ccgctgccag      1740
+     cttggcaaca agtatggtgc ccttatggaa gactgtgctg gcctgctggc ccttgcccac      1800
+     agcctcaaca tccaggtggt tggagtggcc ttccatgtcg gcagcggtgc cacaaaccct      1860
+     caagcctttg ctgatgccat tgctgttgct cgccaggttt ttgaccaagg ccaagagctt      1920
+     ggtttttgca tgtccatcct tgacattggc ggcggatttg ctggtggctg ctttgatggc      1980
+     actggcaccg ttcagttggg acgagtcccc cttgcagtca atgctgccct ggatactttc      2040
+     ttcccagatc cctctgtcaa ggtgattgca gagcctggcc gctattttgc tgaggcctcc      2100
+     tgcacctttg cctgcatggt ctttggcatc agagctcaaa agctgctaga tggcgagcaa      2160
+     ggctacgact actggattac tgatggcctg tatggctcta tgaacagtgt gatgtatgat      2220
+     catgctacac tcactaccag agcccttgct gctgctgggc ctgttgggtt tgacaagctc      2280
+     aaaaatgaat caattgttgc ctcagagcaa tcttctgcca aagagcagct tttcaagtcc      2340
+     acagtatttg gacccacatg tgatgggctg gacactgtgc tgactgacta cagtctgcca      2400
+     aagctttgca atggtgactg gcttgtgttc ccaaacatgg gtgcatacac cctttctggt      2460
+     gcctccaact tcaacggcat taacagcaca gatgtcaaga tgttctactt gtggtcgcag      2520
+     cgaagtgtgt ga                                                          2532
+//

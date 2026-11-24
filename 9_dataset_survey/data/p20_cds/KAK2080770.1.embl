@@ -1,0 +1,97 @@
+ID   KAK2080770; SV 1; linear; genomic DNA; WGS; PLN; 2085 BP.
+XX
+PA   JASFZW010000001.1
+XX
+PR   Project:PRJNA954010;
+XX
+DE   Prototheca wickerhamii hypothetical protein
+XX
+KW   WGS.
+XX
+OS   Prototheca wickerhamii
+OC   Eukaryota; Viridiplantae; Chlorophyta; core chlorophytes; Trebouxiophyceae;
+OC   Chlorellales; Chlorellaceae; Prototheca.
+XX
+RN   [1]
+RA   Eckstrom K.M.E.;
+RT   ;
+RL   Submitted (06-JAN-2021) to the INSDC.
+RL   VIGR, University of Vermont, 89 Beaumont Ave, Burlington, VT 05405, USA
+XX
+DR   MD5; 1326d2174d78a3267201d23ba37d3d1d.
+DR   BioSample; SAMN34131488.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..2085
+FT                   /organism="Prototheca wickerhamii"
+FT                   /host="Homo sapiens"
+FT                   /strain="UVCC 0001"
+FT                   /mol_type="genomic DNA"
+FT                   /country="USA: Vermont"
+FT                   /lat_lon="44.47 N 73.21 W"
+FT                   /isolation_source="cutaneous lesion"
+FT                   /collection_date="2020"
+FT                   /db_xref="taxon:3111"
+FT                   /submitter_seqid="scaffold_1"
+FT   CDS             complement(join(JASFZW010000001.1:1873159..1873456,
+FT                   JASFZW010000001.1:1873849..1874303,
+FT                   JASFZW010000001.1:1874372..1875205,
+FT                   JASFZW010000001.1:1875250..1875747))
+FT                   /codon_start=1
+FT                   /locus_tag="QBZ16_000624"
+FT                   /product="hypothetical protein"
+FT                   /db_xref="PFAM:PF00278"
+FT                   /db_xref="PFAM:PF01536"
+FT                   /db_xref="PFAM:PF02784"
+FT                   /protein_id="KAK2080770.1"
+FT                   /translation="MCPSPQTVLPCPVFEGSEKRISVSFVSRDGGELGAGLRALTRAEL
+FT                   DRLMEAAACLIVSARHHASHDAYVLSESSCFVYPDRIVMKTCGTTRLLGCVPLMLQMAA
+FT                   GLGLEPAAVKYSRASFLFPESQPEEHASFEAETALLRAAFASLPLASAYVLGDALSEGL
+FT                   QWHYAARAPLHTLEVCMTGLGAAQAARFFRDERFVSSRAVTVATGIQGLLPAAQIDDYV
+FT                   FEPCGYSMNAVDGEAFATIHVTPEDGFSYASFELCGEAGEAVDVPALVARVCDVFAPAH
+FT                   VAVAVSVDGAPEAAHLELAGSTWAARRSLPGGYQCHAGSFQELRAGGHVAFFSLVAAAP
+FT                   KGKEEDGVALPEALEKKCVPVEDADEAPAVPEPAAPKPVATARSTAPSSEEGGSPRAVL
+FT                   SSAAAGLLDCSVCTDLDSLGGGAAEDLLLSGLVLEGGPAPGTVEGRHAAALIRRNALED
+FT                   TFYVIDLGAVARLAARWRAALPRVRPHYAVKALPDAGVLATLAALGAGFDCASEAEARA
+FT                   VRALGVPAERILLANACKRPGDLRAGRELGVPLTTFDGEVELEKLARAWPEARLLLRIR
+FT                   ADAPDARCPLGNKFGAEEWDSLSPDGLYGSLNCILYDHASPVPRLLGGRPGPVAPTTVF
+FT                   GPTCDGLDTLVRDHPLPADAAVGDWLVWHDMGAYTLCGASNFNGMDAVNVPRFYVWSGP"
+XX
+SQ   Sequence 2085 BP; 228 A; 785 C; 767 G; 305 T; 0 other;
+     atgtgcccct ctccccagac cgtgctgccc tgccccgtgt ttgagggctc cgagaagcgc        60
+     atcagcgtga gctttgtctc gcgcgatggc ggcgagctgg gcgcgggcct gcgcgcgctg       120
+     acgcgcgccg agctggaccg cctgatggag gcggcggcgt gcctgatcgt gtcggcgcgg       180
+     caccacgcct cgcacgacgc ctacgtcctg tccgagtcct cctgcttcgt ctacccggac       240
+     cgcatcgtga tgaagacgtg cggcacgacg cgcctgctgg gctgcgtgcc gctcatgctg       300
+     cagatggcgg ccggcctggg cctggagccc gccgcggtca agtactcgcg cgccagcttc       360
+     ctcttccccg agtcgcagcc cgaggagcac gcgtcgttcg aggccgagac ggccctactg       420
+     cgcgccgcct ttgccagcct gccgctggcc tcggcctatg tgctgggcga cgcgctgtcc       480
+     gagggcctgc agtggcacta cgcggcccgc gcgccgctgc acacgctgga ggtctgcatg       540
+     acgggcctgg gcgcggccca ggccgcgcgc ttcttccgcg acgagcgctt tgtctccagc       600
+     cgcgcggtca cggtggcgac cggcatccag ggcctgctgc ccgccgcgca gatcgacgac       660
+     tacgtctttg agccgtgcgg ctactccatg aacgcggtcg acggcgaggc ctttgccacc       720
+     atccacgtca cgcccgagga cggcttctcc tacgccagct tcgagctgtg cggcgaggcg       780
+     ggcgaggcgg tcgacgtgcc cgcgctcgtc gcgcgcgtct gcgacgtgtt tgcgcccgcg       840
+     cacgtggccg tggccgtctc ggtcgacggc gcgcccgagg ccgcgcacct ggagctggcc       900
+     ggctcgacct gggccgcgcg ccgctcgctg ccgggcggct accagtgcca cgcgggctcc       960
+     ttccaggagc tgcgtgcggg cggccacgtc gcctttttca gcctcgtggc agccgcgccc      1020
+     aagggcaagg aggaggacgg tgtagcgctg cccgaggcgc tggagaagaa gtgcgtgccg      1080
+     gtcgaggacg cagacgaggc cccggccgtg cctgagccgg cggcgcccaa gcccgtggcg      1140
+     accgcgcgct cgacggcgcc ctccagcgag gagggcggct cgccgcgcgc cgtgctctcc      1200
+     tcggccgccg ccggcctgct cgactgctcc gtgtgcaccg acctggactc gctgggcggc      1260
+     ggcgccgcgg aggacttgct gctgtcgggc ctggtgctcg agggcggccc cgcgccgggg      1320
+     acggtggagg gccgccacgc ggccgcgctc atccggcgca acgcgctgga ggacaccttt      1380
+     tacgtgatcg acctgggcgc tgtggcgcgc ctggccgcgc gctggcgcgc cgcgctgccg      1440
+     cgcgtgcggc cccactacgc ggtcaaggcg ctgccggacg cgggcgtgct ggccacgctg      1500
+     gccgcgctgg gcgcgggatt cgactgcgcg agcgaggccg aggcgcgcgc ggtgcgcgcg      1560
+     ctgggcgtgc cggccgagcg catcctgctg gccaacgcct gcaagcgccc gggcgacctg      1620
+     cgcgccgggc gcgagctggg cgtgccgctg accacctttg acggcgaggt cgagctggag      1680
+     aagctggccc gcgcctggcc ggaggcgcgc ctgctcctgc gcatccgcgc ggacgcgccc      1740
+     gacgcgcgct gcccgctggg caacaagttt ggcgccgagg agtgggactc tttgtcaccg      1800
+     gacgggctct acggctcgct caactgcatc ctgtacgacc acgcctcgcc cgtgcccagg      1860
+     ctgctgggcg gccggcccgg ccccgtcgcg cccaccaccg tgtttggccc gacctgcgac      1920
+     ggcctggaca cgctcgtgcg cgaccacccg ctcccggccg acgcggccgt cggcgactgg      1980
+     ctcgtctggc acgacatggg ggcctacacg ctctgcggcg cctccaactt caacggcatg      2040
+     gacgcggtca acgtgccccg cttctacgtc tggtctgggc cctag                      2085
+//

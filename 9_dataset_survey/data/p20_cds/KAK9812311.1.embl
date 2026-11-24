@@ -1,0 +1,123 @@
+ID   KAK9812311; SV 1; linear; genomic DNA; WGS; PLN; 2397 BP.
+XX
+PA   JALJOQ010000007.1
+XX
+PR   Project:PRJNA790449;
+XX
+DT   12-JUN-2024 (Created)
+DT   12-JUN-2024 (Last updated)
+XX
+DE   Symbiochloris irregularis hypothetical protein
+XX
+KW   WGS.
+XX
+OS   Symbiochloris irregularis
+OC   Eukaryota; Viridiplantae; Chlorophyta; core chlorophytes; Trebouxiophyceae;
+OC   Trebouxiales; Trebouxiaceae; Symbiochloris.
+XX
+RN   [1]
+RC   Publication Status: Online-Only
+RX   PUBMED; 38789482.
+RA   Puginier C., Libourel C., Otte J., Skaloud P., Haon M., Grisel S.,
+RA   Petersen M., Berrin J.G., Delaux P.M., Dal Grande F., Keller J.;
+RT   "Phylogenomics reveals the evolutionary origins of lichenization in
+RT   chlorophyte algae";
+RL   Nat Commun 15(1):.
+XX
+RN   [2]
+RA   Dal Grande F., Keller J., Delaux P.-M.;
+RT   ;
+RL   Submitted (22-APR-2024) to the INSDC.
+RL   Biodiversity and Climate Research Centre (BIK-F), Senckenberg,
+RL   Senckenberganlage 25, Frankfurt am Main 60325, Germany
+XX
+DR   MD5; 9cb4ef8c4ec45650aa0cafedc3da067c.
+DR   BioSample; SAMN24199009.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..2397
+FT                   /organism="Symbiochloris irregularis"
+FT                   /host="Picea abies"
+FT                   /strain="SAG 2036"
+FT                   /mol_type="genomic DNA"
+FT                   /lat_lon="47.050037 N 14.717002 E"
+FT                   /isolation_source="green cover of aerophytic algae on the
+FT                   bark of Picea abies at the western exposed border of a
+FT                   forest at Obdacher Sattel (950 m a.s.l.)"
+FT                   /collection_date="1991-09"
+FT                   /db_xref="taxon:706552"
+FT                   /type_material="epitype of Symbiochloris irregularis"
+FT                   /submitter_seqid="Symirr_SAG2036_v1_Scf7"
+FT                   /geo_loc_name=Austria: Styria
+FT   CDS             join(JALJOQ010000007.1:622653..622793,
+FT                   JALJOQ010000007.1:622890..623114,
+FT                   JALJOQ010000007.1:623334..623537,
+FT                   JALJOQ010000007.1:623963..624217,
+FT                   JALJOQ010000007.1:624554..624738,
+FT                   JALJOQ010000007.1:624925..625060,
+FT                   JALJOQ010000007.1:625474..625740,
+FT                   JALJOQ010000007.1:626030..626293,
+FT                   JALJOQ010000007.1:626672..626964,
+FT                   JALJOQ010000007.1:627408..627834)
+FT                   /codon_start=1
+FT                   /locus_tag="WJX73_001055"
+FT                   /product="hypothetical protein"
+FT                   /protein_id="KAK9812311.1"
+FT                   /translation="MASETFPAPAFEGSEKRMELDFCSTLAGGAGDLRSLSRQQLDAVL
+FT                   DKASCCIVSSRSNTVFDSYVLSESSLFVYADKVVLKTCGTTRLLDAVPLLLELASGLGL
+FT                   ACSRCKYSRASFLFPDAQPAPYTDFNAEAAALQSALGPLGSYGSMAVLGEAATGLQWHI
+FT                   FMAELPGSTHPPTYSLEICMTELCPAKALPFFRTEDFLTAAAVTTRSGIAALLPQAEVD
+FT                   DFVFEPCGYSMNALQGSTLSTIHVTPEQGHSYASFELSGPCLQAFSISGTVAKVAEMFN
+FT                   PGHMTVALSTSVDGHGWDLSCTHLPTALQHRASAHHRHASSGDTTFHSLRKPAPPPGLH
+FT                   ALRSVDHEMGGELSRCPSPMAVTSLLSPCPLLDGQSTTAIAQVLAAHGAVSIPDGSQSA
+FT                   IDAHIRRLVTAHDLEDPLYVVDLGCVMRLYNAWQLAMPRVHPFYAVKCNTDGGMIALLA
+FT                   AMGAGFDCASEAEVKAVLSAGAGPDRIVYANACKRPKDVRAAASLGVNLTTFDTESELH
+FT                   KLRRWHPSTAALLRVRADDPAARCQLGNKYGAEMEQVPSLLQAAQQLGINVAGVSFHVG
+FT                   SGATNPAAFSEAIELARTVFDQGLAMGFDMHILDIGGGFCGGSILPDGSVALGDVPVAV
+FT                   NTALAKHFPDEGAVRVIAEPGRYFAEAAASLACMIIGTRDIRSTGKAPTRDYWITDGLY
+FT                   GSMNCILYDHATLSAHPLPPNNNIKGHHDAGTEGMLLVPSTVFGPTCDGLDTVLHDYPL
+FT                   PSLENGDWLVFPNMGAYTLVGACNFNGIDVAHTPVFYVCSAGRPS"
+XX
+SQ   Sequence 2397 BP; 416 A; 819 C; 702 G; 460 T; 0 other;
+     atggcctccg agactttccc cgctcctgct tttgagggca gtgagaagcg tatggagtta        60
+     gacttctgca gcactcttgc cggtggggcc ggcgatctga gatcgctttc tcgacagcag       120
+     cttgatgccg tcttggacaa ggcttcctgc tgcatagtgt cctcccgatc caacacagtc       180
+     ttcgactcct acgtgctgtc ggagtccagc ctctttgtct atgctgacaa ggttgtgctg       240
+     aagacctgtg gcaccacacg cctgcttgac gctgtgcccc tgctgctgga attggcttct       300
+     gggctgggcc tggcctgcag ccgctgcaag tattcacgtg cctccttcct cttccctgac       360
+     gctcagcctg ccccctacac agacttcaat gctgaagcag cagctcttca gagcgccctg       420
+     gggccactgg gcagctatgg ctcaatggct gtactgggag aggcggctac tgggctgcag       480
+     tggcacatct tcatggccga gctgcctggc agcacccacc cgcccaccta cagcctggag       540
+     atctgcatga cagagctgtg ccctgccaag gccctcccat tcttccgcac agaggacttc       600
+     ctgacagcag cagcagtcac cactcgcagc ggcattgcag ccctcctgcc ccaggctgaa       660
+     gttgacgact ttgtctttga gccctgcggc tacagcatga atgccctgca gggcagcact       720
+     ctgtccacca ttcatgtgac cccagagcag ggccactcct acgccagctt tgagctcagc       780
+     ggaccctgcc tgcaggcatt cagcatctcg ggcactgtgg caaaggtggc agagatgttc       840
+     aaccctggcc acatgaccgt cgccctctcc accagcgtgg atggccacgg ctgggacctc       900
+     tcctgcaccc acctccccac cgccctgcag cacagggctt ccgcgcacca ccgccacgcc       960
+     tccagcggcg acaccacctt ccacagcctc cgcaagcccg cccccccacc agggctgcat      1020
+     gcgctgaggt ctgtggacca tgagatgggc ggggagctgt cgcggtgccc ttcccccatg      1080
+     gccgtcacct cccttctatc cccctgcccc ctgctggatg gccagagcac caccgccatc      1140
+     gcacaggtgc tagcagccca tggggcagtg tccatcccag atggcagcca gagcgccatc      1200
+     gatgcccata tcaggcgcct ggtcacagcc catgacctgg aggaccccct gtacgtggtg      1260
+     gatctggggt gtgtcatgcg gctgtacaac gcctggcagc tggccatgcc cagagtgcac      1320
+     cccttctacg ccgtcaagtg caacactgat ggcggcatga tcgcgctgct ggctgccatg      1380
+     ggggctggct tcgattgtgc ctctgaggca gaggtcaagg cagtgctcag tgcaggcgca      1440
+     ggccccgaca ggatcgtgta cgccaacgcc tgcaagcgcc ccaaggatgt gcgggcagct      1500
+     gcctcactgg gcgtcaacct gaccaccttt gacacggaga gcgagctgca caagctcagg      1560
+     cggtggcacc cctccacagc ggcgctgctg cgcgtgaggg cggatgatcc ggcggccagg      1620
+     tgccagctgg gcaacaagta cggggccgag atggagcagg ttcccagcct gctgcaggcc      1680
+     gcgcagcagc tgggcatcaa tgtggcaggg gtgtccttcc acgtgggcag tggagccacc      1740
+     aaccctgccg ccttctccga ggccatagag ctggcacgca cagtctttga tcagggcctg      1800
+     gccatgggct tcgacatgca catcctggac attgggggcg gcttctgtgg ggggtccatc      1860
+     ctccctgatg gctctgtggc tctgggggat gtccccgtgg ctgtcaacac tgccctcgct      1920
+     aagcacttcc ctgatgaggg ggctgtgagg gtcattgcag agcctggcag gtacttcgcc      1980
+     gaggcggcag catccctggc ctgcatgatt ataggcacgc gcgacatccg ctccaccggc      2040
+     aaagccccga cgcgcgatta ctggatcacg gacggcctct acggctccat gaactgcatc      2100
+     ctgtacgacc acgccaccct ctcggcacac cccttgcccc ccaacaacaa catcaaggga      2160
+     caccatgatg ctggaaccga ggggatgctg ctggtgccct ccacagtctt tgggcccacc      2220
+     tgcgatggtc tggacaccgt gctgcacgac tacccactgc ccagcctgga gaatggggac      2280
+     tggctggtgt tccccaacat gggggcctac accctggtgg gggcctgcaa cttcaacggc      2340
+     atagatgtgg cccacactcc ggtgttttac gtgtgctctg ctgggcggcc ctcttga         2397
+//

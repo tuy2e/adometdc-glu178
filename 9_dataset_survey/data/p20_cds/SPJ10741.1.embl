@@ -1,0 +1,159 @@
+ID   SPJ10741; SV 1; linear; genomic DNA; STD; INV; 4296 BP.
+XX
+PA   LT990239.1
+XX
+PR   Project:PRJEB13584;
+XX
+DT   25-MAR-2018 (Rel. 136, Created)
+DT   10-JUN-2020 (Rel. 144, Last updated, Version 2)
+XX
+DE   Plasmodium sp. DRC-Itaito S-adenosylmethionine decarboxylase/ornithine
+DE   decarboxylase
+XX
+KW   .
+XX
+OS   Plasmodium sp. DRC-Itaito
+OC   Eukaryota; Sar; Alveolata; Apicomplexa; Aconoidasida; Haemosporida;
+OC   Plasmodiidae; Plasmodium; Plasmodium (Laverania).
+XX
+RN   [1]
+RG   Pathogen Informatics
+RA   ;
+RT   ;
+RL   Submitted (11-JAN-2018) to the INSDC.
+RL   WTSI, Pathogen Informatics, Wellcome Trust Sanger Institute, CB10 1SA,
+RL   United Kingdom
+XX
+RN   [2]
+RG   Pathogen Informatics
+RA   ;
+RT   ;
+RL   Submitted (09-JUN-2020) to the INSDC.
+RL   WELLCOME SANGER INSTITUTE, Pathogen Informatics, Wellcome Sanger Institute,
+RL   CB10 1SA, United Kingdom
+XX
+DR   MD5; a39f278d0887fb5188167ef7a02b5842.
+DR   BioSample; SAMEA104452070.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..4296
+FT                   /organism="Plasmodium sp. DRC-Itaito"
+FT                   /chromosome="10"
+FT                   /mol_type="genomic DNA"
+FT                   /db_xref="taxon:720590"
+FT   CDS             complement(LT990239.1:1293527..1297822)
+FT                   /transl_table=1
+FT                   /locus_tag="PBILCG01_1032100"
+FT                   /product="S-adenosylmethionine decarboxylase/ornithine
+FT                   decarboxylase"
+FT                   /db_xref="GOA:A0A2P9GLB6"
+FT                   /db_xref="InterPro:IPR000183"
+FT                   /db_xref="InterPro:IPR001985"
+FT                   /db_xref="InterPro:IPR002433"
+FT                   /db_xref="InterPro:IPR009006"
+FT                   /db_xref="InterPro:IPR016067"
+FT                   /db_xref="InterPro:IPR022644"
+FT                   /db_xref="InterPro:IPR029066"
+FT                   /db_xref="UniProtKB/TrEMBL:A0A2P9GLB6"
+FT                   /protein_id="SPJ10741.1"
+FT                   /translation="MNGIFEGIEKRVVIKLKESFFKGNKSVNSFLDIPKELWEEKLKYI
+FT                   GCSIVSEISENKKERRGERCRVYLLSESSLYIFDDSLFIKTCGKTRVLFFIPFVVDLLV
+FT                   YQMNNVGIIEKNCVYDETFLDKNKFHNIVDFIKEHFLYCFFTHMNYRNKGKDGYFEQEY
+FT                   PHKSVDDEKKFFQFFFKNVQMYNTQLPMEKMHYIFFYCSDNVNMIDIASTFKFCSEIHL
+FT                   FDIKKYNEKKQFHEAYLNKESLNLFTRVHQDNLKLYDSDSDQDLTHIYSTRGTYNDDRG
+FT                   KMNCMDVIHKNENTLSNRDNIDTILAIENKKSSNNSSRNNVVSVVSSEINNDIIRHSSY
+FT                   EDTLNCSSNSSEGKNRNALLEKENDESVRDNEKSEVLIKMIDTNLYECINQNKESFLYN
+FT                   EFYFTPCGYSCNVSEKNNYFCVHYSPEDSVSYVSIEVSSNVLCERFLDFVQNQLNFYNG
+FT                   KYMYMINYVFCEDSKNMCKMINNDDNNKKKNNNNDSNSSSSINSSSINSSSINSSSNCC
+FT                   FYYQSFHEKEEYYLLNRKLRNDFFINCKQFYELHTFIEEMVGFLKVQYFVYKLRDVVKY
+FT                   VEKETLLANSSSRVFMLNRKKENNVDDDNNIINSSNACIIKELTERDVDDMYEYALNFC
+FT                   KQNKIAIVDNSNTFDCIQKNENSKKFEKLQTNYEEKKSEEMSELCGKSNNELSSSLDDL
+FT                   CSKNNLIHMYYDEKKCVILNKDDENSTIATNNNDNNNDNMNDNNNDNMIDNMNGSSCSG
+FT                   KSITISRSSSCNNSNVSYSSFDNYHGNEKKKYYTCIDENNKNNNILSYERKNEYKNSKK
+FT                   EEKNDINLENNMEKNYKEEIWNYYNKNKVEVETLEKVLNENIDTSVVCINLQKILAQYI
+FT                   RFKKNLPYVTPFYSVKSNNDEVVIKFLYGLNVNFDCASIGEINKVLTLLPNLSRNRIIF
+FT                   ANTIKSINSLIYARKENINLCTFDNLDELKKIYRYHPKCSLILRINVDFKNYKSYMSSK
+FT                   YGANEYEWEEMLLYAKKHNLNIVGVSFHVGSNTKNLFDFCLAIKLCKDVFDMSSSMGFN
+FT                   FHIINLGGGYPEELEYDNAKKHDKIHYCTLSLEEIKKDIETFLNEKTFLKTKYGYYSFE
+FT                   KISLAINMSIDHYFGEIKDKLKVICEPGRYIVAASSTLAVKIIGKRRPTFQGIMLKDLK
+FT                   DHYDPLKFSQQEIMKEEEKINDQNNEKIEQNKNEQQGGHENKSSDVIIKTNTNDSTNKM
+FT                   NFHSSCQVNENTSSIIISEKKGENIKINEQAINHDNNIKGKKNTVDCDNIHIAHKNIGN
+FT                   NFSSSNSKLGNITNIKKKVVNINDNRYNYFSYYVSDSIYGCFSGIIFDEYNRCPIYIIK
+FT                   NKNNPNQNFMNFNLYLANVFGQSCDGLDMINSITYLPECFINDWLLYEYAGAYTFVSSS
+FT                   NFNGFKKCKKLYIFPEYKPSFNGQPNKHF"
+XX
+SQ   Sequence 4296 BP; 1808 A; 343 C; 690 G; 1455 T; 0 other;
+     atgaacggaa tctttgaagg aattgaaaaa agggttgtta tcaaattgaa ggagtctttt        60
+     ttcaaaggaa ataaaagtgt gaactccttt ttagatatac ctaaagaatt atgggaagaa       120
+     aaattaaaat atattggttg tagtattgta tcagaaataa gtgaaaacaa aaaagagaga       180
+     agaggtgaac gatgtcgtgt ttatttatta tcagagagtt ctttatacat ttttgatgat       240
+     tctttattta ttaagacatg tggcaaaaca agagttttat ttttcatacc gtttgtagtt       300
+     gatttattag tatatcaaat gaacaatgta ggtataatag aaaagaattg tgtatatgat       360
+     gagacatttc ttgacaaaaa taaatttcat aatatagttg atttcataaa agaacatttc       420
+     ctttattgct tttttacaca tatgaattac cgaaataaag gaaaagatgg ttattttgaa       480
+     caggaatatc cacacaaatc tgttgatgat gagaagaaat tttttcaatt tttttttaag       540
+     aacgtacaaa tgtataatac acaattaccc atggagaaaa tgcattatat tttcttttat       600
+     tgctcggata atgtaaatat gattgatata gcttctacgt ttaagttctg ttccgaaata       660
+     catttgtttg atattaagaa atataatgaa aagaagcaat tccatgaagc ttatttgaat       720
+     aaggaatcgt tgaatttatt tacaagagta catcaagata acttaaaact ttatgatagt       780
+     gattctgacc aagatttaac ccacatctat agtaccagag gaacatataa tgatgataga       840
+     ggaaagatga attgtatgga tgtgatacat aagaatgaaa atacattatc aaatagggat       900
+     aatatagata ccatccttgc tatcgaaaat aaaaaaagta gtaataatag tagtaggaat       960
+     aatgtcgtta gtgttgtttc ttctgaaata aataatgata ttatacgtca tagttcgtat      1020
+     gaagatactt taaattgttc tagtaattct tcagaaggta aaaatagaaa tgcactacta      1080
+     gaaaaagaaa acgatgaaag tgtaagagat aatgaaaaaa gtgaagtttt aataaaaatg      1140
+     atagatacca atttatatga atgtataaat caaaataagg aaagcttttt atataatgaa      1200
+     ttttatttta caccttgtgg ttattcttgt aatgtttctg aaaaaaataa ttatttttgt      1260
+     gtacattatt ctccagaaga tagtgtatcg tatgtttcta ttgaggtatc ttcaaatgtg      1320
+     ttgtgtgagc gatttttaga ctttgtgcag aaccagttga atttttataa tggaaagtat      1380
+     atgtacatga taaattatgt attttgtgag gatagcaaga acatgtgtaa aatgataaat      1440
+     aatgatgata ataataagaa gaagaataat aataatgata gtaatagtag tagtagtatt      1500
+     aatagtagta gtattaatag tagtagtatt aatagtagta gtaattgttg cttttattat      1560
+     caatcatttc atgagaaaga agaatattat ttgttgaaca gaaaattaag aaacgatttc      1620
+     tttatcaatt gtaaacaatt ctatgaatta catacattta tcgaagaaat ggtaggattt      1680
+     ctaaaagtgc aatattttgt ttacaaatta agagatgttg ttaaatatgt agaaaaagaa      1740
+     actttgctag ctaatagttc ctccagggta tttatgttga atagaaaaaa agagaataac      1800
+     gtagatgatg ataataatat aataaattcg tcaaatgcat gtataataaa agaattaaca      1860
+     gaaagggatg ttgatgatat gtatgagtat gctttaaatt tttgtaaaca aaataaaata      1920
+     gcaattgtag ataatagtaa tacttttgat tgtatacaaa aaaatgaaaa ctcaaagaaa      1980
+     tttgaaaagt tacaaacaaa ttatgaagaa aaaaaaagcg aagaaatgag cgaattatgt      2040
+     ggaaagagta ataatgaatt gagtagttca ttggatgatt tgtgtagtaa aaataatttg      2100
+     atacatatgt attatgatga gaagaaatgt gtaattctga ataaggatga tgaaaattcg      2160
+     acgatagcaa ctaataataa tgataataat aatgataata tgaatgataa taataatgat      2220
+     aatatgattg ataatatgaa tggtagtagt tgttcaggga aaagtataac gatcagtaga      2280
+     agtagtagtt gtaataatag caatgttagt tatagtagtt ttgataatta tcatggaaat      2340
+     gaaaagaaga aatattatac atgtattgat gagaataata agaataataa tatattatca      2400
+     tatgaaagga agaatgaata taagaatagt aaaaaagaag aaaagaatga tataaattta      2460
+     gaaaataata tggaaaagaa ttataaagaa gaaatttgga attattataa taagaataaa      2520
+     gtagaagtag aaacattaga aaaagtatta aatgagaata tagatacatc tgttgtttgt      2580
+     ataaatttac agaaaatatt agctcaatat attagattta aaaagaatct tccttatgtt      2640
+     actccatttt attctgtaaa aagtaataat gacgaagttg taatcaaatt tttatatggt      2700
+     ttgaatgtta attttgattg tgcatctata ggtgaaataa ataaagtact aacattatta      2760
+     ccaaatttat caagaaatag aataatattt gcgaatacaa ttaaaagtat taattctttg      2820
+     atatatgcaa gaaaagaaaa tattaattta tgtacatttg ataatttaga tgaactaaaa      2880
+     aaaatatata gatatcatcc aaaatgttct ttaatattac gtataaatgt agattttaaa      2940
+     aattacaaat cttatatgtc ttctaaatat ggtgcaaatg aatatgagtg ggaagaaatg      3000
+     ttattatatg caaagaaaca taatttaaat attgtgggtg tatcatttca tgttggtagt      3060
+     aatacaaaga atttgtttga tttctgttta gcaattaaat tatgtaaaga tgtatttgat      3120
+     atgagttcaa gtatgggatt taattttcat ataataaatt tgggtggggg atatccagaa      3180
+     gaattagaat atgataatgc aaagaagcat gacaaaattc attattgtac attaagtctt      3240
+     gaagaaatta aaaaagatat agaaacattt ttgaatgaaa aaacgttttt aaaaacgaaa      3300
+     tatggatatt atagttttga aaaaatatcc ttagctatta atatgtccat tgatcattat      3360
+     tttggtgaaa ttaaagataa actaaaagta atatgtgaac ctggtagata tattgtggct      3420
+     gcttcttcaa cgttagctgt aaaaattata ggaaagagac gtccaacatt tcaaggtatt      3480
+     atgttaaaag atttaaaaga tcattatgat cctttaaaat tttctcaaca agaaattatg      3540
+     aaagaagaag aaaaaataaa tgatcaaaat aatgaaaaaa tagaacaaaa taaaaatgaa      3600
+     caacaagggg gacatgaaaa taaatcaagt gatgtaataa taaaaacaaa tacgaatgat      3660
+     tctacgaata aaatgaattt tcattcttct tgtcaagtaa atgaaaatac atctagtatt      3720
+     ataataagtg aaaagaaagg agaaaatata aaaataaatg aacaagcaat aaatcatgat      3780
+     aataatataa aaggaaagaa aaatactgtg gattgtgata atattcatat tgctcataaa      3840
+     aatattggta ataactttag tagtagtaat tcaaaattag gcaacataac aaatattaag      3900
+     aaaaaagttg taaatataaa tgataataga tataattatt tttcatatta tgtaagtgat      3960
+     agtatatatg gttgttttag tggtatcatt tttgatgaat ataatagatg tcctatatat      4020
+     attattaaaa ataaaaataa ccctaatcaa aattttatga attttaattt atatttagct      4080
+     aatgtatttg gtcaatcatg tgatggctta gatatgataa attctataac atacttacct      4140
+     gagtgtttta ttaatgattg gcttctttat gaatatgctg gtgcttacac ctttgttagc      4200
+     tcctctaact ttaatggatt taagaaatgc aagaagcttt atatattccc cgaatataaa      4260
+     ccttccttca atggtcaacc aaacaagcat ttttaa                                4296
+//

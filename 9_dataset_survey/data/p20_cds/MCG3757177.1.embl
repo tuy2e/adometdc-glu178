@@ -1,0 +1,95 @@
+ID   MCG3757177; SV 1; linear; genomic DNA; WGS; PRO; 1521 BP.
+XX
+PA   JACLHD010000001.1
+XX
+PR   Project:PRJNA550434;
+XX
+DE   Amycolatopsis sp. Poz14 adenosylmethionine decarboxylase
+XX
+KW   WGS.
+XX
+OS   Amycolatopsis sp. Poz14
+OC   Bacteria; Actinobacteria; Pseudonocardiales; Pseudonocardiaceae;
+OC   Amycolatopsis; unclassified Amycolatopsis.
+XX
+RN   [1]
+RC   Publication Status: Available-Online prior to print
+RX   PUBMED; 35026398.
+RA   Peralta H., Aguilar A., Cancino-Diaz J.C., Cuevas-Rico E.A.,
+RA   Carmona-Gonzalez A., Cruz-Maya J.A., Jan-Roblero J.;
+RT   "Determination of the metabolic pathways for degradation of naphthalene and
+RT   pyrene in Amycolatopsis sp. Poz14";
+RL   Comp Biochem Physiol C Toxicol Pharmacol 254:.
+XX
+RN   [2]
+RA   Jan-Roblero J.;
+RT   ;
+RL   Submitted (14-JUN-2020) to the INSDC.
+RL   Laboratorio de Biotecnologia Ambiental, Instituto Politecnico Nacional -
+RL   ENCB, Carpio y Plan de Ayala s/n, Col. Santo Tomas, Ciudad de Mexico,
+RL   Ciudad de Mexico 11340, Mexico
+XX
+DR   MD5; 0e8311f4c4073294e5e7dd385ea4bbcf.
+DR   BioSample; SAMN12129020.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..1521
+FT                   /organism="Amycolatopsis sp. Poz14"
+FT                   /strain="Poz14"
+FT                   /mol_type="genomic DNA"
+FT                   /country="Mexico: Poza Rica, Veracruz"
+FT                   /isolation_source="petroleum-contaminated soil"
+FT                   /collection_date="21-Oct-2014"
+FT                   /db_xref="taxon:1447705"
+FT                   /submitter_seqid="Amycolaptosis_contig1_1"
+FT   CDS             complement(JACLHD010000001.1:9179763..9181283)
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /gene="speD"
+FT                   /locus_tag="FKO37_42410"
+FT                   /product="adenosylmethionine decarboxylase"
+FT                   /EC_number="4.1.1.50"
+FT                   /note="Derived by automated computational analysis using
+FT                   gene prediction method: Protein Homology."
+FT                   /inference="COORDINATES: similar to AA
+FT                   sequence:RefSeq:WP_009073608.1"
+FT                   /protein_id="MCG3757177.1"
+FT                   /translation="MTEGFSQVLERCRAFLEERQPSTPCLVVDLDVVRGNCERLGQALP
+FT                   EARMYYAVKANPVPEVVRVLRQAGVGFDVAGREEIELCLAQGVRPELLSYGNTVKKARD
+FT                   IEFAHRVGVRRFTFDSLEDLEKIAEFAPGATVSCRILVDSPGSQTPFGRKFGCAPEMAV
+FT                   DLLVRAAGLGLDPEGVAFHVGSQHVDPRAWEVGIAAAGEVTHAVAERGVCLRGLNIGGG
+FT                   FPVGYLTEPPPLEEYAAVIRDALGRHFAVAPELSFEPGRAVVASAGVIRSEVVLVSRKS
+FT                   AADEKRWVYLDIGRYGGLAETENEAIAYRLVTAHDGGPDGPVVVAGPTCDGDDVLYQRT
+FT                   PYRLPLALRAGDYVDIPDAGAYTQSYSSVSFNGFPPLRSYFIGGEPGGVGEFAGRHVLA
+FT                   EFSGVSAELLDDPAFLCESLERVLDKAGATVCELTYKQFEPHGVTAMALLSESHASIHT
+FT                   YPERGSAFVDVFTCGHKADPEQAVQLLRDLLGASVSRVTTIHRGQEDS"
+XX
+SQ   Sequence 1521 BP; 208 A; 392 C; 617 G; 304 T; 0 other;
+     gtgactgaag ggttctcgca ggtgctggag cgttgccggg cgttcctgga ggagcggcag        60
+     ccgtcgacgc cgtgtctggt cgtggacctt gacgtggtgc gcgggaactg cgagcggctc       120
+     ggccaggcgt tgccggaagc gcggatgtac tacgcggtca aggctaatcc ggtgccggag       180
+     gtcgtgcggg ttcttcggca ggcgggggtc gggttcgatg tcgcggggcg cgaggagatc       240
+     gagttgtgtc tcgcgcaagg ggtgcggccc gagttgctgt cttacggcaa cacggtgaag       300
+     aaggctcggg acatcgagtt cgcgcatcgc gtgggggtgc ggcggtttac cttcgacagc       360
+     ctcgaggacc tggagaagat cgcggagttc gcgccggggg cgacggtctc gtgccggatt       420
+     ctggtggaca gtcctggatc gcagacgccg ttcgggcgca agttcggctg tgctcccgag       480
+     atggcggtcg acctgctggt tcgggcggcg gggctggggc tggatccgga gggggtcgcg       540
+     tttcacgttg ggtcgcagca tgtcgatccg cgggcttggg aagtcgggat cgctgccgcg       600
+     ggcgaggtga ctcacgcggt cgcggagcgc ggggtttgct tgcgggggtt gaatatcggc       660
+     ggtgggtttc ccgttgggta tttgactgag ccgcctccgt tggaggagta cgcggcggtt       720
+     attcgcgacg ccctcgggcg gcatttcgcg gtggcgcctg agctgtcgtt cgagccgggg       780
+     cgggcagtgg tggcgtcggc tggggtgatt cgcagcgagg tcgtgctggt gtcgcgcaag       840
+     tccgcagcgg atgagaagcg ttgggtgtac ctcgacatcg gccggtacgg cgggctcgcc       900
+     gagacggaga acgaggcgat cgcgtaccgg ttggtcaccg cgcatgacgg cggtccggat       960
+     gggcctgtcg tggttgcggg gccgacgtgc gacggggacg acgtgcttta tcagcgcacg      1020
+     ccgtatcggt tgccgttggc gttgcgggct ggggattacg tcgatattcc ggacgctgga      1080
+     gcgtacacgc aaagctattc ttcggtgtcg ttcaacgggt ttccgccgct gcggtcgtac      1140
+     ttcatcggcg gggagcccgg cggggtcggg gaattcgctg gacgacatgt gctggctgag      1200
+     ttttccggag tgtccgcgga gctgctcgac gatccggcgt ttctgtgcga gagcttggaa      1260
+     cgagtgctgg acaaggccgg cgcgacggtg tgcgagctga cgtacaagca gttcgaaccg      1320
+     cacggggtga cggcgatggc gttgctgtcg gagtcccacg cttcgatcca cacgtatccg      1380
+     gagcgcgggt cggcgttcgt ggatgtgttc acgtgcgggc acaaggcgga tccggagcag      1440
+     gcggttcagt tgttgcggga cttgctcggc gcgagcgttt cgcgggtcac cactatccac      1500
+     agaggacagg aagacagttg a                                                1521
+//

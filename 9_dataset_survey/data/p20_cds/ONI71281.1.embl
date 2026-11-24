@@ -1,0 +1,106 @@
+ID   ONI71281; SV 1; linear; genomic DNA; WGS; PRO; 1464 BP.
+XX
+PA   MTQO01000054.1
+XX
+PR   Project:PRJNA360630;
+XX
+DT   01-MAR-2017 (Rel. 132, Created)
+DT   01-MAR-2017 (Rel. 132, Last updated, Version 1)
+XX
+DE   Actinosynnema sp. ALI-1.44 adenosylmethionine decarboxylase
+XX
+KW   WGS.
+XX
+OS   Actinosynnema sp. ALI-1.44
+OC   Bacteria; Actinobacteria; Pseudonocardiales; Pseudonocardiaceae;
+OC   Actinosynnema.
+XX
+RN   [1]
+RC   Publication Status: Available-Online prior to print
+RX   PUBMED; 28087533.
+RA   Yeager C.M., Gallegos-Graves V., Dunbar J., Hesse C.N., Daligault H.,
+RA   Kuske C.R.;
+RT   "Polysaccharide degradation capability of Actinomycetales soil isolates
+RT   from a semi-arid grassland of the Colorado Plateau";
+RL   Appl. Environ. Microbiol. 0:.
+XX
+RN   [2]
+RA   Yeager C.M., Gallegos-Graves L.V., Dunbar J., Hesse C.N., Daligault H.,
+RA   Kuske C.R.;
+RT   ;
+RL   Submitted (17-JAN-2017) to the INSDC.
+RL   BioScience, Los Alamos National Laboratory, PO Box 1663 M888, Los Alamos,
+RL   NM 87545, USA
+XX
+DR   MD5; 7e98f8430f6d689e38af8c8ddfe9e2ab.
+DR   BioSample; SAMN06213936.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..1464
+FT                   /organism="Actinosynnema sp. ALI-1.44"
+FT                   /strain="ALI-1.44"
+FT                   /mol_type="genomic DNA"
+FT                   /country="USA:UT, Canyonlands National Park"
+FT                   /isolation_source="Chitin enrichment of biocrust soil"
+FT                   /collection_date="Jul-2014"
+FT                   /db_xref="taxon:1933779"
+FT   CDS             complement(MTQO01000054.1:578790..580253)
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /locus_tag="ALI144C_49615"
+FT                   /product="adenosylmethionine decarboxylase"
+FT                   /note="Derived by automated computational analysis using
+FT                   gene prediction method: Protein Homology."
+FT                   /db_xref="GOA:A0A1V2P5S9"
+FT                   /db_xref="InterPro:IPR000183"
+FT                   /db_xref="InterPro:IPR002433"
+FT                   /db_xref="InterPro:IPR003826"
+FT                   /db_xref="InterPro:IPR009006"
+FT                   /db_xref="InterPro:IPR016067"
+FT                   /db_xref="InterPro:IPR017716"
+FT                   /db_xref="InterPro:IPR022643"
+FT                   /db_xref="InterPro:IPR022644"
+FT                   /db_xref="InterPro:IPR022653"
+FT                   /db_xref="InterPro:IPR029066"
+FT                   /db_xref="UniProtKB/TrEMBL:A0A1V2P5S9"
+FT                   /inference="COORDINATES:similar to AA
+FT                   sequence:RefSeq:WP_020662139.1"
+FT                   /protein_id="ONI71281.1"
+FT                   /translation="MIDLDTVRESHTNLRETLPEARMYYAVKANPAPEVVKLLAGLGCG
+FT                   FDVAGREEIELCLGQGATADSISYGNPIKKARDIAYAHRVGVRRFTFDSESDLETIATF
+FT                   APGATVSCRILVAGTGSQTPFGHKFGCAPEMATRLLVRAAELGLDPEGVAFHVGSQHLD
+FT                   PTAWEPWIAAAGEVTRTVAATGIPLRGLNIGGGFPGRYLVDPPPLTDYAGTIRAAIARH
+FT                   FDHEVDLAIEPGRVLVAGAGMIRSEVVLVSRKSDADPKRWVYLDIGRYGGMAETENEAI
+FT                   AYRLQTALDHEPTGPVVIAGPSCDGDDVLYQRTAYELPLSLRAGDHVDIMSTGAYTQSY
+FT                   SSVAFNGFPPLRTYFVGGAPLSPEVVDNEVGEFAGRHVLAEFEGVSAELLDDAAFLRES
+FT                   LERALEKAGATVCDMTYKQFEPQGVTLLALLSESHASIHTYPERGAVFIDVFTCGQVAD
+FT                   PELAVNLLRDMLDASVSRISVVHRGQENR"
+XX
+SQ   Sequence 1464 BP; 234 A; 496 C; 518 G; 216 T; 0 other;
+     gtgatcgacc tcgacacggt gcgggaaagc cataccaatc tgcgggaaac actgcctgaa        60
+     gcgaggatgt actacgcggt caaggccaac cccgcgcccg aggtcgtcaa actgctcgcc       120
+     gggctgggct gcggcttcga cgtggcaggc cgcgaggaga tcgaactgtg cctcggccag       180
+     ggcgccacgg ccgactcgat ctcgtacggc aacccgatca agaaggcacg ggacatcgcg       240
+     tacgcccacc gggtcggcgt ccgccgcttc accttcgaca gcgagtccga cctggagacc       300
+     atcgcgacct tcgcgccggg cgccaccgtg tcgtgccgga tcctggtggc aggcaccgga       360
+     tcgcagaccc cgttcgggca caagttcgga tgcgcgcccg agatggccac acggctgctc       420
+     gtgcgggccg cggaactggg cctcgacccc gagggcgtgg ctttccacgt cggctcgcag       480
+     cacctcgacc ccaccgcgtg ggagccgtgg atcgccgcgg cgggcgaggt cacacggacc       540
+     gtcgcagcga cgggcatccc gctgcgcggc ctgaacatcg gcggcggctt ccccggccgg       600
+     tacctggtcg acccgccgcc gctgaccgac tacgccggca cgatccgtgc cgcgatcgcg       660
+     cggcacttcg accacgaggt cgacctggcg atcgagcctg gccgggtgct ggtcgccggg       720
+     gccgggatga tccgcagcga ggtcgtgctg gtgtcgcgca agtccgacgc cgaccccaag       780
+     cgctgggtct acctggacat cgggcgctac ggcgggatgg ccgagaccga gaacgaggcg       840
+     atcgcgtacc ggctgcagac cgcgctggac cacgagccga ccgggccggt ggtcatcgcc       900
+     gggccgtcgt gcgacggcga tgacgtgctc taccaacgga ctgcctacga gctgccatta       960
+     tcgctgcgcg ccggggacca cgtggacatc atgagcaccg gcgcgtacac ccagagctac      1020
+     tcgtcggtgg cgttcaacgg attcccgccg ctgcggacct acttcgtcgg cggtgccccg      1080
+     ctttcgccgg aggtggtcga caacgaggtc ggggagttcg ccgggcggca cgtgctggcg      1140
+     gagttcgaag gcgtgtcggc cgagctgctc gacgacgccg cgttcctgcg tgagagcctg      1200
+     gaacgcgcgc tggagaaggc gggcgcgacc gtgtgcgaca tgacgtacaa gcagttcgag      1260
+     ccgcagggtg tgaccctgct ggcgctgctg tcggagtcgc acgcgtccat ccacacgtat      1320
+     cccgaacggg gtgcggtgtt catcgacgtg ttcacctgcg gccaggtcgc tgaccccgag      1380
+     ctcgcggtga acttgttgcg cgacatgctc gacgcgagcg tgtccaggat cagtgtcgtc      1440
+     cacagaggac aggagaaccg gtga                                             1464
+//

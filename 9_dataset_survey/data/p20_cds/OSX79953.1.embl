@@ -1,0 +1,123 @@
+ID   OSX79953; SV 1; linear; genomic DNA; CON; PLN; 2241 BP.
+XX
+PA   KV918783.1
+XX
+PR   Project:PRJNA234409;
+XX
+DT   05-MAY-2017 (Rel. 132, Created)
+DT   05-MAY-2017 (Rel. 132, Last updated, Version 1)
+XX
+DE   Porphyra umbilicalis (laver) hypothetical protein
+XX
+KW   .
+XX
+OS   Porphyra umbilicalis (laver)
+OC   Eukaryota; Rhodophyta; Bangiophyceae; Bangiales; Bangiaceae; Porphyra.
+XX
+RN   [1]
+RA   Brawley S.H., Blouin N.A., Ficko-Blean E., Wheeler G.L., Lohr M.,
+RA   Goodson H.V., Jenkins J.W., Blaby-Haas C.E., Helliwell K.E., Chan C.,
+RA   Marriage T., Bhattacharya D., Klein A.S., Badis Y., Brodie J., Cao Y.,
+RA   Collen J., Dittami S.M., Gachon C.M., Green B.R., Karpowicz S., Kim J.W.,
+RA   Kudahl U., Lin S., Michel G., Mittag M., Olson B.J., Pangilinan J.,
+RA   Peng Y., Qiu H., Shu S., Singer J.T., Smith A.G., Sprecher B.N., Wagner V.,
+RA   Wang W., Wang Z.-Y., Yan J., Yarish C., Zoeuner-Riek S., Zhuang Y., Zou Y.,
+RA   Lindquist E.A., Grimwood J., Barry K., Rokhsar D.S., Schmutz J.,
+RA   Stiller J.W., Grossman A.R., Prochnik S.E.;
+RT   "WGS assembly of Porphyra umbilicalis";
+RL   Unpublished.
+XX
+RN   [2]
+RA   Brawley S.H., Blouin N.A., Ficko-Blean E., Wheeler G.L., Lohr M.,
+RA   Goodson H.V., Jenkins J.W., Blaby-Haas C.E., Helliwell K.E., Chan C.,
+RA   Marriage T., Bhattacharya D., Klein A.S., Badis Y., Brodie J., Cao Y.,
+RA   Collen J., Dittami S.M., Gachon C.M., Green B.R., Karpowicz S., Kim J.W.,
+RA   Kudahl U., Lin S., Michel G., Mittag M., Olson B.J., Pangilinan J.,
+RA   Peng Y., Qiu H., Shu S., Singer J.T., Smith A.G., Sprecher B.N., Wagner V.,
+RA   Wang W., Wang Z.-Y., Yan J., Yarish C., Zoeuner-Riek S., Zhuang Y., Zou Y.,
+RA   Lindquist E.A., Grimwood J., Barry K., Rokhsar D.S., Schmutz J.,
+RA   Stiller J.W., Grossman A.R., Prochnik S.E.;
+RT   ;
+RL   Submitted (08-MAR-2017) to the INSDC.
+RL   US DOE Joint Genome Institute, 400 Mitchell Drive, Walnut Creek, CA 94598,
+RL   USA
+XX
+DR   MD5; 12d020b84efce0051b6c245aaa19a0b3.
+DR   BioSample; SAMN00118171.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..2241
+FT                   /organism="Porphyra umbilicalis"
+FT                   /chromosome="Unknown"
+FT                   /isolate="4086291"
+FT                   /mol_type="genomic DNA"
+FT                   /db_xref="taxon:2786"
+FT   CDS             complement(KV918783.1:48443..50683)
+FT                   /codon_start=1
+FT                   /locus_tag="BU14_0066s0006"
+FT                   /product="hypothetical protein"
+FT                   /note="S-adenosylmethionine decarboxylase"
+FT                   /db_xref="GOA:A0A1X6PGY4"
+FT                   /db_xref="InterPro:IPR001985"
+FT                   /db_xref="InterPro:IPR002433"
+FT                   /db_xref="InterPro:IPR009006"
+FT                   /db_xref="InterPro:IPR016067"
+FT                   /db_xref="InterPro:IPR022644"
+FT                   /db_xref="InterPro:IPR029066"
+FT                   /db_xref="UniProtKB/TrEMBL:A0A1X6PGY4"
+FT                   /protein_id="OSX79953.1"
+FT                   /translation="MFDLDPAVMAHFITAPVDDRGAALTATTALAAAAATNGGGDGGGG
+FT                   GGGGVPVGTRPPDCPAATTTATSRLDTLLRPGATADAWNFEPCGYSMNGLAGGTYYTVH
+FT                   ITPESHCSYVSFECNVDDADLTPLLRAVLAVFRPGRLTVSVLADGRGGGGGHARNAPRL
+FT                   GRARGGGLHLHGRRRRAADGDGGGGVHLASVSSYARVPAGGGGGGGDRPRAVHTGPRVS
+FT                   APLPVPRADRRAVAAATGGPVAALVRASPPSPGGLWAKSPTDKGGILGGGGGGGPGGAP
+FT                   VSKFALDAAVAAVAARYGAVPVSTDGGAAVARSTAAVLDEPTFAVSLTTVADRAVAVAA
+FT                   TGGRLRYALRCNADAAVVALLARLGADFEAAGGAELEHLARLGVAPARVTLASVGLPRK
+FT                   LLGRVSAGRLAGTVVLPAGAGRAAVERLAAHLPAGDVEVEAVPSALAASVATAVAAVAA
+FT                   GLTVVAVRVEAPAVADAASLTRAAACVATVAAVVRGAGGGGGGAAGGTAAPPLRVHLAG
+FT                   GFLAEQSVALLASLSLAVDVLGDVSAGASPFVIGEAVTLAVTVIARRLTAAGAAASSDG
+FT                   GDSGSGSGGSGAGSSDEGGDGCDGGDGGGGGDGGGGGADDGVVSPAGAAAAADLSSVLY
+FT                   YLNDGVYGAFNRVLLGGAAASPLGAGPPGRGRFPSVLFGPTCDSLDRVWGGACRCSTSA
+FT                   TCSSFAPWAPTQCRRRAPSTALAATSAPATSRRAREGWGGGGVGEGGSRGGG"
+XX
+SQ   Sequence 2241 BP; 192 A; 827 C; 935 G; 287 T; 0 other;
+     atgtttgacc tcgacccggc ggtcatggcg cactttatca ccgcccccgt cgacgacagg        60
+     ggggcggcgc tcacggccac gacggcactg gcggcggcgg ctgccaccaa cggcggcggc       120
+     gacggcggcg gcggcggcgg cggcggcgtg cccgtcggca cgcgcccccc cgattgtccc       180
+     gcggccacaa cgacggccac ctcccgcctc gacacgctcc tccgccccgg cgcgacggcg       240
+     gacgcgtgga actttgagcc gtgcggctac agcatgaacg gcctcgccgg cggcacctac       300
+     tacaccgtcc acatcacccc cgagtcgcac tgcagctacg tgtcgtttga gtgcaacgtt       360
+     gacgatgcgg acttaacacc actcctgcgg gcggtgctcg ccgtctttcg gccggggcgg       420
+     ctgaccgtgt cggtgctcgc cgacgggcgg gggggggggg ggggccacgc gcgcaacgcc       480
+     cctcgactgg gacgcgcccg cggcggcggg ctacacctcc acgggcgccg tcgtcgcgcg       540
+     gcggatggcg acggtggggg gggggtgcac ctcgcgtcgg tcagctccta cgcgcgtgtc       600
+     ccggcggggg gggggggggg ggggggcgac cgcccacgcg ccgtgcacac gggcccccgc       660
+     gtgtcggcgc cgctgccggt gccgcgcgcg gaccgccgcg ccgtggccgc ggcgacgggc       720
+     gggccggtcg cggcgctggt gcgggcgtcg ccgccgtccc ctgggggcct ctgggcaaag       780
+     tccccaaccg acaagggcgg catcctcggc ggcggtggcg gcggcggccc cggcggcgcg       840
+     cccgtctcca aattcgccct cgacgcggcc gtggcggccg ttgccgcccg ctacggcgcc       900
+     gtccccgtct cgaccgacgg cggcgccgcc gtcgcgcgct cgacggcggc ggtgcttgac       960
+     gagccgacgt ttgcggttag cctcaccacc gttgccgacc gcgccgtggc ggtggcggcc      1020
+     acgggcgggc gcctccgcta cgccctccgc tgcaacgccg acgcggcggt tgtggcgctc      1080
+     ctcgcgcgcc tcggcgccga ctttgaggct gccggcgggg cggagctcga gcacctcgcc      1140
+     cgcctcggcg tcgcccccgc ccgcgtgacg ctcgcgtcgg tggggctccc gcgcaagctc      1200
+     ctcggccgcg tgtcggcggg ccgcctcgcg gggacggtcg tcttgccggc gggcgcgggg      1260
+     cgggcggccg tcgagcggct cgccgcgcac ctccccgcgg gcgacgtgga ggtggaggcg      1320
+     gtgccgtcgg cgctcgccgc gtcggtcgcc acggccgtcg cggccgtcgc cgcgggcctg      1380
+     accgtcgtcg ccgtgcgcgt cgaggcgccg gcggtggcgg acgcggcgtc gctcacccgc      1440
+     gcggcggcgt gtgtggcgac ggtcgccgcg gtcgtgcgtg gggcgggggg gggggggggt      1500
+     ggggccgccg gcgggacggc cgccccaccc ctgcgcgtgc acctcgcggg cggcttcctc      1560
+     gccgagcagt cggtggcgct gctcgcgtcg ctgagcctcg ccgtcgacgt gcttggcgac      1620
+     gtgtcggcgg gcgcgtcgcc ctttgtcatt ggcgaagccg tcaccctcgc cgtcacggtc      1680
+     attgcgcggc ggctgacggc ggcgggggcg gcggcgtcgt ccgacggggg cgacagcggc      1740
+     agcggcagcg gcggcagcgg cgccggcagc agcgacgagg gcggcgacgg gtgcgacggc      1800
+     ggcgacggcg gcggcggcgg cgacggcggc ggcggcggcg ccgacgacgg cgtggttagc      1860
+     ccggccggcg ccgccgccgc cgccgacctg tcgtcggtcc tctactacct caacgatggg      1920
+     gtgtatggcg cgtttaaccg ggtgctcctc ggcggcgccg ccgcgtcgcc gctcggcgcg      1980
+     gggccgccgg gccgcggccg cttcccgtcg gtgctctttg ggccgacgtg cgacagcctc      2040
+     gaccgggtgt gggggggtgc ctgccgctgc tcaacgtcgg cgacgtgctc gtctttcgcg      2100
+     ccatgggcgc ctacgcagtg tcggcggcga gctccttcaa cggctttggc cgccacttcc      2160
+     gcacccgcta cgtcacgtcg cgcacgtgag gggtgggggg gggggggggt gggggagggg      2220
+     gggagtaggg gggggggtta g                                                2241
+//

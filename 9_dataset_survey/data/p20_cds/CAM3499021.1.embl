@@ -1,0 +1,85 @@
+ID   CAM3499021; SV 1; linear; genomic DNA; WGS; PRO; 1542 BP.
+XX
+PA   CBCSGW010000008.1
+XX
+PR   Project:PRJEB85433;
+XX
+DT   11-FEB-2025 (Created)
+DT   12-FEB-2025 (Last updated)
+XX
+DE   Kibdelosporangium persicum adenosylmethionine decarboxylase
+XX
+KW   WGS.
+XX
+OS   Kibdelosporangium persicum
+OC   Bacteria; Bacillati; Actinomycetota; Actinomycetes; Pseudonocardiales;
+OC   Pseudonocardiaceae; Kibdelosporangium.
+XX
+RN   [1]
+RA   Palma F., Chouali H., Bouchier C., Chesneau O., Muhle E., Clermont D.,
+RA   Criscuolo A.;
+RT   ;
+RL   Submitted (08-FEB-2025) to the INSDC.
+RL   CIP, 25-28, rue du Docteur Roux, 75015 Paris, France
+XX
+DR   MD5; fc0c6d7e636dd66f22649e252f980fc3.
+DR   BioSample; SAMEA117660633.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..1542
+FT                   /organism="Kibdelosporangium persicum"
+FT                   /strain="type strain: CIP111705"
+FT                   /isolate="CIP111705T"
+FT                   /mol_type="genomic DNA"
+FT                   /note="contig: NODE_0008"
+FT                   /db_xref="taxon:2698649"
+FT                   /submitter_seqid="NODE_0008"
+FT   CDS             CBCSGW010000008.1:78828..80369
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /gene="speD"
+FT                   /locus_tag="KIPE111705_11255"
+FT                   /product="adenosylmethionine decarboxylase"
+FT                   /inference="ab initio prediction:Prodigal:2.6"
+FT                   /inference="similar to AA
+FT                   sequence:UniRef:UniRef90_A0A428YTQ9"
+FT                   /protein_id="CAM3499021.1"
+FT                   /translation="MIDALPLAPERIRAFLDDRRPPTPCLVIDLDTVRESHTRLREALP
+FT                   EARMYYAVKANPAPEIIRLLAAEGCGFDVAGREEIDLVLGQGARPELISYGNPIKKARD
+FT                   IAYAHRVGVRRFTFDSETDLETIATFAPGSGVSCRILVDGTGSQTPFGHKFGCAPAMAA
+FT                   RLLVRAAALGLDPEGVAFHVGSQHLDPAAWEPWIAAAGDVTRSVAAQGVALRGLNIGGG
+FT                   FPGRYLVDPPPLSAYADTIRAAIARHFDHPVDLAIEPGRVLVAEAGVIRSEVVLVSRKS
+FT                   DTDDKRWVYLDIGRYGGMAETENEAIAYRLQTAHDDEPCGPVVIAGPSCDGDDVLYQRT
+FT                   RYDLPLSLQAGDYVDILSTGAYTQSYSSVAFNGFPPLRTYFVGGHPASVPSEAGEVGEF
+FT                   AGRHVLAEFEGVSAELLDDAPFLCESLQRALEKAGATVCDMTFKQFEPQGVTVLALLSE
+FT                   SHASIHSYPERGAVFIDVFTCGRVADPELAVNLLRDMLNAGVSRISVIHRGQEDR"
+XX
+SQ   Sequence 1542 BP; 235 A; 513 C; 545 G; 249 T; 0 other;
+     gtgatcgacg ccctcccgct ggcgccggag cgcatcagag cgttcctgga cgaccgcagg        60
+     ccacccaccc cgtgtctcgt gatcgacctc gacacggtgc gggaaagcca taccaggctg       120
+     cgggaagcac tcccggaagc gaggatgtac tacgccgtca aggccaaccc ggcgccggag       180
+     atcatcaggc tgctggccgc cgaggggtgc ggcttcgacg tggcggggcg cgaggaaatc       240
+     gacctggtcc tcggccaggg cgcccggccg gagctgatct cgtacggcaa tccgatcaag       300
+     aaggcccggg acatcgcgta cgcccaccgg gtgggtgtcc ggcggttcac cttcgacagc       360
+     gagaccgacc tggagacgat cgccaccttc gcgccgggct caggcgtgtc ctgccggatc       420
+     ctggtggacg gcaccggatc gcagacgccg ttcgggcaca agttcgggtg cgcgcccgcg       480
+     atggccgccc ggctgctcgt ccgggccgcg gcactcggtc ttgaccccga aggcgtagcg       540
+     ttccacgtcg gctcccagca cctcgatcca gcggcgtggg agccgtggat cgccgcggcg       600
+     ggcgacgtca cccgatcggt cgccgcgcag ggggtcgccc tgcggggctt gaacatcggc       660
+     ggcggcttcc ccggccggta cctggtcgac ccgccgccgc tgagcgcgta cgccgacacg       720
+     atccgtgccg cgatcgcacg gcatttcgac cacccggtcg acctggccat cgagcccggc       780
+     cgggtgctcg tcgccgaggc gggcgtgatc cgcagcgagg tcgtgctggt gtcgcgcaaa       840
+     tccgacaccg acgacaaacg ctgggtctac ctggacatcg ggcgctacgg cgggatggcc       900
+     gaaactgaga acgaggccat cgcgtaccgg ttacagaccg cgcacgacga cgagccgtgc       960
+     ggtcccgtag tgatcgccgg gccttcgtgc gacggtgatg acgtgctgta ccaacgcact      1020
+     cgttacgacc tgccgctctc gttacaggca ggcgactacg tcgacattct gagtacgggt      1080
+     gcgtacacgc agagctactc ttcggtggct ttcaacgggt tcccgccgct gcggacgtat      1140
+     tttgtcggcg gccatccggc ttcggtgccg tccgaggccg gtgaggtcgg cgagttcgcc      1200
+     ggccggcacg tgctggccga gttcgagggc gtgtcggcgg agctgctgga cgacgccccg      1260
+     ttcctgtgcg agagcctgca acgcgcgctc gagaaggccg gcgcgaccgt gtgcgacatg      1320
+     acgttcaagc agttcgagcc gcagggtgtg accgtgctgg cgctgctgtc ggagtcgcac      1380
+     gcgtccatcc actcgtaccc ggaacgtggt gcggtgttca tcgacgtgtt cacctgcggc      1440
+     cgggtcgctg accctgagtt ggcggtgaac ttgttgcggg acatgctcaa cgcgggcgtg      1500
+     tcccggatca gtgttatcca cagaggacag gaggaccggt ga                         1542
+//

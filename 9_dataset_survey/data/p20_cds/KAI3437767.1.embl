@@ -1,0 +1,124 @@
+ID   KAI3437767; SV 1; linear; genomic DNA; WGS; PLN; 2658 BP.
+XX
+PA   SIDB01000001.1
+XX
+PR   Project:PRJNA495479;
+XX
+DE   Chlorella vulgaris hypothetical protein
+XX
+KW   WGS.
+XX
+OS   Chlorella vulgaris
+OC   Eukaryota; Viridiplantae; Chlorophyta; core chlorophytes; Trebouxiophyceae;
+OC   Chlorellales; Chlorellaceae; Chlorella clade; Chlorella.
+XX
+RN   [1]
+RX   PUBMED; 31437318.
+RA   Cecchin M., Marcolungo L., Rossato M., Girolomoni L., Cosentino E.,
+RA   Cuine S., Li-Beisson Y., Delledonne M., Ballottari M.;
+RT   "Chlorella vulgaris genome assembly and annotation reveals the molecular
+RT   basis for metabolic acclimation to high light conditions";
+RL   Plant J 100(6):1289-1305(2019).
+XX
+RN   [2]
+RA   Cecchin M., Marcolungo L., Rossato M., Girolomoni L., Cosentino E.,
+RA   Cuine S., Li-Beisson Y., Delledonne M., Ballottari M.;
+RT   ;
+RL   Submitted (03-NOV-2020) to the INSDC.
+RL   Biotechnology, University Of Verona, Strada Le grazie, 15, Verona, Verona
+RL   37134, Italy
+XX
+DR   MD5; fa1eeabcdcb8da385f2e344ec9d56702.
+DR   BioSample; SAMN10227765.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..2658
+FT                   /organism="Chlorella vulgaris"
+FT                   /isolate="211/11P"
+FT                   /mol_type="genomic DNA"
+FT                   /country="Sweden"
+FT                   /dev_stage="exponential phase"
+FT                   /tissue_type="Whole cell"
+FT                   /db_xref="taxon:3077"
+FT                   /submitter_seqid="Super-Scaffold_1"
+FT   CDS             join(SIDB01000001.1:4639179..4639413,
+FT                   SIDB01000001.1:4639621..4639890,
+FT                   SIDB01000001.1:4640133..4640300,
+FT                   SIDB01000001.1:4640557..4640706,
+FT                   SIDB01000001.1:4640938..4641362,
+FT                   SIDB01000001.1:4641618..4642134,
+FT                   SIDB01000001.1:4642342..4642376,
+FT                   SIDB01000001.1:4642590..4642772,
+FT                   SIDB01000001.1:4643097..4643223,
+FT                   SIDB01000001.1:4643484..4643793,
+FT                   SIDB01000001.1:4644041..4644158,
+FT                   SIDB01000001.1:4644344..4644463)
+FT                   /codon_start=1
+FT                   /locus_tag="D9Q98_000214"
+FT                   /product="hypothetical protein"
+FT                   /protein_id="KAI3437767.1"
+FT                   /translation="MTGATPDVFPCPVFEGSEKRISVTFTAGSSTPTAGLRALTRSQLD
+FT                   AMLDLAACQIVSSRSNHHFDAYVLSESSLFVYPDRMVLKTCGTTKLLSCVPYMCQLAEG
+FT                   LSMAPARVKYTRASFLFPEQQPAPHTSFDAECCALRCAFGSLGSSSAYVLGDGLNGLQW
+FT                   HVFVAGSEAAHPTSEQPLHTLEVCMTGLAPAKAAQFFRSDAYVSAQHTTAASGIQALVP
+FT                   RADIDDYVFEPCGYSMNGVEAGTFSTVHITPEEGFSYASFELCGYSPNSVNAAELVGQV
+FT                   AHVFQPASMSVALSTDTAAPGTSCAAAAWGASFTGPPGYACHSASYQEMKCGGCVAYFT
+FT                   LESPAAGTEGAPAAPVSPPVANGGGKRAPSDSDAGSPRAVVKQFPSFSGTASLVSGSVL
+FT                   ADMDMLAGSDNASDNSSMRNGLCNSLLLEPADMAVEDVLSMHAAVHLPRGGTATIDSYA
+FT                   RKLITEHGLEDNFFVLDLGALQRLYHGWAAAMPRVRPYYAVKCNPDVGVLATLAALGCG
+FT                   FDCASEAEMRAVMALGVSPDRIVFANPCKRPRDMRCATDNGVDLTTFDTEAELVKLARF
+FT                   APDARALLRIRADDPSARCQLGNKYGAEVHEWEPLLTTAALMGVAVEGVAFHVGSGATN
+FT                   PAAFSHAIELARRAWDLATAHGFDMKVLDIGGGFCGGRVGCDGRLDLGGVPEAVNSALA
+FT                   AHFPEQEHEGRLRIMAEPGRFFAESIATMGCLVYGRRVRVEPGAAACGESPAARSAGAL
+FT                   PMRKRVHSSSRLAAYLGELEAGEAEVIGYDYWVTDGLYGSMNSVLYDHATLAARPLMAD
+FT                   GAPAPADTFSSTVFGPTCDGLDTLLVDTQLPELQVGDWLLFPNMGAYTLCGASKFNGID
+FT                   ATTPATFYIASHQP"
+XX
+SQ   Sequence 2658 BP; 410 A; 932 C; 801 G; 515 T; 0 other;
+     atgacaggcg caacccccga cgtcttcccc tgccccgttt tcgagggcag cgagaagcgc        60
+     atatcagtca ccttcacagc aggctctagc acccccaccg cgggcctccg cgcactcact       120
+     cgctcccagc tggatgccat gctcgacttg gcagcctgcc aaatcgtctc ctcccgctcc       180
+     aaccaccact ttgatgcgta cgttctctcc gaatccagcc tctttgtgta cccagaccgc       240
+     atggtgctca agacctgcgg caccaccaag ctgctcagct gtgtgcccta catgtgccag       300
+     ctggcagagg gcctcagcat ggctcccgcc cgagtcaagt acacccgtgc ctcctttttg       360
+     tttccggagc agcagcccgc gccccacacc agctttgacg cagagtgctg cgcgctgcgc       420
+     tgcgcctttg gctcgctggg ctcctcctca gcctatgtgc tgggggatgg actcaacggt       480
+     ctgcagtggc acgtctttgt cgcaggctct gaggctgccc accccaccag cgagcagccc       540
+     ctgcacactc tggaggtctg catgaccggg ctggcacccg ccaaggccgc acagttcttt       600
+     cgctcggatg cctacgtgtc tgcccagcac accactgctg ccagcggcat ccaggccctg       660
+     gtgccccgcg cagacattga tgactacgtg tttgagccct gcggctactc catgaatggt       720
+     gtggaggccg gcaccttttc cactgtgcac atcacccccg aggaaggctt ctcgtatgcc       780
+     tcctttgagc tgtgtggata ctcacccaac tctgtcaacg ctgctgagct ggtgggccag       840
+     gtggcgcacg tcttccagcc agccagcatg tcggtggccc tctccacaga caccgctgcc       900
+     ccgggcacct cgtgcgccgc cgccgcatgg ggcgcatcct tcacaggccc tcccggctac       960
+     gcctgccact cggcttccta tcaggagatg aagtgtggcg gctgtgtggc gtacttcact      1020
+     ctggagagcc ccgcagctgg cacagagggc gcccctgcgg ctccagtgtc gccgccagtt      1080
+     gctaacggcg gcggcaagcg cgcccccagc gacagcgacg ctggcagccc ccgtgccgtg      1140
+     gtgaagcagt tcccatcctt ctctggcacc gcgtcactgg tgtctggctc cgtgcttgcc      1200
+     gacatggaca tgcttgcggg ctcagacaac gcctcagaca attcttcgat gcgcaacggg      1260
+     ctgtgtaaca gcctgctgct ggagccagct gacatggcgg ttgaggatgt gctgtccatg      1320
+     cacgccgccg tgcacctgcc gcgcggcggc accgccacta ttgactccta cgctcgcaag      1380
+     ctgatcacag agcatggcct tgaggacaac ttctttgtgc tggatctggg cgccctgcag      1440
+     cggctgtacc acggctgggc tgcggccatg ccccgcgtgc gcccttacta tgctgtcaag      1500
+     tgcaacccgg atgtcggtgt gctggccacg ctggcggccc tgggctgcgg ctttgactgc      1560
+     gccagcgagg cagagatgcg cgcggtgatg gcgctgggcg tctcccccga ccgcatcgtg      1620
+     tttgcaaacc catgcaagcg cccgcgtgac atgcgctgcg ccacagacaa cggcgtggac      1680
+     ctgaccacgt ttgatacaga ggcggagttg gtgaagcttg ctcgctttgc gcctgacgcc      1740
+     cgcgccctgc tgcgcatccg ggccgatgac cccagtgctc ggtgccagct tggcaacaag      1800
+     tacggtgccg aggtgcatga gtgggagccg ctgctgacga ctgccgcgct catgggcgta      1860
+     gccgttgaag gtgtggcctt ccatgttggc tccggggcta ccaacccggc cgccttctcc      1920
+     cacgcaatcg agctggctcg ccgcgcctgg gacctggcca ccgcccacgg ctttgatatg      1980
+     aaggtgctgg acattggtgg cggcttctgc ggcggtcgtg ttggctgcga tggtcgcctg      2040
+     gaccttggtg gtgtgcctga ggcagtcaac tcagccctgg ctgcccactt ccctgaacaa      2100
+     gagcacgagg gccgtctgcg catcatggct gagcccggcc gcttcttcgc cgaaagcatc      2160
+     gccaccatgg gctgcctggt ctacggccgc cgcgtgcgag tggagcccgg cgcggcagca      2220
+     tgcggcgagt ccccagccgc tcgctccgct ggtgcactgc ccatgcgcaa gcgcgtgcac      2280
+     tcctcctccc gcctggctgc gtacctgggc gagctggagg ctggggaggc agaggtgatt      2340
+     ggctacgatt actgggtgac agatgggctg tacggctcca tgaattcggt gttgtacgac      2400
+     cacgccaccc tggctgccag gcccctgatg gccgacggag cccccgcccc agcagacacc      2460
+     ttttcctcca ccgtgtttgg gcccacctgt gatgggctgg acacgctgct ggtggacaca      2520
+     cagctgccag agctgcaggt gggcgactgg ctgctgttcc ccaacatggg tgcctacacc      2580
+     ctgtgtggtg cctccaagtt caacggcatc gatgccacca ccccagccac cttctacatc      2640
+     gcctcccacc agccatga                                                    2658
+//

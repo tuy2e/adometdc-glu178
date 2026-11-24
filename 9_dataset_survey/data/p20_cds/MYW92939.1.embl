@@ -1,0 +1,100 @@
+ID   MYW92939; SV 1; linear; genomic DNA; CON; BCT; 1521 BP.
+XX
+PA   WWFW01000094.1
+XX
+PR   Project:PRJNA596543;
+XX
+DT   13-JAN-2020 (Created)
+DT   13-JAN-2020 (Last updated)
+XX
+DE   Amycolatopsis rubida adenosylmethionine decarboxylase
+XX
+KW   WGS.
+XX
+OS   Amycolatopsis rubida
+OC   Bacteria; Actinobacteria; Pseudonocardiales; Pseudonocardiaceae;
+OC   Amycolatopsis.
+XX
+RN   [1]
+RC   Publication Status: Online-Only
+RX   PUBMED; 30705269.
+RA   Chevrette M.G., Carlson C.M., Ortega H.E., Thomas C., Ananiev G.E.,
+RA   Barns K.J., Book A.J., Cagnazzo J., Carlos C., Flanigan W., Grubbs K.J.,
+RA   Horn H.A., Hoffmann F.M., Klassen J.L., Knack J.J., Lewin G.R.,
+RA   McDonald B.R., Muller L., Melo W.G.P., Pinto-Tomas A.A., Schmitz A.,
+RA   Wendt-Pienkowski E., Wildman S., Zhao M., Zhang F., Bugni T.S., Andes D.R.,
+RA   Pupo M.T., Currie C.R.;
+RT   "The antimicrobial potential of Streptomyces from insect microbiomes";
+RL   Nat Commun 10(1):.
+XX
+RN   [2]
+RA   Chevrette M.G., Currie C.R.;
+RT   ;
+RL   Submitted (19-DEC-2019) to the INSDC.
+RL   Bacteriology, University of Wisconsin-Madison, 1550 Linden St, Madison, WI
+RL   53706, USA
+XX
+DR   MD5; dc37679c99e980965db014ef937d56e4.
+DR   BioSample; SAMN13630932.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..1521
+FT                   /organism="Amycolatopsis rubida"
+FT                   /host="Ant"
+FT                   /strain="SID8386"
+FT                   /mol_type="genomic DNA"
+FT                   /country="USA"
+FT                   /collection_date="Jan-2015"
+FT                   /db_xref="taxon:112413"
+FT                   /submitter_seqid="SID8386.c101"
+FT   CDS             complement(WWFW01000094.1:313458..314978)
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /gene="speD"
+FT                   /locus_tag="GTY63_20530"
+FT                   /product="adenosylmethionine decarboxylase"
+FT                   /EC_number="4.1.1.50"
+FT                   /note="Derived by automated computational analysis using
+FT                   gene prediction method: Protein Homology."
+FT                   /inference="COORDINATES: similar to AA
+FT                   sequence:RefSeq:WP_009073608.1"
+FT                   /protein_id="MYW92939.1"
+FT                   /translation="MTEGFSRVLERCRAFLEERQPPTPCLVVDLDVVRGNCERLRQVLP
+FT                   EARMYYAVKANPAPEVVRVLRQAGAGFDVAGREEIELCLAQGVRPELLSYGNTVKKARD
+FT                   IEFAHRVGVRRFTFDSLAELEKIAEFAPGATVSCRILVDSPGSRTPFGRKFGCDVEMAV
+FT                   DLVVRAAELGLDPEGVAFHVGSQHVDPRAWEAGVAAAGEVTRAVAERGVCLRGLNIGGG
+FT                   FPVGYLTEPPPLAEYAAVIREAVGRHFAVTPELSFEPGRAVVASAGVIRSEVVLVSRKS
+FT                   AADEKRWVYLDIGRYGGLAETENEAIAYRLVTAHDGGPDGPVVVAGPTCDGDDVLYQRT
+FT                   PYRLPLALRAGDYVDIPDAGAYTQSYSSVSFNGFPPLRSYFTGGEPGGVGEFAGRHVLA
+FT                   EFSGVSAELLDDPVFLCESLERVLDKAGAAVCELTCKQFEPHGVTAMALLAESHASIHT
+FT                   YPERGSAFVDVFTCGRKADPELAVQLLRDLLGASVSRVTTIHRGQEDS"
+XX
+SQ   Sequence 1521 BP; 204 A; 397 C; 631 G; 289 T; 0 other;
+     gtgactgaag ggttctcgcg ggtgctggag cgttgccggg cgttcctgga ggaacggcag        60
+     ccgccgacgc cgtgtctggt cgtggacctc gacgtggtgc gcgggaactg cgagcggctt       120
+     cgccaggtgc tgccggaagc gcggatgtac tacgcggtca aggctaatcc ggcgccggag       180
+     gtcgtgcggg ttcttcggca agcgggagcc gggttcgatg tcgcggggcg cgaggagatc       240
+     gaactgtgtc tcgcgcaggg ggtgcggccc gagttgctgt cctatggcaa cacggtgaag       300
+     aaggcgcggg acatcgagtt cgcgcaccgc gtgggggtgc ggcggtttac ctttgacagc       360
+     ctggcggagc tggagaagat cgcggagttc gcgccggggg cgactgtctc gtgccggatt       420
+     ctggtcgaca gtcctggatc gcggacaccg ttcgggcgca agttcgggtg cgacgtcgag       480
+     atggcggtcg acctggtggt gcgggcggcg gagctggggc tggatccgga gggggtcgcg       540
+     ttccacgtcg ggtcgcagca tgtcgatccg cgggcgtggg aagccggggt cgctgccgcc       600
+     ggcgaggtga ctcgtgcggt ggcggagcgc ggggtctgct tgcgggggtt gaatattggc       660
+     ggcggatttc cggtcggcta tctgactgag ccgccgccgc tggcggagta cgcggcggtt       720
+     attcgcgagg cggtggggcg gcatttcgcg gtgacgcctg agttgtcgtt cgagccgggg       780
+     cgggcggtgg tggcgtcggc cggggtgatt cgcagcgagg ttgtgctggt gtcgcgcaag       840
+     tccgcggcgg atgagaagcg ttgggtgtac ctcgacatcg gccggtacgg cgggctggcc       900
+     gagacggaaa acgaggccat cgcgtaccgg ttggtcactg cgcatgatgg cggcccggac       960
+     gggcccgttg tggtcgcggg gccgacgtgc gacggggatg acgtgcttta tcagcgcacg      1020
+     ccgtatcggt tgccgttggc gttgcgggcg ggggattacg tcgacatccc ggacgctgga      1080
+     gcgtacacgc aaagttattc ttcggtgtcg ttcaacgggt ttccgccgtt gcggtcgtac      1140
+     ttcaccggcg gggagcccgg cggggtcggg gaattcgccg gacggcatgt gctggccgag      1200
+     ttttccgggg tgtccgcgga gttgctcgac gacccggtgt ttctgtgcga gagcttggag      1260
+     cgggtactgg acaaggccgg cgcggcggtg tgcgagctga cctgcaagca attcgaaccg      1320
+     cacggggtga cggcgatggc gttgctggcg gagtcgcacg cttcgattca cacgtatccg      1380
+     gagcgcggat cggcgttcgt ggatgtgttc acgtgcgggc gcaaggcgga tccggagctg      1440
+     gcggttcagt tgttgcggga cttgctcggc gcgagcgttt cgcgggtcac cactatccac      1500
+     agaggacagg aagacagttg a                                                1521
+//

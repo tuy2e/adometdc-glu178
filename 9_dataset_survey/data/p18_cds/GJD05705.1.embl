@@ -1,0 +1,105 @@
+ID   GJD05705; SV 1; linear; genomic DNA; WGS; PLN; 2319 BP.
+XX
+PA   BPMW01000003.1
+XX
+PR   Project:PRJDB11851;
+XX
+DE   Galdieria sulphuraria S-adenosylmethionine decarboxylase proenzyme
+XX
+KW   WGS; IMPROVED_HIGH_QUALITY_DRAFT.
+XX
+OS   Galdieria sulphuraria
+OC   Eukaryota; Rhodophyta; Bangiophyceae; Cyanidiales; Cyanidiaceae; Galdieria.
+XX
+RN   [1]
+RA   Minoda A., Hirose Y.;
+RT   "Genome Sequencing of Galdieria sulphuraria";
+RL   Unpublished.
+XX
+RN   [2]
+RA   Hirose Y., Minoda A.;
+RT   ;
+RL   Submitted (09-JUL-2021) to the INSDC.
+RL   Contact:Yuu Hirose Toyohashi Univerity of Technology, Department of Applied
+RL   Chemistry and Life Science; Hibarigaoka, Tempaku 1-1, Toyohashi, Aichi
+RL   441-8580, Japan
+XX
+DR   MD5; a715531b717c935eca5dbb2ee36fe60f.
+DR   BioSample; SAMD00332016.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..2319
+FT                   /organism="Galdieria sulphuraria"
+FT                   /strain="NIES-3638"
+FT                   /mol_type="genomic DNA"
+FT                   /db_xref="taxon:130081"
+FT                   /submitter_seqid="G.sulphuraria_chr_contig_03"
+FT   CDS             join(BPMW01000003.1:43811..43875,
+FT                   BPMW01000003.1:43932..43950,BPMW01000003.1:44014..44186,
+FT                   BPMW01000003.1:44247..44396,BPMW01000003.1:44443..44632,
+FT                   BPMW01000003.1:44688..44969,BPMW01000003.1:45026..45262,
+FT                   BPMW01000003.1:45317..45591,BPMW01000003.1:45644..45827,
+FT                   BPMW01000003.1:45888..46103,BPMW01000003.1:46155..46294,
+FT                   BPMW01000003.1:46345..46732)
+FT                   /codon_start=1
+FT                   /locus_tag="Gasu2_01600"
+FT                   /product="S-adenosylmethionine decarboxylase proenzyme"
+FT                   /inference="ab initio prediction:AUGUSTUS:3.4"
+FT                   /protein_id="GJD05705.1"
+FT                   /translation="MFRGFKSLGNLCYWVKGNRSISSPFAVLMVFHGEEGLSLDSSSDM
+FT                   GSGFEGPEKNLELDFRRRNSKIASFLSVSQERWSEILSYAHSLFVFDEKIILKTCGRTT
+FT                   LLRTIPSLLALAEELDFCVDFVRYSRPFFLYPSAQTYPHDSFDSEVQFLEKFFRGHSYT
+FT                   LGAMDGKTAWHLYVADQSEKYSSEQTFEIIMFDLDSEAVSHFFKSKDYQSGLETLEGSG
+FT                   LKSLLPCEEITRYDAYNFDPCGFSLNVVNDDIYYTIHITPESHCSYASLECNAIIEDFT
+FT                   SLLMNTLKLLKPKKYCVVFFADSDAPAACVKQPLQWSCSKELGYQQFGEVTFVRMHENF
+FT                   GEYCAQVCSFMRCEDEFLFTPESESTQDLDVKFLSCSSNGVPQPLDVLLQVSKRFGAEW
+FT                   FSSDHPLETKLKKLKSISHRPLLFIDLGGIYQNFIKLQKVVSSSCRYSVRCNPDPAILR
+FT                   LLYELGVQLTVSSRSEVEHLIRNDISLSNVVFCSPMLKLSSVQRILKTYSFGMVTVSED
+FT                   VLEECISKELSQILREVSVELSLGSDEFDTSSAFERLEYKLKLAKKLGLKIVSVNISQL
+FT                   ESEFLLQNIERLCNILKLFSRVSVVVSGSLQLLEDSSLSRDVDCNSPTKKLVSLLKLRS
+FT                   VSLVLNADSLLLCNNQMMAVSVIARQESSEKDASELKVDKYYISEGVFGAFHELLTESV
+FT                   DNLYPYPLIERKSGEVSFCSIYGPSGDCLDHIWSGVLPVLDIHDYIFFPKIGSFLSLGL
+FT                   REFNDFSRKVDTRYLVTFE"
+XX
+SQ   Sequence 2319 BP; 616 A; 358 C; 520 G; 825 T; 0 other;
+     atgtttcgtg gcttcaagtc acttggtaac ttgtgttatt gggtgaaagg aaatagatct        60
+     ataagctctc cttttgcagt tttgatggtt tttcacggag aagaaggtct gtcattggac       120
+     agttctagtg atatggggag tggtttcgaa ggccctgaaa aaaacttgga attggatttt       180
+     agacgtagga actcaaagat cgcttcgttc ctctcagtat ctcaagaaag atggagcgaa       240
+     atcttgtcat acgcacactc gctttttgta tttgatgaaa agataatctt gaagacttgt       300
+     ggaaggacta ctttactgag gacgataccg tctttgcttg cattggcaga agaattggac       360
+     ttttgtgtgg actttgtgcg ttattcaaga ccgtttttct tatatccttc tgcgcaaacc       420
+     tatcctcatg actcctttga ttcggaagtt cagtttttag aaaagttttt tcggggacat       480
+     agctacactt taggtgctat ggatggtaaa acagcttggc atttgtatgt agctgatcag       540
+     tcagaaaaat attcatctga acagacattc gaaataatta tgtttgattt ggatagtgag       600
+     gctgtcagtc actttttcaa gtcaaaggat tatcaaagtg gtttagaaac tcttgagggt       660
+     tctggtttga agtctttgtt accttgtgaa gagataactc gttacgatgc atacaacttt       720
+     gatccatgtg gattttcttt gaatgtagtg aacgacgaca tttactatac gattcatatt       780
+     actccagagt cgcattgtag ctatgctagt ctggaatgca atgctattat agaagatttt       840
+     acttcattat tgatgaatac cttgaaactt ttgaaaccaa aaaagtattg tgttgtattc       900
+     tttgcagatt cagatgctcc tgctgcttgt gtaaagcaac ctcttcaatg gtcatgttcc       960
+     aaagaactgg gttatcaaca gtttggtgaa gttacatttg ttcgaatgca tgaaaatttc      1020
+     ggagagtatt gtgcacaagt ttgcagtttt atgagatgtg aagatgagtt tctgttcact      1080
+     ccggagtctg aaagtacgca agacttagat gtcaagttcc tatcctgttc gtcgaatggt      1140
+     gttccgcagc cgttggatgt tttattgcaa gtatctaaac ggtttggtgc tgaatggttt      1200
+     tcgagtgatc atccgctgga aactaaacta aagaagttga aatcaatcag tcatcgaccg      1260
+     ttgttattca ttgacctcgg tggaatttat caaaacttta tcaagttaca gaaagttgta      1320
+     tcttcgagtt gtcgttattc cgttcgttgc aatccggacc cagctatctt gagacttttg      1380
+     tatgaattgg gagtgcaact tactgtttct agtcggtctg aagtggaaca tttgattcgg      1440
+     aatgatattt ccttatctaa tgttgttttt tgttcgccaa tgttgaagtt gtcttctgtt      1500
+     cagcgtattt taaagaccta ttcctttggt atggtaactg tttcggaaga tgtattagag      1560
+     gaatgtatat caaaggaatt atcccaaatt ttgagggaag tttcagtaga gttaagtttg      1620
+     ggttcggacg agtttgatac ctcgagtgct tttgagagat tggaatataa gttgaaatta      1680
+     gcaaagaagt taggtttgaa gatagtatct gtgaacattt cacaactcga gtcggaattc      1740
+     ttattgcaga atattgaaag actttgcaat atcttgaaac ttttttcccg cgtttctgtg      1800
+     gtggtttctg gcagtctcca attgttggaa gattcttctt tatcacgaga cgttgactgc      1860
+     aattcaccta cgaagaaact tgtttcattg ttgaaactcc gttctgtatc tcttgttttg      1920
+     aatgcagatt cgttgctact ttgcaataac caaatgatgg cagtttctgt tattgctcga      1980
+     caagagtcca gtgaaaagga tgcaagtgag ttgaaagtgg ataagtatta tatatctgaa      2040
+     ggcgtctttg gagcatttca tgagttgctt accgagtcag tggataactt atatccatat      2100
+     cctcttatag aaaggaagag tggagaagtt tcgttttgtt ctatttatgg tccaagtggt      2160
+     gattgtttgg atcatatttg gtctggagtg ttgccagttt tagacattca cgattatatt      2220
+     ttctttccaa agataggaag ttttttgtcc ttgggtttgc gtgagtttaa tgatttttca      2280
+     cgcaaagtag atactcgtta tttggttacg tttgaataa                             2319
+//

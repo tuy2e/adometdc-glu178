@@ -1,0 +1,153 @@
+ID   DBA97123; SV 1; linear; genomic DNA; WGS; PLN; 2295 BP.
+XX
+PA   DBHNVX010000052.1
+XX
+PR   Project:PRJNA932175;
+XX
+DT   30-JUL-2025 (Created)
+DT   30-JUL-2025 (Last updated)
+XX
+DE   Trebouxia sp. C0004 Mitochondrial 2-oxoadipate and 2-oxoglutarate
+DE   transporter, variant 2
+XX
+KW   WGS; TPA; TPA:assembly; Third Party Data.
+XX
+OS   Trebouxia sp. C0004
+OC   Eukaryota; Viridiplantae; Chlorophyta; core chlorophytes; Trebouxiophyceae;
+OC   Trebouxiales; Trebouxiaceae; Trebouxia.
+XX
+RN   [1]
+RX   PUBMED; 39475309.
+RA   Poquita-Du R.C., Otte J., Calchera A., Schmitt I.;
+RT   "Genome-Wide Comparisons Reveal Extensive Divergence Within the Lichen
+RT   Photobiont Genus, Trebouxia";
+RL   Genome Biol Evol 16(10):(2024).
+XX
+RN   [2]
+RA   Du R.C.;
+RT   ;
+RL   Submitted (15-MAY-2024) to the INSDC.
+RL   Senckenberg Biodiversity and Climate Research Center, Senckenberg
+RL   Gesellschaft fur Naturforschung, Senckenberganlage 25, Frankfurt am Main
+RL   60325, Germany
+XX
+DR   MD5; e3560c3513c4f58f0e87a7afa50acce0.
+DR   BioSample; SAMN24199000.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..2295
+FT                   /organism="Trebouxia sp. C0004"
+FT                   /host="Lasallia pustulata"
+FT                   /strain="C0004"
+FT                   /mol_type="genomic DNA"
+FT                   /lat_lon="60.19761 N 25.1648 E"
+FT                   /isolation_source="generalist phycobionat of the lichen
+FT                   Umbilicaria pustulata"
+FT                   /collection_date="2011-08-07"
+FT                   /db_xref="taxon:2905653"
+FT                   /submitter_seqid="contig_164"
+FT                   /geo_loc_name=Finland: Vuosaari, 13 km NEE Helsinki
+FT   CDS             complement(join(DBHNVX010000052.1:324067..324468,
+FT                   DBHNVX010000052.1:324853..325020,
+FT                   DBHNVX010000052.1:325397..325792,
+FT                   DBHNVX010000052.1:326147..327109,
+FT                   DBHNVX010000052.1:327334..327699))
+FT                   /codon_start=1
+FT                   /gene="ODC1_2"
+FT                   /locus_tag="ACH3X1_014892"
+FT                   /product="Mitochondrial 2-oxoadipate and 2-oxoglutarate
+FT                   transporter, variant 2"
+FT                   /EC_number="4.1.1.17"
+FT                   /note="COG:E; EggNog:ENOG5037JRD; COG:E;
+FT                   EggNog:ENOG5037JRD; GO_component: GO:0110165 - cellular
+FT                   anatomical entity [Evidence IEA]; GO_component: GO:0005622
+FT                   - intracellular anatomical structure [Evidence IEA];
+FT                   GO_component: GO:0005829 - cytosol [Evidence IEA];
+FT                   GO_component: GO:0005737 - cytoplasm [Evidence IEA];
+FT                   GO_function: GO:0004014 - adenosylmethionine decarboxylase
+FT                   activity [Evidence IEA]; GO_function: GO:0003824 -catalytic
+FT                   activity [Evidence IEA]; GO_function: GO:0016829 - lyase
+FT                   activity [Evidence IEA]; GO_function: GO:0016830
+FT                   -carbon-carbon lyase activity [Evidence IEA]; GO_function:
+FT                   GO:0016831 - carboxy-lyase activity [Evidence IEA];
+FT                   GO_process: GO:0044106 - amine metabolic process [Evidence
+FT                   IEA]; GO_process: GO:1901566 - organonitrogen compound
+FT                   biosynthetic process [Evidence IEA]; GO_process: GO:0044237
+FT                   - cellular metabolic process [Evidence IEA]; GO_process:
+FT                   GO:0008295 - spermidine biosynthetic process [Evidence
+FT                   IEA]; GO_process: GO:0034641 - cellular nitrogen compound
+FT                   metabolic process [Evidence IEA]; GO_process: GO:1901564
+FT                   -organonitrogen compound metabolic process [Evidence IEA];
+FT                   GO_process: GO:0044249 - cellular biosynthetic process
+FT                   [Evidence IEA]; GO_process: GO:0009058 - biosynthetic
+FT                   process [Evidence IEA]; GO_process: GO:0008152 - metabolic
+FT                   process [Evidence IEA]; GO_process: GO:0009308 - amine
+FT                   metabolic process [Evidence IEA]; GO_process: GO:0006596
+FT                   -polyamine biosynthetic process [Evidence IEA]; GO_process:
+FT                   GO:0071704 - organic substance metabolic process [Evidence
+FT                   IEA]; GO_process: GO:0006576 - biogenic amine metabolic
+FT                   process [Evidence IEA]; GO_process: GO:0006807 - nitrogen
+FT                   compound metabolic process [Evidence IEA]; GO_process:
+FT                   GO:0044271 - cellular nitrogen compound biosynthetic
+FT                   process [Evidence IEA]; GO_process: GO:1901576 - organic
+FT                   substance biosynthetic process [Evidence IEA]; GO_process:
+FT                   GO:0006597 - spermine biosynthetic process [Evidence IEA];
+FT                   GO_process: GO:0009987 - cellular process [Evidence IEA]"
+FT                   /protein_id="DBA97123.1"
+FT                   /translation="MTSPVADTWPTPVFEGSEKRLEVDFFPTAGSGLRSLNRSQLDQLL
+FT                   EHAGCCIVSDRHNEQFDAYVLSESSLFVFPHKMVLKTCGTTKILYAIPLLLQLAGSTGC
+FT                   SPKRCKYSRASFLYPHHQPEEYQCFDQEVAYLKQHFGELGHGGNAYVLGDASNGLQWHV
+FT                   YVADADHTDPKPQAAPAVYSLEVCMTELCPERALQFFRNDSFVSAQHTSTASGIQSLVP
+FT                   NALIDDYVFEPCGYSMNSMEGAGFSTIHITPEDGFSYASFEISNYATSSLDINNLVASV
+FT                   VDIFNPGKMTVALTVDTNLPCCMWGESVQTPERYTCHAQVSQRFTCGGRTAFYSMAKDA
+FT                   KQHTVAEPVSPMTVLERPASLMSFSGVSDSDRFSSIDTASSAAASAGDDARSPASKEAA
+FT                   AALPMPVLKTVDSQRVSVLKVLECYNATMVETGNDAAYDAFIQKVVQEQSLEDPLYVLD
+FT                   LGAVVRLYQAWVHLMPRVHPFYAVKCNTDPAMVSLLAALGAGFDCASEWEADTVLGLGV
+FT                   PADRIVFANACKRPCDIRFAAAKGLQLTTFDTESELHKLARWHPSTEALLRIRADDPQA
+FT                   RCQLGNKYGALMEDCAGLLATAQQLNIKVVGVAFHVGSGATNPQAFADAIAAARVVFDE
+FT                   ATLLGFHMCILDIGGGFAGGCFDAQGKVQLGEVPLAVNSALATYFCDPAVKVSCQAGVA
+FT                   RSYVSNIKIVLCCQHVGWLCHLLVYLASDFGGYACSHAWRQQASKQLFCSCLCVCRSLT
+FT                   SLPVMILSTSL"
+XX
+SQ   Sequence 2295 BP; 474 A; 630 C; 639 G; 552 T; 0 other;
+     atgacttcgc cggtggccga cacttggccg acaccagttt ttgaaggttc agagaagcgt        60
+     ttagaagttg actttttccc tacagccggc agcggtctac gcagcctcaa tcgcagccag       120
+     ctagaccagc tgttagagca tgcaggctgc tgcatcgttt cagaccgtca caatgagcag       180
+     ttcgatgcat atgtgctctc cgagtccagc ttgtttgttt tccctcacaa gatggtgctg       240
+     aagacctgtg gtaccaccaa gatactgtat gccattcctt tgctgctgca actggctgga       300
+     agcactggct gcagccccaa gcgttgcaag tactcccgtg cttccttttt gtacccacac       360
+     caccagcctg aggaatacca gtgctttgac caagaggttg cgtatctgaa gcaacacttt       420
+     ggcgaactgg gtcatggagg caacgcttat gttcttggtg atgctagcaa tggcctccag       480
+     tggcatgtct acgtggcaga tgcagaccat accgacccca agccacaggc tgcaccggca       540
+     gtctactctc ttgaggtctg catgactgag ctgtgccctg agagagccct ccagtttttc       600
+     aggaatgact ccttcgtctc cgcacagcac acgagcaccg ccagcgggat tcagagccta       660
+     gtgcccaatg ccctgattga tgactatgtc tttgaacctt gtgggtatag catgaacagt       720
+     atggaaggtg ccggtttcag caccatccac atcactccag aggatggctt cagctatgcc       780
+     agctttgaaa tctccaacta tgcaactagc agcttggaca tcaacaacct ggtggcgtca       840
+     gttgtggaca tcttcaaccc tgggaagatg acagttgcac tgacagtaga caccaaccta       900
+     ccctgctgca tgtggggtga gtctgtccag accccagaga ggtacacctg tcacgctcag       960
+     gtcagccaga ggttcacctg cggtggccgc acagctttct acagcatggc caaagatgca      1020
+     aagcagcaca cagttgcaga gcctgtcagt ccgatgactg tgcttgagcg accagccagc      1080
+     ctcatgtcct tcagcggcgt ctcagactca gacaggttca gcagcattga cactgcctca      1140
+     tcagctgctg cctcagctgg tgacgatgcg aggagcccag cgagcaagga agcagcagct      1200
+     gccctaccaa tgcctgtgct caaaacagtg gacagccagc gtgtgtctgt gctcaaggtt      1260
+     cttgagtgct ataatgctac catggttgag actggcaatg acgctgccta tgatgcgttc      1320
+     atccagaagg tggtgcaaga gcagagccta gaggaccccc tgtatgtgct ggacctaggg      1380
+     gcagtcgtgc gtctgtacca ggcctgggtg catctcatgc cacgcgtgca ccccttctat      1440
+     gcagtcaagt gcaacactga cccggccatg gtgtctctac tagcagccct gggtgcaggt      1500
+     tttgactgcg cctcagaatg ggaagcagac acagttctgg gtctgggcgt gcctgcagac      1560
+     cgcatcgtgt ttgccaacgc atgcaagagg ccgtgtgaca tcaggtttgc tgcggccaag      1620
+     gggctgcagc tgaccacctt tgataccgag agcgagctgc ataagcttgc tcggtggcac      1680
+     ccctccacag aggccctgct gcgcatccga gctgatgatc cacaggcccg ctgccagttg      1740
+     ggcaacaagt atggcgccct gatggaggac tgtgctggcc tgctagccac tgcccagcag      1800
+     ctgaatatca aggtggtggg ggtggccttc catgtgggca gtggtgctac caacccccag      1860
+     gctttcgctg acgccattgc tgctgcacgc gtggtatttg atgaggccac tcttttgggg      1920
+     tttcatatgt gcattcttga cattggtggg ggctttgctg gcggctgctt tgatgcgcag      1980
+     ggcaaggtgc agcttggaga ggtccccctt gcagtcaaca gcgctctagc aacctacttc      2040
+     tgtgaccctg ctgtcaaggt gagctgccag gccggggtgg caagatcgta tgtgtcaaat      2100
+     atcaagattg tgttgtgctg tcagcatgtc ggttggctgt gtcatttgtt ggtgtatctt      2160
+     gcatcagact ttggcgggta tgcttgttct catgcttgga ggcagcaagc atcaaaacag      2220
+     ctcttttgtt catgcttgtg tgtctgtcgc agtcttacca gcctgcctgt tatgatcttg      2280
+     tctacgtccc tgtga                                                       2295
+//

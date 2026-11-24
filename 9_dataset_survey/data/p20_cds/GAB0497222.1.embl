@@ -1,0 +1,119 @@
+ID   GAB0497222; SV 1; linear; genomic DNA; WGS; PLN; 3111 BP.
+XX
+PA   BAAFKR010000028.1
+XX
+PR   Project:PRJDB18336;
+XX
+DT   10-JUL-2024 (Created)
+DT   10-JUL-2024 (Last updated)
+XX
+DE   Pyropia vietnamensis hypothetical protein
+XX
+KW   WGS; HIGH_QUALITY_DRAFT.
+XX
+OS   Pyropia vietnamensis
+OC   Eukaryota; Rhodophyta; Bangiophyceae; Bangiales; Bangiaceae; Pyropia.
+XX
+RN   [1]
+RA   San M.H., Nagano Y.;
+RT   "Draft genome of Pyropia vietnamensis from Myanmar";
+RL   Unpublished.
+XX
+RN   [2]
+RA   San M.H., Nagano Y.;
+RT   ;
+RL   Submitted (04-JUL-2024) to the INSDC.
+RL   Contact:Myat Htoo San Saga University, Analytical Research Center for
+RL   Experimental Sciences; Honjo-machi 1, Saga, Saga 840-8502, Japan
+XX
+DR   MD5; 0d4fa2d7ff96b4d1b7480fc5ab5520aa.
+DR   BioSample; SAMD00796542.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..3111
+FT                   /organism="Pyropia vietnamensis"
+FT                   /isolate="Myanmar_A"
+FT                   /mol_type="genomic DNA"
+FT                   /collection_date="2019-08"
+FT                   /db_xref="taxon:683352"
+FT                   /submitter_seqid="scaffold_28"
+FT                   /geo_loc_name=Myanmar:Ayeyarwady Region,Maw Tin
+FT   CDS             complement(BAAFKR010000028.1:100653..103763)
+FT                   /codon_start=1
+FT                   /locus_tag="MMPV_008546"
+FT                   /product="hypothetical protein"
+FT                   /protein_id="GAB0497222.1"
+FT                   /translation="MKQPGLTEMPTLSRDADFKDSNHGNQSLPSQSADVQVLGAADAPS
+FT                   EPLDVFEGPEKKLVLSFNPVSPPFQDLSSTVLRQTFDDVADRGPCAEDPDDTSSSGGGG
+FT                   SFSEEPTEATPLGYTRADILTRFDGQTTLDGNSTISADFFDDAGKSGGCRGSGTEGDPL
+FT                   IGDGDGGVGRDKSSHVDEAREGATFDLRSASREEWDAVLADARCTVLSVKRTADCDAYL
+FT                   LSESSLFVFARRVLIKTCGTTTLLRAIPRLLRLAARCRLKAATVTYSRTAFTFPNQQLY
+FT                   PHTSWAAEVTFLDRFFHGKAALVGTSDGVAGWHLYVAGHPPLGKDGPAAQAASVQTLEV
+FT                   FMFDLDPAVMAHFITVPPSEGGSPVDGGALTDSSDGSGGRDRGDGGNPAVGTRPPNCPG
+FT                   EVTTRVCRLNTLLRPGTVADAWNFEPCGYSMNGLGDSGTYYTVHITPESHCSYVSFECN
+FT                   VDDADLTPLLQGVLSVFRPGRVTVSVLADGHDGAVVGRQAPPLDWDAPRRAGYGATGVP
+FT                   MSQRLATVGGGLYVASVCSYTFAPEEAGTTAPTSLIRDAAACPLDVSASVKCLVDNDTD
+FT                   QRRLQLPIGCWGGGEESRADKAGVPIVGHGGGDGGSGHVAKFAFDTAVANVAAVYHATP
+FT                   VSTGDSVGVARETAARLEQPTFAVCLSTVADRYWSLAATGARLRYTVRCNPDPAVVALL
+FT                   AALGSDFEVSGLAELELLASVGVAHTRVTLAAVGLSRKLLARTAAGRLAGTVTLPAGVD
+FT                   RPTIERVAAYLPGVGVEVEVCASALSSSVATATEAVAAGLVLIGVRLDAPVAADVAGLR
+FT                   RAAACVSAMTGVARGGNGEVAPPLEVHLSGGFLSEQSMALLSSLCQAVDVMGDISVGAA
+FT                   PFVVGEAVTLAVTVIARRLTCAGVDAAGDGSDGEGGDCRAGGCDARVDKGGTESVTGGG
+FT                   PVGTPEPSSVLYYLNDGVYGAFNRVLLGGQSASPLDAAPPGRGCFPSVLFGPTCDSLDR
+FT                   VWGGCLPLLNVGDVLVFRAMGAYAVSAASSFNGFGRHFRTRYVTSHA"
+XX
+SQ   Sequence 3111 BP; 454 A; 936 C; 1074 G; 647 T; 0 other;
+     atgaagcagc ccgggcttac tgaaatgcca actctgtccc gggacgctga cttcaaggac        60
+     agcaaccatg gcaaccagtc gttgccctct caatctgcag acgtccaggt gttaggtgcc       120
+     gcggacgcgc catccgagcc gctggacgtc tttgaaggcc ccgagaagaa gctggtcctc       180
+     tcgtttaatc cggtctcgcc gccttttcag gacctttcat ctaccgtcct ccgccagacg       240
+     tttgacgacg ttgcagaccg cggcccctgc gccgaagatc cggacgatac cagcagcagt       300
+     ggcggcggcg ggagcttctc cgaggagcct accgaagcca ctcctcttgg ctacacgcgc       360
+     gccgatattc tgactcgttt tgacggccag acgacgctgg atggaaactc tactatctcg       420
+     gcggactttt ttgacgatgc tggcaagtca ggcggctgcc gtggttcagg cactgagggt       480
+     gatccgctga ttggtgacgg cgacggaggt gtcggtcgcg acaagagcag tcatgtcgac       540
+     gaagctcggg agggcgccac ttttgatctt cgcagcgctt cgcgcgagga gtgggacgcg       600
+     gttcttgcgg acgcccgttg cactgtgctg tccgtgaagc gcactgccga ttgcgacgcg       660
+     tacctcctgt ctgagtcgtc gttatttgtc tttgctcgcc gggtgctgat caagacatgc       720
+     ggcactacga cgctgctgcg cgccattccg cggcttttgc ggctggccgc tcgctgccgc       780
+     ctcaaggcag cgacagtgac ctactcgcgg acggcgttta cgtttcccaa tcagcagctc       840
+     tacccgcata cctcatgggc ggctgaagtg accttcctgg acaggttttt tcatggcaag       900
+     gctgccctgg tgggtacctc ggacggagtg gcgggctggc acctgtacgt ggcgggtcac       960
+     ccaccgttag ggaaggatgg acccgctgca caggctgcgt cagtgcaaac gctagaggtg      1020
+     ttcatgtttg acctggaccc ggctgtgatg gcgcacttta tcaccgtgcc tccctcggaa      1080
+     ggcgggtcac cggtcgacgg tggtgctttg acggactcgt cagacggtag cggaggccgc      1140
+     gaccgtggcg acggtgggaa cccggcggtg ggtacccgtc cccccaactg tcctggagag      1200
+     gtcacaaccc gcgtttgtcg cttgaacact ctcctccgcc ccggcacagt ggcggacgcg      1260
+     tggaacttcg agccctgtgg ctacagcatg aacggccttg gtgacagtgg cacgtactat      1320
+     acggtccaca tcacccccga gtcgcactgc agctacgtgt cttttgagtg caacgtggat      1380
+     gatgcggatc tgacgccctt gctgcagggg gtgctgtctg ttttccggcc aggccgggtg      1440
+     acggtctcgg tcctggccga cgggcacgac ggggcggtgg tgggtcgcca ggcaccgcca      1500
+     ctggattggg acgcccctcg gcgggcaggc tacggtgcca ccggcgtgcc catgagtcag      1560
+     cggctggcca ccgttggagg ggggttgtac gtagcgtcgg tgtgctcata cacttttgcc      1620
+     cccgaggagg cgggcaccac tgcccctacg tcgttgattc gcgatgcggc ggcatgcccg      1680
+     ctggatgtgt ctgcctctgt caagtgcctt gtcgacaacg acacggacca gcggaggctg      1740
+     cagctgccta tcgggtgctg ggggggtggt gaagagtccc gggctgacaa ggctggcgtc      1800
+     ccgattgtgg gccacggtgg cggcgacggc ggcagcgggc acgtggccaa gtttgccttt      1860
+     gacacagcag tggcgaatgt cgcagccgta taccacgcta cacctgtctc caccggtgat      1920
+     agtgttggtg ttgctcgcga gactgctgcc cggcttgagc aaccgacatt tgcggtctgt      1980
+     ctctcgaccg ttgccgaccg atactggtcg cttgccgcca cgggcgcgcg cctccgttac      2040
+     acagtgcgtt gcaaccccga cccggcggtg gtggcactgt tggctgctct tggctcagat      2100
+     tttgaggtgt ctggcctggc cgagctggag ctccttgctt cggttggggt ggcgcacacc      2160
+     cgggtgacgc ttgccgccgt cgggctgtcg cgtaagctcc ttgctcgtac cgccgcgggg      2220
+     aggctggcag gcactgtgac gctccccgcg ggggtggatc ggccgacgat tgagcgagta      2280
+     gcagcctacc tgccaggggt gggagtggag gtggaggtct gcgcctcggc gctgtcgtcg      2340
+     tctgtagcca ctgccactga agcagtcgcg gcggggctcg ttctcatcgg cgtgcgcctc      2400
+     gacgctccgg tggcagcgga cgtggcgggc ctgcgccgtg ccgccgcgtg tgtgtctgcc      2460
+     atgacgggcg tggcgcgtgg aggcaatggt gaagttgcac cacctttaga ggtgcacctg      2520
+     tcgggcggtt tcctctctga acagtccatg gcgttgctat cctccctgtg ccaggccgtg      2580
+     gacgtgatgg gggatatctc tgttggcgcc gcaccatttg tagtgggtga ggctgtcacc      2640
+     ctggcggtga ccgtcattgc gcggcggctg acgtgtgcgg gggtggacgc ggcgggggac      2700
+     ggcagcgacg gtgagggtgg ggattgccgt gccggtggct gtgatgcacg cgttgacaag      2760
+     ggcggtactg agagcgtcac gggcggagga cctgtaggca cccccgagcc gtcatcggtc      2820
+     ctctactacc tcaacgatgg ggtgtacgga gcgttcaacc gggtgctgct gggcggccag      2880
+     tcggcgtcgc cactggatgc ggctcccccc ggtcgtggct gcttcccgtc ggtgctgttt      2940
+     gggcccacgt gcgacagcct tgaccgagta tggggggggt gcctgccgct gctcaatgta      3000
+     ggcgatgtac tggtgtttcg cgctatgggc gcttatgccg tctcggcggc gagctccttc      3060
+     aacggctttg gtcgccattt ccgcacccgc tacgtcacat cgcacgcgta g               3111
+//

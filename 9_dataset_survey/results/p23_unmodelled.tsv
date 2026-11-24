@@ -1,0 +1,233 @@
+accession	upi	organism	group	length	adometdc_then_plp	accessions_tried	afdb_status	model	note	colab_dimer_residues
+UPI00403BC8E0	UPI00403BC8E0	Agarophyton chilense	Rhodophyta	721	True		no model		UniParc-only (no UniProt accession), AFDB cannot be queried	1442
+UPI00403B59D6	UPI00403B59D6	Gracilaria gracilis	Rhodophyta	757	True		no model		UniParc-only (no UniProt accession), AFDB cannot be queried	1514
+UPI00207E5336	UPI00207E5336	Galdieria sulphuraria	Rhodophyta	772	True		no model		UniParc-only (no UniProt accession), AFDB cannot be queried	1544
+UPI00417AE514	UPI00417AE514	Delisea pulchra	Rhodophyta	856	True		no model		UniParc-only (no UniProt accession), AFDB cannot be queried	1712
+UPI003E63B0D5	UPI003E63B0D5	Pyropia vietnamensis	Rhodophyta	1036	True		no model		UniParc-only (no UniProt accession), AFDB cannot be queried	2072
+A0ACC3CDY0	UPI00291AA047	Pyropia yezoensis	Rhodophyta	1072	True	A0ACC3CDY0	no model		A0ACC3CDY0: HTTP 404	2144
+A0A6T0RWN7.1	UPI0016FC7AEA	Gloeochaete wittrockiana	Glaucocystophyceae	763	True	A0A6T0RWN7	no model		A0A6T0RWN7: HTTP 404	1526
+UPI0034ACD96C	UPI0034ACD96C	Heribaudiella fluviatilis	Stramenopiles	1176	True		no model		UniParc-only (no UniProt accession), AFDB cannot be queried	2352
+UPI0049530F21	UPI0049530F21	Diphylleia rotans	other	518	True		no model		UniParc-only (no UniProt accession), AFDB cannot be queried	1036
+UPI004952E73C	UPI004952E73C	Collodictyon triciliatum	other	641	True		no model		UniParc-only (no UniProt accession), AFDB cannot be queried	1282
+UPI0049530031	UPI0049530031	Collodictyon triciliatum	other	824	True		no model		UniParc-only (no UniProt accession), AFDB cannot be queried	1648
+A0A6U7G8W9.1	UPI0016FC1BEF	Kryptoperidinium triquetrum	Alveolata	302	True	A0A6U7G8W9	no model		A0A6U7G8W9: HTTP 404	604
+A0A6U7JQB1.1	UPI0016CFEF11	Heterocapsa arctica	Alveolata	563	True	A0A6U7JQB1	no model		A0A6U7JQB1: HTTP 404	1126
+UPI0022FB4D1A	UPI0022FB4D1A	uncultured alveolate	Alveolata	651	True		no model		UniParc-only (no UniProt accession), AFDB cannot be queried	1302
+A0A6T1NRD2.1	UPI0016C26961	Alexandrium monilatum	Alveolata	694	True	A0A6T1NRD2	no model		A0A6T1NRD2: HTTP 404	1388
+UPI0022F864FC	UPI0022F864FC	Mesodinium pulex	Alveolata	696	True		no model		UniParc-only (no UniProt accession), AFDB cannot be queried	1392
+A0A6U9NGK1.1	UPI0016F6E6D0	Zooxanthella nutricula	Alveolata	766	True	A0A6U9NGK1	no model		A0A6U9NGK1: HTTP 404	1532
+A0A6T2WKT0.1	UPI00173BBA8D	Alexandrium tamarense	Alveolata	768	True	A0A6T2WKT0	no model		A0A6T2WKT0: HTTP 404	1536
+A0A6V4AY69.1	UPI0016E6419D	Oxyrrhis marina	Alveolata	787	True	A0A6V4AY69	no model		A0A6V4AY69: HTTP 404	1574
+A0A6T1MYB6.1	UPI0016FA873E	Alexandrium monilatum	Alveolata	793	True	A0A6T1MYB6	no model		A0A6T1MYB6: HTTP 404	1586
+A0A6U5ELH5.1	UPI0016DF3504	Amphidinium massartii	Alveolata	800	True	A0A6U5ELH5	no model		A0A6U5ELH5: HTTP 404	1600
+A0A6U9YNS9.1	UPI001727E570	Gymnoxanthella radiolariae	Alveolata	802	True	A0A6U9YNS9	no model		A0A6U9YNS9: HTTP 404	1604
+UPI0016FF88B7	UPI0016FF88B7	Apocalathium aciculiferum	Alveolata	802	True		no model		UniParc-only (no UniProt accession), AFDB cannot be queried	1604
+UPI001718F1CD	UPI001718F1CD	Scrippsiella hangoei	Alveolata	804	True		no model		UniParc-only (no UniProt accession), AFDB cannot be queried	1608
+UPI0016D425BA	UPI0016D425BA	Apocalathium aciculiferum	Alveolata	804	True		no model		UniParc-only (no UniProt accession), AFDB cannot be queried	1608
+UPI0016E00446	UPI0016E00446	Scrippsiella hangoei	Alveolata	806	True		no model		UniParc-only (no UniProt accession), AFDB cannot be queried	1612
+UPI00172DB5E3	UPI00172DB5E3	Apocalathium aciculiferum	Alveolata	809	True		no model		UniParc-only (no UniProt accession), AFDB cannot be queried	1618
+UPI0016E0294D	UPI0016E0294D	Apocalathium aciculiferum	Alveolata	811	True		no model		UniParc-only (no UniProt accession), AFDB cannot be queried	1622
+UPI0016F85706	UPI0016F85706	Scrippsiella hangoei	Alveolata	811	True		no model		UniParc-only (no UniProt accession), AFDB cannot be queried	1622
+A0A6T3X7A1.1	UPI001721D662	Lingulaulax polyedra	Alveolata	814	True	A0A6T3X7A1	no model		A0A6T3X7A1: HTTP 404	1628
+UPI0016C1D230	UPI0016C1D230	Apocalathium aciculiferum	Alveolata	814	True		no model		UniParc-only (no UniProt accession), AFDB cannot be queried	1628
+A0A6T1MV08.1	UPI0016E53BF3	Alexandrium monilatum	Alveolata	817	True	A0A6T1MV08	no model		A0A6T1MV08: HTTP 404	1634
+A0A6T3U287.1	UPI0016F40E9F	Alexandrium tamarense	Alveolata	821	True	A0A6T3U287	no model		A0A6T3U287: HTTP 404	1642
+UPI0016E04C1C	UPI0016E04C1C	Karlodinium veneficum	Alveolata	823	True		no model		UniParc-only (no UniProt accession), AFDB cannot be queried	1646
+UPI001700BF28	UPI001700BF28	Scrippsiella hangoei	Alveolata	825	True		no model		UniParc-only (no UniProt accession), AFDB cannot be queried	1650
+A0A6V4UHU9.1	UPI001732CD1A	Karlodinium veneficum	Alveolata	826	True	A0A6V4UHU9	no model		A0A6V4UHU9: HTTP 404	1652
+UPI0016C6736F	UPI0016C6736F	Scrippsiella hangoei	Alveolata	827	True		no model		UniParc-only (no UniProt accession), AFDB cannot be queried	1654
+A0A6U6QKT5.1	UPI0016E9E7D0	Togula jolla	Alveolata	829	True	A0A6U6QKT5	no model		A0A6U6QKT5: HTTP 404	1658
+A0A6V5L487.1	UPI00173EF53D	Heterocapsa sp. RCC1516	Alveolata	839	True	A0A6V5L487	no model		A0A6V5L487: HTTP 404	1678
+A0A6T5GM14.1	UPI00170F5B53	Azadinium spinosum	Alveolata	850	True	A0A6T5GM14	no model		A0A6T5GM14: HTTP 404	1700
+UPI00172BB759	UPI00172BB759	Scrippsiella hangoei	Alveolata	852	True		no model		UniParc-only (no UniProt accession), AFDB cannot be queried	1704
+A0A6T3RBZ4.1	UPI0016CFF4BB	Durinskia baltica	Alveolata	855	True	A0A6T3RBZ4	no model		A0A6T3RBZ4: HTTP 404	1710
+UPI0022FC6240	UPI0022FC6240	Mesodinium pulex	Alveolata	870	True		no model		UniParc-only (no UniProt accession), AFDB cannot be queried	1740
+A0A6T3UGG9.1	UPI001738BA3C	Scrippsiella trochoidea	Alveolata	871	True	A0A6T3UGG9	no model		A0A6T3UGG9: HTTP 404	1742
+A0A6U5S121.1	UPI001710184B	Heterocapsa rotundata	Alveolata	872	True	A0A6U5S121	no model		A0A6U5S121: HTTP 404	1744
+UPI001701775D	UPI001701775D	Kryptoperidinium foliaceum	Alveolata	881	True		no model		UniParc-only (no UniProt accession), AFDB cannot be queried	1762
+UPI0016D6B8ED	UPI0016D6B8ED	Kryptoperidinium foliaceum	Alveolata	881	True		no model		UniParc-only (no UniProt accession), AFDB cannot be queried	1762
+A0A6U5S5N9.1	UPI00174251BA	Heterocapsa rotundata	Alveolata	890	True	A0A6U5S5N9	no model		A0A6U5S5N9: HTTP 404	1780
+UPI001AB91350	UPI001AB91350	Lingulaulax polyedra	Alveolata	891	True		no model		UniParc-only (no UniProt accession), AFDB cannot be queried	1782
+UPI0022F7E90C	UPI0022F7E90C	Mesodinium pulex	Alveolata	892	True		no model		UniParc-only (no UniProt accession), AFDB cannot be queried	1784
+UPI0017090670	UPI0017090670	Scrippsiella hangoei	Alveolata	896	True		no model		UniParc-only (no UniProt accession), AFDB cannot be queried	1792
+A0A6T4GYH0.1	UPI001727221E	Alexandrium tamarense	Alveolata	906	True	A0A6T4GYH0	no model		A0A6T4GYH0: HTTP 404	1812
+A0A6T3TK94.1	UPI00171BDA70	Alexandrium tamarense	Alveolata	949	True	A0A6T3TK94	no model		A0A6T3TK94: HTTP 404	1898
+UPI00196EE42E	UPI00196EE42E	Alexandrium tamarense	Alveolata	950	True		no model		UniParc-only (no UniProt accession), AFDB cannot be queried	1900
+A0ABQ7JEA1	UPI0020312185	Cardiosporidium cionae	Alveolata	1070	True	A0ABQ7JEA1	no model		A0ABQ7JEA1: HTTP 404	2140
+Q4YQC2.1	UPI000046BB0F	Plasmodium berghei	Alveolata	1142	True	Q4YQC2	no model		Q4YQC2: HTTP 404	2284
+A0A1J1H2N9	UPI00090C0B4B	Plasmodium relictum	Alveolata	1328	True	A0A1J1H2N9	no model		A0A1J1H2N9: HTTP 404	2656
+A0A1J1GXQ1	UPI00091215B3	Plasmodium gallinaceum	Alveolata	1336	True	A0A1J1GXQ1	no model		A0A1J1GXQ1: HTTP 404	2672
+A0A1B1DW15	UPI0008043887	Plasmodium coatneyi	Alveolata	1349	True	A0A1B1DW15	no model		A0A1B1DW15: HTTP 404	2698
+A0A081ICA4.1	UPI0004D24237	Plasmodium vinckei vinckei	Alveolata	1355	True	A0A081ICA4	no model		A0A081ICA4: HTTP 404	2710
+A0A2P9CQE3.1	UPI000D211B03	Plasmodium billcollinsi	Alveolata	1371	True	A0A2P9CQE3	no model		A0A2P9CQE3: HTTP 404	2742
+A0A6V7RYC3.1	UPI0015F23672	Plasmodium vinckei lentum	Alveolata	1372	True	A0A6V7RYC3	no model		A0A6V7RYC3: HTTP 404	2744
+W7AE04	UPI0003E83424	Plasmodium vinckei petteri	Alveolata	1372	True	W7AE04	no model		W7AE04: HTTP 404	2744
+A0A6V7RZD7.1	UPI0015F1C4C7	Plasmodium vinckei brucechwatti	Alveolata	1372	True	A0A6V7RZD7	no model		A0A6V7RZD7: HTTP 404	2744
+A0A6V7SLE9.1	UPI0015F1FAB6	Plasmodium vinckei	Alveolata	1373	True	A0A6V7SLE9	no model		A0A6V7SLE9: HTTP 404	2746
+A0A4V0K3R1	UPI00021FBFAA	Plasmodium chabaudi	Alveolata	1374	True	A0A4V0K3R1	no model		A0A4V0K3R1: HTTP 404	2748
+A0A1C6X904.1	UPI00085683C5	Plasmodium chabaudi chabaudi	Alveolata	1374	True	A0A1C6X904	no model		A0A1C6X904: HTTP 404	2748
+A0A151LL77.1	UPI0007A81F76	Plasmodium gaboni	Alveolata	1375	True	A0A151LL77	no model		A0A151LL77: HTTP 404	2750
+A0A1D3LHJ9.1	UPI0008656716	Plasmodium chabaudi adami	Alveolata	1375	True	A0A1D3LHJ9	no model		A0A1D3LHJ9: HTTP 404	2750
+A0A1C6XH34.1	UPI000857DCD5	Plasmodium chabaudi adami	Alveolata	1375	True	A0A1C6XH34	no model		A0A1C6XH34: HTTP 404	2750
+A0A2P9C2V6.1	UPI000D1FE81A	Plasmodium gaboni	Alveolata	1376	True	A0A2P9C2V6	no model		A0A2P9C2V6: HTTP 404	2752
+K6V8T8	UPI0002923F02	Plasmodium cynomolgi (strain B)	Alveolata	1382	True	K6V8T8	no model		K6V8T8: HTTP 404	2764
+A0A0D9QIT5	UPI000616E192	Plasmodium fragile	Alveolata	1393	True	A0A0D9QIT5	no model		A0A0D9QIT5: HTTP 404	2786
+A0A384LE31	UPI000178E478	Plasmodium knowlesi	Alveolata	1393	True	A0A384LE31	no model		A0A384LE31: HTTP 404	2786
+A0A151LFN8.1	UPI0007A8A96C	Plasmodium reichenowi	Alveolata	1401	True	A0A151LFN8	no model		A0A151LFN8: HTTP 404	2802
+A0A509AGS9	UPI00021FAEAB	Plasmodium berghei	Alveolata	1403	True	A0A509AGS9	no model		A0A509AGS9: HTTP 404	2806
+A0A0Y9UXV6.1	UPI000767FEC9	Plasmodium berghei	Alveolata	1403	True	A0A0Y9UXV6	no model		A0A0Y9UXV6: HTTP 404	2806
+Q7RFF2	UPI000018845E	Plasmodium yoelii	Alveolata	1404	True	Q7RFF2	no model		Q7RFF2: HTTP 404	2808
+V7PHE3	UPI0003DAF395	Plasmodium yoelii 17X	Alveolata	1407	True	V7PHE3	no model		V7PHE3: HTTP 404	2814
+A0A060RYU4	UPI00045F4F0D	Plasmodium reichenowi	Alveolata	1408	True	A0A060RYU4	no model		A0A060RYU4: HTTP 404	2816
+A0A2P9DG25.1	UPI000D21C0ED	Plasmodium reichenowi	Alveolata	1408	True	A0A2P9DG25	no model		A0A2P9DG25: HTTP 404	2816
+A0A0L7K9I5.1	UPI0003E9DD53	Plasmodium falciparum	Alveolata	1415	True	A0A0L7K9I5	no model		A0A0L7K9I5: HTTP 404	2830
+Q9Y1L5	UPI000007CDFE	Plasmodium falciparum	Alveolata	1419	True	Q9Y1L5	no model		Q9Y1L5: HTTP 404	2838
+A0A2P9BEZ8.1	UPI000D211B58	Plasmodium praefalciparum (nom. ined.)	Alveolata	1419	True	A0A2P9BEZ8	no model		A0A2P9BEZ8: HTTP 404	2838
+Q9U8D4	UPI0000074F72	Plasmodium falciparum	Alveolata	1419	True	Q9U8D4	no model		Q9U8D4: HTTP 404	2838
+W7F6W1.1	UPI0003E9E2CA	Plasmodium falciparum (isolate 7G8)	Alveolata	1419	True	W7F6W1	no model		W7F6W1: HTTP 404	2838
+A0A024V6H4.1	UPI00045595BE	Plasmodium falciparum Vietnam Oak-Knoll (FVO)	Alveolata	1419	True	A0A024V6H4	no model		A0A024V6H4: HTTP 404	2838
+A0A0L7LXK0.1	UPI00067F8BAD	Plasmodium falciparum (isolate Dd2)	Alveolata	1420	True	A0A0L7LXK0	no model		A0A0L7LXK0: HTTP 404	2840
+W4IGG8.1	UPI0003E442A5	Plasmodium falciparum NF135/5.C10	Alveolata	1421	True	W4IGG8	no model		W4IGG8: HTTP 404	2842
+A0A024WP08.1	UPI0004550115	Plasmodium falciparum MaliPS096_E11	Alveolata	1422	True	A0A024WP08	no model		A0A024WP08: HTTP 404	2844
+A0A0L0CUY5.1	UPI000675174C	Plasmodium falciparum RAJ116	Alveolata	1423	True	A0A0L0CUY5	no model		A0A0L0CUY5: HTTP 404	2846
+A0A0L1IFH4.1	UPI0006783759	Plasmodium falciparum IGH-CR14	Alveolata	1424	True	A0A0L1IFH4	no model		A0A0L1IFH4: HTTP 404	2848
+UPI0023B6FB67	UPI0023B6FB67	Plasmodium vivax	Alveolata	1428	True		no model		UniParc-only (no UniProt accession), AFDB cannot be queried	2856
+W4J2C0.1	UPI0003E4080B	Plasmodium falciparum	Alveolata	1430	True	W4J2C0	no model		W4J2C0: HTTP 404	2860
+A0A2P9GLB6.1	UPI000D1FF7CE	Plasmodium billcollinsi	Alveolata	1431	True	A0A2P9GLB6	no model		A0A2P9GLB6: HTTP 404	2862
+A0A2I0BRE9.1	UPI000CAA2428	Plasmodium falciparum (isolate NF54)	Alveolata	1433	True	A0A2I0BRE9	no model		A0A2I0BRE9: HTTP 404	2866
+A0A0J9V631.1	UPI0006700418	Plasmodium vivax India VII	Alveolata	1434	True	A0A0J9V631	no model		A0A0J9V631: HTTP 404	2868
+A0A1L0CSS6.1	UPI00090A2A86	Plasmodium vivax	Alveolata	1434	True	A0A1L0CSS6	no model		A0A1L0CSS6: HTTP 404	2868
+A0A1G4GUM3.1	UPI000864B14B	Plasmodium vivax	Alveolata	1434	True	A0A1G4GUM3	no model		A0A1G4GUM3: HTTP 404	2868
+W7JXH5.1	UPI0003EB7E30	Plasmodium falciparum UGT5.1	Alveolata	1436	True	W7JXH5	no model		W7JXH5: HTTP 404	2872
+A0A0J9SWZ9.1	UPI00067033DC	Plasmodium vivax (strain Brazil I)	Alveolata	1439	True	A0A0J9SWZ9	no model		A0A0J9SWZ9: HTTP 404	2878
+W7A4D8	UPI0003E83D55	Plasmodium inui San Antonio 1	Alveolata	1440	True	W7A4D8	no model		W7A4D8: HTTP 404	2880
+A5KDQ6	UPI000153F91F	Plasmodium vivax	Alveolata	1442	True	A5KDQ6	no model		A5KDQ6: HTTP 404	2884
+A0A0J9TH68.1	UPI000670398E	Plasmodium vivax Mauritania I	Alveolata	1442	True	A0A0J9TH68	no model		A0A0J9TH68: HTTP 404	2884
+A0A0J9U0R9.1	UPI0006705AE9	Plasmodium vivax North Korean	Alveolata	1445	True	A0A0J9U0R9	no model		A0A0J9U0R9: HTTP 404	2890
+A0A8S4HHB4.1	UPI001D951FC8	Plasmodium vivax	Alveolata	1450	True	A0A8S4HHB4	no model		A0A8S4HHB4: HTTP 404	2900
+A0A024W5H0.1	UPI0004552BC5	Plasmodium falciparum Tanzania (2000708)	Alveolata	1451	True	A0A024W5H0	no model		A0A024W5H0: HTTP 404	2902
+A0ACB9Y8J1	UPI00219FEA8E	Plasmodium brasilianum	Alveolata	1453	True	A0ACB9Y8J1	no model		A0ACB9Y8J1: HTTP 404	2906
+A0A1A8VUP1	UPI0007F4C3CD	Plasmodium malariae	Alveolata	1453	True	A0A1A8VUP1	no model		A0A1A8VUP1: HTTP 404	2906
+A0A1G4H9W7.1	UPI00086548AF	Plasmodium vivax	Alveolata	1456	True	A0A1G4H9W7	no model		A0A1G4H9W7: HTTP 404	2912
+A0A1D3TG90	UPI000864D5A9	Plasmodium ovale	Alveolata	1462	True	A0A1D3TG90	no model		A0A1D3TG90: HTTP 404	2924
+A0A2P9D8D3.1	UPI000D21037D	Plasmodium blacklocki (nom. inval.)	Alveolata	1463	True	A0A2P9D8D3	no model		A0A2P9D8D3: HTTP 404	2926
+A0A2P9C306.1	UPI000D217F82	Plasmodium adleri (nom. inval.)	Alveolata	1466	True	A0A2P9C306	no model		A0A2P9C306: HTTP 404	2932
+A0A1A8YN63	UPI0007F4D21E	Plasmodium ovale wallikeri	Alveolata	1479	True	A0A1A8YN63	no model		A0A1A8YN63: HTTP 404	2958
+UPI003EC9801A	UPI003EC9801A	Haemoproteus majoris	Alveolata	1490	True		no model		UniParc-only (no UniProt accession), AFDB cannot be queried	2980
+A0A1A8YPA3.1	UPI0007F43EA8	Plasmodium ovale wallikeri	Alveolata	1495	True	A0A1A8YPA3	no model		A0A1A8YPA3: HTTP 404	2990
+A0A1Y1JBX6	UPI000B56C509	Plasmodium gonderi	Alveolata	1513	True	A0A1Y1JBX6	no model		A0A1Y1JBX6: HTTP 404	3026
+A0A1A8VMW6.1	UPI0007F459DC	Plasmodium ovale curtisi	Alveolata	1547	True	A0A1A8VMW6	no model		A0A1A8VMW6: HTTP 404	3094
+A0A1C3KQ77.1	UPI000814F46A	Plasmodium ovale	Alveolata	1551	True	A0A1C3KQ77	no model		A0A1C3KQ77: HTTP 404	3102
+A0A024VK72.1	UPI0004559455	Plasmodium falciparum FCH/4	Alveolata	1564	True	A0A024VK72	no model		A0A024VK72: HTTP 404	3128
+A0A653H4L8.1	UPI0012E4CB6E	Hepatocystis sp. ex Piliocolobus tephrosceles	Alveolata	1752	True	A0A653H4L8	no model		A0A653H4L8: HTTP 404	3504
+UPI0018F8B29C	UPI0018F8B29C	Streptomyces sp. AA4	Bacteria	464	False		no model		UniParc-only (no UniProt accession), AFDB cannot be queried	928
+UPI004803C50C	UPI004803C50C	Actinophytocola sp.	Bacteria	474	False		no model		UniParc-only (no UniProt accession), AFDB cannot be queried	948
+UPI00256FE547	UPI00256FE547	Streptomyces sp. AA4	Bacteria	474	False		no model		UniParc-only (no UniProt accession), AFDB cannot be queried	948
+UPI003A5236E8	UPI003A5236E8	Amycolatopsis echigonensis	Bacteria	477	False		no model		UniParc-only (no UniProt accession), AFDB cannot be queried	954
+A0A8G0DY54.1	UPI001C696D39	Amycolatopsis sp. DSM 110486	Bacteria	480	False	A0A8G0DY54	no model		A0A8G0DY54: HTTP 404	960
+UPI00036BF155	UPI00036BF155	Amycolatopsis benzoatilytica	Bacteria	480	False		no model		UniParc-only (no UniProt accession), AFDB cannot be queried	960
+UPI0026B9519D	UPI0026B9519D	Amycolatopsis suaedae	Bacteria	483	False		no model		UniParc-only (no UniProt accession), AFDB cannot be queried	966
+UPI0007C7B459	UPI0007C7B459	Kibdelosporangium sp. MJ126-NF4	Bacteria	487	False		no model		UniParc-only (no UniProt accession), AFDB cannot be queried	974
+UPI001564A819	UPI001564A819	Kibdelosporangium persicum	Bacteria	487	False		no model		UniParc-only (no UniProt accession), AFDB cannot be queried	974
+UPI0007C7932D	UPI0007C7932D	Kibdelosporangium phytohabitans	Bacteria	487	False		no model		UniParc-only (no UniProt accession), AFDB cannot be queried	974
+UPI0009FBE781	UPI0009FBE781	Kibdelosporangium aridum	Bacteria	488	False		no model		UniParc-only (no UniProt accession), AFDB cannot be queried	976
+UPI0007C46A25	UPI0007C46A25	Kibdelosporangium aridum	Bacteria	488	False		no model		UniParc-only (no UniProt accession), AFDB cannot be queried	976
+UPI00039C5750	UPI00039C5750	Amycolatopsis orientalis DSM 43388	Bacteria	498	False		no model		UniParc-only (no UniProt accession), AFDB cannot be queried	996
+UPI00161B2541	UPI00161B2541	Amycolatopsis jiangsuensis	Bacteria	498	False		no model		UniParc-only (no UniProt accession), AFDB cannot be queried	996
+UPI001C721CE1	UPI001C721CE1	Amycolatopsis dendrobii	Bacteria	498	False		no model		UniParc-only (no UniProt accession), AFDB cannot be queried	996
+UPI001927BBE1	UPI001927BBE1	Amycolatopsis rubida	Bacteria	498	False		no model		UniParc-only (no UniProt accession), AFDB cannot be queried	996
+UPI001C81539F	UPI001C81539F	Amycolatopsis echigonensis	Bacteria	498	False		no model		UniParc-only (no UniProt accession), AFDB cannot be queried	996
+UPI000685DF3D	UPI000685DF3D	Amycolatopsis orientalis	Bacteria	499	False		no model		UniParc-only (no UniProt accession), AFDB cannot be queried	998
+UPI00068EDC01	UPI00068EDC01	Amycolatopsis jejuensis	Bacteria	499	False		no model		UniParc-only (no UniProt accession), AFDB cannot be queried	998
+UPI001ABF7924	UPI001ABF7924	Amycolatopsis circi	Bacteria	499	False		no model		UniParc-only (no UniProt accession), AFDB cannot be queried	998
+UPI0006900420	UPI0006900420	Streptomyces sp. NRRL F-3213	Bacteria	499	False		no model		UniParc-only (no UniProt accession), AFDB cannot be queried	998
+UPI003370CFEE	UPI003370CFEE	Amycolatopsis albidoflavus	Bacteria	499	False		no model		UniParc-only (no UniProt accession), AFDB cannot be queried	998
+UPI000688CEE6	UPI000688CEE6	Amycolatopsis orientalis	Bacteria	502	False		no model		UniParc-only (no UniProt accession), AFDB cannot be queried	1004
+UPI0003A6B286	UPI0003A6B286	Amycolatopsis benzoatilytica	Bacteria	502	False		no model		UniParc-only (no UniProt accession), AFDB cannot be queried	1004
+UPI0006960043	UPI0006960043	Kibdelosporangium sp. MJ126-NF4	Bacteria	502	False		no model		UniParc-only (no UniProt accession), AFDB cannot be queried	1004
+D9VBH0.1	UPI0001DEE0C9	Actinomycetes	Bacteria	502	False	D9VBH0	no model		D9VBH0: HTTP 404	1004
+UPI0005270716	UPI0005270716	Amycolatopsis jejuensis	Bacteria	502	False		no model		UniParc-only (no UniProt accession), AFDB cannot be queried	1004
+UPI001C42F751	UPI001C42F751	Amycolatopsis saalfeldensis	Bacteria	505	False		no model		UniParc-only (no UniProt accession), AFDB cannot be queried	1010
+UPI0003A47673	UPI0003A47673	Amycolatopsis orientalis	Bacteria	506	False		no model		UniParc-only (no UniProt accession), AFDB cannot be queried	1012
+UPI0007C4E7B4	UPI0007C4E7B4	Actinomycetes	Bacteria	506	False		no model		UniParc-only (no UniProt accession), AFDB cannot be queried	1012
+A0ABX0BYM8	UPI00082CD676	Amycolatopsis	Bacteria	506	False	A0ABX0BYM8	no model		A0ABX0BYM8: HTTP 404	1012
+UPI001070221A	UPI001070221A	Amycolatopsis nivea	Bacteria	506	False		no model		UniParc-only (no UniProt accession), AFDB cannot be queried	1012
+UPI00106EF908	UPI00106EF908	unclassified Amycolatopsis	Bacteria	506	False		no model		UniParc-only (no UniProt accession), AFDB cannot be queried	1012
+UPI001F9BFCB1	UPI001F9BFCB1	Amycolatopsis sp. Poz14	Bacteria	506	False		no model		UniParc-only (no UniProt accession), AFDB cannot be queried	1012
+UPI0030B3CBF2	UPI0030B3CBF2	Amycolatopsis sp. A1MSW2902	Bacteria	506	False		no model		UniParc-only (no UniProt accession), AFDB cannot be queried	1012
+UPI000E227C3A	UPI000E227C3A	Amycolatopsis circi	Bacteria	506	False		no model		UniParc-only (no UniProt accession), AFDB cannot be queried	1012
+UPI001C26DFB4	UPI001C26DFB4	Kibdelosporangium persicum	Bacteria	507	False		no model		UniParc-only (no UniProt accession), AFDB cannot be queried	1014
+UPI000B85F38C	UPI000B85F38C	Amycolatopsis saalfeldensis	Bacteria	509	False		no model		UniParc-only (no UniProt accession), AFDB cannot be queried	1018
+UPI00268D0094	UPI00268D0094	Actinosynnema sp. ALI-1.44	Bacteria	513	False		no model		UniParc-only (no UniProt accession), AFDB cannot be queried	1026
+UPI0019FA3811	UPI0019FA3811	Kibdelosporangium phytohabitans	Bacteria	513	False		no model		UniParc-only (no UniProt accession), AFDB cannot be queried	1026
+A0ABX2EWQ9	UPI001D9273D2	Kibdelosporangium persicum	Bacteria	513	False	A0ABX2EWQ9	no model		A0ABX2EWQ9: HTTP 404	1026
+UPI000AA1A293	UPI000AA1A293	Kibdelosporangium aridum subsp. largum	Bacteria	514	False		no model		UniParc-only (no UniProt accession), AFDB cannot be queried	1028
+UPI000B140B54	UPI000B140B54	Actinomycetes	Bacteria	514	False		no model		UniParc-only (no UniProt accession), AFDB cannot be queried	1028
+A0ABS4TJG5	UPI00383867EE	Kibdelosporangium banguiense	Bacteria	515	False	A0ABS4TJG5	no model		A0ABS4TJG5: HTTP 404	1030
+UPI001AE6D9F8	UPI001AE6D9F8	Kibdelosporangium banguiense	Bacteria	519	False		no model		UniParc-only (no UniProt accession), AFDB cannot be queried	1038
+UPI00068B28A7	UPI00068B28A7	Kibdelosporangium aridum	Bacteria	521	False		no model		UniParc-only (no UniProt accession), AFDB cannot be queried	1042
+UPI00069089CE	UPI00069089CE	Rhodococcus rhodnii	Bacteria	521	False		no model		UniParc-only (no UniProt accession), AFDB cannot be queried	1042
+UPI0009F99147	UPI0009F99147	Kibdelosporangium phytohabitans	Bacteria	564	False		no model		UniParc-only (no UniProt accession), AFDB cannot be queried	1128
+UPI0023698E55	UPI0023698E55	bacterium	Bacteria	602	True		no model		UniParc-only (no UniProt accession), AFDB cannot be queried	1204
+A0ACG4DQ57	UPI003978ABF3	Pseudonocardia nantongensis	Bacteria	858	False	A0ACG4DQ57	no model		A0ACG4DQ57: HTTP 404	1716
+A0A8C9GKE0	UPI00108F000D	Piliocolobus tephrosceles	Metazoa	1532	True	A0A8C9GKE0	no model		A0A8C9GKE0: HTTP 404	3064
+A0ACS3UUC8	UPI003E027949	Auxenochlorella protothecoides x Auxenochlorella symbiontica	Viridiplantae	257	True	A0ACS3UUC8	no model		A0ACS3UUC8: HTTP 404	514
+UPI0022FCFCE2	UPI0022FCFCE2	uncultured Pyramimonadales	Viridiplantae	629	True		no model		UniParc-only (no UniProt accession), AFDB cannot be queried	1258
+UPI0038727EB7	UPI0038727EB7	Trebouxia sp. C0009 RCD-2024	Viridiplantae	651	True		no model		UniParc-only (no UniProt accession), AFDB cannot be queried	1302
+A0A6T6TKC6.1	UPI0017020715	Dolichomastix tenuilepis	Viridiplantae	678	True	A0A6T6TKC6	no model		A0A6T6TKC6: HTTP 404	1356
+A0A6V2XUL8.1	UPI0016BF78BD	Pyramimonas parkeae	Viridiplantae	688	True	A0A6V2XUL8	no model		A0A6V2XUL8: HTTP 404	1376
+UPI0033022BC4	UPI0033022BC4	Trebouxia sp. C0006	Viridiplantae	693	True		no model		UniParc-only (no UniProt accession), AFDB cannot be queried	1386
+UPI0032FB0F5E	UPI0032FB0F5E	Trebouxia sp. C0005	Viridiplantae	761	True		no model		UniParc-only (no UniProt accession), AFDB cannot be queried	1522
+UPI003EF4DE17	UPI003EF4DE17	Trebouxia sp. C0004	Viridiplantae	764	True		no model		UniParc-only (no UniProt accession), AFDB cannot be queried	1528
+UPI00256AEE67	UPI00256AEE67	Bryopsis sp. KO-2023	Viridiplantae	777	True		no model		UniParc-only (no UniProt accession), AFDB cannot be queried	1554
+UPI001A872EF3	UPI001A872EF3	uncultured Pyramimonas	Viridiplantae	800	True		no model		UniParc-only (no UniProt accession), AFDB cannot be queried	1600
+UPI001AB276C2	UPI001AB276C2	uncultured Micromonas	Viridiplantae	807	True		no model		UniParc-only (no UniProt accession), AFDB cannot be queried	1614
+UPI0026F5908A	UPI0026F5908A	Adiantum nelumboides	Viridiplantae	812	True		no model		UniParc-only (no UniProt accession), AFDB cannot be queried	1624
+UPI00270145B2	UPI00270145B2	Adiantum nelumboides	Viridiplantae	813	True		no model		UniParc-only (no UniProt accession), AFDB cannot be queried	1626
+UPI000D1C7A16	UPI000D1C7A16	Selaginella moellendorffii	Viridiplantae	820	True		no model		UniParc-only (no UniProt accession), AFDB cannot be queried	1640
+UPI000D1C7E6E	UPI000D1C7E6E	Selaginella moellendorffii	Viridiplantae	823	True		no model		UniParc-only (no UniProt accession), AFDB cannot be queried	1646
+UPI003A1E0F79	UPI003A1E0F79	Nannochloris sp. 'desiccata'	Viridiplantae	823	True		no model		UniParc-only (no UniProt accession), AFDB cannot be queried	1646
+A0A6T8QRB2.1	UPI0017434FAE	Tetraselmis astigmatica	Viridiplantae	833	True	A0A6T8QRB2	no model		A0A6T8QRB2: HTTP 404	1666
+A0A6V1UPV8.1	UPI0017206C74	Tetraselmis striata	Viridiplantae	834	True	A0A6V1UPV8	no model		A0A6V1UPV8: HTTP 404	1668
+UPI003D4E3111	UPI003D4E3111	Chloropicon roscoffensis	Viridiplantae	835	True		no model		UniParc-only (no UniProt accession), AFDB cannot be queried	1670
+UPI003D44361E	UPI003D44361E	Chloropicon roscoffensis	Viridiplantae	835	True		no model		UniParc-only (no UniProt accession), AFDB cannot be queried	1670
+UPI0032F171AD	UPI0032F171AD	Trebouxia sp. C0004	Viridiplantae	836	True		no model		UniParc-only (no UniProt accession), AFDB cannot be queried	1672
+A0A6U1H0L7.1	UPI0016C9EF06	Tetraselmis chui	Viridiplantae	836	True	A0A6U1H0L7	no model		A0A6U1H0L7: HTTP 404	1672
+UPI003871A089	UPI003871A089	Trebouxia sp. C0009 RCD-2024	Viridiplantae	838	True		no model		UniParc-only (no UniProt accession), AFDB cannot be queried	1676
+UPI0038720A48	UPI0038720A48	Trebouxia sp. C0010 RCD-2024	Viridiplantae	838	True		no model		UniParc-only (no UniProt accession), AFDB cannot be queried	1676
+UPI003EFAEB2A	UPI003EFAEB2A	Trebouxia sp. C0006	Viridiplantae	838	True		no model		UniParc-only (no UniProt accession), AFDB cannot be queried	1676
+A0A6U9SDW3.1	UPI0017192452	Picocystis salinarum	Viridiplantae	842	True	A0A6U9SDW3	no model		A0A6U9SDW3: HTTP 404	1684
+UPI003FA50ABC	UPI003FA50ABC	Trebouxia sp. A48	Viridiplantae	843	True		no model		UniParc-only (no UniProt accession), AFDB cannot be queried	1686
+A0ABP1FZH3	UPI0030BB4C85	Coccomyxa viridis	Viridiplantae	848	True	A0ABP1FZH3	no model		A0ABP1FZH3: HTTP 404	1696
+UPI003E326C11	UPI003E326C11	Parachlorella kessleri	Viridiplantae	849	True		no model		UniParc-only (no UniProt accession), AFDB cannot be queried	1698
+A0ABR2Z651	UPI0032E5E68A	Coccomyxa subellipsoidea	Viridiplantae	850	True	A0ABR2Z651	no model		A0ABR2Z651: HTTP 404	1700
+A0ACT2CGQ9	UPI003D5B915C	Pseudoscourfieldia marina	Viridiplantae	856	True	A0ACT2CGQ9	no model		A0ACT2CGQ9: HTTP 404	1712
+UPI003D3B712B	UPI003D3B712B	Pycnococcus provasolii	Viridiplantae	856	True		no model		UniParc-only (no UniProt accession), AFDB cannot be queried	1712
+UPI00465AA030	UPI00465AA030	Marchantia paleacea	Viridiplantae	858	True		no model		UniParc-only (no UniProt accession), AFDB cannot be queried	1716
+UPI0019713C57	UPI0019713C57	Chloropicon mariensis	Viridiplantae	862	True		no model		UniParc-only (no UniProt accession), AFDB cannot be queried	1724
+A0A6V2XV37.1	UPI00170A17E8	Pyramimonas parkeae	Viridiplantae	864	True	A0A6V2XV37	no model		A0A6V2XV37: HTTP 404	1728
+A0ACE1S3P2	UPI00359B4D89	Coccomyxa elongata	Viridiplantae	871	True	A0ACE1S3P2	no model		A0ACE1S3P2: HTTP 404	1742
+UPI0041CE4EE6	UPI0041CE4EE6	Coccomyxa sp. KJ	Viridiplantae	877	True		no model		UniParc-only (no UniProt accession), AFDB cannot be queried	1754
+A0ACS3USW8	UPI003E0D42B5	Auxenochlorella protothecoides x Auxenochlorella symbiontica	Viridiplantae	880	True	A0ACS3USW8	no model		A0ACS3USW8: HTTP 404	1760
+UPI003DED54FA	UPI003DED54FA	Auxenochlorella protothecoides x Auxenochlorella symbiontica	Viridiplantae	880	True		no model		UniParc-only (no UniProt accession), AFDB cannot be queried	1760
+UPI003A817EFF	UPI003A817EFF	Micractinium sp. CCAP 211/92	Viridiplantae	886	True		no model		UniParc-only (no UniProt accession), AFDB cannot be queried	1772
+A0A6U1YT63.1	UPI001727CFAC	Crustomastix stigmatica	Viridiplantae	888	True	A0A6U1YT63	no model		A0A6U1YT63: HTTP 404	1776
+UPI001C373895	UPI001C373895	Nannochloris sp. 'desiccata'	Viridiplantae	890	True		no model		UniParc-only (no UniProt accession), AFDB cannot be queried	1780
+A0ACF7VFR7	UPI003A5B53B2	Micractinium tetrahymenae	Viridiplantae	893	True	A0ACF7VFR7	no model		A0ACF7VFR7: HTTP 404	1786
+UPI0030877445	UPI0030877445	Picochlorum sp. SENEW3	Viridiplantae	904	True		no model		UniParc-only (no UniProt accession), AFDB cannot be queried	1808
+A0A6T6TE00.1	UPI00173E0C24	Dolichomastix tenuilepis	Viridiplantae	905	True	A0A6T6TE00	no model		A0A6T6TE00: HTTP 404	1810
+A0A6U0PMV0.1	UPI001734EA13	Prasinoderma coloniale	Viridiplantae	909	True	A0A6U0PMV0	no model		A0A6U0PMV0: HTTP 404	1818
+UPI00256B0A12	UPI00256B0A12	Closterium sp. NIES-64	Viridiplantae	947	True		no model		UniParc-only (no UniProt accession), AFDB cannot be queried	1894
+UPI00255E298F	UPI00255E298F	Closterium sp. NIES-65	Viridiplantae	947	True		no model		UniParc-only (no UniProt accession), AFDB cannot be queried	1894
+UPI002567789E	UPI002567789E	unclassified Closterium	Viridiplantae	947	True		no model		UniParc-only (no UniProt accession), AFDB cannot be queried	1894
+A0A6U0DZB1.1	UPI001729524D	Micromonas pusilla	Viridiplantae	974	True	A0A6U0DZB1	no model		A0A6U0DZB1: HTTP 404	1948
+UPI003E849B82	UPI003E849B82	Calypogeia fissa	Viridiplantae	988	True		no model		UniParc-only (no UniProt accession), AFDB cannot be queried	1976
+A0A6U3FW60.1	UPI001741B47D	Mantoniella antarctica	Viridiplantae	991	True	A0A6U3FW60	no model		A0A6U3FW60: HTTP 404	1982
+UPI0022F665C1	UPI0022F665C1	uncultured Mantoniella	Viridiplantae	991	True		no model		UniParc-only (no UniProt accession), AFDB cannot be queried	1982
+UPI003E84D60F	UPI003E84D60F	Calypogeia fissa	Viridiplantae	992	True		no model		UniParc-only (no UniProt accession), AFDB cannot be queried	1984
+UPI00256BD7B6	UPI00256BD7B6	Closterium sp. Naga37s-1	Viridiplantae	1023	True		no model		UniParc-only (no UniProt accession), AFDB cannot be queried	2046
+UPI00256CCA27	UPI00256CCA27	Closterium sp. Naga37s-1	Viridiplantae	1032	True		no model		UniParc-only (no UniProt accession), AFDB cannot be queried	2064
+UPI0025662740	UPI0025662740	Closterium sp. Yama58-4	Viridiplantae	1062	True		no model		UniParc-only (no UniProt accession), AFDB cannot be queried	2124
+UPI00255D987A	UPI00255D987A	Closterium sp. Yama58-4	Viridiplantae	1159	True		no model		UniParc-only (no UniProt accession), AFDB cannot be queried	2318
+A0A2P6TST6	UPI000D278B9A	Chlorella sorokiniana	Viridiplantae	1983	True	A0A2P6TST6	no model		A0A2P6TST6: HTTP 404	3966
+A0ACF8QCP6	UPI003B60BE21	Chlorella vulgaris	Viridiplantae	2572	True	A0ACF8QCP6	no model		A0ACF8QCP6: HTTP 404	5144

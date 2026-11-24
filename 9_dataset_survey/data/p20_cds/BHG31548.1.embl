@@ -1,0 +1,119 @@
+ID   BHG31548; SV 1; linear; genomic DNA; STD; PLN; 2634 BP.
+XX
+PA   AP044759.1
+XX
+PR   Project:PRJNA1302691;
+XX
+DT   09-FEB-2026 (Created)
+DT   10-FEB-2026 (Last updated)
+XX
+DE   Coccomyxa sp. KJ Ornithine decarboxylase
+XX
+KW   .
+XX
+OS   Coccomyxa sp. KJ
+OC   Eukaryota; Viridiplantae; Chlorophyta; core chlorophytes; Trebouxiophyceae;
+OC   Trebouxiophyceae incertae sedis; Coccomyxaceae; Coccomyxa.
+XX
+RN   [1]
+RA   Harayama S., Ide Y.;
+RT   ;
+RL   Submitted (17-OCT-2025) to the INSDC.
+RL   Contact:Shigeaki Harayama Chuo University, Research and Development
+RL   Initiative; 1-13-27 Kasuga, Bunkyo-ku, Tokyo 112-8551, Japan
+XX
+RN   [2]
+RA   Harayama S., Ide Y.;
+RT   "The genomic sequence of the unicellular green alga, Coccomyxa sp..";
+RL   Unpublished.
+XX
+DR   MD5; ea5d946256a973866254a16913375b0f.
+DR   BioSample; SAMN50566503.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..2634
+FT                   /organism="Coccomyxa sp. KJ"
+FT                   /chromosome="19"
+FT                   /strain="KJ"
+FT                   /mol_type="genomic DNA"
+FT                   /collection_date="2001"
+FT                   /db_xref="taxon:2561882"
+FT                   /culture_collection="NBRC:FERM BP-22254"
+FT                   /geo_loc_name=Japan:Oita, Kokonoe-machi
+FT   CDS             complement(join(AP044759.1:707222..707541,
+FT                   AP044759.1:707817..707923,AP044759.1:708155..708302,
+FT                   AP044759.1:708725..708848,AP044759.1:709373..709537,
+FT                   AP044759.1:709822..709920,AP044759.1:710315..710501,
+FT                   AP044759.1:710896..711055,AP044759.1:711389..711674,
+FT                   AP044759.1:711984..712175,AP044759.1:712468..712716,
+FT                   AP044759.1:712972..713190,AP044759.1:713522..713746,
+FT                   AP044759.1:714053..714205))
+FT                   /codon_start=1
+FT                   /transl_table=1
+FT                   /locus_tag="COCKJ_19-01290"
+FT                   /product="Ornithine decarboxylase"
+FT                   /protein_id="BHG31548.1"
+FT                   /translation="MTMMDSESVLPCPLFEGSEKRLVAEFSFGAASPVEGLRALSRGQL
+FT                   DALLCQAACCIVSCRSNEDFDAYVLSESSLFVYPERLVLKTCGTTALLAAVPMLLELAA
+FT                   SLDMRPLRFKYSRASFLFPENQPAPYQAFEDEVAFLETYLGSMGGGGNAYVLGDALHGL
+FT                   RWHVYVAAKHGAPIARQNAAADHSIEVCMTSLCPVKAAQFARGGDFISARHTTIDTGIA
+FT                   DLLPAADIDEYVFEPCGYSMNGLQGGAFSTIHVTPEAACSYASVELTGCAHEDVAAFVA
+FT                   KSAEIFRPGKMTVAVTAAAGTPPAGVFAAGYTVAGTSAQILPCGTSVVVYSLQASGVSA
+FT                   APTLEQEEKEMVVSGKVAQGGAAMEDDRMSQVSELTGFDIGALAGSGLFARGLTNSACF
+FT                   GSDDENANGSCGGGNASIAMSASYASSQASEAAKSRPETPEPDWQMVDKPAPAVAGGDA
+FT                   PADGASLLAGVLARYSALPLLSGDAATLDAYLSRVIRQHQLEDPVCIVDLGRVARLFGA
+FT                   WVAAMPRVTPFYAVKCNNDEAILSTLAALGAGFDCASDAELDMVLRLGVPTERIVFANA
+FT                   CKRPRDIRRAAAKQVNLTTFDTASELAKLARWHPATRALLRIRADDPAARCQLGNKYGA
+FT                   EPADAPALLQVAKEMGIAVCGVSFHVGSGATNPDAFSEAIALARAAFDAGTGLGFVMDT
+FT                   LDIGGGFCDGSAMGDVAAAVNAALDLHFPVSSGVRIIAEPGRYFAEACATLGCMVFGVR
+FT                   DGCCTKSGAPVRDYWITDGIYGSMNSLLYDHATVAPRPLRPSPVTNAVAPFTGATGDDG
+FT                   HLLKGCVFGPSCDGLDTVVHDYALPKLEVGDWLVFSNHGAYTFVGACPFNGMDPAPTTF
+FT                   YVFSAK"
+XX
+SQ   Sequence 2634 BP; 419 A; 853 C; 881 G; 481 T; 0 other;
+     atgacaatga tggacagcga gagcgtgctg ccttgccccc tgttcgaggg cagcgagaaa        60
+     cgccttgtgg ccgagttctc ctttggagcc gccagccctg tggagggcct tcgagcgctc       120
+     tcccgcggtc agcttgatgc gctgctgtgc caggcggcct gctgcatcgt ctcgtgccgt       180
+     tccaacgagg attttgacgc ctacgtgctc tccgagtcga gcctgttcgt ctatccggag       240
+     aggcttgtcc tgaagacctg cggcaccacc gcgctgctgg ctgccgtccc gatgctgctg       300
+     gagcttgcag cttcgctgga catgcgccct ttgcggttca agtactccag ggcatcgttc       360
+     ctgttccctg aaaaccagcc ggccccatac caggcgtttg aggacgaggt ggccttcctg       420
+     gagacctatc tgggcagcat gggcggcgga gggaacgcct atgtgctggg ggatgccctg       480
+     catggcctgc gctggcatgt ctatgtggcg gccaagcacg gcgcgcccat cgcgcgccaa       540
+     aacgccgcgg ccgaccactc cattgaagtc tgcatgacca gcctgtgccc agtcaaggct       600
+     gcgcagttcg cgcgcggcgg cgacttcatc tcggcgcgcc acacgacgat cgacactggc       660
+     attgccgacc tgctgccggc ggcagacatc gacgagtatg tttttgagcc gtgcgggtac       720
+     agcatgaacg gcctccaggg gggcgccttc tcgaccatcc atgtcacccc cgaggccgcc       780
+     tgctcctacg catctgtcga gctgaccggc tgcgcgcacg aggatgtggc cgcttttgtc       840
+     gccaagtctg cggagatttt ccgcccgggc aagatgacgg tggccgtgac ggctgcggcg       900
+     ggaacgccgc cggccggcgt ttttgcggcc gggtacacag ttgcgggcac ctccgcgcag       960
+     atccttccct gcggcaccag tgtcgttgtc tacagcctgc aagcgtccgg tgtctcggcc      1020
+     gcgcccacct tggagcagga ggagaaggaa atggtggtgt caggcaaggt ggcccagggt      1080
+     ggcgctgcaa tggaggatga ccggatgagc caggtcagcg agctgactgg attcgacatc      1140
+     ggcgcgctgg ccggctcggg gctgttcgcg cgcggcctga ccaacagcgc ctgttttggc      1200
+     agcgatgatg agaacgccaa tggctcctgt ggtggaggga acgcgtcgat tgccatgagc      1260
+     gccagctacg cctccagcca ggcatccgag gccgccaaga gccgcccgga aactcccgag      1320
+     ccagactggc agatggtgga caagccggcg ccagcagtcg ctggaggaga cgcccctgca      1380
+     gacggggcgt ccttgctggc cggagtgctt gcgcggtaca gcgcgctgcc gctgctgtct      1440
+     ggcgatgcgg ccacgctcga cgcatacctc tcacgcgtga tcaggcagca ccagctggag      1500
+     gacccggtgt gcatcgtgga cctgggccgg gtggcgcgcc tgttcggcgc atgggtggcg      1560
+     gcaatgccgc gcgtgacacc cttctatgcg gtcaagtgca acaacgatga ggccattctc      1620
+     tccacgctcg ccgccctggg cgccggcttc gactgcgcct ccgacgcaga gctggacatg      1680
+     gtgctgcgcc taggcgtgcc cacggagcga atcgtgtttg ccaacgcctg caagcggccc      1740
+     cgtgacatcc gccgcgccgc cgccaagcag gtgaatctga cgacgtttga cacggcgagc      1800
+     gagctggcga agctggcgag gtggcacccg gcgacgcgcg cgctgctgcg catccgcgcc      1860
+     gacgacccgg ccgcgcgctg ccagctcggc aacaagtacg gcgccgagcc ggccgacgcg      1920
+     cctgcgctgc tgcaggtggc gaaggagatg ggcattgcag tgtgcggcgt gagcttccat      1980
+     gtcggcagcg gcgcgaccaa cccagacgcc ttcagcgagg ccatcgcgct cgccagagcc      2040
+     gcctttgatg caggcacagg ccttgggttt gtgatggaca cacttgacat tggcggcggt      2100
+     ttctgtgacg gctccgcgat gggtgacgtg gcggcggcag tcaacgcagc gctggacctg      2160
+     cactttcctg tctccagcgg cgtgcgcatc atcgctgagc ccggccggta ctttgccgag      2220
+     gcgtgtgcca cgctcggctg tatggtgttt ggcgtgcgcg atggttgctg caccaagtct      2280
+     ggagcgcccg tgcgcgacta ctggatcaca gatggtatct atggcagcat gaactcgctc      2340
+     ctgtacgacc acgccaccgt ggcgccgcgg ccactgcggc cgagccccgt tacaaacgcc      2400
+     gtagcgccgt ttacgggcgc tacgggcgac gatggtcacc tgctcaaggg atgtgtcttc      2460
+     ggcccctcct gcgacggttt ggacacagtc gtgcacgact acgcattacc taagctcgag      2520
+     gtcggagatt ggctagtgtt cagcaaccac ggcgcctaca cctttgtcgg cgcgtgcccc      2580
+     ttcaatggaa tggacccagc cccgaccacc ttttatgtgt tctctgccaa gtga            2634
+//

@@ -418,7 +418,47 @@ Phylogeny: yes · look at putrescine sensing nearby, and whether anything else p
 
 ---
 
+### 23 Nov — p14 tblastn, p17 standalone decarboxylases, and three corrections
+
+**p14 tblastn, query 06 (*Percolomonas cosmopolitus*, 191 aa junction query), run manually on blast.ncbi.nlm.nih.gov against TSA.** `HBGD01001067.1` (MMETSP0759, 2,690 nt) aligns across all 191 residues at 100% identity, positions 938–1510, one unbroken block, E = 7e-135. The junction is carried on a single RNA molecule, and the query construction is correct.
+
+⚠️ **The hit is circular and was always going to be.** MMETSP0759 is the assembly the UniProt entry was built from, so 100% identity was the only possible outcome. The same applies to queries 07 and 08 (*Tetraselmis*, *Auxenochlorella*) — transcriptome-only species whose entries derive from the very TSA assemblies tblastn would search. Queries 01–05 are single-exon genes, already immune to the gene-merge artefact by construction. **Conclusion: the p14 set cannot produce independent evidence for any of its eight proteins and should not be completed.** The one exception is a genus-level search returning a hit in a *different species*, which is a genuinely independent organism; `02_Chloropicon` is being run that way because TSA appears to hold no *C. primus* data.
+
+The informative part of the run was incidental. Four other *Percolomonas* transcripts appear as partial hits — three aligning only to the ODC half at 30–36% identity, one only to the AdoMetDC half. The three ODC-like ones all read `YAVKCNPNK`, human ODC's PLP Schiff-base motif with K69 present, while the fusion reads `YTVSCN` (K69→S, p9 residue 411, pLDDT 82, offset 1.3 Å). Two sit in transcripts of 1,521 and 1,383 nt, too short to hold both domains, so they are standalone decarboxylases; one is from a second library, MMETSP0758.
+
+**p17 (`results/p17_standalone_odc.tsv`, `p17_report.md`): the standalone decarboxylases of the four degraded-fusion species.** Sequence alignment to human ODC P11926 — *not* the p9 structural test — kept in its own file and not merged into any p9 table.
+
+| species | standalone ODC-family copies | best copy |
+|---|---|---|
+| *Rhodosorus marinus* | 3 intact + 1 truncated + 1 AZIN-like dead | 13/13, TM 0.90, nothing lost |
+| *Galdieria partita* | 2 | 11/13, TM 0.91, loses only Y331 |
+| *Percolomonas cosmopolitus* | 2 | 12/13 |
+| *Gracilariopsis chorda* | 1 | 10/13, **C360→Arg**, TM 0.87 |
+
+Identity to human ODC is bimodal and separates the families cleanly: ~42–48% is ODC-family, ~25–31% is diaminopimelate decarboxylase. `p7_same_species.tsv` counts the wider PF02784/PF00278 category, which is why its "standalone decarboxylase" column overstates the ODC count.
+
+**⚠️ This weakens the broad pseudoenzyme claim.** *Rhodosorus*, *Galdieria* and *Percolomonas* each carry one to three fully intact standalone ODCs. Against that background a dead fused ODC half is explained by redundancy-driven relaxed selection, the default fate of a dispensable duplicate. *Rhodosorus* also carries a second unrelated dead ODC-like paralog (nearest match human AZIN1, 3/13), so free decay of ODC copies is demonstrably common in that genome. The earlier argument that "only one half rots, so the gene is under selection" does not survive: the AdoMetDC half is the functional gene and the ODC half is a passenger, and a passenger rotting under a functional host is exactly what the null predicts.
+
+**What survives is narrower: *Gracilariopsis chorda*.** It is the only one of the four with no intact ODC anywhere. Its single standalone ODC-family protein (A0A2V3IYX3) has lost C360 (→Arg, structurally confirmed, TM 0.87, 10/1/2). Its fusion (A0A2V3IZY9) has lost K69 (→Arg, pLDDT 86) but **kept** C360 (pLDDT 88, CA offset 3.5 Å) and D361. In a real ODC dimer K69 comes from one chain and C360 from the other, so the organism's two broken copies are broken at opposite half-sites.
+
+Caveats that must travel with that observation: n = 1 species; the fusion's C360 sits at 3.5 Å against a 4.0 Å gate; two separate gene products would have to be co-expressed and heterodimerise, for which there is no evidence; and *Gracilariopsis* carries an agmatine iminohydrolase (A0A2V3IZE8) plus nitrilase-family NCPAH candidates — the arginine route to putrescine — so it may not need ODC at all, and both copies may be decaying for the ordinary reason.
+
+**The natural experiment this sets up.** Same fusion architecture, same lineage, one species with three spare ODCs and one with none. dN/dS on the ODC half, *Gracilariopsis* against *Rhodosorus* and *Galdieria*, is the test that separates maintenance from decay. Nucleotide work only — no structures, no AlphaFold. Queued as p18.
+
+A second job worth more than the remaining p14 queries: a ColabFold **heterodimer** of the *Gracilariopsis* fusion A0A2V3IZY9 with its standalone ODC A0A2V3IYX3 (1,163 residues), asking whether K69 of the standalone and C360 of the fusion come together as they do in 1D7K.
+
+**Corrections made today:**
+
+1. ❌ Claude claimed the *Percolomonas* TSA search "filled in a blank UniProt had lost." It did not. `p10_species_enzymes.tsv` already listed two standalone ODC-family proteins for *Percolomonas* (A0A6U1HKK3 12/13, A0A6U0M0T4 12/13) plus a standalone AdoMetDC. The BLAST confirmed results already in the repo.
+2. ❌ p17 was largely redundant with p10, which already held the ODC-vs-DAPDC classification and the structural reads. **Read `p10_species_enzymes.tsv` before commissioning any further question of this kind.**
+3. ✅ The *Gracilariopsis* conflict is resolved **in favour of the earlier note**: one standalone ODC-family protein, carrying C360→Arg. The apparent contradiction with `p7_same_species.tsv` was a category difference, not an error.
+
+---
+
 ## ⛔ Dead ends & resolved — do NOT re-chase
+- ⛔ **p14 tblastn junction searches (23 Nov)** — cannot produce independent evidence. Queries 06–08 are transcriptome-only species whose UniProt entries derive from the same TSA assemblies being searched (06 returned a 100% self-hit); queries 01–05 are single-exon genes already immune to the gene-merge artefact. Only a genus-level hit in a *different species* would be informative. Do not complete the set.
+- ⛔ **"Only one half of the fusion rots, so the gene must be under selection"** — does not follow. The AdoMetDC half is the functional gene; the ODC half is a passenger, and a passenger decaying under a functional host is what relaxed selection predicts. Superseded by the redundancy finding in p17.
+- ⛔ **"The degraded ODC domain keeps its fold, therefore it is maintained"** — near-unfalsifiable from AlphaFold DB models, which fold family members into the family fold regardless. Do not use as evidence without a dN/dS or experimental argument.
 - ⛔ **"1I7B chains A and B are the dimer"** — they are not; they are the **α and β chains of one processed protomer**. The real dimer is 1MSV chains A+B, with 1JEN as the apo processed-form check. Claude made this α/β mix-up twice (see the earlier entry below); check it every time a processed AdoMetDC structure is described by chain ID.
 - ⛔ **Overclaiming Bodo as fully novel** → corrected to honest incremental framing. (Settled; keep the honest line.)
 - ⛔ **Full Pcon sequences via UniProt/NCBI** → not there; TriTrypDB only.

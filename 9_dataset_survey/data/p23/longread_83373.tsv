@@ -1,0 +1,16 @@
+run_accession	scientific_name	tax_id	instrument_platform	instrument_model	library_source	library_strategy	library_selection	read_count	base_count	study_accession	experiment_title
+SRR8400324	Galdieria sulphuraria	130081	PACBIO_SMRT	PacBio RS II	GENOMIC	WGS	PCR	77421	769606723	PRJNA512382	PacBio RS II sequencing: PacBioRSII Raw-Reads of Galdieria sulphuraria YNP5587.1
+SRR8400328	Galdieria sulphuraria	130081	PACBIO_SMRT	PacBio RS II	GENOMIC	WGS	PCR	128294	934546621	PRJNA512382	PacBio RS II sequencing: PacBioRSII Raw-Reads of Galdieria sulphuraria MS1
+SRR19760113	Galdieria yellowstonensis	3028027	PACBIO_SMRT	PacBio RS II	GENOMIC	WGS	RANDOM	400359	3288950853	PRJNA851236	PacBio RS II sequencing: Galdieria sulphuraria 108.79 E11 PacBio WGS
+SRR19760109	Galdieria yellowstonensis	3028027	OXFORD_NANOPORE	PromethION	GENOMIC	WGS	RANDOM	4588407	62041808453	PRJNA851236	PromethION sequencing: Galdieria sulphuraria 108.79 E11 Oxford Nanopore WGS
+SRR8400325	Galdieria sulphuraria	130081	PACBIO_SMRT	PacBio RS II	GENOMIC	WGS	PCR	158936	1523875693	PRJNA512382	PacBio RS II sequencing: PacBioRSII Raw-Reads of Galdieria sulphuraria MtSh
+SRR8400326	Galdieria sulphuraria	130081	PACBIO_SMRT	PacBio RS II	GENOMIC	WGS	PCR	82544	651280930	PRJNA512382	PacBio RS II sequencing: PacBioRSII Raw-Reads of Galdieria sulphuraria Azora
+DRR337154	Galdieria partita	83374	PACBIO_SMRT	Sequel	GENOMIC	WGS	RANDOM	616414	11891557269	PRJDB12742	Sequel sequencing: Sequel sequencing of SAMD00436389
+SRR8400330	Galdieria sulphuraria	130081	PACBIO_SMRT	PacBio RS II	GENOMIC	WGS	PCR	131978	946093501	PRJNA512382	PacBio RS II sequencing: PacBioRSII Raw-Reads of Galdieria sulphuraria 002
+SRR19760108	Galdieria yellowstonensis	3028027	PACBIO_SMRT	Sequel	TRANSCRIPTOMIC	RNA-Seq	cDNA	21609	37308668	PRJNA851236	Sequel sequencing: Galdieria sulphuraria 108.79 E11 PacBio Iso-Seq
+DRR301682	Galdieria sulphuraria	130081	OXFORD_NANOPORE	MinION	GENOMIC	WGS	RANDOM	105144	1241879242	PRJDB11851	MinION sequencing: MinION sequencing of SAMD00332016
+SRR19760112	Galdieria yellowstonensis	3028027	PACBIO_SMRT	Sequel II	GENOMIC	WGS	RANDOM	426247	5170452213	PRJNA851236	Sequel II sequencing: Galdieria sulphuraria 108.79 E11 PacBio HiFi WGS
+SRR8400323	Galdieria sulphuraria	130081	PACBIO_SMRT	PacBio RS II	GENOMIC	WGS	PCR	71480	564874149	PRJNA512382	PacBio RS II sequencing: PacBioRSII Raw-Reads of Galdieria sulphuraria SAG21
+SRR8400327	Galdieria sulphuraria	130081	PACBIO_SMRT	PacBio RS II	GENOMIC	WGS	PCR	101472	802203307	PRJNA512382	PacBio RS II sequencing: PacBioRSII Raw-Reads of Galdieria sulphuraria 5572
+SRR8400329	Galdieria sulphuraria	130081	PACBIO_SMRT	PacBio RS II	GENOMIC	WGS	PCR	163764	1424372481	PRJNA512382	PacBio RS II sequencing: PacBioRSII Raw-Reads of Galdieria sulphuraria RT22
+SRR8400331	Galdieria phlegrea	1389228	PACBIO_SMRT	PacBio RS II	GENOMIC	WGS	PCR	92263	966702049	PRJNA512382	PacBio RS II sequencing: PacBioRSII Raw-Reads of Galdieria phlegrea Soos

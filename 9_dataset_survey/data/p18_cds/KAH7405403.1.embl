@@ -1,0 +1,109 @@
+ID   KAH7405403; SV 1; linear; genomic DNA; CON; PLN; 2310 BP.
+XX
+PA   CM035420.1
+XX
+PR   Project:PRJNA729743;
+XX
+DE   Ceratopteris richardii hypothetical protein
+XX
+KW   WGS.
+XX
+OS   Ceratopteris richardii
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+OC   Polypodiopsida; Polypodiidae; Polypodiales; Pteridineae; Pteridaceae;
+OC   Parkerioideae; Ceratopteris.
+XX
+RN   [1]
+RA   Marchant D.B., Chen G., Jenkins J., Shu S., Leebens-Mack J., Grimwood J.,
+RA   Schmutz J., Soltis P., Soltis D., Chen Z.-H.;
+RT   "WGS assembly of Ceratopteris richardii";
+RL   Unpublished.
+XX
+RN   [2]
+RA   Marchant D.B., Chen G., Jenkins J., Shu S., Leebens-Mack J.H., Grimwood J.,
+RA   Schmutz J., Soltis P.S., Soltis D.E., Chen Z.-H.;
+RT   ;
+RL   Submitted (03-AUG-2021) to the INSDC.
+RL   Genomics, DOE Joint Genome Institute, 1 Cyclotron Road, Berkeley, CA 94720,
+RL   USA
+XX
+DR   MD5; b8e54b40800e12be2b6d9fb338624542.
+DR   BioSample; SAMN19646020.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..2310
+FT                   /organism="Ceratopteris richardii"
+FT                   /chromosome="15"
+FT                   /cultivar="Hn-n"
+FT                   /isolate="Whitten #5841"
+FT                   /mol_type="genomic DNA"
+FT                   /country="USA: Biology Greenhouses, University of Florida,
+FT                   Gainesville, FL 32601"
+FT                   /dev_stage="Developing Leaf"
+FT                   /tissue_type="leaf"
+FT                   /db_xref="taxon:49495"
+FT   CDS             complement(CM035420.1:170473437..170475746)
+FT                   /codon_start=1
+FT                   /locus_tag="KP509_15G068700"
+FT                   /product="hypothetical protein"
+FT                   /db_xref="GI:2129344947"
+FT                   /db_xref="Phytozome:50639524_genbank"
+FT                   /db_xref="Phytozome:PAC"
+FT                   /protein_id="KAH7405403.1"
+FT                   /translation="MAARCTIVSELSSSDVDTYVLSESSLFIYPFKLIMKTCGTTKLLN
+FT                   AVPVILGLSSGLCLDVKCCMYTRCSYLFPEEQTYPHESFAQEVKYLDGLFGNLGAGRQA
+FT                   CVLGGPCKKQNWHIYIASVDCAEDSGISFPIYTLEICMTDLDRTRAAHFYKSNCSNAAE
+FT                   MTQKSGISMLLPQSQICDYGFDPCGYSMNSVESSAVATIHVTPEQGFSYASFEAMGYDP
+FT                   NYVDFKALIDNVLLCFKPALCSVAVHIKGFQTSWCSSSLWGSSISPRGYVSDHFSMEKL
+FT                   PGDYIVYFHTFAEQVFDRQSSVATCLDQLTVEQITDLRSASLKLSGELSCDMPLTSKLS
+FT                   KNVSDNVVSNIYCCLLASTQCCSTFAVQHVVSAMDPMMVGSKPVDLDNLIKKHIDSTRR
+FT                   EDAFYVMDVGVVLRLWRTWKLSLPRVHPFYAVKCNCNVPLLALLSALGAGFDVASKSEL
+FT                   DLVRSLGVGGDRVIFANPCKLPSHIRHAANHNVHLTTFDSEGELYKLHKLNPQAEVVLR
+FT                   IRVCDSGARCPLGVKYGAEMNECEHLLAVAKELGLQVVGVAFHVGSGASDPSSFAHGIA
+FT                   QARQLFDVAKSMGLTCMRLLDIGGGFVSDGGFGVSFSAAASSINEALEKFFPPSLGITV
+FT                   IAEPGRFFAEESFTLAAQIFGNRIRQKEGLEIAEYWINDGIYGSMNCLLYDHAKLLVRG
+FT                   LHVSSAQGKEGCQSTVFGPTCDGLDTVMQNIWLPRLDCGDWLVFPRMGAYTAAAASSFN
+FT                   GFNICGFETLCVLSTS"
+XX
+SQ   Sequence 2310 BP; 565 A; 437 C; 566 G; 742 T; 0 other;
+     atggcggcga ggtgcaccat agtctcagag ttaagcagtt ctgatgttga tacttacgtc        60
+     ctttcagagt ccagtttatt tatctatccc tttaaattga taatgaaaac ctgtggtacc       120
+     accaagctcc tgaatgcagt tcctgttatt cttggccttt cttctggatt atgcttggat       180
+     gtgaagtgct gtatgtatac acgatgttct tatctatttc ctgaggagca gacctatccc       240
+     cacgagagct ttgctcaaga agtaaagtac ctggatggcc ttttcggtaa tctgggagct       300
+     ggaaggcagg catgtgtgtt aggtggccct tgcaagaagc agaactggca catttatatt       360
+     gcatctgtag attgtgctga agattcagga atttcattcc ctatctacac cttggagatc       420
+     tgtatgactg acctggatag gacaagggcc gcacacttct acaaatctaa ctgcagcaat       480
+     gctgcagaaa tgacacagaa atctggcatt tctatgctgc tcccccagtc acagatatgt       540
+     gattatggtt ttgatccttg tgggtactct atgaattcag tggaaagtag tgcagtagca       600
+     acaattcatg ttactcctga acaaggtttc agttatgcaa gttttgaggc tatggggtat       660
+     gatccgaatt atgtggattt caaagccctt atagataatg tactcctttg ttttaagcct       720
+     gctttgtgtt ctgttgctgt tcatatcaaa ggtttccaaa cgtcttggtg cagttcttca       780
+     ttatggggta gctctatatc accacgtgga tatgttagtg atcacttttc tatggagaag       840
+     ctgcctgggg attatatagt ctatttccat acttttgctg aacaggtttt tgataggcaa       900
+     tcctctgtgg ctacatgcct agatcagcta acggtggaac aaatcactga tttgcgatct       960
+     gcctctttaa aactgagtgg cgagttgagt tgtgacatgc cactgaccag taagctttcc      1020
+     aagaatgtat cagataatgt ggttagtaat atttactgtt gcttattagc atctacacag      1080
+     tgttgcagta cttttgcagt gcaacatgtt gtgtcagcaa tggatccaat gatggttggt      1140
+     tcaaagccag tggacttgga taatttgata aagaagcata tagatagcac aaggagggag      1200
+     gatgctttct atgtcatgga tgtaggtgtg gtgcttcgtc tgtggagaac ttggaagctt      1260
+     tcattgcctc gggttcatcc attctatgct gtgaagtgca actgcaatgt gccacttttg      1320
+     gctctcttgt cagctcttgg tgctggattc gatgttgcaa gcaagtcaga gcttgatttg      1380
+     gtgagaagcc tgggagtagg tggagataga gttatttttg ccaatccttg caagttgccc      1440
+     tctcacatcc gtcatgctgc caatcacaac gttcatctaa cgacatttga ttctgaaggg      1500
+     gagctttaca aacttcacaa gttgaatcct caagctgagg ttgttcttag aatcagggtt      1560
+     tgtgattctg gtgcgagatg ccctcttggt gtgaaatatg gtgcagagat gaatgaatgt      1620
+     gagcacttgc ttgctgttgc caaagaactt gggcttcagg tagttggtgt ggcatttcat      1680
+     gttggcagtg gagcatctga cccttcatcc tttgctcatg gaatagccca agcccgtcaa      1740
+     ttatttgatg tggcaaagtc aatgggatta acctgcatga ggctgttgga tattggtggt      1800
+     ggctttgttt ctgatggagg ctttggtgtg tcattctctg ctgctgcatc atcaataaat      1860
+     gaagctcttg aaaagttctt tcctccgagt cttggaatca ctgttatagc agaacctggc      1920
+     cgtttttttg cagaagagag tttcaccctt gcagcccaaa ttttcggtaa ccgaattcga      1980
+     cagaaagagg gccttgaaat tgctgaatat tggataaatg atggaatata tggctcaatg      2040
+     aattgcctat tatatgatca tgccaaattg ttagttcgag gtctgcacgt ttcaagtgca      2100
+     cagggaaaag agggttgtca gtcaactgta tttggcccta cttgtgatgg tcttgacaca      2160
+     gtgatgcaga acatatggtt gccacgtctg gattgtggtg attggctagt ctttccaaga      2220
+     atgggtgctt acacagcagc agcagcttct agctttaatg gcttcaacat ctgtgggttt      2280
+     gaaacgttgt gtgtgctttc cactagttaa                                       2310
+//

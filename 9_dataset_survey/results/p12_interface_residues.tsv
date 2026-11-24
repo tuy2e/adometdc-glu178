@@ -1,0 +1,735 @@
+enzyme	structure	pos	uniprot_aa	chains_present	bsa_mean_A2	min_dist_to_partner_A	contact_4.0	contact_4.5	contact_5.0	catalytic
+ODC	1D7K	7	E	AB	0.0		False	False	False	False
+ODC	1D7K	8	E	AB	0.0		False	False	False	False
+ODC	1D7K	9	F	AB	0.0		False	False	False	False
+ODC	1D7K	10	D	AB	0.0		False	False	False	False
+ODC	1D7K	11	C	AB	0.0		False	False	False	False
+ODC	1D7K	12	H	AB	0.0		False	False	False	False
+ODC	1D7K	13	F	AB	0.0		False	False	False	False
+ODC	1D7K	14	L	AB	0.0		False	False	False	False
+ODC	1D7K	15	D	AB	0.0		False	False	False	False
+ODC	1D7K	16	E	AB	0.0		False	False	False	False
+ODC	1D7K	17	G	AB	0.0		False	False	False	False
+ODC	1D7K	18	F	AB	0.0		False	False	False	False
+ODC	1D7K	19	T	AB	0.0		False	False	False	False
+ODC	1D7K	20	A	AB	0.0		False	False	False	False
+ODC	1D7K	21	K	AB	0.0		False	False	False	False
+ODC	1D7K	22	D	AB	0.0		False	False	False	False
+ODC	1D7K	23	I	AB	0.0		False	False	False	False
+ODC	1D7K	24	L	AB	0.0		False	False	False	False
+ODC	1D7K	25	D	AB	0.0		False	False	False	False
+ODC	1D7K	26	Q	AB	0.0		False	False	False	False
+ODC	1D7K	27	K	AB	0.0		False	False	False	False
+ODC	1D7K	28	I	AB	0.0		False	False	False	False
+ODC	1D7K	29	N	AB	0.0		False	False	False	False
+ODC	1D7K	30	E	AB	0.0		False	False	False	False
+ODC	1D7K	31	V	AB	0.0		False	False	False	False
+ODC	1D7K	32	S	AB	0.0		False	False	False	False
+ODC	1D7K	33	S	AB	0.0		False	False	False	False
+ODC	1D7K	34	S	AB	0.0		False	False	False	False
+ODC	1D7K	35	D	AB	54.7	2.5	True	True	True	False
+ODC	1D7K	36	D	AB	30.6	3.45	True	True	True	False
+ODC	1D7K	37	K	AB	7.2	4.14	False	True	True	False
+ODC	1D7K	38	D	AB	19.8	2.88	True	True	True	False
+ODC	1D7K	39	A	AB	0.0		False	False	False	False
+ODC	1D7K	40	F	AB	0.0		False	False	False	False
+ODC	1D7K	41	Y	AB	0.0		False	False	False	False
+ODC	1D7K	42	V	AB	0.0		False	False	False	False
+ODC	1D7K	43	A	AB	0.0		False	False	False	False
+ODC	1D7K	44	D	AB	0.0		False	False	False	False
+ODC	1D7K	45	L	AB	0.0		False	False	False	False
+ODC	1D7K	46	G	AB	0.0		False	False	False	False
+ODC	1D7K	47	D	AB	0.0		False	False	False	False
+ODC	1D7K	48	I	AB	0.0		False	False	False	False
+ODC	1D7K	49	L	AB	0.0		False	False	False	False
+ODC	1D7K	50	K	AB	0.0		False	False	False	False
+ODC	1D7K	51	K	AB	0.0		False	False	False	False
+ODC	1D7K	52	H	AB	0.0		False	False	False	False
+ODC	1D7K	53	L	AB	0.0		False	False	False	False
+ODC	1D7K	54	R	AB	0.0		False	False	False	False
+ODC	1D7K	55	W	AB	0.0		False	False	False	False
+ODC	1D7K	56	L	AB	0.0		False	False	False	False
+ODC	1D7K	57	K	AB	0.0		False	False	False	False
+ODC	1D7K	58	A	AB	0.0		False	False	False	False
+ODC	1D7K	59	L	AB	0.0		False	False	False	False
+ODC	1D7K	60	P	AB	0.0		False	False	False	False
+ODC	1D7K	61	R	AB	0.0		False	False	False	False
+ODC	1D7K	62	V	AB	0.0		False	False	False	False
+ODC	1D7K	63	T	AB	0.0		False	False	False	False
+ODC	1D7K	64	P	AB	0.0		False	False	False	False
+ODC	1D7K	65	F	AB	0.0		False	False	False	False
+ODC	1D7K	66	Y	AB	0.0		False	False	False	False
+ODC	1D7K	67	A	AB	0.0		False	False	False	False
+ODC	1D7K	68	V	AB	0.0		False	False	False	False
+ODC	1D7K	69	K	AB	76.2	3.31	True	True	True	True
+ODC	1D7K	70	C	AB	0.0		False	False	False	False
+ODC	1D7K	71	N	AB	0.0		False	False	False	False
+ODC	1D7K	72	D	AB	2.1		False	False	False	False
+ODC	1D7K	73	S	AB	0.0		False	False	False	False
+ODC	1D7K	74	K	AB	0.0		False	False	False	False
+ODC	1D7K	75	A	AB	0.0		False	False	False	False
+ODC	1D7K	76	I	AB	0.0		False	False	False	False
+ODC	1D7K	77	V	AB	0.0		False	False	False	False
+ODC	1D7K	78	K	AB	0.0		False	False	False	False
+ODC	1D7K	79	T	AB	0.0		False	False	False	False
+ODC	1D7K	80	L	AB	0.0		False	False	False	False
+ODC	1D7K	81	A	AB	0.0		False	False	False	False
+ODC	1D7K	82	A	AB	0.0		False	False	False	False
+ODC	1D7K	83	T	AB	0.0		False	False	False	False
+ODC	1D7K	84	G	AB	0.0		False	False	False	False
+ODC	1D7K	85	T	AB	0.0		False	False	False	False
+ODC	1D7K	86	G	AB	0.0		False	False	False	False
+ODC	1D7K	87	F	AB	0.0		False	False	False	False
+ODC	1D7K	88	D	AB	1.1		False	False	False	False
+ODC	1D7K	89	C	AB	0.0		False	False	False	False
+ODC	1D7K	90	A	AB	33.8	3.12	True	True	True	False
+ODC	1D7K	91	S	AB	31.3	2.92	True	True	True	False
+ODC	1D7K	92	K	AB	5.5	4.91	False	False	True	False
+ODC	1D7K	93	T	AB	51.0	2.94	True	True	True	False
+ODC	1D7K	94	E	AB	21.6	3.26	True	True	True	False
+ODC	1D7K	95	I	AB	0.0		False	False	False	False
+ODC	1D7K	96	Q	AB	0.0		False	False	False	False
+ODC	1D7K	97	L	AB	0.0		False	False	False	False
+ODC	1D7K	98	V	AB	0.0		False	False	False	False
+ODC	1D7K	99	Q	AB	0.0		False	False	False	False
+ODC	1D7K	100	S	AB	0.0		False	False	False	False
+ODC	1D7K	101	L	AB	0.0		False	False	False	False
+ODC	1D7K	102	G	AB	0.0		False	False	False	False
+ODC	1D7K	103	V	AB	0.0		False	False	False	False
+ODC	1D7K	104	P	AB	0.0		False	False	False	False
+ODC	1D7K	105	P	AB	0.0		False	False	False	False
+ODC	1D7K	106	E	AB	0.0		False	False	False	False
+ODC	1D7K	107	R	AB	0.0		False	False	False	False
+ODC	1D7K	108	I	AB	0.0		False	False	False	False
+ODC	1D7K	109	I	AB	0.0		False	False	False	False
+ODC	1D7K	110	Y	AB	0.0		False	False	False	False
+ODC	1D7K	111	A	AB	8.6	4.05	False	True	True	False
+ODC	1D7K	112	N	AB	30.5	3.63	True	True	True	False
+ODC	1D7K	113	P	AB	2.4	4.64	False	False	True	False
+ODC	1D7K	114	C	AB	63.8	3.58	True	True	True	False
+ODC	1D7K	115	K	AB	1.8	3.73	True	True	True	False
+ODC	1D7K	116	Q	AB	103.7	2.88	True	True	True	False
+ODC	1D7K	117	V	AB	22.3	3.49	True	True	True	False
+ODC	1D7K	118	S	AB	48.0	3.45	True	True	True	False
+ODC	1D7K	119	Q	AB	18.0	4.0	True	True	True	False
+ODC	1D7K	120	I	AB	0.0		False	False	False	False
+ODC	1D7K	121	K	AB	16.4	2.5	True	True	True	False
+ODC	1D7K	122	Y	AB	0.0		False	False	False	False
+ODC	1D7K	123	A	AB	0.0		False	False	False	False
+ODC	1D7K	124	A	AB	0.0		False	False	False	False
+ODC	1D7K	125	N	AB	0.0		False	False	False	False
+ODC	1D7K	126	N	AB	0.0		False	False	False	False
+ODC	1D7K	127	G	AB	0.0		False	False	False	False
+ODC	1D7K	128	V	AB	0.0		False	False	False	False
+ODC	1D7K	129	Q	AB	0.0		False	False	False	False
+ODC	1D7K	130	M	AB	0.0		False	False	False	False
+ODC	1D7K	131	M	AB	0.0		False	False	False	False
+ODC	1D7K	132	T	AB	0.0		False	False	False	False
+ODC	1D7K	133	F	AB	0.0		False	False	False	False
+ODC	1D7K	134	D	AB	13.5	2.64	True	True	True	False
+ODC	1D7K	135	S	AB	24.7	3.78	True	True	True	False
+ODC	1D7K	136	E	AB	16.1	4.41	False	True	True	False
+ODC	1D7K	137	V	AB	63.4	3.3	True	True	True	False
+ODC	1D7K	138	E	AB	4.8	4.04	False	True	True	False
+ODC	1D7K	139	L	AB	0.0		False	False	False	False
+ODC	1D7K	140	M	AB	0.0		False	False	False	False
+ODC	1D7K	141	K	AB	29.1	2.69	True	True	True	False
+ODC	1D7K	142	V	AB	0.0		False	False	False	False
+ODC	1D7K	143	A	AB	0.0		False	False	False	False
+ODC	1D7K	144	R	AB	9.3	4.72	False	False	True	False
+ODC	1D7K	145	A	AB	0.0		False	False	False	False
+ODC	1D7K	146	H	AB	0.0		False	False	False	False
+ODC	1D7K	147	P	AB	0.0		False	False	False	False
+ODC	1D7K	148	K	AB	0.0		False	False	False	False
+ODC	1D7K	149	A	AB	0.0		False	False	False	False
+ODC	1D7K	150	K	AB	0.0		False	False	False	False
+ODC	1D7K	151	L	AB	0.0		False	False	False	False
+ODC	1D7K	152	V	AB	0.0		False	False	False	False
+ODC	1D7K	153	L	AB	0.0		False	False	False	False
+ODC	1D7K	154	R	AB	3.8		False	False	False	False
+ODC	1D7K	155	I	AB	0.0		False	False	False	False
+ODC	1D7K	156	A	AB	0.0		False	False	False	False
+ODC	1D7K	157	T	AB	0.0		False	False	False	False
+ODC	1D7K	158	D	AB	0.0		False	False	False	False
+ODC	1D7K	159	D	AB	0.0		False	False	False	False
+ODC	1D7K	160	S	AB	0.0		False	False	False	False
+ODC	1D7K	161	K	AB	0.0		False	False	False	False
+ODC	1D7K	162	A	AB	0.0		False	False	False	False
+ODC	1D7K	163	V	AB	0.6		False	False	False	False
+ODC	1D7K	164	C	AB	0.0		False	False	False	False
+ODC	1D7K	165	R	AB	48.7	2.62	True	True	True	False
+ODC	1D7K	166	L	AB	46.3	3.16	True	True	True	False
+ODC	1D7K	167	S	AB	65.2	2.85	True	True	True	False
+ODC	1D7K	168	V	AB	12.5	3.45	True	True	True	False
+ODC	1D7K	169	K	AB	163.6	2.64	True	True	True	False
+ODC	1D7K	170	F	AB	40.5	3.81	True	True	True	False
+ODC	1D7K	171	G	AB	1.1	4.32	False	True	True	False
+ODC	1D7K	172	A	AB	0.0		False	False	False	False
+ODC	1D7K	173	T	AB	0.0		False	False	False	False
+ODC	1D7K	174	L	AB	0.0		False	False	False	False
+ODC	1D7K	175	R	AB	6.7	4.84	False	False	True	False
+ODC	1D7K	176	T	AB	0.0		False	False	False	False
+ODC	1D7K	177	S	AB	0.0		False	False	False	False
+ODC	1D7K	178	R	AB	0.0		False	False	False	False
+ODC	1D7K	179	L	AB	0.0		False	False	False	False
+ODC	1D7K	180	L	AB	0.0		False	False	False	False
+ODC	1D7K	181	L	AB	0.0		False	False	False	False
+ODC	1D7K	182	E	AB	0.0		False	False	False	False
+ODC	1D7K	183	R	AB	0.0		False	False	False	False
+ODC	1D7K	184	A	AB	0.0		False	False	False	False
+ODC	1D7K	185	K	AB	0.0		False	False	False	False
+ODC	1D7K	186	E	AB	0.0		False	False	False	False
+ODC	1D7K	187	L	AB	0.0		False	False	False	False
+ODC	1D7K	188	N	AB	0.0		False	False	False	False
+ODC	1D7K	189	I	AB	0.0		False	False	False	False
+ODC	1D7K	190	D	AB	0.0		False	False	False	False
+ODC	1D7K	191	V	AB	0.0		False	False	False	False
+ODC	1D7K	192	V	AB	0.0		False	False	False	False
+ODC	1D7K	193	G	AB	0.0		False	False	False	False
+ODC	1D7K	194	V	AB	0.0		False	False	False	False
+ODC	1D7K	195	S	AB	0.0		False	False	False	False
+ODC	1D7K	196	F	AB	0.0		False	False	False	False
+ODC	1D7K	197	H	AB	0.0		False	False	False	True
+ODC	1D7K	198	V	AB	0.0		False	False	False	False
+ODC	1D7K	199	G	AB	0.0		False	False	False	False
+ODC	1D7K	200	S	AB	0.0		False	False	False	True
+ODC	1D7K	201	G	AB	0.0		False	False	False	False
+ODC	1D7K	202	C	AB	0.0		False	False	False	False
+ODC	1D7K	203	T	AB	0.0		False	False	False	False
+ODC	1D7K	204	D	AB	0.0		False	False	False	False
+ODC	1D7K	205	P	AB	0.0		False	False	False	False
+ODC	1D7K	206	E	AB	0.0		False	False	False	False
+ODC	1D7K	207	T	AB	0.0		False	False	False	False
+ODC	1D7K	208	F	AB	0.0		False	False	False	False
+ODC	1D7K	209	V	AB	0.0		False	False	False	False
+ODC	1D7K	210	Q	AB	0.0		False	False	False	False
+ODC	1D7K	211	A	AB	0.0		False	False	False	False
+ODC	1D7K	212	I	AB	0.0		False	False	False	False
+ODC	1D7K	213	S	AB	0.0		False	False	False	False
+ODC	1D7K	214	D	AB	0.0		False	False	False	False
+ODC	1D7K	215	A	AB	0.0		False	False	False	False
+ODC	1D7K	216	R	AB	0.0		False	False	False	False
+ODC	1D7K	217	C	AB	0.0		False	False	False	False
+ODC	1D7K	218	V	AB	0.0		False	False	False	False
+ODC	1D7K	219	F	AB	0.0		False	False	False	False
+ODC	1D7K	220	D	AB	0.0		False	False	False	False
+ODC	1D7K	221	M	AB	0.0		False	False	False	False
+ODC	1D7K	222	G	AB	0.0		False	False	False	False
+ODC	1D7K	223	A	AB	0.0		False	False	False	False
+ODC	1D7K	224	E	AB	0.0		False	False	False	False
+ODC	1D7K	225	V	AB	0.0		False	False	False	False
+ODC	1D7K	226	G	AB	0.0		False	False	False	False
+ODC	1D7K	227	F	AB	0.0		False	False	False	False
+ODC	1D7K	228	S	AB	0.0		False	False	False	False
+ODC	1D7K	229	M	AB	0.0		False	False	False	False
+ODC	1D7K	230	Y	AB	0.0		False	False	False	False
+ODC	1D7K	231	L	AB	0.0		False	False	False	False
+ODC	1D7K	232	L	AB	0.0		False	False	False	False
+ODC	1D7K	233	D	AB	0.0		False	False	False	False
+ODC	1D7K	234	I	AB	0.0		False	False	False	False
+ODC	1D7K	235	G	AB	0.0		False	False	False	False
+ODC	1D7K	236	G	AB	0.0		False	False	False	False
+ODC	1D7K	237	G	AB	0.0		False	False	False	True
+ODC	1D7K	238	F	AB	0.0		False	False	False	False
+ODC	1D7K	239	P	AB	0.0		False	False	False	False
+ODC	1D7K	240	G	AB	0.0		False	False	False	False
+ODC	1D7K	241	S	AB	0.0		False	False	False	False
+ODC	1D7K	242	E	AB	0.0		False	False	False	False
+ODC	1D7K	243	D	AB	0.0		False	False	False	False
+ODC	1D7K	244	V	AB	0.0		False	False	False	False
+ODC	1D7K	245	K	AB	0.0		False	False	False	False
+ODC	1D7K	246	L	AB	0.0		False	False	False	False
+ODC	1D7K	247	K	AB	0.0		False	False	False	False
+ODC	1D7K	248	F	AB	0.0		False	False	False	False
+ODC	1D7K	249	E	AB	0.0		False	False	False	False
+ODC	1D7K	250	E	AB	0.0		False	False	False	False
+ODC	1D7K	251	I	AB	0.0		False	False	False	False
+ODC	1D7K	252	T	AB	0.0		False	False	False	False
+ODC	1D7K	253	G	AB	0.0		False	False	False	False
+ODC	1D7K	254	V	AB	0.0		False	False	False	False
+ODC	1D7K	255	I	AB	0.0		False	False	False	False
+ODC	1D7K	256	N	AB	0.0		False	False	False	False
+ODC	1D7K	257	P	AB	0.0		False	False	False	False
+ODC	1D7K	258	A	AB	0.0		False	False	False	False
+ODC	1D7K	259	L	AB	0.0		False	False	False	False
+ODC	1D7K	260	D	AB	0.0		False	False	False	False
+ODC	1D7K	261	K	AB	0.0		False	False	False	False
+ODC	1D7K	262	Y	AB	0.0		False	False	False	False
+ODC	1D7K	263	F	AB	0.0		False	False	False	False
+ODC	1D7K	264	P	AB	0.0		False	False	False	False
+ODC	1D7K	265	S	AB	0.0		False	False	False	False
+ODC	1D7K	266	D	AB	0.0		False	False	False	False
+ODC	1D7K	267	S	AB	0.0		False	False	False	False
+ODC	1D7K	268	G	AB	0.0		False	False	False	False
+ODC	1D7K	269	V	AB	0.0		False	False	False	False
+ODC	1D7K	270	R	AB	0.0		False	False	False	False
+ODC	1D7K	271	I	AB	0.0		False	False	False	False
+ODC	1D7K	272	I	AB	0.0		False	False	False	False
+ODC	1D7K	273	A	AB	0.0		False	False	False	False
+ODC	1D7K	274	E	AB	0.0		False	False	False	True
+ODC	1D7K	275	P	AB	0.0		False	False	False	True
+ODC	1D7K	276	G	AB	0.0		False	False	False	True
+ODC	1D7K	277	R	AB	0.0		False	False	False	True
+ODC	1D7K	278	Y	AB	0.0		False	False	False	False
+ODC	1D7K	279	Y	AB	0.0		False	False	False	False
+ODC	1D7K	280	V	AB	0.0		False	False	False	False
+ODC	1D7K	281	A	AB	0.0		False	False	False	False
+ODC	1D7K	282	S	AB	0.0		False	False	False	False
+ODC	1D7K	283	A	AB	0.0		False	False	False	False
+ODC	1D7K	284	F	AB	0.0		False	False	False	False
+ODC	1D7K	285	T	AB	0.0		False	False	False	False
+ODC	1D7K	286	L	AB	0.0		False	False	False	False
+ODC	1D7K	287	A	AB	0.0		False	False	False	False
+ODC	1D7K	288	V	AB	0.0		False	False	False	False
+ODC	1D7K	289	N	AB	0.0		False	False	False	False
+ODC	1D7K	290	I	AB	0.0		False	False	False	False
+ODC	1D7K	291	I	AB	76.5	2.69	True	True	True	False
+ODC	1D7K	292	A	AB	34.4	3.58	True	True	True	False
+ODC	1D7K	293	K	AB	46.4	3.3	True	True	True	False
+ODC	1D7K	294	K	AB	82.4	2.64	True	True	True	False
+ODC	1D7K	295	I	AB	18.1	4.41	False	True	True	False
+ODC	1D7K	296	V	AB	6.6	4.32	False	True	True	False
+ODC	1D7K	297	L	AB	0.0		False	False	False	False
+ODC	1D7K	298	K	AB	14.8	4.03	False	True	True	False
+ODC	1D7K	299	E	AB	0.0		False	False	False	False
+ODC	1D7K	300	Q	AB	5.5	4.84	False	False	True	False
+ODC	1D7K	301	T	A	19.3	4.52	False	False	True	False
+ODC	1D7K	309	S	B	6.6	4.79	False	False	True	False
+ODC	1D7K	310	S	B	0.0		False	False	False	False
+ODC	1D7K	311	E	AB	0.0		False	False	False	False
+ODC	1D7K	312	Q	AB	0.0		False	False	False	False
+ODC	1D7K	313	T	AB	0.0		False	False	False	False
+ODC	1D7K	314	F	AB	0.0		False	False	False	False
+ODC	1D7K	315	M	AB	34.4	2.85	True	True	True	False
+ODC	1D7K	316	Y	AB	0.0		False	False	False	False
+ODC	1D7K	317	Y	AB	44.1	2.64	True	True	True	False
+ODC	1D7K	318	V	AB	0.0		False	False	False	False
+ODC	1D7K	319	N	AB	13.9	2.94	True	True	True	False
+ODC	1D7K	320	D	AB	0.0		False	False	False	False
+ODC	1D7K	321	G	AB	0.0		False	False	False	False
+ODC	1D7K	322	V	AB	10.7	2.79	True	True	True	False
+ODC	1D7K	323	Y	AB	57.3	3.34	True	True	True	False
+ODC	1D7K	324	G	AB	0.0		False	False	False	False
+ODC	1D7K	325	S	AB	0.0		False	False	False	False
+ODC	1D7K	326	F	AB	0.0		False	False	False	False
+ODC	1D7K	327	N	AB	2.4	3.66	True	True	True	False
+ODC	1D7K	328	C	AB	0.0		False	False	False	False
+ODC	1D7K	329	I	AB	0.0		False	False	False	False
+ODC	1D7K	330	L	AB	38.5	3.48	True	True	True	False
+ODC	1D7K	331	Y	AB	152.3	2.79	True	True	True	True
+ODC	1D7K	332	D	AB	0.0		False	False	False	True
+ODC	1D7K	333	H	AB	11.4	3.94	True	True	True	False
+ODC	1D7K	334	A	AB	0.0		False	False	False	False
+ODC	1D7K	335	H	AB	0.0		False	False	False	False
+ODC	1D7K	336	V	AB	0.0		False	False	False	False
+ODC	1D7K	337	K	AB	0.0		False	False	False	False
+ODC	1D7K	338	P	AB	0.0		False	False	False	False
+ODC	1D7K	339	L	AB	0.0		False	False	False	False
+ODC	1D7K	340	L	AB	0.0		False	False	False	False
+ODC	1D7K	341	Q	AB	0.0		False	False	False	False
+ODC	1D7K	342	K	AB	0.0		False	False	False	False
+ODC	1D7K	343	R	AB	0.0		False	False	False	False
+ODC	1D7K	344	P	AB	0.0		False	False	False	False
+ODC	1D7K	345	K	AB	0.0		False	False	False	False
+ODC	1D7K	346	P	AB	0.0		False	False	False	False
+ODC	1D7K	347	D	AB	0.0		False	False	False	False
+ODC	1D7K	348	E	AB	0.0		False	False	False	False
+ODC	1D7K	349	K	AB	0.0		False	False	False	False
+ODC	1D7K	350	Y	AB	0.0		False	False	False	False
+ODC	1D7K	351	Y	AB	0.0		False	False	False	False
+ODC	1D7K	352	S	AB	0.0		False	False	False	False
+ODC	1D7K	353	S	AB	0.0		False	False	False	False
+ODC	1D7K	354	S	AB	5.6	3.72	True	True	True	False
+ODC	1D7K	355	I	AB	0.0		False	False	False	False
+ODC	1D7K	356	W	AB	47.7	3.51	True	True	True	False
+ODC	1D7K	357	G	AB	4.3	2.68	True	True	True	False
+ODC	1D7K	358	P	AB	13.4	3.98	True	True	True	False
+ODC	1D7K	359	T	AB	14.5	2.99	True	True	True	False
+ODC	1D7K	360	C	AB	98.4	3.54	True	True	True	True
+ODC	1D7K	361	D	AB	17.8	3.07	True	True	True	True
+ODC	1D7K	362	G	AB	18.3	3.76	True	True	True	False
+ODC	1D7K	363	L	AB	20.5	3.94	True	True	True	False
+ODC	1D7K	364	D	AB	1.1	2.84	True	True	True	False
+ODC	1D7K	365	R	AB	20.2	3.34	True	True	True	False
+ODC	1D7K	366	I	AB	0.0		False	False	False	False
+ODC	1D7K	367	V	AB	0.0		False	False	False	False
+ODC	1D7K	368	E	AB	49.6	2.62	True	True	True	False
+ODC	1D7K	369	R	AB	11.5	4.0	False	True	True	False
+ODC	1D7K	370	C	AB	0.0		False	False	False	False
+ODC	1D7K	371	D	AB	0.0		False	False	False	False
+ODC	1D7K	372	L	AB	0.0		False	False	False	False
+ODC	1D7K	373	P	AB	0.0		False	False	False	False
+ODC	1D7K	374	E	AB	0.0		False	False	False	False
+ODC	1D7K	375	M	AB	0.0		False	False	False	False
+ODC	1D7K	376	H	AB	0.0		False	False	False	False
+ODC	1D7K	377	V	AB	45.3	3.47	True	True	True	False
+ODC	1D7K	378	G	AB	0.0		False	False	False	False
+ODC	1D7K	379	D	AB	0.0		False	False	False	False
+ODC	1D7K	380	W	AB	0.0		False	False	False	False
+ODC	1D7K	381	M	AB	0.0		False	False	False	False
+ODC	1D7K	382	L	AB	0.0		False	False	False	False
+ODC	1D7K	383	F	AB	0.0		False	False	False	False
+ODC	1D7K	384	E	AB	0.0		False	False	False	False
+ODC	1D7K	385	N	AB	0.0		False	False	False	False
+ODC	1D7K	386	M	AB	0.0		False	False	False	False
+ODC	1D7K	387	G	AB	0.0		False	False	False	False
+ODC	1D7K	388	A	AB	0.0		False	False	False	False
+ODC	1D7K	389	Y	AB	16.3	3.82	True	True	True	True
+ODC	1D7K	390	T	AB	0.0		False	False	False	False
+ODC	1D7K	391	V	AB	0.0		False	False	False	False
+ODC	1D7K	392	A	AB	30.1	3.77	True	True	True	False
+ODC	1D7K	393	A	AB	44.8	3.84	True	True	True	False
+ODC	1D7K	394	A	AB	9.1	3.87	True	True	True	False
+ODC	1D7K	395	S	AB	38.7	3.84	True	True	True	False
+ODC	1D7K	396	T	AB	4.5	4.71	False	False	True	False
+ODC	1D7K	397	F	AB	90.3	3.31	True	True	True	False
+ODC	1D7K	398	N	AB	68.1	2.92	True	True	True	False
+ODC	1D7K	399	G	AB	37.7	2.94	True	True	True	False
+ODC	1D7K	400	F	AB	51.9	3.63	True	True	True	False
+ODC	1D7K	401	Q	AB	19.4	3.16	True	True	True	False
+ODC	1D7K	402	R	AB	9.8	4.94	False	False	True	False
+ODC	1D7K	403	P	AB	0.0		False	False	False	False
+ODC	1D7K	404	T	AB	0.0		False	False	False	False
+ODC	1D7K	405	I	AB	0.0		False	False	False	False
+ODC	1D7K	406	Y	AB	0.0		False	False	False	False
+ODC	1D7K	407	Y	AB	0.0		False	False	False	False
+ODC	1D7K	408	V	AB	0.0		False	False	False	False
+ODC	1D7K	409	M	AB	0.0		False	False	False	False
+ODC	1D7K	410	S	AB	0.0		False	False	False	False
+ODC	1D7K	411	G	AB	0.0		False	False	False	False
+ODC	1D7K	412	P	AB	0.0		False	False	False	False
+ODC	1D7K	413	A	AB	0.0		False	False	False	False
+ODC	1D7K	414	W	AB	0.0		False	False	False	False
+ODC	1D7K	415	Q	AB	0.0		False	False	False	False
+ODC	1D7K	416	L	AB	0.0		False	False	False	False
+ODC	1D7K	417	M	AB	0.0		False	False	False	False
+ODC	1D7K	418	Q	AB	0.0		False	False	False	False
+ODC	1D7K	419	Q	AB	0.0		False	False	False	False
+ODC	1D7K	420	F	AB	0.0		False	False	False	False
+ODC	1D7K	421	Q	AB	0.0		False	False	False	False
+ODC	1D7K	422	N	A	0.0		False	False	False	False
+ODC	1D7K	423	P	A	0.0		False	False	False	False
+ODC	1D7K	424	D	A	0.0		False	False	False	False
+ODC	1D7K	425	F	A	0.0		False	False	False	False
+ODC	1D7K	426	P	A	0.0		False	False	False	False
+ODC	1D7K	427	P	A	0.0		False	False	False	False
+AdoMetDC	1MSV	4	A	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	5	H	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	6	F	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	7	F	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	8	E	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	9	G	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	10	T	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	11	E	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	12	K	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	13	L	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	14	L	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	15	E	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	16	V	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	17	W	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	18	F	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	19	S	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	20	R	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	21	Q	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	27	Q	B	0.0		False	False	False	False
+AdoMetDC	1MSV	28	G	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	29	S	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	30	G	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	31	D	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	32	L	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	33	R	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	34	T	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	35	I	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	36	P	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	37	R	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	38	S	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	39	E	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	40	W	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	41	D	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	42	I	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	43	L	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	44	L	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	45	K	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	46	D	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	47	V	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	48	Q	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	49	C	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	50	S	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	51	I	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	52	I	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	53	S	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	54	V	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	55	T	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	56	K	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	57	T	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	58	D	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	59	K	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	60	Q	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	61	E	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	62	A	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	63	Y	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	64	V	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	65	L	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	66	S	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	67	E	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	68	S	AB	0.0		False	False	False	True
+AdoMetDC	1MSV	69	S	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	70	M	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	71	F	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	72	V	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	73	S	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	74	K	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	75	R	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	76	R	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	77	F	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	78	I	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	79	L	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	80	K	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	81	T	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	82	C	AB	0.0		False	False	False	True
+AdoMetDC	1MSV	83	G	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	84	T	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	85	T	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	86	L	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	87	L	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	88	L	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	89	K	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	90	A	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	91	L	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	92	V	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	93	P	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	94	L	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	95	L	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	96	K	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	97	L	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	98	A	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	99	R	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	100	D	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	101	Y	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	102	S	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	103	G	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	104	F	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	105	D	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	106	S	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	107	I	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	108	Q	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	109	S	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	110	F	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	111	F	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	112	Y	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	113	S	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	114	R	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	115	K	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	116	N	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	117	F	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	118	M	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	119	K	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	120	P	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	121	S	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	122	H	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	123	Q	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	124	G	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	125	Y	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	126	P	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	127	H	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	128	R	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	129	N	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	130	F	AB	9.7	3.78	True	True	True	False
+AdoMetDC	1MSV	131	Q	AB	15.5	4.32	False	True	True	False
+AdoMetDC	1MSV	132	E	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	133	E	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	134	I	AB	20.5	4.2	False	True	True	False
+AdoMetDC	1MSV	135	E	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	136	F	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	137	L	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	138	N	AB	9.8	4.55	False	False	True	False
+AdoMetDC	1MSV	139	A	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	140	I	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	141	F	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	142	P	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	143	N	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	144	G	AB	23.7	2.87	True	True	True	False
+AdoMetDC	1MSV	145	A	AB	17.5	3.7	True	True	True	False
+AdoMetDC	1MSV	146	A	AB	46.9	2.77	True	True	True	False
+AdoMetDC	1MSV	147	Y	AB	79.9	2.63	True	True	True	False
+AdoMetDC	1MSV	148	C	AB	39.3	3.38	True	True	True	False
+AdoMetDC	1MSV	149	M	AB	12.7	4.12	False	True	True	False
+AdoMetDC	1MSV	150	G	AB	12.4	3.51	True	True	True	False
+AdoMetDC	1MSV	151	R	AB	76.0	2.88	True	True	True	False
+AdoMetDC	1MSV	152	M	AB	103.2	2.77	True	True	True	False
+AdoMetDC	1MSV	153	N	AB	71.7	2.87	True	True	True	False
+AdoMetDC	1MSV	154	S	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	155	D	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	156	C	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	157	W	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	158	Y	AB	2.4	4.92	False	False	True	False
+AdoMetDC	1MSV	159	L	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	160	Y	AB	1.2		False	False	False	False
+AdoMetDC	1MSV	161	T	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	162	L	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	163	D	AB	36.2	2.88	True	True	True	False
+AdoMetDC	1MSV	164	F	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	165	P	AB	9.7	4.21	False	True	True	False
+AdoMetDC	1MSV	166	E	AB	1.1	4.97	False	False	True	False
+AdoMetDC	1MSV	167	S	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	168	R	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	169	V	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	170	I	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	171	S	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	172	Q	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	173	P	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	174	D	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	175	Q	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	176	T	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	177	L	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	178	E	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	179	I	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	180	L	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	181	M	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	182	S	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	183	E	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	184	L	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	185	D	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	186	P	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	187	A	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	188	V	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	189	M	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	190	D	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	191	Q	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	192	F	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	193	Y	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	194	M	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	195	K	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	196	D	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	197	G	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	198	V	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	199	T	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	200	A	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	201	K	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	202	D	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	203	V	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	204	T	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	205	R	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	206	E	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	207	S	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	208	G	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	209	I	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	210	R	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	211	D	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	212	L	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	213	I	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	214	P	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	215	G	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	216	S	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	217	V	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	218	I	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	219	D	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	220	A	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	221	T	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	222	M	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	223	F	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	224	N	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	225	P	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	226	C	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	227	G	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	228	Y	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	229	S	AB	0.0		False	False	False	True
+AdoMetDC	1MSV	230	M	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	231	N	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	232	G	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	233	M	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	234	K	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	235	S	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	236	D	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	237	G	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	238	T	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	239	Y	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	240	W	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	241	T	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	242	I	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	243	H	AB	0.0		False	False	False	True
+AdoMetDC	1MSV	244	I	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	245	T	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	246	P	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	247	E	AB	0.0		False	False	False	True
+AdoMetDC	1MSV	248	P	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	249	E	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	250	F	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	251	S	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	252	Y	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	253	V	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	254	S	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	255	F	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	256	E	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	257	T	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	258	N	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	259	L	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	260	S	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	261	Q	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	262	T	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	263	S	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	264	Y	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	265	D	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	266	D	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	267	L	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	268	I	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	269	R	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	270	K	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	271	V	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	272	V	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	273	E	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	274	V	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	275	F	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	276	K	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	277	P	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	278	G	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	279	K	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	280	F	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	281	V	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	282	T	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	283	T	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	284	L	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	285	F	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	286	V	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	287	N	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	288	Q	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	289	S	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	290	S	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	291	K	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	292	C	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	293	R	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	294	T	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	295	V	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	296	L	AB	30.9	3.73	True	True	True	False
+AdoMetDC	1MSV	297	A	AB	0.6		False	False	False	False
+AdoMetDC	1MSV	298	S	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	299	P	AB	18.7	3.64	True	True	True	False
+AdoMetDC	1MSV	300	Q	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	301	K	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	302	I	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	303	E	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	304	G	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	305	F	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	306	K	AB	15.9	4.21	False	True	True	False
+AdoMetDC	1MSV	307	R	AB	19.2	3.57	True	True	True	False
+AdoMetDC	1MSV	308	L	AB	7.8	4.71	False	False	True	False
+AdoMetDC	1MSV	309	D	AB	27.1	2.63	True	True	True	False
+AdoMetDC	1MSV	310	C	AB	51.6	3.09	True	True	True	False
+AdoMetDC	1MSV	311	Q	AB	60.5	2.98	True	True	True	False
+AdoMetDC	1MSV	312	S	AB	57.4	2.46	True	True	True	False
+AdoMetDC	1MSV	313	A	AB	18.1	3.32	True	True	True	False
+AdoMetDC	1MSV	314	M	AB	108.0	3.09	True	True	True	False
+AdoMetDC	1MSV	315	F	AB	1.2		False	False	False	False
+AdoMetDC	1MSV	316	N	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	317	D	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	318	Y	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	319	N	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	320	F	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	321	V	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	322	F	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	323	T	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	324	S	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	325	F	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	326	A	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	327	K	AB	0.0		False	False	False	False
+AdoMetDC	1MSV	328	K	AB	0.0		False	False	False	False

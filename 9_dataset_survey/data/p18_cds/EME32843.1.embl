@@ -1,0 +1,124 @@
+ID   EME32843; SV 1; linear; genomic DNA; CON; PLN; 2295 BP.
+XX
+PA   KB454484.1
+XX
+PR   Project:PRJNA13023;
+XX
+DT   26-FEB-2013 (Rel. 115, Created)
+DT   26-FEB-2013 (Rel. 115, Last updated, Version 1)
+XX
+DE   Galdieria sulphuraria S-adenosylmethionine decarboxylase isoform 2
+XX
+KW   .
+XX
+OS   Galdieria sulphuraria
+OC   Eukaryota; Rhodophyta; Bangiophyceae; Cyanidiales; Cyanidiaceae; Galdieria.
+XX
+RN   [1]
+RA   Schoenknecht G., Chen W.-H., Ternes C.M., Barbier G.G., Shrestha R.P.,
+RA   Stanke M., Brautigam A., Baker B.J., Banfield J.F., Garavito R.M., Carr K.,
+RA   Wilkerson C., Rensing S.A., Gagneul D., Dickenson N.E., Oesterhelt C.,
+RA   Lercher M.J., Weber A.P.M.;
+RT   "Gene Transfer from Bacteria and Archaea Facilitated Evolution of an
+RT   Extremophilic Eukaryote";
+RL   Science, e1252229 0:.
+XX
+RN   [2]
+RA   Schoenknecht G., Chen W.-H., Ternes C.M., Barbier G.G., Shrestha R.P.,
+RA   Stanke M., Braeutigam A., Baker B.J., Banfield J.F., Garavito R.M.,
+RA   Carr K., Wilkerson C., Rensing S.A., Gagneul D., Dickenson N.E.,
+RA   Oesterhelt C., Lercher M.J., Weber A.P.M.;
+RT   ;
+RL   Submitted (23-JAN-2013) to the INSDC.
+RL   Department of Botany, Oklahoma State University, 104 Life Sciences East,
+RL   Stillwater, OK 74078, USA
+XX
+DR   MD5; 4e33507ef8b3a9174b8321ecdec08563.
+DR   BioSample; SAMN00011278.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..2295
+FT                   /organism="Galdieria sulphuraria"
+FT                   /chromosome="Unknown"
+FT                   /strain="074W"
+FT                   /mol_type="genomic DNA"
+FT                   /country="Indonesia:Mount Lawu, Central Java"
+FT                   /db_xref="taxon:130081"
+FT   CDS             join(KB454484.1:372763..373145,KB454484.1:373192..373381,
+FT                   KB454484.1:373437..373718,KB454484.1:373775..374011,
+FT                   KB454484.1:374066..374340,KB454484.1:374393..374576,
+FT                   KB454484.1:374637..374852,KB454484.1:374904..375043,
+FT                   KB454484.1:375094..375481)
+FT                   /codon_start=1
+FT                   /locus_tag="Gasu_01970"
+FT                   /product="S-adenosylmethionine decarboxylase isoform 2"
+FT                   /EC_number="4.1.1.50"
+FT                   /note="alternatively spliced"
+FT                   /db_xref="EnsemblGenomes-Tr:EME32843"
+FT                   /db_xref="GOA:M2YAF1"
+FT                   /db_xref="InterPro:IPR001985"
+FT                   /db_xref="InterPro:IPR002433"
+FT                   /db_xref="InterPro:IPR009006"
+FT                   /db_xref="InterPro:IPR016067"
+FT                   /db_xref="InterPro:IPR018166"
+FT                   /db_xref="InterPro:IPR022644"
+FT                   /db_xref="InterPro:IPR029066"
+FT                   /db_xref="UniProtKB/TrEMBL:M2YAF1"
+FT                   /protein_id="EME32843.1"
+FT                   /translation="MVFHGEEGLSLDSSSDMGSGFEGPEKNLELDFRRRNSKIASFLSV
+FT                   SQERWSEILSYAQCSILSRIASDKLIAYLLSESSLFVFDEKIILKTCGRTTLLRTIPSL
+FT                   LALAEELDFCVDFVRYSRPFFLYPSAQTYPHDSFDSEVQFLEKFFRGHSYTLGAMDGKT
+FT                   AWHLYVADQSEKYSSEQTFEIIMFDLDSEAVSHFFKSKDYQSGLETLEGSGLKSLLPCE
+FT                   EITRYDAYNFDPCGFSLNVVNDDIYYTIHITPESHCSYASLECNAIIEDFTSLLMNTLK
+FT                   LLKPKKYCVVFFADSDAPAACVKQPLQWSCSKELGYQQFGEVTFVRMHENFGEYCAQVC
+FT                   SFMRCEDEFLFTPESESTQDLDVKFLSCSSNGVPQPLDVLLQVSKRFGAEWFSSDHPLE
+FT                   TKLKKLKSISHRPLLFIDLGGIYQNFIKLQKVVSSSCRYSVRCNPDPAILRLLYELGVQ
+FT                   LTVSSRSEVEHLIRNDISLSNVVFCSPMLKLSSVQRILKTYSFGMVTVSEDVLEECISK
+FT                   ELSQILREVSVELSLGSDEFDTSSAFERLEYKLKLAKKLGLKIVSVNISQLESEFLLQN
+FT                   IERLCNILKLFSRVSVVVSGSLQLLEDSSLSRDVDCNSPTKKLVSLLKLRSVSLVLNAD
+FT                   SLLLCNNQMMAVSVIARQESSEKDASELKVDKYYISEGVFGAFHELLTESVDNLYPYPL
+FT                   IERKSGEVSFCSIYGPSGDCLDHIWSGVLPVLDIHDYIFFPKIGSFLSLGLREFNDFSR
+FT                   KVDTRYLVTFE"
+XX
+SQ   Sequence 2295 BP; 617 A; 356 C; 511 G; 811 T; 0 other;
+     atggtttttc acggagaaga aggtctgtca ttggacagtt ctagtgatat ggggagtggt        60
+     ttcgaaggcc ctgaaaaaaa cttggaattg gattttagac gtaggaactc aaagatcgct       120
+     tcgttcctct cagtatctca agaaagatgg agcgaaatct tgtcatacgc acagtgtagt       180
+     attctttcaa gaatagcaag tgacaagtta atagcctact tactttccga aagctcgctt       240
+     tttgtatttg atgaaaagat aatcttgaag acttgtggaa ggactacttt actgaggacg       300
+     ataccgtctt tgcttgcatt ggcagaagaa ttggactttt gtgtggactt tgtgcgttat       360
+     tcaagaccgt ttttcttata tccttctgcg caaacctatc ctcatgactc ctttgattcg       420
+     gaagttcagt ttttagaaaa gttttttcgg ggacatagct acactttagg tgctatggat       480
+     ggtaaaacag cttggcattt gtatgtagct gatcagtcag aaaaatattc atctgaacag       540
+     acattcgaaa taattatgtt tgatttggat agtgaggctg tcagtcactt tttcaagtca       600
+     aaggattatc aaagtggttt agaaactctt gagggttctg gtttgaagtc tttgttacct       660
+     tgtgaagaga taactcgtta cgatgcatac aactttgatc catgtggatt ttctttgaat       720
+     gtagtgaacg acgacattta ctatacgatt catattactc cagagtcgca ttgtagctat       780
+     gctagtctgg aatgcaatgc tattatagaa gattttactt cattattgat gaataccttg       840
+     aaacttttga aaccaaaaaa gtattgtgtt gtattctttg cagattcaga tgctcctgct       900
+     gcttgtgtaa agcaacctct tcaatggtca tgttccaaag aactgggtta tcaacagttt       960
+     ggtgaagtta catttgttcg aatgcatgaa aatttcggag agtattgtgc acaagtttgc      1020
+     agttttatga gatgtgaaga tgagtttctg ttcactccgg agtctgaaag tacgcaagac      1080
+     ttagatgtca agttcctatc ctgttcgtcg aatggtgttc cgcagccgtt ggatgtttta      1140
+     ttgcaagtat ctaaacggtt tggtgctgaa tggttttcga gtgatcatcc gctggaaact      1200
+     aaactaaaga agttgaaatc aatcagtcat cgaccgttgt tattcattga cctcggtgga      1260
+     atttatcaaa actttatcaa gttacagaaa gttgtatctt cgagttgtcg ttattccgtt      1320
+     cgttgcaatc cggacccagc tatcttgaga cttttgtatg aattgggagt gcaacttact      1380
+     gtttctagtc ggtctgaagt ggaacatttg attcggaatg atatttcctt atctaatgtt      1440
+     gttttttgtt cgccaatgtt gaagttgtct tctgttcagc gtattttaaa gacctattcc      1500
+     tttggtatgg taactgtttc ggaagatgta ttagaggaat gtatatcaaa ggaattatcc      1560
+     caaattttga gggaagtttc agtagagtta agtttgggtt cggacgagtt tgatacctcg      1620
+     agtgcttttg agagattgga atataagttg aaattagcaa agaagttagg tttgaagata      1680
+     gtatctgtga acatttcaca actcgagtcg gaattcttat tgcagaatat tgaaagactt      1740
+     tgcaatatct tgaaactttt ttcccgcgtt tctgtggtgg tttctggcag tctccaattg      1800
+     ttggaagatt cttctttatc acgagacgtt gactgcaatt cacctacgaa gaaacttgtt      1860
+     tcattgttga aactccgttc tgtatctctt gttttgaatg cagattcgtt gctactttgc      1920
+     aataaccaaa tgatggcagt ttctgttatt gctcgacaag agtccagtga aaaggatgca      1980
+     agtgagttga aagtggataa gtattatata tctgaaggcg tctttggagc atttcatgag      2040
+     ttgcttaccg agtcagtgga taacttatat ccatatcctc ttatagaaag gaagagtgga      2100
+     gaagtttcgt tttgttctat ttatggtcca agtggtgatt gtttggatca tatttggtct      2160
+     ggagtgttgc cagttttaga cattcacgat tatattttct ttccaaagat aggaagtttt      2220
+     ttgtccttgg gtttgcgtga gtttaatgat ttttcacgca aagtagatac tcgttatttg      2280
+     gttacgtttg aataa                                                       2295
+//

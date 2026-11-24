@@ -52,14 +52,18 @@ RNA-seq or EST reads across the junction are the direct test. They have not been
 **Counts, corrected.** **3 are transcriptome-only** (*Percolomonas*, *Tetraselmis* GSL018, *Auxenochlorella*
 A0A1D2AC22) and **20 are genome gene models** (19 unreported plus *Micromonas* C1E5E7).
 
-- **Stronger group: 10 of the 20 are uninterrupted across the junction.** 5 are single-exon genes (*Adiantum*,
-  *Chloropicon*, *Gracilariopsis*, *Pycnococcus*, *Ceratopteris*). In the other 5 the junction falls inside an
-  exon of a multi-exon gene (*Riccia*, *Apatococcus lobatus*, *Cymbomonas*, *Closterium*, *Micromonas*). Leaving
-  out *Micromonas* (already reported), that is **9 of the 19 unreported**.
-- **Weaker group: 10 of the 20 rely on a predicted intron in the linker** (*Galdieria*, *Klebsormidium*,
-  *Rhodosorus*, *Myrmecia*, *Micractinium*, *Auxenochlorella* A0A087SFF4, *Prototheca*, *Apatococcus fuscideae*
-  ×2, *Vitrella*). All 10 are among the 19 unreported. Their gene structure says nothing for or against the
-  fusion until the junction is shown in RNA.
+Of the **19 unreported** genome gene models (21 Nov 2026 wording; *Micromonas* is counted separately because
+Green 2011 already reported it):
+
+- **Stronger group: 9 run through the junction unbroken.** 5 are single-exon genes (*Adiantum*, *Chloropicon*,
+  *Gracilariopsis*, *Pycnococcus*, *Ceratopteris*). In the other 4 the junction falls inside an exon of a
+  multi-exon gene (*Riccia*, *Apatococcus lobatus*, *Cymbomonas*, *Closterium*). *Micromonas* C1E5E7 is also
+  unbroken across the junction (inside an exon) but is not one of the 9.
+- **Weaker group: 10 rely on a predicted intron in the linker** (*Galdieria*, *Klebsormidium*, *Rhodosorus*,
+  *Myrmecia*, *Micractinium*, *Auxenochlorella* A0A087SFF4, *Prototheca*, *Apatococcus fuscideae* ×2,
+  *Vitrella*). Their gene structure says nothing for or against the fusion until the junction is shown in RNA.
+- 9 + 10 = 19. With *Micromonas*: 10 unbroken + 10 intron = 20 genome models; with the 3 transcriptome-only
+  proteins, 23.
 
 (The earlier version of this section had these two groups the wrong way round: "10 without an intron, 9 with".
 The table itself was right. In *A. lobatus* the intron near the junction falls at residue 324, inside the

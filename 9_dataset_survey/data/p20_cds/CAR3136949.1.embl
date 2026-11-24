@@ -1,0 +1,88 @@
+ID   CAR3136949; SV 1; linear; genomic DNA; WGS; ENV; 1425 BP.
+XX
+PA   CEWRRV010000150.1
+XX
+PR   Project:PRJEB104944;
+XX
+DT   29-APR-2026 (Created)
+DT   30-APR-2026 (Last updated)
+XX
+DE   Actinophytocola sp. S-adenosylmethionine decarboxylase proenzyme
+XX
+KW   WGS.
+XX
+OS   Actinophytocola sp.
+OC   Bacteria; Bacillati; Actinomycetota; Actinomycetes; Pseudonocardiales;
+OC   Pseudonocardiaceae.
+XX
+RN   [1]
+RA   Furtwangler A., Michel M., Gnecchi-Ruscone G., Jackson I., Herbig A.,
+RA   Gretzinger J., Posth C., Andrades Valtuena A., Hiss A., Clayton S.,
+RA   Borry M., Wang K., Hubner A., Nagele K.;
+RT   ;
+RL   Submitted (25-MAR-2026) to the INSDC.
+RL   Max Planck Institute for Evolutionary Anthropology, Archaeogenetics,
+RL   Deutscher Pl. 6, 04103, Leipzig, Germany
+XX
+DR   MD5; 1170c13f0969583b4f71a742277ad6aa.
+DR   BioSample; SAMEA121992794.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..1425
+FT                   /organism="Actinophytocola sp."
+FT                   /environmental_sample
+FT                   /isolate="SRS3078204-megahit_018"
+FT                   /mol_type="genomic DNA"
+FT                   /isolation_source="dental calculus"
+FT                   /collection_date="2018"
+FT                   /note="contig: NODE_344_length_61559_cov_85.2"
+FT                   /db_xref="taxon:1872138"
+FT                   /submitter_seqid="NODE_344_length_61559_cov_85.2"
+FT                   /geo_loc_name=Spain
+FT   CDS             CEWRRV010000150.1:14339..15763
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /locus_tag="HMCMC_ICDAOH_03962"
+FT                   /standard_name="S-adenosylmethionine decarboxylase
+FT                   proenzyme"
+FT                   /product="S-adenosylmethionine decarboxylase proenzyme"
+FT                   /note="ID:ICDAOH_03962"
+FT                   /note="source:Pyrodigal"
+FT                   /protein_id="CAR3136949.1"
+FT                   /translation="MPDTPYLTIDLARVRANYLAVRDGLPEAAVYYAVKANPAPEIIRL
+FT                   LVELGAGFDVASPGEVELCLAAGASASRLSYGNTIKKAADVEHAYRLGVRRFSFDVSGD
+FT                   LENLGRLAPGSVVACRFLVDAPASGTPFGRKFGCSPAEAVRLLERASELGLRPALCFHV
+FT                   GSQQCDPGAWAAGVTQAMAIAASLSAKGITLESLNLGGGFPVAYRDPAPSLAECVAAIR
+FT                   SSLGADHPPLAIEPGRVIVASAGTIHASVVSVAERDRRWVYLDVGRYNGLAETENEYIA
+FT                   YRLTIPHPSTPDGPVVVAGPTCDGDDVLYQHTPYRLPLALRAGDPVDIHDAGAYTASYS
+FT                   SVSFNGIPPLPTYFLGEAPGTFAGRHVLAELHGIPPAVLDNVEFLSDALAQSLKQAGAT
+FT                   VCDVVSKHFDPHGVTVLALLAESHASVHTYPERGSVFVDVFTCGRHADPAEAVRLLGSA
+FT                   LGATRVSVQMVHRGHS"
+XX
+SQ   Sequence 1425 BP; 184 A; 523 C; 496 G; 222 T; 0 other;
+     gtgcccgaca ctccctacct gacgatcgac ctcgcccggg tgcgcgccaa ctacctggcg        60
+     gtgcgcgacg gcctgcccga ggccgcggtc tactacgcgg tcaaggccaa ccccgcgccg       120
+     gagatcatcc ggctgctggt ggagctcggc gccgggttcg acgtggcgag cccgggcgag       180
+     gtcgagctct gtctggcggc cggcgcctcg gcgtcgcgac tgtcctatgg gaacacgatc       240
+     aagaaggccg cggacgtcga gcacgcctac cggctggggg tgcggcggtt cagcttcgac       300
+     gtgtccggcg atctggagaa cctgggccgg ctcgcaccgg gctcggtggt ggcctgccgg       360
+     ttcctggtgg acgctccggc gtcgggcacg ccgttcggcc ggaagttcgg ctgctcgccc       420
+     gctgaggcgg tccggctgct ggagcgggcc agcgagctgg ggctgcggcc ggcgctgtgc       480
+     ttccacgtcg gctcgcagca gtgcgacccg ggcgcctggg cggccggggt cacgcaggca       540
+     atggcaatcg cagcgtcctt gtccgccaag ggaatcaccc tcgagtcgct gaacctcggc       600
+     ggaggcttcc cggtggcgta ccgggacccc gcgccgtcgc tggccgaatg cgtggcggcg       660
+     atcaggtctt cgctcggggc tgatcatccg ccgctggcca tcgagccggg ccgggtgatc       720
+     gtcgccagcg ccggcaccat ccacgcctcg gtggtctcgg tggccgagcg ggaccggcgc       780
+     tgggtgtacc tggacgtggg acggtacaac ggcctcgccg agaccgagaa cgagtacatc       840
+     gcctaccgcc tgaccatccc gcatccgtcc acaccggacg gtccggtggt cgtcgccggc       900
+     cccacctgcg acggcgacga cgtgctctac cagcacacgc cctaccggct ccccctggct       960
+     ctgcgggccg gtgaccccgt cgacatccac gacgccggcg cctacaccgc cagctactcc      1020
+     tcggtgtcct tcaacggaat cccgccgctg ccgacctact tcctcggcga ggcaccggga      1080
+     accttcgccg gccggcacgt gctcgccgag ctgcacggca ttccgccggc cgtgctcgac      1140
+     aacgtggaat tcctgtcgga tgctttggct cagtcgctga agcaggccgg cgccacggtc      1200
+     tgcgacgtgg tgtcgaagca cttcgacccg cacggcgtca cggtcctggc gctgctggcc      1260
+     gagtcgcacg cctccgtcca cacctacccc gagcgcggct cggtgttcgt cgacgtgttc      1320
+     acctgcggcc ggcacgccga ccccgcagag gcggtgcggc tgctcggctc ggcactcggc      1380
+     gccacccggg tgtccgttca gatggtccac agaggacact cgtga                      1425
+//

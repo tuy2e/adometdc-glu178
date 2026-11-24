@@ -1,0 +1,106 @@
+ID   ALG12733; SV 1; linear; genomic DNA; STD; PRO; 1551 BP.
+XX
+PA   CP012752.1
+XX
+PR   Project:PRJNA289020;
+XX
+DT   20-OCT-2015 (Rel. 126, Created)
+DT   23-JUN-2016 (Rel. 129, Last updated, Version 2)
+XX
+DE   Kibdelosporangium phytohabitans ornithine decarboxylase
+XX
+KW   .
+XX
+OS   Kibdelosporangium phytohabitans
+OC   Bacteria; Actinobacteria; Pseudonocardiales; Pseudonocardiaceae;
+OC   Kibdelosporangium.
+XX
+RN   [1]
+RA   Qin S., Xing K.;
+RT   "Genome sequencing of Kibdelosporangium phytohabitans";
+RL   Unpublished.
+XX
+RN   [2]
+RA   Qin S., Xing K.;
+RT   ;
+RL   Submitted (10-JUL-2015) to the INSDC.
+RL   The Key Lab of Biotechnology for Medicinal Plants of Jiangsu Province,
+RL   Jiangsu Normal University, No.101 Shanghai Road, Xuzhou, Jiangsu 210000,
+RL   China
+XX
+DR   MD5; df540aded213f9698a5f17899204e96e.
+DR   BioSample; SAMN03840758.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..1551
+FT                   /organism="Kibdelosporangium phytohabitans"
+FT                   /host="Jatropha curcas L."
+FT                   /strain="KLBMP1111"
+FT                   /mol_type="genomic DNA"
+FT                   /country="China:Jiangsu"
+FT                   /isolation_source="Inner tissues of medicinal plant"
+FT                   /collection_date="01-Jan-2014"
+FT                   /db_xref="taxon:860235"
+FT                   /culture_collection="CCTCC:AA 2010001"
+FT   CDS             CP012752.1:9655303..9656853
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /locus_tag="AOZ06_43020"
+FT                   /product="ornithine decarboxylase"
+FT                   /note="Derived by automated computational analysis using
+FT                   gene prediction method: Protein Homology."
+FT                   /db_xref="EnsemblGenomes-Gn:AOZ06_43020"
+FT                   /db_xref="GOA:A0A0N9IDG2"
+FT                   /db_xref="InterPro:IPR000183"
+FT                   /db_xref="InterPro:IPR002433"
+FT                   /db_xref="InterPro:IPR003826"
+FT                   /db_xref="InterPro:IPR009006"
+FT                   /db_xref="InterPro:IPR016067"
+FT                   /db_xref="InterPro:IPR017716"
+FT                   /db_xref="InterPro:IPR022643"
+FT                   /db_xref="InterPro:IPR022644"
+FT                   /db_xref="InterPro:IPR022653"
+FT                   /db_xref="InterPro:IPR029066"
+FT                   /db_xref="UniProtKB/TrEMBL:A0A0N9IDG2"
+FT                   /inference="EXISTENCE:similar to AA
+FT                   sequence:RefSeq:WP_009073608.1"
+FT                   /protein_id="ALG12733.1"
+FT                   /translation="MPAVIDALPQAPERIRAFLDDRRPPTPCLVIDLDTVRESHTRLRE
+FT                   ALPEARMYYAVKANPAPEVVRLLAEQGCGFDVAGREEIELCLGQGASADSISYGNPIKK
+FT                   ARDIAYAHRVGVRRFTFDSEPDLETIATFAPGATVSCRILVDSTGSQTPFGHKFGCAPE
+FT                   MAARLLVRAAELGLDPEGVAFHVGSQHLDPAAWEPWIAAAGAVTRTVTAAGIRLRGLNI
+FT                   GGGFPGRYLVDPPPLTDYADTVRAAVARHFDHEVDLAIEPGRVLVAEAGMIRSEVVLVS
+FT                   RKSDTDAKRWVYLDIGRYGGMAETENEAIAYRLQTAQDHEPTGPVVIAGPSCDGDDVLY
+FT                   QRTSYELPLSLRAGDHVDIMSTGAYTQSYSSVAFNGFPPLRTYFVGGAPASQETVDSEV
+FT                   GEFAGRHVLAEFEGVSAELLDDATFLRESLERALEKAGATVCDMTYKQFEPQGVTLLAL
+FT                   LSESHASIHTYPERGAVFIDVFTCGQVADPELAVNLLRDMLDASVSRISVVHRGQENR"
+XX
+SQ   Sequence 1551 BP; 245 A; 532 C; 549 G; 225 T; 0 other;
+     ttgcccgctg tgatcgacgc cctcccgcag gcgccggaac gcatcagagc gttcctggac        60
+     gaccgcaggc caccgacccc gtgtctcgtg atcgacctcg acacggtgcg ggaaagccat       120
+     accaggctgc gggaagcact cccggaagcg aggatgtact acgcggtcaa ggccaacccc       180
+     gcgccggagg tcgtcagact gctcgccgag cagggctgcg gcttcgacgt ggccggccgc       240
+     gaggagatcg aactgtgcct cggccaggga gccagtgccg attcgatctc gtacggcaac       300
+     ccgatcaaga aagccaggga catcgcgtac gcccaccggg tcggcgtccg ccgcttcacc       360
+     ttcgacagcg agccggacct ggagaccatc gcgaccttcg cgccaggcgc caccgtgtcc       420
+     tgccggatcc tggtggacag caccggatcg cagacgcctt tcgggcacaa gttcgggtgc       480
+     gcccccgaga tggccgcccg gctgctcgtg cgggccgcgg agctgggtct cgaccccgag       540
+     ggcgtggcgt tccacgtcgg ctcgcagcac ctggacccgg ccgcgtggga gccgtggatc       600
+     gccgcggccg gggcggtcac ccgcactgtc acggcggcag gcatccggct gcgcggcctg       660
+     aacatcggcg gtggcttccc cggccgctac ctggtcgacc cgccgccgct gaccgactac       720
+     gccgacacgg tccgcgccgc cgtcgcccgg cacttcgacc acgaggtcga cctggcgatc       780
+     gagccgggcc gggtactggt cgccgaggcc gggatgatcc gcagcgaggt cgtgctggtg       840
+     tcgcgcaagt ccgacaccga cgccaagcgc tgggtctacc tggacatcgg gcgctacggc       900
+     gggatggccg agaccgagaa cgaggcgatc gcgtaccgcc tgcagaccgc gcaggaccac       960
+     gagccgaccg ggccggtggt catcgccggg ccgtcgtgcg acggcgatga cgtgctctac      1020
+     caacggacct cctacgagct gccgctgtcg ttgcgcgccg gtgaccacgt ggacatcatg      1080
+     agcacgggcg cgtacaccca gagctactcc tcggtggcgt tcaacgggtt cccgccgctg      1140
+     cggacatact tcgtaggcgg cgcgcctgct tcccaggaga cggtggacag cgaggtcggc      1200
+     gagttcgccg ggcggcacgt gctggcggag ttcgaaggcg tgtcggccga gttgctcgac      1260
+     gacgccacgt tcctgcgtga gagcctggaa cgggcgctgg agaaggcggg cgcgaccgtg      1320
+     tgcgacatga cgtacaagca gttcgagccg cagggcgtga ccctgctggc gctgctgtcg      1380
+     gagtcgcacg cgtccatcca cacgtatccc gaacggggtg cggtgttcat cgacgtgttc      1440
+     acctgcggcc aggtcgccga cccggagctc gcggtgaact tgttgcgcga catgctcgac      1500
+     gcgagcgtgt cgcggatcag tgtcgtccac agaggacagg agaaccggtg a               1551
+//

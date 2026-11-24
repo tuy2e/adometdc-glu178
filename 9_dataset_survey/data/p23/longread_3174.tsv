@@ -1,0 +1,3 @@
+run_accession	scientific_name	tax_id	instrument_platform	instrument_model	library_source	library_strategy	library_selection	read_count	base_count	study_accession	experiment_title
+SRR13236764	Klebsormidium sp. GA6	2793159	PACBIO_SMRT	PacBio RS II	METAGENOMIC	AMPLICON	RANDOM	2761	2310823	PRJNA680471	PacBio RS II sequencing: Cultured algae consortium G6
+SRR13236766	Klebsormidium sp. GA16	2793160	PACBIO_SMRT	PacBio RS II	METAGENOMIC	AMPLICON	RANDOM	257	241427	PRJNA680471	PacBio RS II sequencing: Cultured algae consortium G16

@@ -1,0 +1,190 @@
+ID   ETW28693; SV 1; linear; genomic DNA; CON; INV; 4695 BP.
+XX
+PA   KI928022.1
+XX
+PR   Project:PRJNA67481;
+XX
+DT   30-APR-2014 (Rel. 120, Created)
+DT   30-APR-2014 (Rel. 120, Last updated, Version 1)
+XX
+DE   Plasmodium falciparum FCH/4 hypothetical protein
+XX
+KW   .
+XX
+OS   Plasmodium falciparum FCH/4
+OC   Eukaryota; Sar; Alveolata; Apicomplexa; Aconoidasida; Haemosporida;
+OC   Plasmodiidae; Plasmodium; Plasmodium (Laverania).
+XX
+RN   [1]
+RG   The Broad Institute Genome Sequencing Platform, The Broad Institute Genome Sequencing Center for Infectious Disease
+RA   Neafsey D., Cheeseman I., Volkman S., Adams J., Walker B., Young S.K.,
+RA   Zeng Q., Gargeya S., Fitzgerald M., Haas B., Abouelleil A., Alvarado L.,
+RA   Arachchi H.M., Berlin A.M., Chapman S.B., Dewar J., Goldberg J., Griggs A.,
+RA   Gujja S., Hansen M., Howarth C., Imamovic A., Larimer J., McCowan C.,
+RA   Murphy C., Neiman D., Pearson M., Priest M., Roberts A., Saif S., Shea T.,
+RA   Sisk P., Sykes S., Wortman J., Nusbaum C., Birren B.;
+RT   "The Genome Sequence of Plasmodium falciparum FCH/4";
+RL   Unpublished.
+XX
+RN   [2]
+RG   The Broad Institute Genome Sequencing Platform, The Broad Institute Genome Sequencing Center for Infectious Disease
+RA   Neafsey D., Hoffman S., Volkman S., Rosenthal P., Walker B., Young S.K.,
+RA   Zeng Q., Gargeya S., Fitzgerald M., Haas B., Abouelleil A., Allen A.W.,
+RA   Alvarado L., Arachchi H.M., Berlin A.M., Chapman S.B., Gainer-Dewar J.,
+RA   Goldberg J., Griggs A., Gujja S., Hansen M., Howarth C., Imamovic A.,
+RA   Ireland A., Larimer J., McCowan C., Murphy C., Pearson M., Poon T.W.,
+RA   Priest M., Roberts A., Saif S., Shea T., Sisk P., Sykes S., Wortman J.,
+RA   Nusbaum C., Birren B.;
+RT   "The Genome Annotation of Plasmodium falciparum FCH/4";
+RL   Unpublished.
+XX
+RN   [3]
+RG   The Broad Institute Genome Sequencing Platform, The Broad Institute Genome Sequencing Center for Infectious Disease
+RA   Neafsey D., Cheeseman I., Volkman S., Adams J., Walker B., Young S.K.,
+RA   Zeng Q., Gargeya S., Fitzgerald M., Haas B., Abouelleil A., Alvarado L.,
+RA   Arachchi H.M., Berlin A.M., Chapman S.B., Dewar J., Goldberg J., Griggs A.,
+RA   Gujja S., Hansen M., Howarth C., Imamovic A., Larimer J., McCowan C.,
+RA   Murphy C., Neiman D., Pearson M., Priest M., Roberts A., Saif S., Shea T.,
+RA   Sisk P., Sykes S., Wortman J., Nusbaum C., Birren B.;
+RT   ;
+RL   Submitted (20-FEB-2013) to the INSDC.
+RL   Broad Institute of MIT and Harvard, 7 Cambridge Center, Cambridge, MA
+RL   02142, USA
+XX
+DR   MD5; 5cef9d26a9cfa7d1cb338ce4201a1c17.
+DR   BioSample; SAMN00765683.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..4695
+FT                   /organism="Plasmodium falciparum FCH/4"
+FT                   /chromosome="Unknown"
+FT                   /strain="FCH/4"
+FT                   /mol_type="genomic DNA"
+FT                   /country="Philippines"
+FT                   /db_xref="taxon:1036724"
+FT   CDS             join(KI928022.1:56427..60679,KI928022.1:62758..63199)
+FT                   /codon_start=1
+FT                   /locus_tag="PFFCH_03822"
+FT                   /product="hypothetical protein"
+FT                   /db_xref="EnsemblGenomes-Gn:PFFCH_03822"
+FT                   /db_xref="EnsemblGenomes-Tr:ETW28693"
+FT                   /db_xref="GOA:A0A024VK72"
+FT                   /db_xref="InterPro:IPR000183"
+FT                   /db_xref="InterPro:IPR001985"
+FT                   /db_xref="InterPro:IPR002433"
+FT                   /db_xref="InterPro:IPR009006"
+FT                   /db_xref="InterPro:IPR016067"
+FT                   /db_xref="InterPro:IPR022644"
+FT                   /db_xref="InterPro:IPR029066"
+FT                   /db_xref="UniProtKB/TrEMBL:A0A024VK72"
+FT                   /protein_id="ETW28693.1"
+FT                   /translation="MNGIFEGIEKRVVIKLKESFFKGNRNVNSFLDIPKELWEEKLKYI
+FT                   GCSIVSEISEDKNERRGERCRVYLLSESSLYIFDDSLFIKTCGKTRVLFFIPFVVDLLI
+FT                   YHMDNVGIIEKNCVYDETFIENEKFHNIAEFIKEHFLYCFFTHMNYRNKTKDGYFEQEY
+FT                   PHKSLEDEKKFFEFFFKNVQMYNTHLPMEKMHYIFFYSSDDVHMTDIASTFKFCSEIHL
+FT                   FGINKYNEKNQFHDAYLNNKSLNLFARVHEDNLKLYDSSDADKEVTTHIYSTRGTYEDT
+FT                   GMVNCVDVIYKNESTLLNRNNIENIPSIENKESNNNSRCCHNNNYSGSCHNIVSVVPSE
+FT                   RNNDHVHHRHYEDTLNRSNISAEDNNRNAQPEKEKDEDVRRDDEENKVLIKMIDTNLYE
+FT                   CINYNKESFLYNEFYFTPCGYSCNVSEKNNYFCVHYSPEDSVSYVSVEVSSNLSCDRFL
+FT                   DFMHKQLNFYNGKYMFMINYVFCEESNNMSKMVPDDDNNNYSSGKSCVYYQDLNKKEKE
+FT                   EYYRLNKKLRNDLFINSKQFYELHTFTERTVGFMRVQYFVYKLRDVVKCVEKETLLARS
+FT                   SSCLFMFNNIKRNDVHDDYVTKSSNGGVIKQLTERDVDDMYEYALNFCKQNKIVVVDTN
+FT                   TFFFDASKRKENLIKLEKIQTNEKDEYEEKDEVYRMGNNELSSLDHLDSKNNLIHMYYE
+FT                   KNKCDIINKDDENSTIATNNNDNNNDSSSYDKSITISRSSSCNNSHLSYSSFDNNHGNE
+FT                   KMKDYISVDENNNNNNNNNNKNNNVLLTLQRNSDDENGKDKDNEKNDVSLENNMEKNYK
+FT                   EEIWNYYTKNKVEVKTLEKVLNENIDTSVVCINLQKILAQYVRFKKNLPHVTPFYSVKS
+FT                   NNDEVVIKFLYGLNCNFDCASIGEISKVIKLLPNLSRDRIIFANTIKSINSLIYARKEN
+FT                   INLCTFDNLDELKKIYKYHPKCSLILRINVDFKNYKSYMSSKYGANEYEWEEMLLYAKK
+FT                   HNLNIVGVSFHVGSNTKNLFDFCLAIKLCRDVFDMSSNMGFNFYIINLGGGYPEELEYD
+FT                   NAKKHDKIHYCTLSLQEIKKDIQKFLNEETFLKTKYGYYSFEKISLAINMSIDHYFSHM
+FT                   KDNLRVICEPGRYMVAASSTLAVKIIGKRRPTFQGIMLKDLKDHYDPLNFAQQENKKQD
+FT                   ETKINHNNDNNDNNSNDNNNNNNNQKGGQGNIMNDLIITSTNDSTNKKNDHSSSQVIQN
+FT                   VSCTIRDKEGDNIKINTHTINNPNINGKENTVDGDNINIAHKNIGNNFSSSNSKLGNIT
+FT                   NIKKKVVNINDNRYNYFSYYVSDSIYGCFSGIIFDEYNRCPIYVIKNKNNPNQNFMNFN
+FT                   LYLANVFGQSCDGLDMINSITYLPECYINDWLLYEYAGAYTFVSSSNFNGFKKCKKVYI
+FT                   FPESKPSLKGQPNKHCNNIQEQENKDELINKDIPSNNKTDNKENNHIPKNNPLNCNDNN
+FT                   QKNLQNIGNNKNKIRDEVLIIDEESVNLAIKEYVLKTIYRKKNVDFLYEKLEFQQKDNL
+FT                   MVNRNIKYPSGLPPYLPDDCSVNTILPSWDIKYNFNSSKRKIKK"
+XX
+SQ   Sequence 4695 BP; 1955 A; 452 C; 755 G; 1533 T; 0 other;
+     atgaacggaa tttttgaagg aattgaaaaa agggttgtga tcaaattaaa ggagagtttt        60
+     ttcaaaggaa atagaaatgt gaactccttt ttagatatac ctaaagaatt atgggaagaa       120
+     aaattaaaat acattggttg tagtattgta tcggaaataa gtgaggacaa gaacgagaga       180
+     agaggtgaac gatgtcgtgt gtatttattg tcagagagtt ctttatacat ttttgatgat       240
+     tctttattta ttaagacatg tggcaaaaca agagttttat ttttcatacc gtttgtggtt       300
+     gatttattaa tatatcatat ggataatgta ggtataatag aaaagaattg tgtatatgat       360
+     gagacgttta ttgaaaacga gaaattccat aatatagctg aattcataaa agaacatttc       420
+     ctttattgtt tttttacaca tatgaattac cgaaataaaa caaaggatgg ttattttgaa       480
+     caggaatatc cacacaaatc tcttgaagat gaaaagaaat tttttgagtt tttttttaag       540
+     aacgtacaaa tgtataatac acatttacct atggagaaaa tgcattatat attcttctac       600
+     tcttctgatg atgtacatat gacggatata gcttctacgt ttaaattctg ttcggaaata       660
+     catttgtttg gaattaacaa atataatgaa aagaatcaat tccatgacgc ttatctgaat       720
+     aacaagtcgt tgaatctatt tgcaagagta catgaggata atttaaagct ttatgatagt       780
+     agtgatgctg ataaggaagt aaccacccac atctatagta ccagagggac atatgaagat       840
+     acaggaatgg tgaattgtgt ggatgtgatt tataagaatg aaagtacatt gttaaatagg       900
+     aataatatag aaaatattcc atctattgaa aataaagaaa gtaataataa tagtagatgt       960
+     tgtcataata ataattatag tggaagttgt cataatattg tgagtgttgt tccttccgaa      1020
+     agaaataatg atcatgtaca tcacagacat tatgaagata ccttaaatcg ttctaatatt      1080
+     tctgctgaag ataacaatag aaatgcacaa ccagaaaaag aaaaggacga agatgtaaga      1140
+     agagatgatg aagaaaataa agttctaata aaaatgatag atacgaattt atacgaatgt      1200
+     ataaattata ataaggaaag ctttttatat aatgaatttt attttacacc ttgtggttat      1260
+     tcttgtaatg tttctgaaaa aaataattat ttttgtgtac attattcacc agaagattct      1320
+     gtatcgtacg tttctgttga ggtatcttca aatttgtcgt gtgatcgatt tttagacttt      1380
+     atgcacaagc agttgaattt ttataatgga aagtatatgt tcatgataaa ttatgtattc      1440
+     tgtgaggaga gtaacaacat gtctaaaatg gtacctgatg atgataataa taattatagt      1500
+     agtggtaaaa gttgcgttta ttatcaagat ttaaataaga aagaaaaaga agaatattat      1560
+     cgcttgaaca aaaaattaag aaacgactta tttattaatt cgaaacaatt ttatgaatta      1620
+     catacattta ccgaacgaac ggttggattt atgagagtgc aatattttgt ttataaatta      1680
+     agagatgttg ttaaatgtgt agaaaaagaa actttgctag ctaggagttc gtcttgttta      1740
+     tttatgttta ataatatcaa acgaaatgac gtacatgatg attatgtaac taagtcgtca      1800
+     aatggtggtg taataaaaca attaacggaa agagatgttg atgatatgta tgagtatgct      1860
+     ttaaattttt gtaaacaaaa taaaatagtt gttgtagata ctaatacctt tttttttgat      1920
+     gcatctaaaa gaaaggagaa cttaataaaa cttgaaaaga tacaaacaaa tgagaaagat      1980
+     gaatatgaag aaaaagatga agtgtatcga atgggtaata atgaattgag ttcgttggat      2040
+     catttagata gtaagaataa tttgattcat atgtattatg aaaagaacaa atgtgatatc      2100
+     ataaataagg atgatgagaa ttcaacgata gcgacgaata ataatgataa taataatgat      2160
+     agtagttctt atgacaaaag tataacgatc agcagaagca gtagctgtaa taatagccat      2220
+     ttgagttata gtagttttga taataatcat ggaaatgaaa aaatgaaaga ttatataagt      2280
+     gttgatgaaa ataataataa taataataat aataataata aaaataataa tgtattgtta      2340
+     actttacaaa ggaacagtga tgatgaaaat ggtaaagata aagataatga aaaaaatgac      2400
+     gtaagtttag aaaacaatat ggaaaagaat tataaagaag aaatatggaa ttattataca      2460
+     aaaaataaag tggaagtaaa aacattagaa aaagtattaa atgaaaatat agatacatca      2520
+     gtagtttgta taaatttaca gaaaatatta gctcagtatg ttagatttaa aaagaatctt      2580
+     ccacatgtta ctccattcta ttctgtaaaa agtaataatg atgaagttgt aatcaaattt      2640
+     ttatatggat tgaattgtaa ttttgattgc gcttcgatag gtgaaataag taaagtaata      2700
+     aaattattac caaatttatc aagagataga ataatttttg cgaatacaat taaaagtatt      2760
+     aattctttaa tatatgcaag aaaggaaaat attaatttat gtacttttga taatttagat      2820
+     gaattaaaaa aaatatataa atatcatccg aaatgttctt taatattacg tattaatgta      2880
+     gattttaaaa attacaaatc ttatatgtct tcaaaatatg gagctaatga atatgaatgg      2940
+     gaagaaatgt tattgtatgc aaaaaaacat aatctaaata ttgtaggtgt atcatttcat      3000
+     gttggtagta atacaaagaa tttatttgat ttctgtctag ccattaaatt atgtagagat      3060
+     gtattcgata tgagtagtaa tatgggattt aatttttata taataaattt aggaggggga      3120
+     tatccagaag aattagaata tgataatgca aagaaacatg ataaaattca ttattgtact      3180
+     ttaagtcttc aagaaattaa aaaagatata caaaaatttc ttaatgaaga aacatttctc      3240
+     aagacgaaat atggatacta tagttttgaa aaaatatcat tggctattaa tatgtcaatc      3300
+     gatcattatt ttagtcatat gaaagataat ctaagagtta tttgtgaacc tggtagatat      3360
+     atggtcgctg cttcgtcaac attagctgtt aaaattatag gaaagagacg tccaactttt      3420
+     cagggcatta tgttaaaaga tttaaaagac cattacgatc ctttaaattt tgctcaacaa      3480
+     gaaaataaga aacaagacga aacaaaaata aaccacaata atgataataa tgataataat      3540
+     agtaatgata ataataataa taataataat caaaaagggg gccaaggaaa tattatgaat      3600
+     gatctaataa taactagcac aaatgattct actaataaaa agaatgatca ttcttctagt      3660
+     caagttattc aaaatgtatc gtgcacaata cgtgataaag aaggagataa tattaaaata      3720
+     aatacacata ccataaataa tcctaatata aatggaaaag aaaataccgt ggatggtgat      3780
+     aatattaata ttgctcataa aaatattggt aataacttta gtagtagtaa ttcaaaatta      3840
+     ggcaacataa caaatattaa gaaaaaagtt gttaatatta atgacaatag atataattat      3900
+     ttctcatatt atgtaagcga tagtatatat ggttgtttta gtggtataat ttttgatgaa      3960
+     tacaatagat gtcctattta tgttattaaa aacaaaaata accctaatca aaattttatg      4020
+     aattttaatt tgtatttagc taatgtattt ggacaatcat gtgatggctt ggatatgatc      4080
+     aattctatta cgtacttacc tgagtgttat attaatgatt ggcttctcta tgaatatgct      4140
+     ggggcataca cttttgtcag ctcatcaaac tttaatggat ttaagaaatg caagaaggtg      4200
+     tatatattcc ctgaatcgaa accttccctt aaggggcaac caaacaaaca ttgtaataat      4260
+     atccaagagc aagaaaataa agacgaatta attaataagg atataccatc caataataaa      4320
+     actgataata aagaaaataa tcatattcct aaaaataatc ctctaaactg taatgacaat      4380
+     aatcaaaaaa atttacaaaa tattggtaat aataaaaata aaatacgtga tgaagtatta      4440
+     ataattgatg aagaaagtgt aaatctagcc attaaagaat atgtcctcaa aacaatatat      4500
+     agaaagaaaa atgtagattt cttatatgaa aaattggaat ttcaacaaaa ggacaacctt      4560
+     atggttaata gaaatataaa atatccatcc ggtcttcctc catatttacc agatgattgt      4620
+     tctgttaata ccatattacc atcatgggat ataaaatata acttcaattc ttcaaaaaga      4680
+     aagattaaaa aataa                                                       4695
+//

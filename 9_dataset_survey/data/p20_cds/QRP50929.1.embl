@@ -1,0 +1,96 @@
+ID   QRP50929; SV 1; linear; genomic DNA; STD; PRO; 1446 BP.
+XX
+PA   CP069526.1
+XX
+PR   Project:PRJNA231221;
+XX
+DT   18-FEB-2021 (Rel. 144, Created)
+DT   10-MAR-2021 (Rel. 144, Last updated, Version 2)
+XX
+DE   Amycolatopsis sp. FDAARGOS 1241 adenosylmethionine decarboxylase
+XX
+KW   .
+XX
+OS   Amycolatopsis sp. FDAARGOS 1241
+OC   Bacteria; Actinobacteria; Pseudonocardiales; Pseudonocardiaceae;
+OC   Amycolatopsis; unclassified Amycolatopsis.
+XX
+RN   [1]
+RA   Carlson P., Fischbach M., Hastie J., Bilen M., Cheng A., Tallon L.,
+RA   Sadzewicz L., Zhao X., Boylan J., Ott S., Bowen H., Vavikolanu K.,
+RA   Mehta A., Aluvathingal J., Nadendla S., Yan Y., Sichtig H.;
+RT   "FDA dAtabase for Regulatory Grade micrObial Sequences (FDA-ARGOS):
+RT   Supporting development and validation of Infectious Disease Dx tests";
+RL   Unpublished.
+XX
+RN   [2]
+RA   Carlson P., Fischbach M., Hastie J., Bilen M., Cheng A., Tallon L.,
+RA   Sadzewicz L., Zhao X., Boylan J., Ott S., Bowen H., Vavikolanu K.,
+RA   Mehta A., Aluvathingal J., Nadendla S., Yan Y., Sichtig H.;
+RT   ;
+RL   Submitted (05-FEB-2021) to the INSDC.
+RL   Institute for Genome Sciences, University of Maryland School of Medicine,
+RL   BioPark II, 801 W. Baltimore St., Suite 619, Baltimore, MD 21201, USA
+XX
+DR   MD5; 78c4b0082bbc06d3cf8a3dd8b1f62c9f.
+DR   BioSample; SAMN16357383.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..1446
+FT                   /organism="Amycolatopsis sp. FDAARGOS 1241"
+FT                   /strain="FDAARGOS_1241"
+FT                   /mol_type="genomic DNA"
+FT                   /country="USA: MD"
+FT                   /collected_by="FDA-Stanford Microbiome Effort"
+FT                   /db_xref="taxon:2778070"
+FT                   /culture_collection="FDA:FDAARGOS_1241"
+FT   CDS             complement(CP069526.1:4657121..4658566)
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /gene="speD"
+FT                   /locus_tag="I6J71_23000"
+FT                   /product="adenosylmethionine decarboxylase"
+FT                   /EC_number="4.1.1.50"
+FT                   /note="Derived by automated computational analysis using
+FT                   gene prediction method: Protein Homology."
+FT                   /inference="COORDINATES: similar to AA
+FT                   sequence:RefSeq:WP_020662139.1"
+FT                   /protein_id="QRP50929.1"
+FT                   /translation="MIDLEAVRESHARLREALPEARMYYAVKANPAPEVVRLLARAGAG
+FT                   FDVAGREEIELCLDQGARPELISYGNTVKKARDIAFAHRAGVRRFTFDSAADLANIAAH
+FT                   APGSTVSCRVSVDSSGSQTPFGQKFGCAPEMAVDLLVDAATLGLDPEGVAFHVGSQHLD
+FT                   PRAWEAGIASAAAITRAVAARGVSLRGLNIGGGLPGRYVTEPPPLAEYTAAIRASVARH
+FT                   FPVAPELAFEPGRAVVAGAGLIRSEVVLVSRKSATAGQRWVYLDIGRYGGLAEAENEAI
+FT                   AYRLETAHDATPDGPVVIAGPTCDGDDVLYQRTPYRLPLALRAGDHVDILGTGAYTQSY
+FT                   SSVSFNGFPPLRTYFVGGEPHDEVGEFAGRHVLAEFSGVSSELLDDAAFLCESLELALT
+FT                   KAGATVRDVTFSKFEPQGVTVMALLSESHASIHSYPERGSVFVDVFTCGRRADPELAVQ
+FT                   LLRDLLGAGVARTRTVHRGQEDR"
+XX
+SQ   Sequence 1446 BP; 199 A; 499 C; 526 G; 222 T; 0 other;
+     gtgatcgatc tcgaagcagt gcgggaaagc catgcccggc ttcgagaagc gctgcccgag        60
+     gcccggatgt actacgcggt gaaggcgaat ccggcgccgg aggtcgtgcg gttgctcgcg       120
+     cgcgcgggcg cgggcttcga cgtcgccggt cgagaggaga tcgagctctg cctcgaccag       180
+     ggagcccgcc ccgagctgat ctcctacggc aacaccgtga agaaggcccg cgacatcgcg       240
+     ttcgcccacc gggccggggt tcgccggttc acgttcgaca gcgccgcgga cctcgcgaac       300
+     atcgccgcgc acgcgcccgg ttcgacggtg tcgtgccggg tttccgtgga cagttccggc       360
+     tcgcagaccc cgttcgggca gaagttcggc tgtgccccgg aaatggccgt ggacctgctc       420
+     gtggacgcgg ccaccctcgg gctggacccg gaaggcgtcg cgttccacgt cggctcccag       480
+     cacctcgacc cgcgcgcgtg ggaggccggg atcgcctccg ccgccgcgat cacccgcgcg       540
+     gtcgccgcgc ggggcgtgtc gttgcggggc ttgaacatcg ggggcgggct gccgggccgg       600
+     tacgtgaccg aaccaccgcc actcgccgag tacaccgccg ccatccgcgc gtcggtcgcg       660
+     cggcacttcc cggtcgcgcc ggagctggcg ttcgagccgg gccgcgcggt ggtcgccggc       720
+     gccgggctga tccgcagcga ggtcgtgctg gtgtcccgca agtccgcgac ggccgggcaa       780
+     cgctgggtgt acctggacat cgggcgctac ggtgggctgg ccgaggcgga gaacgaagcc       840
+     atcgcgtacc ggctggagac cgcgcacgac gccaccccgg acgggccggt cgtgatcgcg       900
+     ggcccgacct gcgacgggga cgacgtgctc taccagcgca ccccgtaccg cttgccgttg       960
+     gcgttgcggg ccggtgacca cgtcgacatc ctgggcacgg gtgcctacac ccagagctac      1020
+     tcgtcggtgt cgttcaacgg gttccctcca ctgaggacct acttcgtcgg cggggaaccg      1080
+     cacgacgagg tcggcgagtt cgccggccgg cacgtgctcg cggagttctc cggcgtgtcg      1140
+     tccgagttgc tcgacgacgc cgctttcctg tgtgagagct tggagctcgc gttgaccaaa      1200
+     gccggtgcca ccgtgcgcga cgtgacgttc agcaagttcg aaccgcaggg cgtcaccgtg      1260
+     atggcgttgc tttcggagtc gcacgcttcg atccactcct accccgaacg cgggtcggtg      1320
+     ttcgtcgacg tgttcacatg cgggcgccgc gcggacccgg aactggccgt gcagctgttg      1380
+     cgagatctgc tcggcgccgg cgtggcccgg accaggaccg tccacagggg acaggaggac      1440
+     aggtga                                                                 1446
+//

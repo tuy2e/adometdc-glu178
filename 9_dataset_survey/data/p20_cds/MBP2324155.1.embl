@@ -1,0 +1,109 @@
+ID   MBP2324155; SV 1; linear; genomic DNA; WGS; BCT; 1548 BP.
+XX
+PA   JAGINW010000001.1
+XX
+PR   Project:PRJNA696078;
+XX
+DT   08-APR-2021 (Created)
+DT   08-APR-2021 (Last updated)
+XX
+DE   Kibdelosporangium banguiense ornithine decarboxylase
+XX
+KW   WGS.
+XX
+OS   Kibdelosporangium banguiense
+OC   Bacteria; Bacillati; Actinomycetota; Actinomycetes; Pseudonocardiales;
+OC   Pseudonocardiaceae; Kibdelosporangium.
+XX
+RN   [1]
+RA   Klenk H.-P.;
+RT   "Sequencing the genomes of 1000 actinobacteria strains";
+RL   Unpublished.
+XX
+RN   [2]
+RA   Klenk H.-P.;
+RT   "Sequencing the genomes of 1000 actinobacteria strains";
+RL   Unpublished.
+XX
+RN   [3]
+RA   Klenk H.-P., Huntemann M., Clum A., Spunde A., Palaniappan K., Ritter S.,
+RA   Mikhailova N., Chen I.-M., Stamatis D., Reddy T., O'Malley R., Daum C.,
+RA   Shapiro N., Ivanova N., Kyrpides N., Woyke T.;
+RT   ;
+RL   Submitted (26-MAR-2021) to the INSDC.
+RL   Prokaryote Super Program, DOE Joint Genome Institute, 1 Cyclotron Road,
+RL   Mail Stop: 91R0183, Berkeley, CA 94720, USA
+XX
+RN   [4]
+RA   Klenk H.-P., Huntemann M., Clum A., Spunde A., Palaniappan K., Ritter S.,
+RA   Mikhailova N., Chen I.-M., Stamatis D., Reddy T., O'Malley R., Daum C.,
+RA   Shapiro N., Ivanova N., Kyrpides N., Woyke T.;
+RT   ;
+RL   Submitted (26-MAR-2021) to the INSDC.
+RL   Prokaryote Super Program, DOE Joint Genome Institute, 1 Cyclotron Road,
+RL   Mail Stop: 91R0183, Berkeley, CA 94720, USA
+XX
+DR   MD5; ebd533f9d9493989e40b78259a630716.
+DR   BioSample; SAMN17673457.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..1548
+FT                   /organism="Kibdelosporangium banguiense"
+FT                   /strain="DSM 46670"
+FT                   /mol_type="genomic DNA"
+FT                   /db_xref="taxon:1365924"
+FT                   /culture_collection="DSM:46670"
+FT                   /type_material="type strain of Kibdelosporangium
+FT                   banguiense"
+FT                   /submitter_seqid="Ga0451105_01"
+FT   CDS             complement(JAGINW010000001.1:4756687..4758234)
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /locus_tag="JOF56_004540"
+FT                   /product="ornithine decarboxylase"
+FT                   /EC_number="4.1.1.17"
+FT                   /note="product_source=KO:K01581;
+FT                   cath_funfam=2.40.37.10,3.20.20.10,3.60.90.10;
+FT                   cog=COG0019,COG1586; ko=KO:K01581;
+FT                   pfam=PF00278,PF02675,PF02784; superfamily=51419,56276;
+FT                   tigrfam=TIGR03330"
+FT                   /protein_id="MBP2324155.1"
+FT                   /translation="MIDALPQAPERIRAFLDDRRPPTPCLVIDLDTVRESHTRLREALP
+FT                   EARMYYAVKANPAPEIIKLLAHAGCGFDVAGREEIDLCLGQGARPELISYGNTVKKARD
+FT                   IAYAYRAGVRRFTFDSEADLETIANMAPGSTVSCRILVDSAGSATPFGHKFGCAPEMAV
+FT                   RLLVRAAELGLDAEGVAFHVGSQHLDPAAWEPWIAAAGTVTREVAARGITLRGLNIGGG
+FT                   FPGRYLIDPPPLSDYADTIRASVARHFHHEVDLAIEPGRVLVAEAGMIRSEVVLVSRKS
+FT                   DTDEKRWVYLDIGRYGGMAETENEAIAYRLQTTRDGSAEGPVVIAGPSCDGDDVLYQRT
+FT                   AYSLPLSLEAGDFVDIMTTGAYTQSYSSVSFNGFPPLRTYFVGGEPKPEQAHDEDEVGE
+FT                   FAGRHVLAEFEGVAAELLDDPEFLVDSLQRALEKAGATVCDMSFKQFEPQGVTVLALLS
+FT                   ESHASIHSYPERGAVFIDVFTCGKRADPELAVNLLRDMLNAGVSRISVIHRGQEGRS"
+XX
+SQ   Sequence 1548 BP; 254 A; 503 C; 547 G; 244 T; 0 other;
+     gtgatcgacg ccctcccgca ggcgccggag cgcatcagag cgttcttgga cgaccgtagg        60
+     cccccgaccc cgtgcttggt gatcgacctg gacacggtgc gggaaagcca tacgaggctg       120
+     cgggaagccc tacccgaggc gcggatgtac tacgccgtca aggcgaaccc ggcgccggag       180
+     atcatcaagc tgctggcgca cgcgggctgc gggttcgacg tggccggccg cgaagagatc       240
+     gacttgtgcc tgggccaggg cgcacggcct gagttgatct cctacggcaa cacggtcaag       300
+     aaggccaggg acatcgcgta cgcctaccgc gccggtgtgc gccgcttcac tttcgacagt       360
+     gaggcggacc tggagaccat cgccaacatg gcgcccggtt cgaccgtgtc gtgccggatt       420
+     ctggtggata gcgcaggttc ggcgacgccg ttcgggcaca agttcggatg cgcgcccgag       480
+     atggccgtac ggctgctcgt gcgcgcagcc gaactcggcc tggacgccga gggcgtcgcg       540
+     ttccatgtcg gctcgcagca cctcgacccg gccgcctggg agccgtggat cgccgctgcg       600
+     ggcacagtga cccgggaggt cgccgcgcga ggtatcacgc tgcgcgggct gaacatcggc       660
+     ggcggcttcc ccggccggta cctgatcgac ccaccgccgc tgagcgacta cgcggacacg       720
+     atccgcgcgt cggtcgcgcg gcacttccac cacgaagtgg accttgcgat cgagcccggc       780
+     cgggtgctgg tcgccgaggc cggaatgatc cgcagcgagg tcgtgctggt ctcgcgcaag       840
+     tccgacaccg acgagaaacg ctgggtgtac ctggacatcg ggcgctacgg cgggatggcc       900
+     gagaccgaga acgaggcgat cgcgtaccgg ctgcagacca cgcgggacgg ctccgccgaa       960
+     ggcccggttg tcatcgcagg ccccagctgt gacggtgatg acgttctgta ccaacggact      1020
+     gcgtactcgt tgccgctgtc gttggaggcg ggcgacttcg tcgacatcat gaccaccggc      1080
+     gcctacaccc agagctactc ttcggtgtcg ttcaacggtt tccccccgct gcggacgtac      1140
+     ttcgtcggcg gcgagccgaa gcctgagcag gcgcacgacg aggacgaggt cggcgagttc      1200
+     gccgggcggc acgtgctcgc cgagttcgaa ggcgtggcgg cggaactgct cgacgatccc      1260
+     gagttcctgg tcgacagcct gcagcgcgcg ctggagaagg ctggcgccac ggtctgcgac      1320
+     atgagtttca agcagttcga gccgcagggc gtgaccgtgc tcgcgctgct gtcggagtcg      1380
+     cacgcgtcga tccactccta cccggagcgc ggcgcggtgt tcatcgacgt gttcacgtgt      1440
+     ggcaagcgcg cggaccccga attggcagtg aacctgttgc gggacatgct caacgcgggc      1500
+     gtctctcgaa tcagtgtgat ccacagagga caggagggcc ggtcatga                   1548
+//

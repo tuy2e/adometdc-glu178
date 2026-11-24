@@ -1,0 +1,94 @@
+ID   GAA1022407; SV 1; linear; genomic DNA; WGS; BCT; 1500 BP.
+XX
+PA   BAAAHV010000007.1
+XX
+PR   Project:PRJDB10510;
+XX
+DT   01-FEB-2024 (Created)
+DT   01-FEB-2024 (Last updated)
+XX
+DE   Amycolatopsis albidoflavus hypothetical protein
+XX
+KW   WGS; STANDARD_DRAFT.
+XX
+OS   Amycolatopsis albidoflavus
+OC   Bacteria; Actinomycetota; Actinomycetes; Pseudonocardiales;
+OC   Pseudonocardiaceae; Amycolatopsis.
+XX
+RN   [1]
+RX   PUBMED; 30832757.
+RA   Wu L., Ma J.;
+RT   "The Global Catalogue of Microorganisms (GCM) 10K type strain sequencing
+RT   project: providing services to taxonomists for standard genome sequencing
+RT   and annotation";
+RL   Int J Syst Evol Microbiol 69(4):895-898(2019).
+XX
+RN   [2]
+RA   Sun Q., Inoue M.;
+RT   ;
+RL   Submitted (05-DEC-2023) to the INSDC.
+RL   Contact:Qinglan Sun Institute of Microbiology, Chinese Academy of Sciences,
+RL   WFCC-MIRCEN World Data Centre for Microorganisms (WDCM); No. 3, yard 1,
+RL   Beichen W Rd, Ao Yun Cun, Chaoyang, Beijing, Beijing 100101, China URL
+RL   :http://www.wdcm.org/
+XX
+DR   MD5; 8961ef4514adae4cfab4ad3f39a63403.
+DR   BioSample; SAMD00645073.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..1500
+FT                   /organism="Amycolatopsis albidoflavus"
+FT                   /strain="JCM 11300"
+FT                   /mol_type="genomic DNA"
+FT                   /isolation_source="Soil"
+FT                   /collection_date="2002-08-20"
+FT                   /db_xref="taxon:102226"
+FT                   /culture_collection="JCM:11300"
+FT                   /type_material="type strain of Amycolatopsis albidoflavus"
+FT                   /submitter_seqid="sequence07"
+FT   CDS             BAAAHV010000007.1:6046..7545
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /locus_tag="GCM10009565_19010"
+FT                   /product="hypothetical protein"
+FT                   /inference="COORDINATES: ab initio
+FT                   prediction:MetaGeneAnnotator"
+FT                   /protein_id="GAA1022407.1"
+FT                   /translation="MVERCRAFLEERRPPTPCLVVDLDVVRGNCERLQKMVPEARMYYA
+FT                   VKANPAPEVVRVLRKAGAGFDVAGREEIELCLAQGVRPELLSYGNTVKKARDIEFAHRV
+FT                   GVRRFTFDSLEDLENLAEFAPGATASCRILVDSPGALTPFGRKFGCAPDMAVDLLVRAA
+FT                   ELGLDPEGVAFHVGSQHSDPRAWDAGIAAAAEVTRAVAERGVSLRGLNIGGGFPVGYLT
+FT                   APPPLEEYAAVIRESVGRHFAVAPALSFEPGRAVVASAGVIRSEVVLVSRKSSADERRW
+FT                   VYLDIGRYGGLAETENEAIAYRLVTAHDGGPDGPVVIAGPTCDGDDVLYQRTPYRMPLA
+FT                   LRAGDYVDIPSAGAYTQSYSSVSFNGFPPLRSYFVGGEAAGVGEFAGRHVLAEFSGVSA
+FT                   ELLDDPALLCESLERALDKAGATVCELTYKQFEPHGVTAMALLSESHASIHTYPERGSA
+FT                   FVDVFTCGRKADPELAVQVLRDLLGASVSRVTTIHRGQEDS"
+XX
+SQ   Sequence 1500 BP; 204 A; 392 C; 611 G; 293 T; 0 other;
+     gtggtggagc ggtgccgggc gttcctggag gaacgacggc cgcccacgcc gtgtctcgtg        60
+     gtggaccttg acgtggtgcg cgggaactgc gagcggctcc agaagatggt gccggaagct       120
+     cggatgtact acgcggtcaa ggccaatccg gcgccggaag tggtgcgggt gcttcggaaa       180
+     gccggagcag ggtttgacgt cgccgggcgc gaggagatcg agttgtgtct cgcgcaaggg       240
+     gtgcggccgg agctgctgtc ctatggcaac acggtgaaga aggcgcggga catcgaattc       300
+     gcgcaccgcg tgggggtgcg gcggtttacc tttgacagcc ttgaggatct cgagaatctc       360
+     gcggagttcg cgccgggggc gactgcttct tgccggattc tcgtggacag tccgggtgcg       420
+     ctgacgccgt tcgggcggaa attcgggtgt gcgccggaca tggcggtcga cctgttggtt       480
+     cgggcggccg agttggggct tgatccggag ggcgtcgcgt ttcatgtggg gtctcagcac       540
+     agtgatccgc gggcttggga cgccgggatc gctgcggcgg cggaggtgac gcgcgcggtt       600
+     gcggagcgcg gggtttcgtt gcggggcttg aacattggtg gcggttttcc ggtggggtat       660
+     ctgaccgcgc cgccgccgtt ggaggagtac gcggcggtta ttcgcgagtc ggtggggcgg       720
+     catttcgcgg tcgcgcccgc gttgtcgttc gagccggggc gggcggtggt ggcgtcggcg       780
+     ggggtgattc gcagcgaggt ggtgctggtg tcgcgcaagt cttcagcgga cgagcggcgc       840
+     tgggtgtacc tcgacatcgg ccggtacggc gggcttgccg agacggagaa cgaggccatc       900
+     gcgtatcggc tggttaccgc gcatgacggc ggtccggacg ggcccgtggt gatcgcgggg       960
+     ccgacgtgcg acggggacga cgtgctttat cagcgcacgc cttatcggat gccattggcg      1020
+     ttgcgggcgg gggattacgt cgacattccg agtgccggag cgtacacaca aagctactct      1080
+     tcggtgtcgt tcaacggatt tccgccgttg cggtcgtact tcgtcggcgg ggaggccgct      1140
+     ggggtcgggg agttcgccgg acggcatgtg ctggccgagt tttccggggt gtccgcggag      1200
+     ttgctcgacg atccggcctt gttgtgcgag agcttggaac gtgcgctgga caaggccggc      1260
+     gcgacggtgt gcgagttgac gtacaagcag ttcgagccgc acggcgtgac ggcgatggcg      1320
+     ctgctgtcgg agtcgcacgc ttcgattcac acgtatccgg agcgggggtc ggcgttcgtg      1380
+     gatgtgttca cgtgcgggcg caaggcggat ccggagctgg ccgttcaggt gctgcgcgat      1440
+     ttgctcggcg cgagcgtttc gcgggtcacc actatccaca gaggacagga agacagttga      1500
+//

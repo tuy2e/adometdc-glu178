@@ -1,0 +1,114 @@
+ID   KAL0054651; SV 1; linear; genomic DNA; WGS; PLN; 2082 BP.
+XX
+PA   JALJOP010000002.1
+XX
+PR   Project:PRJNA790449;
+XX
+DT   17-JUN-2024 (Created)
+DT   17-JUN-2024 (Last updated)
+XX
+DE   Trebouxia sp. C0006 hypothetical protein
+XX
+KW   WGS.
+XX
+OS   Trebouxia sp. C0006
+OC   Eukaryota; Viridiplantae; Chlorophyta; core chlorophytes; Trebouxiophyceae;
+OC   Trebouxiales; Trebouxiaceae; Trebouxia.
+XX
+RN   [1]
+RC   Publication Status: Online-Only
+RX   PUBMED; 38789482.
+RA   Puginier C., Libourel C., Otte J., Skaloud P., Haon M., Grisel S.,
+RA   Petersen M., Berrin J.G., Delaux P.M., Dal Grande F., Keller J.;
+RT   "Phylogenomics reveals the evolutionary origins of lichenization in
+RT   chlorophyte algae";
+RL   Nat Commun 15(1):.
+XX
+RN   [2]
+RA   Dal Grande F., Keller J., Delaux P.-M.;
+RT   ;
+RL   Submitted (22-APR-2024) to the INSDC.
+RL   Biodiversity and Climate Research Centre (BIK-F), Senckenberg,
+RL   Senckenberganlage 25, Frankfurt am Main 60325, Germany
+XX
+DR   MD5; 4863f8d440abc92fc83ac09754ada788.
+DR   BioSample; SAMN24198998.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..2082
+FT                   /organism="Trebouxia sp. C0006"
+FT                   /host="Lasallia pustulata"
+FT                   /strain="C0006"
+FT                   /mol_type="genomic DNA"
+FT                   /lat_lon="57.289618 N 6.175299 W"
+FT                   /isolation_source="cold adapted phycobionat of the lichen
+FT                   Umbilicaria pustulata"
+FT                   /collection_date="2012-09-24"
+FT                   /db_xref="taxon:2905655"
+FT                   /submitter_seqid="Trespcol_OTU5_cold_lineage_v1_Scf2"
+FT                   /geo_loc_name=United Kingdom: Scotland, Cullin Hills,
+FT                   Slighan, Carbost, fence near building
+FT   CDS             join(JALJOP010000002.1:3229303..3229668,
+FT                   JALJOP010000002.1:3229908..3230020,
+FT                   JALJOP010000002.1:3230144..3230408,
+FT                   JALJOP010000002.1:3230502..3230585,
+FT                   JALJOP010000002.1:3230805..3230876,
+FT                   JALJOP010000002.1:3231278..3231673,
+FT                   JALJOP010000002.1:3232080..3232247,
+FT                   JALJOP010000002.1:3233529..3233693,
+FT                   JALJOP010000002.1:3234447..3234899)
+FT                   /codon_start=1
+FT                   /locus_tag="WJX82_000445"
+FT                   /product="hypothetical protein"
+FT                   /protein_id="KAL0054651.1"
+FT                   /translation="MTSPVTDSWPTPVFEGSEKRLEVDFFPTTGSGLRSLSRSQLDQLL
+FT                   EHAGCCVVSDRHNEQFDAYVLSESSLFVFPHKIVLKTCGTTKILHAIPLLLQLAASTGC
+FT                   SPKRCKYSRASFLYPHHQPEVYQCFDQEVAYLKQHFGELGHGGDAYVLGDASNGLQNDS
+FT                   FVSAQHTSTSSGIQSLVPNALIDDYVFEPCGYSMNSMEGAGFSTIHITPEDGFSYASFE
+FT                   ISNYATSSLDINSLVASVVDIFNPGKVSQRFTCGGRTAFYSLARDAKQHAEAEPVLECY
+FT                   NATMVETGNDAAYDAFIKKVVQDQSLEDPLYVLDLGAVVRLYEAWVHLMPRVHPFYAVK
+FT                   CNTDPAMVSLLAALGAGFDCASEWEADTVLGLGVPADRIVFANACKRPCDIRFAAAKGL
+FT                   QLTTFDTESELHKLARWHPSTEALLRIRADDPQARCQLGNKYGALMEDCGGLLATAQQL
+FT                   NIKVVGVAFHVGSGATNPQAFADAIAAARLVFDQATQLGFHMRILDIGGGFAGGCFDAQ
+FT                   GKVQLGQVPLAVNSALATYFPDPTVKVIAEPGRYFAEACCTFACMVFGIRAQKLLDGEQ
+FT                   GYDYWITDGLYGSMNSVMYDHATLTTRPLTAAWSKNESEVATEHQPASEQLYKSTVFGP
+FT                   TCDGLDTVLTNYSLPKLCNGDWLVFPNMGAYTLSGASNFNGINSTDVKMFYLWSQRSV"
+XX
+SQ   Sequence 2082 BP; 451 A; 582 C; 568 G; 481 T; 0 other;
+     atgacttcgc cggtgaccga cagttggccg acaccagttt ttgaaggttc agaaaagcgt        60
+     ttggaagttg attttttccc aacaaccgga agcggtctac gcagcctcag tcgcagccag       120
+     ctagaccagc tgctagagca cgcaggctgc tgcgtcgttt cagaccgcca caatgagcag       180
+     ttcgatgcat atgtgctatc cgagtccagc ttgtttgttt tccctcacaa gatagtgctg       240
+     aagacctgtg gtaccaccaa gatactgcat gccattcctt tgctgctgca actagctgca       300
+     agcactggct gcagccccaa gcgttgcaag tattcccgtg cttccttctt gtacccacac       360
+     caccagcctg aggtatacca gtgctttgac caagaggttg catatctgaa gcaacacttt       420
+     ggcgaactag gtcacggagg cgacgcttat gttcttggtg atgccagcaa tggcctccag       480
+     aacgactcct ttgtctcagc acagcacacg agcacctcca gcggcattca gagcctggtg       540
+     cccaatgccc tgatcgatga ctacgtcttt gagccatgtg ggtacagcat gaacagcatg       600
+     gaaggggctg gtttcagcac cattcacatc accccagagg atggcttcag ttatgctagc       660
+     tttgaaatat ctaactacgc cactagcagc ctggacatca acagcttggt ggcgtcagtt       720
+     gtggacatct tcaaccctgg gaaggtcagc cagaggttca cctgcggtgg ccgcacagct       780
+     ttctacagcc tggccagaga tgcaaagcag cacgcagagg cagagcctgt tcttgagtgc       840
+     tataatgcta ccatggttga gactggcaat gacgctgcct acgatgcgtt catcaagaag       900
+     gtggtgcaag accagagcct agaggacccc ctgtacgtgc tggacctagg ggcagtcgtg       960
+     cgtctgtacg aagcctgggt ccacctcatg ccccgcgtcc accccttcta tgcagtcaag      1020
+     tgcaacacag accccgccat ggtatctcta ctagcagccc tgggtgcagg attcgactgc      1080
+     gcctcagaat gggaggcaga cactgtactg ggtttgggtg ttcctgcaga ccgcattgtg      1140
+     tttgccaatg catgcaagag gccgtgtgac atcaggtttg ctgcggccaa ggggctgcag      1200
+     ttgaccacct ttgatacgga gagcgagctg cataagcttg ctcggtggca cccctccact      1260
+     gaggccctgc tgcgcatccg cgctgatgat ccacaggccc ggtgccagtt gggcaacaag      1320
+     tatggcgccc tgatggagga ctgtggcggc ctgctggcca ctgcccagca gctcaatata      1380
+     aaggtggtgg gggtggcctt ccatgtgggc agtggtgcca ccaaccccca ggcctttgct      1440
+     gatgccattg ctgctgcacg cttggtgttt gaccaggcaa cacaactggg ttttcacatg      1500
+     cgtattcttg atattggtgg cggctttgct ggcggctgct ttgatgctca gggcaaggtg      1560
+     cagcttgggc aagtccccct tgcagtcaac agcgctctag caacttactt ccctgacccc      1620
+     actgtcaagg tgattgccga gccaggtcgc tactttgcag aagcatgctg caccttcgcc      1680
+     tgcatggtgt ttggcatcag ggctcagaag ctgctggatg gggagcaggg ctacgattac      1740
+     tggatcacag atggtctata tggctccatg aacagtgtga tgtatgacca tgccacactg      1800
+     acaaccaggc cactcactgc tgcctggtcc aaaaacgaat cagaagttgc cacagagcat      1860
+     cagcctgcct cagagcagct ttacaagtcg actgtgtttg gacccacatg cgatggtctg      1920
+     gatactgtgt tgaccaatta cagcctgcca aagctttgca atggtgactg gctggtgttc      1980
+     cccaacatgg gcgcctacac cctttctggt gcctccaact tcaatggcat caacagcaca      2040
+     gatgtgaaga tgttttacct gtggtcgcag cgcagcgtct ag                         2082
+//

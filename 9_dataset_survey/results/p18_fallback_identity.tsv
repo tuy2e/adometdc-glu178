@@ -1,0 +1,13 @@
+accession	organism	n_family	AdoMetDC_pct_identity_to_consensus	AdoMetDC_columns	linker_pct_identity_to_consensus	linker_columns	ODC_pct_identity_to_consensus	ODC_columns
+A0A9C7PQ51	Galdieria partita	246	46.6	277	16.1	93	24.8	314
+A0A9C7PSW2	Galdieria partita	246	46.6	277	16.1	93	24.8	314
+M2YAF1	Galdieria sulphuraria	246	45.5	277	17.2	93	22.9	327
+UPI00207E5336	Galdieria sulphuraria	246	45.2	219	17.2	93	22.9	327
+A0AAV9I966	Galdieria yellowstonensis	246	46.2	279	18.3	93	23.2	328
+A0A2V3IZY9	Gracilariopsis chorda	246	37.8	278	15.1	73	23.8	315
+UPI00403B59D6	Gracilaria gracilis	246	36.4	283	11.2	107	21.2	311
+UPI00403BC8E0	Agarophyton chilense	246	36.9	282	9.7	144	29.1	103
+A0A8T2T6R3	Ceratopteris richardii	246	45.2	221	15.7	108	55.7	357
+A0A8T2V5S6	Ceratopteris richardii	246	50.8	254	26.8	112	56.4	362
+A0AAV8UZF7	Rhodosorus marinus	246	44.9	276	6.9	116	26.1	330
+A0A7S1KLJ4	Percolomonas cosmopolitus	246	34.9	284	11.3	71	29.9	354

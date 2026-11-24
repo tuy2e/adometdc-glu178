@@ -1,0 +1,94 @@
+ID   QYN18596; SV 1; linear; genomic DNA; STD; PRO; 1443 BP.
+XX
+PA   CP080519.1
+XX
+PR   Project:PRJNA751440;
+XX
+DT   12-AUG-2021 (Rel. 144, Created)
+DT   12-AUG-2021 (Rel. 144, Last updated, Version 1)
+XX
+DE   Amycolatopsis sp. DSM 110486 adenosylmethionine decarboxylase
+XX
+KW   .
+XX
+OS   Amycolatopsis sp. DSM 110486
+OC   Bacteria; Actinobacteria; Pseudonocardiales; Pseudonocardiaceae;
+OC   Amycolatopsis; unclassified Amycolatopsis.
+XX
+RN   [1]
+RA   Safaei N., Wink J., Huber K., Sproer C., Bunk B., Mast Y.;
+RT   "Genome Sequences of two new biotechnologically relevant species from the
+RT   Pseudonocardiaceae family Amycolatopsis sp. DSM 110486T and Pseudonocardia
+RT   sp. DSM 110487T isolated from Persian Gulf";
+RL   Unpublished.
+XX
+RN   [2]
+RA   Safaei N., Wink J., Huber K., Sproer C., Bunk B., Mast Y.;
+RT   ;
+RL   Submitted (02-AUG-2021) to the INSDC.
+RL   Bioinformatics, Leibniz Institute DSMZ, Inhoffenstr. 7B, Braunschweig
+RL   38124, Germany
+XX
+DR   MD5; fe6a57b21d52b28b8a14d47ba8697bc2.
+DR   BioSample; SAMN20518293.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..1443
+FT                   /organism="Amycolatopsis sp. DSM 110486"
+FT                   /strain="DSM 110486"
+FT                   /mol_type="genomic DNA"
+FT                   /country="Iran:Beach of New Hengam"
+FT                   /isolation_source="Sand"
+FT                   /collection_date="2018-12-20"
+FT                   /db_xref="taxon:2865832"
+FT                   /culture_collection="DSMZ:110486"
+FT   CDS             complement(CP080519.1:7952980..7954422)
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /gene="speD"
+FT                   /locus_tag="K1T34_38565"
+FT                   /product="adenosylmethionine decarboxylase"
+FT                   /EC_number="4.1.1.50"
+FT                   /note="Derived by automated computational analysis using
+FT                   gene prediction method: Protein Homology."
+FT                   /inference="COORDINATES: similar to AA
+FT                   sequence:RefSeq:WP_020662139.1"
+FT                   /protein_id="QYN18596.1"
+FT                   /translation="MIDLDAVRESHDRLREALPDARMYCAVKANPAPEIVRLLVRAGAG
+FT                   FDVAGREEIELCLAQGARPELISYGNTVKKARDIAFAFRAGVRRFTFDSAEDLANLAEH
+FT                   APGSTVSCRVLVDSSGSQTPFGQKFGCAPEMAVDLLTRAAALGLDPEGVAFHVGSQHLD
+FT                   PRAWEAGVATAARVTREVAARGVALRGLNIGGGLPGRYTTTPPPLAEYAAAIRASIARH
+FT                   FPVAPDLAFEPGRAVVADAGLIRSEVVLVSRKSVTDEKRWVYLDIGRYGGLAETENEAI
+FT                   AYRLETALDGTPDGPVVVAGPTCDGDDVLYLRTPYRLPLGLTAGDHVDILSTGAYTQSY
+FT                   SSVSFNGFPPLKTYFVGGEPEEIGEFAGRHVLAEFSGVAAELLDDVEFLCESLARALRK
+FT                   AGATVREVTSTRFDPQGVTVVALLSESHASIHSYPERGSVFVDVFTCGRRADPELAVQL
+FT                   LQDMLGATAARTSTIHRGQDAR"
+XX
+SQ   Sequence 1443 BP; 200 A; 499 C; 531 G; 213 T; 0 other;
+     gtgatcgatc tcgacgcggt gcgggaaagc catgaccggc ttcgcgaggc gctgcccgac        60
+     gcgcggatgt actgcgcggt gaaggcgaac ccggcgccgg agatcgtgcg gttgctcgtc       120
+     cgggccggcg cgggcttcga cgtcgcgggc cgcgaggaga tcgagctctg cctcgcccag       180
+     ggcgcacgcc ccgagctgat ctcgtacggc aacaccgtga agaaggcccg ggacatcgcg       240
+     ttcgcgttcc gggccggggt tcgccggttc acgttcgaca gcgccgagga cctcgccaac       300
+     ctcgccgagc acgcgcccgg gtcgacggtg tcgtgccgcg tcctcgtgga cagctccggc       360
+     tcgcagaccc cgttcgggca gaagttcggc tgcgccccgg agatggcggt ggacctcctc       420
+     acgcgggccg ccgccctggg gctggacccg gaaggcgtcg cgttccacgt cggctcgcag       480
+     cacctcgacc cgcgggcctg ggaggccggg gtcgccaccg ccgcgagggt gacacgcgag       540
+     gtggcggcgc gcggtgttgc gttgcgcggc ttgaacatcg gcggcgggct gccgggccgg       600
+     tacacgacca cgcccccgcc gctcgccgag tacgcggcgg ccatccgggc gtcgatcgcg       660
+     cggcacttcc ccgtcgcgcc ggacctcgcg ttcgagcccg gccgggcggt ggtggccgac       720
+     gccgggctga tccgcagcga ggtcgtgctg gtgtcgcgca agtccgtgac cgacgaaaaa       780
+     cgctgggtgt acctggacat cggccggtac ggcgggctgg ccgagaccga gaacgaggcc       840
+     atcgcctatc gcctggagac cgcgctcgac ggaactcccg acggcccggt cgtcgtcgcc       900
+     ggtcccacgt gcgacggcga cgacgtgctc taccttcgca ctccgtaccg cctgccgctc       960
+     gggttgacgg ccggtgacca cgtggacatc ctgagcacgg gcgcctacac gcagagctac      1020
+     tcgtcggtgt cgttcaacgg gttcccgccg ttgaaaacgt acttcgtcgg cggagaaccc      1080
+     gaggagatcg gcgagttcgc cggccggcac gtgctcgccg agttctcggg tgtggcggcc      1140
+     gaactgctcg acgacgtcga attcctgtgc gagagcctgg cacgcgcgtt gcgcaaggcc      1200
+     ggcgcgaccg tgcgtgaggt gacgtccacg cggttcgacc cgcagggggt gaccgtggtc      1260
+     gcgttgctgt cggaatcgca cgcgtcgatc cactcctatc ccgaacgcgg gtcggtgttc      1320
+     gtcgacgtgt tcacgtgcgg gcgccgcgcg gaccccgaac tggctgtgca gctgttgcag      1380
+     gacatgctcg gcgcgacggc ggccaggacc agcaccatcc acagaggaca ggacgcacgg      1440
+     tga                                                                    1443
+//
